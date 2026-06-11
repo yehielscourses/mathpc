@@ -1,0 +1,3566 @@
+{
+  "id": "metropole_spe_j1_20_mars_2023_dv",
+  "subject": "math",
+  "year": 2023,
+  "metadata": {
+    "source_pdf": "math/2023/sujets/Metropole_spe_J1_20_mars_2023_DV.pdf",
+    "filename": "Metropole_spe_J1_20_mars_2023_DV.pdf",
+    "year": 2023,
+    "title": "Baccalauréat Métropole 1 20 mars 2023",
+    "header_text": "; Baccalauréat Métropole 1 20 mars 2023 <\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2023/corriges/Corrige_Metropole_spe_J1_20_mars_2023_DCE.pdf"
+  },
+  "instructions": "; Baccalauréat Métropole 1 20 mars 2023 <\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        162.36,
+        81.53,
+        432.95,
+        101.8
+      ],
+      "text": "; Baccalauréat Métropole 1 20 mars 2023 <"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        276.96,
+        111.65,
+        318.31,
+        126.64
+      ],
+      "text": "Sujet 1"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        156.24,
+        134.69,
+        438.98,
+        149.68
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "1",
+      "title": "EXERCICE 1",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            71.16,
+            174.99,
+            524.32,
+            186.39
+          ],
+          "text": "EXERCICE 1\n5 points"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": null,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            196.05,
+            429.98,
+            273.76
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiple.\nPour chaque question, une seule des quatre réponses proposées est exacte.\nLe candidat indiquera sur sa copie le numéro de la question et la réponse choisie.\nAucune justification n’est demandée.\nAucun point n’est enlevé en l’absence de réponse ou en cas de réponse inexacte.\nLes questions sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            281.9,
+            524.38,
+            320.41
+          ],
+          "text": "Un technicien contrôle les machines équipant une grande entreprise. Toutes ces machines sont iden-\ntiques.\nOn sait que :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            334.46,
+            271.34,
+            353.06
+          ],
+          "text": "•\n20 % des machines sont sous garantie;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            357.02,
+            382.7,
+            375.62
+          ],
+          "text": "•\n0,2 % des machines sont à la fois défectueuses et sous garantie;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            379.46,
+            271.7,
+            398.06
+          ],
+          "text": "•\n8,2 % des machines sont défectueuses."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            408.02,
+            267.02,
+            433.93
+          ],
+          "text": "Le technicien teste une machine au hasard.\nOn considère les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            444.98,
+            257.06,
+            463.58
+          ],
+          "text": "•\nG : « la machine est sous garantie »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            467.54,
+            252.5,
+            486.14
+          ],
+          "text": "•\nD : « la machine est défectueuse »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            493.41,
+            88.18,
+            508.7
+          ],
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            97.8,
+            490.1,
+            116.85,
+            501.52
+          ],
+          "text": "G et"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            98.16,
+            490.1,
+            320.34,
+            515.08
+          ],
+          "text": "D désignent respectivement les évènements\ncontraires de G et D."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            526.1,
+            320.28,
+            551.05
+          ],
+          "text": "Pour répondre aux questions 1 à 3, on pourra s’aider de\nl’arbre proposé ci-contre."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            407.4,
+            449.85,
+            414.52,
+            459.88
+          ],
+          "text": "G"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            196.05,
+            429.98,
+            273.76
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiple.\nPour chaque question, une seule des quatre réponses proposées est exacte.\nLe candidat indiquera sur sa copie le numéro de la question et la réponse choisie.\nAucune justification n’est demandée.\nAucun point n’est enlevé en l’absence de réponse ou en cas de réponse inexacte.\nLes questions sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            281.9,
+            524.38,
+            320.41
+          ],
+          "text": "Un technicien contrôle les machines équipant une grande entreprise. Toutes ces machines sont iden-\ntiques.\nOn sait que :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            334.46,
+            271.34,
+            353.06
+          ],
+          "text": "•\n20 % des machines sont sous garantie;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            357.02,
+            382.7,
+            375.62
+          ],
+          "text": "•\n0,2 % des machines sont à la fois défectueuses et sous garantie;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            379.46,
+            271.7,
+            398.06
+          ],
+          "text": "•\n8,2 % des machines sont défectueuses."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            408.02,
+            267.02,
+            433.93
+          ],
+          "text": "Le technicien teste une machine au hasard.\nOn considère les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            444.98,
+            257.06,
+            463.58
+          ],
+          "text": "•\nG : « la machine est sous garantie »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            467.54,
+            252.5,
+            486.14
+          ],
+          "text": "•\nD : « la machine est défectueuse »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.16,
+            493.41,
+            88.18,
+            508.7
+          ],
+          "text": "•"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            97.8,
+            490.1,
+            116.85,
+            501.52
+          ],
+          "text": "G et"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            98.16,
+            490.1,
+            320.34,
+            515.08
+          ],
+          "text": "D désignent respectivement les évènements\ncontraires de G et D."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            70.92,
+            526.1,
+            320.28,
+            551.05
+          ],
+          "text": "Pour répondre aux questions 1 à 3, on pourra s’aider de\nl’arbre proposé ci-contre."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            407.4,
+            449.85,
+            414.52,
+            459.88
+          ],
+          "text": "G"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            84.24,
+            568.23,
+            442.7,
+            580.85
+          ],
+          "text": "1. La probabilité pG(D) de l’évènement D sachant que G est réalisé est égale à :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            104.16,
+            597.51,
+            452.44,
+            609.01
+          ],
+          "text": "a. 0,002\nb. 0,01\nc. 0,024\nd. 0,2"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            84.24,
+            618.71,
+            175.97,
+            640.6
+          ],
+          "text": "2. La probabilité p\n3"
+        },
+        {
+          "type": "code",
+          "page": 1,
+          "bbox": [
+            175.56,
+            618.71,
+            259.58,
+            647.77
+          ],
+          "text": "G ∩D\n ́\nest égale à :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            104.16,
+            662.07,
+            457.72,
+            673.57
+          ],
+          "text": "a. 0,01\nb. 0,08\nc. 0,1\nd. 0,21"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            84.24,
+            689.19,
+            523.87,
+            703.28
+          ],
+          "text": "3. La machine est défectueuse. La probabilité qu’elle soit sous garantie est environ égale, à 10−3"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            98.16,
+            704.54,
+            132.62,
+            715.93
+          ],
+          "text": "près, à :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            104.16,
+            733.47,
+            452.44,
+            744.97
+          ],
+          "text": "a. 0,01\nb. 0,024\nc. 0,082\nd. 0,1"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            83.4,
+            752.57,
+            182.05,
+            761.94
+          ],
+          "text": "1. Antilles-Guyane, Maroc"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            70.92,
+            49.35,
+            524.33,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            70.92,
+            89.3,
+            524.42,
+            162.13
+          ],
+          "text": "Pour les questions 4 et 5, on choisit au hasard et de façon indépendante n machines de l’entreprise,\noù n désigne un entier naturel non nul.\nOn assimile ce choix à un tirage avec remise, et on désigne par X la variable aléatoire qui associe à\nchaque lot de n machines le nombre de machines défectueuses dans ce lot.\nOn admet que X suit la loi binomiale de paramètres n et p = 0,082."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            168.99,
+            267.86,
+            187.7
+          ],
+          "text": "4. Dans cette question, on prend n = 50."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            98.16,
+            187.1,
+            392.78,
+            205.7
+          ],
+          "text": "La valeur de la probabilité p(X > 2), arrondie au millième, est de :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            104.16,
+            216.27,
+            458.56,
+            227.77
+          ],
+          "text": "a. 0,136\nb. 0,789\nc. 0,864\nd. 0,924"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            242.55,
+            523.88,
+            267.61
+          ],
+          "text": "5. On considère un entier n pour lequel la probabilité que toutes les machines d’un lot de taille n\nfonctionnent correctement est supérieure à 0,4."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            98.16,
+            274.22,
+            321.5,
+            285.64
+          ],
+          "text": "La plus grande valeur possible pour n est égale à :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            104.16,
+            303.39,
+            445.36,
+            314.89
+          ],
+          "text": "a. 5\nb. 6\nc. 10\nd. 11"
+        }
+      ],
+      "questions": [
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                84.24,
+                568.23,
+                442.7,
+                580.85
+              ],
+              "text": "La probabilité pG(D) de l’évènement D sachant que G est réalisé est égale à :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q1-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    104.16,
+                    597.51,
+                    452.44,
+                    609.01
+                  ],
+                  "text": "0,2"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  84.24,
+                  254.13,
+                  137.32,
+                  278.66
+                ],
+                "text": "P(A) = 2"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  132.0,
+                  261.45,
+                  416.3,
+                  286.09
+                ],
+                "text": "5 ̸= 0, d’après la formule des probabilités conditionnelles on a :"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  98.16,
+                  284.61,
+                  224.8,
+                  309.14
+                ],
+                "text": "P(A ∩G) = P(A)×PA(G) = 2"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  219.48,
+                  284.61,
+                  245.08,
+                  316.69
+                ],
+                "text": "5 × 7"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  237.12,
+                  284.61,
+                  270.64,
+                  316.69
+                ],
+                "text": "10 = 7"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  262.56,
+                  299.49,
+                  273.16,
+                  309.53
+                ],
+                "text": "25"
+              }
+            ],
+            "text": "P(A) = 2\n\n5 ̸= 0, d’après la formule des probabilités conditionnelles on a :\n\nP(A ∩G) = P(A)×PA(G) = 2\n\n5 × 7\n\n10 = 7\n\n25"
+          }
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                84.24,
+                618.71,
+                175.97,
+                640.6
+              ],
+              "text": "La probabilité p\n3"
+            },
+            {
+              "type": "code",
+              "page": 1,
+              "bbox": [
+                175.56,
+                618.71,
+                259.58,
+                647.77
+              ],
+              "text": "G ∩D\n ́\nest égale à :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q2-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    104.16,
+                    662.07,
+                    457.72,
+                    673.57
+                  ],
+                  "text": "0,21"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  84.24,
+                  325.47,
+                  114.63,
+                  344.17
+                ],
+                "text": "B ="
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  117.12,
+                  319.53,
+                  252.16,
+                  344.17
+                ],
+                "text": "A donc P(B) = 1−P(A) = 1−2"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  246.84,
+                  319.53,
+                  270.76,
+                  351.61
+                ],
+                "text": "5 = 3"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  98.16,
+                  326.97,
+                  524.22,
+                  351.61
+                ],
+                "text": "5 ̸= 0 , d’après la formule des probabilités conditionnelles\non a :"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  98.16,
+                  365.13,
+                  178.47,
+                  389.77
+                ],
+                "text": "PB(G) = P(B ∩G)"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  148.2,
+                  365.13,
+                  264.39,
+                  390.05
+                ],
+                "text": "P(B)\n= P(G)−P(A ∩G)"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  218.52,
+                  372.71,
+                  276.03,
+                  390.05
+                ],
+                "text": "P(B)\n="
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  281.16,
+                  352.77,
+                  291.76,
+                  362.81
+                ],
+                "text": "12"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  281.16,
+                  352.77,
+                  312.04,
+                  384.85
+                ],
+                "text": "25 −7"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  304.08,
+                  367.65,
+                  314.68,
+                  377.69
+                ],
+                "text": "25"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  295.32,
+                  378.45,
+                  300.64,
+                  388.49
+                ],
+                "text": "3"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  295.32,
+                  393.33,
+                  300.64,
+                  403.37
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  319.92,
+                  365.13,
+                  337.0,
+                  389.77
+                ],
+                "text": "= 1"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  331.68,
+                  380.01,
+                  337.0,
+                  390.05
+                ],
+                "text": "3"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  344.76,
+                  372.57,
+                  524.37,
+                  382.61
+                ],
+                "text": "car (A,B) forme une partition de l’uni-"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  98.16,
+                  399.45,
+                  119.06,
+                  409.49
+                ],
+                "text": "vers."
+              }
+            ],
+            "text": "B =\n\nA donc P(B) = 1−P(A) = 1−2\n\n5 = 3\n\n5 ̸= 0 , d’après la formule des probabilités conditionnelles\non a :\n\nPB(G) = P(B ∩G)\n\nP(B)\n= P(G)−P(A ∩G)\n\nP(B)\n=\n\n12\n\n25 −7\n\n25\n\n3\n\n5\n\n= 1\n\n3\n\ncar (A,B) forme une partition de l’uni-\n\nvers."
+          }
+        },
+        {
+          "id": "exe-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                84.24,
+                689.19,
+                523.87,
+                703.28
+              ],
+              "text": "La machine est défectueuse. La probabilité qu’elle soit sous garantie est environ égale, à 10−3"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                98.16,
+                704.54,
+                132.62,
+                715.93
+              ],
+              "text": "près, à :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q3-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    104.16,
+                    733.47,
+                    452.44,
+                    744.97
+                  ],
+                  "text": "0,1"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  84.24,
+                  420.39,
+                  524.52,
+                  431.93
+                ],
+                "text": "Soit X la variable aléatoire comptant le nombre de parties gagnées. Gagner ou perdre une partie"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  98.16,
+                  432.09,
+                  356.2,
+                  456.74
+                ],
+                "text": "forme un schéma de Bernoulli de paramètre P(G) = 12"
+              }
+            ],
+            "text": "Soit X la variable aléatoire comptant le nombre de parties gagnées. Gagner ou perdre une partie\n\nforme un schéma de Bernoulli de paramètre P(G) = 12"
+          }
+        },
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                83.4,
+                752.57,
+                182.05,
+                761.94
+              ],
+              "text": "Antilles-Guyane, Maroc"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                70.92,
+                49.35,
+                524.33,
+                60.75
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                70.92,
+                89.3,
+                524.42,
+                162.13
+              ],
+              "text": "Pour les questions 4 et 5, on choisit au hasard et de façon indépendante n machines de l’entreprise,\noù n désigne un entier naturel non nul.\nOn assimile ce choix à un tirage avec remise, et on désigne par X la variable aléatoire qui associe à\nchaque lot de n machines le nombre de machines défectueuses dans ce lot.\nOn admet que X suit la loi binomiale de paramètres n et p = 0,082."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  84.24,
+                  254.13,
+                  137.32,
+                  278.66
+                ],
+                "text": "P(A) = 2"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  132.0,
+                  261.45,
+                  416.3,
+                  286.09
+                ],
+                "text": "5 ̸= 0, d’après la formule des probabilités conditionnelles on a :"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  98.16,
+                  284.61,
+                  224.8,
+                  309.14
+                ],
+                "text": "P(A ∩G) = P(A)×PA(G) = 2"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  219.48,
+                  284.61,
+                  245.08,
+                  316.69
+                ],
+                "text": "5 × 7"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  237.12,
+                  284.61,
+                  270.64,
+                  316.69
+                ],
+                "text": "10 = 7"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  262.56,
+                  299.49,
+                  273.16,
+                  309.53
+                ],
+                "text": "25"
+              }
+            ],
+            "text": "P(A) = 2\n\n5 ̸= 0, d’après la formule des probabilités conditionnelles on a :\n\nP(A ∩G) = P(A)×PA(G) = 2\n\n5 × 7\n\n10 = 7\n\n25"
+          }
+        },
+        {
+          "id": "exe-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                168.99,
+                267.86,
+                187.7
+              ],
+              "text": "Dans cette question, on prend n = 50."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                98.16,
+                187.1,
+                392.78,
+                205.7
+              ],
+              "text": "La valeur de la probabilité p(X > 2), arrondie au millième, est de :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q4-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    104.16,
+                    216.27,
+                    458.56,
+                    227.77
+                  ],
+                  "text": "0,924"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  84.24,
+                  521.19,
+                  295.22,
+                  539.89
+                ],
+                "text": "Ici on recherche n tel que P(X ⩽n) ≈0,207."
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  98.16,
+                  540.81,
+                  342.4,
+                  558.02
+                ],
+                "text": "Par balayage des valeurs de n ∈0,10 on trouve n = 3"
+              }
+            ],
+            "text": "Ici on recherche n tel que P(X ⩽n) ≈0,207.\n\nPar balayage des valeurs de n ∈0,10 on trouve n = 3"
+          }
+        },
+        {
+          "id": "exe-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                242.55,
+                523.88,
+                267.61
+              ],
+              "text": "On considère un entier n pour lequel la probabilité que toutes les machines d’un lot de taille n\nfonctionnent correctement est supérieure à 0,4."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                98.16,
+                274.22,
+                321.5,
+                285.64
+              ],
+              "text": "La plus grande valeur possible pour n est égale à :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q5-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    104.16,
+                    303.39,
+                    445.36,
+                    314.89
+                  ],
+                  "text": "11"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  84.24,
+                  572.91,
+                  290.07,
+                  591.61
+                ],
+                "text": "Ici on calcule P(X ⩾1) = 1−P(X = 0) = 1−"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  291.36,
+                  556.43,
+                  307.0,
+                  591.89
+                ],
+                "text": "Ã\n10\n0"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  307.08,
+                  556.43,
+                  329.32,
+                  577.01
+                ],
+                "text": "!μ12"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  318.72,
+                  581.85,
+                  329.32,
+                  591.89
+                ],
+                "text": "25"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  330.6,
+                  559.43,
+                  356.92,
+                  577.01
+                ],
+                "text": "¶0 μ13"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  346.32,
+                  581.85,
+                  356.92,
+                  591.89
+                ],
+                "text": "25"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  358.2,
+                  559.43,
+                  415.24,
+                  591.62
+                ],
+                "text": "10¶\n= 1−\nμ13"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  404.64,
+                  581.85,
+                  415.24,
+                  591.89
+                ],
+                "text": "25"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  416.52,
+                  559.43,
+                  429.07,
+                  572.09
+                ],
+                "text": "¶10"
+              }
+            ],
+            "text": "Ici on calcule P(X ⩾1) = 1−P(X = 0) = 1−\n\nÃ\n10\n0\n\n!μ12\n\n25\n\n¶0 μ13\n\n25\n\n10¶\n= 1−\nμ13\n\n25\n\n¶10"
+          }
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "EXERCICE 2",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            71.16,
+            341.55,
+            524.32,
+            352.95
+          ],
+          "text": "EXERCICE 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            70.92,
+            361.22,
+            299.22,
+            379.82
+          ],
+          "text": "On considère la fonction f définie sur ]0 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            258.84,
+            383.43,
+            337.59,
+            404.29
+          ],
+          "text": "f (x) = x2 −8ln(x)"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            70.92,
+            410.3,
+            403.1,
+            442.46
+          ],
+          "text": "où ln désigne la fonction logarithme népérien.\nOn admet que f est dérivable sur ]0 ; +∞[, on note f ′ sa fonction dérivée."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            71.16,
+            341.55,
+            524.32,
+            352.95
+          ],
+          "text": "EXERCICE 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            70.92,
+            361.22,
+            299.22,
+            379.82
+          ],
+          "text": "On considère la fonction f définie sur ]0 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            258.84,
+            383.43,
+            337.59,
+            404.29
+          ],
+          "text": "f (x) = x2 −8ln(x)"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            70.92,
+            410.3,
+            403.1,
+            442.46
+          ],
+          "text": "où ln désigne la fonction logarithme népérien.\nOn admet que f est dérivable sur ]0 ; +∞[, on note f ′ sa fonction dérivée."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            455.19,
+            193.22,
+            478.28
+          ],
+          "text": "1. Déterminer lim\nx→0 f (x)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            474.47,
+            332.91,
+            506.54
+          ],
+          "text": "2. On admet que, pour tout x > 0, f (x) = x2\nμ\n1−8ln(x)"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            316.8,
+            494.43,
+            326.71,
+            506.92
+          ],
+          "text": "x2"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            334.08,
+            474.47,
+            341.3,
+            499.33
+          ],
+          "text": "¶\n."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            98.16,
+            510.14,
+            242.9,
+            532.4
+          ],
+          "text": "En déduire la limite : lim\nx→+∞f (x)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            528.71,
+            363.17,
+            562.94
+          ],
+          "text": "3. Montrer que, pour tout réel x de ]0 ; +∞[, f ′(x) =\n2\n¡\nx2 −4\n¢"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            340.44,
+            544.34,
+            367.1,
+            563.2
+          ],
+          "text": "x\n."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            570.75,
+            476.3,
+            589.46
+          ],
+          "text": "4. Étudier les variations de f sur ]0 ; +∞[ et dresser son tableau de variations complet."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            98.16,
+            588.86,
+            371.78,
+            607.46
+          ],
+          "text": "On précisera la valeur exacte du minimum de f sur ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            611.31,
+            524.4,
+            636.41
+          ],
+          "text": "5. Démontrer que, sur l’intervalle ]0; 2], l’équation f (x) = 0 admet une solution unique α (on ne\ncherchera pas à déterminer la valeur de α)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            647.31,
+            524.4,
+            672.41
+          ],
+          "text": "6. On admet que, sur l’intervalle [2 ; +∞[, l’équation f (x) = 0 admet une solution unique β (on ne\ncherchera pas à déterminer la valeur de β)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            98.16,
+            678.98,
+            316.22,
+            697.58
+          ],
+          "text": "En déduire le signe de f sur l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            84.24,
+            701.43,
+            447.62,
+            720.14
+          ],
+          "text": "7. Pour tout nombre réel k, on considère la fonction gk définie sur ]0 ; +∞[ par :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            260.04,
+            723.75,
+            362.78,
+            744.62
+          ],
+          "text": "gk(x) = x2 −8ln(x)+k."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            98.16,
+            755.06,
+            524.37,
+            787.22
+          ],
+          "text": "En s’aidant du tableau de variations de f , déterminer la plus petite valeur de k pour laquelle la\nfonction gk est positive sur l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            70.92,
+            808.46,
+            524.22,
+            819.85
+          ],
+          "text": "Métropole, Antilles-Guyane, Maroc\n2\n20 mars 2023"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            49.35,
+            524.33,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                455.19,
+                193.22,
+                478.28
+              ],
+              "text": "Déterminer lim\nx→0 f (x)."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  84.24,
+                  216.39,
+                  369.4,
+                  236.77
+                ],
+                "text": "On calcule v1 = v0+1 = 1,6v0(1−v0) = 1,6×0,1×0,9 = 0,144"
+              }
+            ],
+            "text": "On calcule v1 = v0+1 = 1,6v0(1−v0) = 1,6×0,1×0,9 = 0,144"
+          }
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                474.47,
+                332.91,
+                506.54
+              ],
+              "text": "On admet que, pour tout x > 0, f (x) = x2\nμ\n1−8ln(x)"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                316.8,
+                494.43,
+                326.71,
+                506.92
+              ],
+              "text": "x2"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                334.08,
+                474.47,
+                341.3,
+                499.33
+              ],
+              "text": "¶\n."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                98.16,
+                510.14,
+                242.9,
+                532.4
+              ],
+              "text": "En déduire la limite : lim\nx→+∞f (x)."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                528.71,
+                363.17,
+                562.94
+              ],
+              "text": "Montrer que, pour tout réel x de ]0 ; +∞[, f ′(x) =\n2\n¡\nx2 −4\n¢"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                340.44,
+                544.34,
+                367.1,
+                563.2
+              ],
+              "text": "x\n."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                570.75,
+                476.3,
+                589.46
+              ],
+              "text": "Étudier les variations de f sur ]0 ; +∞[ et dresser son tableau de variations complet."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                98.16,
+                588.86,
+                371.78,
+                607.46
+              ],
+              "text": "On précisera la valeur exacte du minimum de f sur ]0 ; +∞[."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                611.31,
+                524.4,
+                636.41
+              ],
+              "text": "Démontrer que, sur l’intervalle ]0; 2], l’équation f (x) = 0 admet une solution unique α (on ne\ncherchera pas à déterminer la valeur de α)."
+            }
+          ]
+        },
+        {
+          "id": "ex2-q6",
+          "number": "6",
+          "label": "6.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                647.31,
+                524.4,
+                672.41
+              ],
+              "text": "On admet que, sur l’intervalle [2 ; +∞[, l’équation f (x) = 0 admet une solution unique β (on ne\ncherchera pas à déterminer la valeur de β)."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                98.16,
+                678.98,
+                316.22,
+                697.58
+              ],
+              "text": "En déduire le signe de f sur l’intervalle ]0 ; +∞[."
+            }
+          ]
+        },
+        {
+          "id": "ex2-q7",
+          "number": "7",
+          "label": "7.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                84.24,
+                701.43,
+                447.62,
+                720.14
+              ],
+              "text": "Pour tout nombre réel k, on considère la fonction gk définie sur ]0 ; +∞[ par :"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                260.04,
+                723.75,
+                362.78,
+                744.62
+              ],
+              "text": "gk(x) = x2 −8ln(x)+k."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                98.16,
+                755.06,
+                524.37,
+                787.22
+              ],
+              "text": "En s’aidant du tableau de variations de f , déterminer la plus petite valeur de k pour laquelle la\nfonction gk est positive sur l’intervalle ]0 ; +∞[."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                70.92,
+                808.46,
+                524.22,
+                819.85
+              ],
+              "text": "Métropole, Antilles-Guyane, Maroc\n2\n20 mars 2023"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                70.92,
+                49.35,
+                524.33,
+                60.75
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "EXERCICE 3",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            71.16,
+            89.19,
+            524.32,
+            100.59
+          ],
+          "text": "EXERCICE 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            108.62,
+            415.58,
+            120.01
+          ],
+          "text": "Une entreprise a créé une Foire Aux Questions (« FAQ ») sur son site internet."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            127.94,
+            366.74,
+            139.33
+          ],
+          "text": "On étudie le nombre de questions qui y sont posées chaque mois."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            152.91,
+            221.8,
+            164.31
+          ],
+          "text": "Partie A : Première modélisation"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            172.34,
+            283.34,
+            183.73
+          ],
+          "text": "Dans cette partie, on admet que, chaque mois :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            83.16,
+            197.3,
+            447.74,
+            215.89
+          ],
+          "text": "•\n90 % des questions déjà posées le mois précédent sont conservées sur la FAQ;"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            83.16,
+            219.62,
+            310.58,
+            238.21
+          ],
+          "text": "•\n130 nouvelles questions sont ajoutées à la FAQ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            244.46,
+            324.5,
+            255.85
+          ],
+          "text": "Au cours du premier mois, 300 questions ont été posées."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            263.78,
+            524.16,
+            289.85
+          ],
+          "text": "Pour estimer le nombre de questions, en centaines, présentes sur la FAQ le n-ième mois, on modélise\nla situation ci-dessus à l’aide de la suite (un) définie par :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            159.0,
+            299.28,
+            436.22,
+            319.57
+          ],
+          "text": "u1 = 3\net, pour tout entier naturel n ⩾1, un+1 = 0,9un +1,3."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            71.16,
+            89.19,
+            524.32,
+            100.59
+          ],
+          "text": "EXERCICE 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            108.62,
+            415.58,
+            120.01
+          ],
+          "text": "Une entreprise a créé une Foire Aux Questions (« FAQ ») sur son site internet."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            127.94,
+            366.74,
+            139.33
+          ],
+          "text": "On étudie le nombre de questions qui y sont posées chaque mois."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            152.91,
+            221.8,
+            164.31
+          ],
+          "text": "Partie A : Première modélisation"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            172.34,
+            283.34,
+            183.73
+          ],
+          "text": "Dans cette partie, on admet que, chaque mois :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            83.16,
+            197.3,
+            447.74,
+            215.89
+          ],
+          "text": "•\n90 % des questions déjà posées le mois précédent sont conservées sur la FAQ;"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            83.16,
+            219.62,
+            310.58,
+            238.21
+          ],
+          "text": "•\n130 nouvelles questions sont ajoutées à la FAQ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            244.46,
+            324.5,
+            255.85
+          ],
+          "text": "Au cours du premier mois, 300 questions ont été posées."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            263.78,
+            524.16,
+            289.85
+          ],
+          "text": "Pour estimer le nombre de questions, en centaines, présentes sur la FAQ le n-ième mois, on modélise\nla situation ci-dessus à l’aide de la suite (un) définie par :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            159.0,
+            299.28,
+            436.22,
+            319.57
+          ],
+          "text": "u1 = 3\net, pour tout entier naturel n ⩾1, un+1 = 0,9un +1,3."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            84.24,
+            335.43,
+            449.42,
+            348.61
+          ],
+          "text": "1. Calculer u2 et u3 et proposer une interprétation dans le contexte de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            84.24,
+            357.75,
+            364.58,
+            369.28
+          ],
+          "text": "2. Montrer par récurrence que pour tout entier naturel n ⩾1 :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            264.0,
+            378.14,
+            324.76,
+            405.73
+          ],
+          "text": "un = 13−100"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            314.16,
+            384.24,
+            358.58,
+            411.61
+          ],
+          "text": "9 ×0,9n."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            84.24,
+            422.79,
+            289.22,
+            435.41
+          ],
+          "text": "3. En déduire que la suite (un) est croissante."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            84.24,
+            445.23,
+            351.96,
+            470.29
+          ],
+          "text": "4. On considère le programme ci-contre, écrit en langage\nPython."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            98.16,
+            476.9,
+            351.75,
+            501.85
+          ],
+          "text": "Déterminer la valeur renvoyée par la saisie de seuil(8.5)\net l’interpréter dans le contexte de l’exercice."
+        },
+        {
+          "type": "code",
+          "page": 3,
+          "bbox": [
+            385.68,
+            417.62,
+            441.62,
+            429.01
+          ],
+          "text": "def seuil(p) :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            404.88,
+            429.86,
+            422.2,
+            441.25
+          ],
+          "text": "n=1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            404.88,
+            442.1,
+            422.08,
+            453.49
+          ],
+          "text": "u=3"
+        },
+        {
+          "type": "code",
+          "page": 3,
+          "bbox": [
+            404.88,
+            454.22,
+            460.34,
+            465.61
+          ],
+          "text": "while u<=p :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            424.08,
+            466.46,
+            453.4,
+            477.85
+          ],
+          "text": "n=n+1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            424.08,
+            478.7,
+            478.36,
+            490.09
+          ],
+          "text": "u=0.9*u+1.3"
+        },
+        {
+          "type": "code",
+          "page": 3,
+          "bbox": [
+            404.88,
+            490.82,
+            441.93,
+            502.21
+          ],
+          "text": "return n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            514.83,
+            225.04,
+            526.23
+          ],
+          "text": "Partie B : Une autre modélisation"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            534.26,
+            524.4,
+            559.24
+          ],
+          "text": "Dans cette partie, on considère une seconde modélisation à l’aide d’une nouvelle suite (vn) définie\npour tout entier naturel n ⩾1 par :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            244.8,
+            569.43,
+            350.78,
+            591.97
+          ],
+          "text": "vn = 9−6×e−0,19×(n−1)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            595.58,
+            524.34,
+            620.53
+          ],
+          "text": "Le terme vn est une estimation du nombre de questions, en centaines, présentes le n-ième mois sur\nla FAQ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            84.24,
+            639.63,
+            339.98,
+            652.81
+          ],
+          "text": "1. Préciser les valeurs arrondies au centième de v1 et v2."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            84.24,
+            661.95,
+            457.58,
+            682.34
+          ],
+          "text": "2. Déterminer, en justifiant la réponse, la plus petite valeur de n telle que vn > 8,5."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            698.43,
+            262.96,
+            709.83
+          ],
+          "text": "Partie C : Comparaison des deux modèles"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            84.24,
+            729.03,
+            523.65,
+            754.09
+          ],
+          "text": "1. L’entreprise considère qu’elle doit modifier la présentation de son site lorsque plus de 850 ques-\ntions sont présentes sur la FAQ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            98.16,
+            760.58,
+            506.71,
+            771.97
+          ],
+          "text": "Parmi ces deux modélisations, laquelle conduit à procéder le plus tôt à cette modification?"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            98.16,
+            778.58,
+            200.06,
+            789.97
+          ],
+          "text": "Justifier votre réponse."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            70.92,
+            808.46,
+            524.22,
+            819.85
+          ],
+          "text": "Métropole, Antilles-Guyane, Maroc\n3\n20 mars 2023"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            70.92,
+            49.35,
+            524.33,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            84.24,
+            89.19,
+            524.35,
+            114.25
+          ],
+          "text": "2. En justifiant la réponse, pour quelle modélisation y a-t-il le plus grand nombre de questions sur\nla FAQ à long terme?"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                84.24,
+                335.43,
+                449.42,
+                348.61
+              ],
+              "text": "Calculer u2 et u3 et proposer une interprétation dans le contexte de l’exercice."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                84.24,
+                357.75,
+                364.58,
+                369.28
+              ],
+              "text": "Montrer par récurrence que pour tout entier naturel n ⩾1 :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                264.0,
+                378.14,
+                324.76,
+                405.73
+              ],
+              "text": "un = 13−100"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                314.16,
+                384.24,
+                358.58,
+                411.61
+              ],
+              "text": "9 ×0,9n."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                84.24,
+                422.79,
+                289.22,
+                435.41
+              ],
+              "text": "En déduire que la suite (un) est croissante."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                84.24,
+                445.23,
+                351.96,
+                470.29
+              ],
+              "text": "On considère le programme ci-contre, écrit en langage\nPython."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                98.16,
+                476.9,
+                351.75,
+                501.85
+              ],
+              "text": "Déterminer la valeur renvoyée par la saisie de seuil(8.5)\net l’interpréter dans le contexte de l’exercice."
+            },
+            {
+              "type": "code",
+              "page": 3,
+              "bbox": [
+                385.68,
+                417.62,
+                441.62,
+                429.01
+              ],
+              "text": "def seuil(p) :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                404.88,
+                429.86,
+                422.2,
+                441.25
+              ],
+              "text": "n=1"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                404.88,
+                442.1,
+                422.08,
+                453.49
+              ],
+              "text": "u=3"
+            },
+            {
+              "type": "code",
+              "page": 3,
+              "bbox": [
+                404.88,
+                454.22,
+                460.34,
+                465.61
+              ],
+              "text": "while u<=p :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                424.08,
+                466.46,
+                453.4,
+                477.85
+              ],
+              "text": "n=n+1"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                424.08,
+                478.7,
+                478.36,
+                490.09
+              ],
+              "text": "u=0.9*u+1.3"
+            },
+            {
+              "type": "code",
+              "page": 3,
+              "bbox": [
+                404.88,
+                490.82,
+                441.93,
+                502.21
+              ],
+              "text": "return n"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                70.92,
+                514.83,
+                225.04,
+                526.23
+              ],
+              "text": "Partie B : Une autre modélisation"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                70.92,
+                534.26,
+                524.4,
+                559.24
+              ],
+              "text": "Dans cette partie, on considère une seconde modélisation à l’aide d’une nouvelle suite (vn) définie\npour tout entier naturel n ⩾1 par :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                244.8,
+                569.43,
+                350.78,
+                591.97
+              ],
+              "text": "vn = 9−6×e−0,19×(n−1)."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                70.92,
+                595.58,
+                524.34,
+                620.53
+              ],
+              "text": "Le terme vn est une estimation du nombre de questions, en centaines, présentes le n-ième mois sur\nla FAQ."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                84.24,
+                639.63,
+                339.98,
+                652.81
+              ],
+              "text": "Préciser les valeurs arrondies au centième de v1 et v2."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                84.24,
+                661.95,
+                457.58,
+                682.34
+              ],
+              "text": "Déterminer, en justifiant la réponse, la plus petite valeur de n telle que vn > 8,5."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                70.92,
+                698.43,
+                262.96,
+                709.83
+              ],
+              "text": "Partie C : Comparaison des deux modèles"
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                84.24,
+                729.03,
+                523.65,
+                754.09
+              ],
+              "text": "L’entreprise considère qu’elle doit modifier la présentation de son site lorsque plus de 850 ques-\ntions sont présentes sur la FAQ."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                98.16,
+                760.58,
+                506.71,
+                771.97
+              ],
+              "text": "Parmi ces deux modélisations, laquelle conduit à procéder le plus tôt à cette modification?"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                98.16,
+                778.58,
+                200.06,
+                789.97
+              ],
+              "text": "Justifier votre réponse."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                70.92,
+                808.46,
+                524.22,
+                819.85
+              ],
+              "text": "Métropole, Antilles-Guyane, Maroc\n3\n20 mars 2023"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                70.92,
+                49.35,
+                524.33,
+                60.75
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                84.24,
+                89.19,
+                524.35,
+                114.25
+              ],
+              "text": "En justifiant la réponse, pour quelle modélisation y a-t-il le plus grand nombre de questions sur\nla FAQ à long terme?"
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "EXERCICE 4",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            71.16,
+            140.31,
+            524.32,
+            151.71
+          ],
+          "text": "EXERCICE 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            70.92,
+            203.18,
+            288.72,
+            277.46
+          ],
+          "text": "On considère le cube ABCDEFGH d’arête 1.\nOn appelle I le point d’intersection du plan\n(GBD) avec la droite (EC).\nL’espace est rapporté au repère orthonormé\n3\nA ; −−→\nAB, −−→\nAD, −→\nAE\n ́\n."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            326.16,
+            314.79,
+            446.03,
+            326.18
+          ],
+          "text": "A\nB"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            367.96,
+            284.89,
+            495.65,
+            297.84
+          ],
+          "text": "C\nD"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            326.4,
+            184.25,
+            445.73,
+            195.64
+          ],
+          "text": "E\nF"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            367.96,
+            155.78,
+            488.95,
+            167.29
+          ],
+          "text": "G\nH"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            427.2,
+            257.39,
+            430.7,
+            268.78
+          ],
+          "text": "I"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            400.27,
+            299.06,
+            403.78,
+            310.45
+          ],
+          "text": "J"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            71.16,
+            140.31,
+            524.32,
+            151.71
+          ],
+          "text": "EXERCICE 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            70.92,
+            203.18,
+            288.72,
+            277.46
+          ],
+          "text": "On considère le cube ABCDEFGH d’arête 1.\nOn appelle I le point d’intersection du plan\n(GBD) avec la droite (EC).\nL’espace est rapporté au repère orthonormé\n3\nA ; −−→\nAB, −−→\nAD, −→\nAE\n ́\n."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            326.16,
+            314.79,
+            446.03,
+            326.18
+          ],
+          "text": "A\nB"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            367.96,
+            284.89,
+            495.65,
+            297.84
+          ],
+          "text": "C\nD"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            326.4,
+            184.25,
+            445.73,
+            195.64
+          ],
+          "text": "E\nF"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            367.96,
+            155.78,
+            488.95,
+            167.29
+          ],
+          "text": "G\nH"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            427.2,
+            257.39,
+            430.7,
+            268.78
+          ],
+          "text": "I"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            400.27,
+            299.06,
+            403.78,
+            310.45
+          ],
+          "text": "J"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            84.24,
+            337.47,
+            360.86,
+            348.97
+          ],
+          "text": "1. Donner dans ce repère les coordonnées des points E, C, G."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            84.24,
+            360.03,
+            382.58,
+            371.53
+          ],
+          "text": "2. Déterminer une représentation paramétrique de la droite (EC)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            84.24,
+            382.47,
+            372.74,
+            393.97
+          ],
+          "text": "3. Démontrer que la droite (EC) est orthogonale au plan (GBD)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            84.24,
+            405.03,
+            377.78,
+            416.53
+          ],
+          "text": "4.\na. Justifier qu’une équation cartésienne du plan (GBD) est :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            287.64,
+            429.62,
+            359.18,
+            448.22
+          ],
+          "text": "x + y −z −1 = 0."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            107.76,
+            447.35,
+            328.0,
+            472.33
+          ],
+          "text": "b. Montrer que le point I a pour coordonnées\nμ2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            322.68,
+            453.5,
+            343.96,
+            479.77
+          ],
+          "text": "3 ; 2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            338.64,
+            453.5,
+            359.92,
+            479.77
+          ],
+          "text": "3 ; 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            354.6,
+            468.38,
+            359.92,
+            479.77
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            361.08,
+            447.35,
+            368.3,
+            472.33
+          ],
+          "text": "¶\n."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            108.96,
+            479.61,
+            424.28,
+            503.53
+          ],
+          "text": "c. En déduire que la distance du point E au plan (GBD) est égale à 2\np"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            424.32,
+            484.82,
+            429.64,
+            496.21
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            417.48,
+            492.14,
+            433.46,
+            511.09
+          ],
+          "text": "3 ."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            84.24,
+            516.99,
+            332.18,
+            528.49
+          ],
+          "text": "5.\na. Démontrer que le triangle BDG est équilatéral."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            107.76,
+            534.63,
+            262.82,
+            546.13
+          ],
+          "text": "b. Calculer l’aire du triangle BDG."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            122.16,
+            550.22,
+            361.22,
+            561.61
+          ],
+          "text": "On pourra utiliser le point J, milieu du segment [BD]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            84.24,
+            569.42,
+            339.28,
+            588.13
+          ],
+          "text": "6. Justifier que le volume du tétraèdre EGBD est égal à 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            333.96,
+            576.74,
+            343.1,
+            595.69
+          ],
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            98.16,
+            596.54,
+            378.52,
+            622.46
+          ],
+          "text": "On rappelle que le volume d’un tétraèdre est donné par V = 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            373.2,
+            605.25,
+            524.36,
+            622.81
+          ],
+          "text": "3Bh où B est l’aire d’une base du"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            98.16,
+            621.33,
+            311.18,
+            631.36
+          ],
+          "text": "tétraèdre et h est la hauteur relative à cette base."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            70.92,
+            808.46,
+            524.22,
+            819.85
+          ],
+          "text": "Métropole, Antilles-Guyane, Maroc\n4\n20 mars 2023"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex4-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                84.24,
+                337.47,
+                360.86,
+                348.97
+              ],
+              "text": "Donner dans ce repère les coordonnées des points E, C, G."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex4-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                84.24,
+                360.03,
+                382.58,
+                371.53
+              ],
+              "text": "Déterminer une représentation paramétrique de la droite (EC)."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                84.24,
+                382.47,
+                372.74,
+                393.97
+              ],
+              "text": "Démontrer que la droite (EC) est orthogonale au plan (GBD)."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    84.24,
+                    405.03,
+                    377.78,
+                    416.53
+                  ],
+                  "text": "Justifier qu’une équation cartésienne du plan (GBD) est :"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    287.64,
+                    429.62,
+                    359.18,
+                    448.22
+                  ],
+                  "text": "x + y −z −1 = 0."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    107.76,
+                    447.35,
+                    328.0,
+                    472.33
+                  ],
+                  "text": "Montrer que le point I a pour coordonnées\nμ2"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    322.68,
+                    453.5,
+                    343.96,
+                    479.77
+                  ],
+                  "text": "3 ; 2"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    338.64,
+                    453.5,
+                    359.92,
+                    479.77
+                  ],
+                  "text": "3 ; 1"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    354.6,
+                    468.38,
+                    359.92,
+                    479.77
+                  ],
+                  "text": "3"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    361.08,
+                    447.35,
+                    368.3,
+                    472.33
+                  ],
+                  "text": "¶\n."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q4-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    108.96,
+                    479.61,
+                    424.28,
+                    503.53
+                  ],
+                  "text": "En déduire que la distance du point E au plan (GBD) est égale à 2\np"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    424.32,
+                    484.82,
+                    429.64,
+                    496.21
+                  ],
+                  "text": "3"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    417.48,
+                    492.14,
+                    433.46,
+                    511.09
+                  ],
+                  "text": "3 ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex4-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q5-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    84.24,
+                    516.99,
+                    332.18,
+                    528.49
+                  ],
+                  "text": "Démontrer que le triangle BDG est équilatéral."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q5-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    107.76,
+                    534.63,
+                    262.82,
+                    546.13
+                  ],
+                  "text": "Calculer l’aire du triangle BDG."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    122.16,
+                    550.22,
+                    361.22,
+                    561.61
+                  ],
+                  "text": "On pourra utiliser le point J, milieu du segment [BD]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex4-q6",
+          "number": "6",
+          "label": "6.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                84.24,
+                569.42,
+                339.28,
+                588.13
+              ],
+              "text": "Justifier que le volume du tétraèdre EGBD est égal à 1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                333.96,
+                576.74,
+                343.1,
+                595.69
+              ],
+              "text": "3."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                98.16,
+                596.54,
+                378.52,
+                622.46
+              ],
+              "text": "On rappelle que le volume d’un tétraèdre est donné par V = 1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                373.2,
+                605.25,
+                524.36,
+                622.81
+              ],
+              "text": "3Bh où B est l’aire d’une base du"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                98.16,
+                621.33,
+                311.18,
+                631.36
+              ],
+              "text": "tétraèdre et h est la hauteur relative à cette base."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                70.92,
+                808.46,
+                524.22,
+                819.85
+              ],
+              "text": "Métropole, Antilles-Guyane, Maroc\n4\n20 mars 2023"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 122
+}

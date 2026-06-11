@@ -1,0 +1,2732 @@
+{
+  "id": "caledonie_j1_28_08_23_dv_2",
+  "subject": "math",
+  "year": 2023,
+  "metadata": {
+    "source_pdf": "math/2023/sujets/Caledonie_J1_28_08_23_DV_2.pdf",
+    "filename": "Caledonie_J1_28_08_23_DV_2.pdf",
+    "year": 2023,
+    "title": "Baccalauréat Nouvelle-Calédonie 28 août 2023 Jour 1",
+    "header_text": "A. P. M. E. P.\n\n; Baccalauréat Nouvelle-Calédonie 28 août 2023 Jour 1 <\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ\n\nDurée de l’épreuve : 4 heures\n\nL’usage de la calculatrice avec mode examen actif est autorisé\n\nLe sujet propose 4 exercices"
+  },
+  "corrige": {
+    "available": false,
+    "source_pdf": null
+  },
+  "instructions": "A. P. M. E. P.\n\n; Baccalauréat Nouvelle-Calédonie 28 août 2023 Jour 1 <\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ\n\nDurée de l’épreuve : 4 heures\n\nL’usage de la calculatrice avec mode examen actif est autorisé\n\nLe sujet propose 4 exercices",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        520.49,
+        81.79,
+        531.87,
+        139.44
+      ],
+      "text": "A. P. M. E. P."
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        127.8,
+        100.59,
+        484.19,
+        116.32
+      ],
+      "text": "; Baccalauréat Nouvelle-Calédonie 28 août 2023 Jour 1 <"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        163.2,
+        121.87,
+        445.94,
+        136.84
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        239.88,
+        152.21,
+        372.04,
+        163.71
+      ],
+      "text": "Durée de l’épreuve : 4 heures"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        167.16,
+        174.4,
+        444.96,
+        185.79
+      ],
+      "text": "L’usage de la calculatrice avec mode examen actif est autorisé"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        243.24,
+        196.48,
+        368.7,
+        207.87
+      ],
+      "text": "Le sujet propose 4 exercices"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "1",
+      "title": "EXERCICE 1",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            234.41,
+            202.0,
+            245.79
+          ],
+          "text": "EXERCICE 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            256.6,
+            512.85,
+            281.55
+          ],
+          "text": "Une entreprise de location de bateaux de tourisme propose à ses clients deux types de ba-\nteaux : bateau à voile et bateau à moteur."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            286.6,
+            512.76,
+            311.55
+          ],
+          "text": "Par ailleurs, un client peut prendre l’option PILOTE. Dans ce cas, le bateau, qu’il soit à voile\nou à moteur, est loué avec un pilote."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            316.72,
+            155.66,
+            328.11
+          ],
+          "text": "On sait que :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            332.82,
+            512.73,
+            358.59
+          ],
+          "text": "• 60 % des clients choisissent un bateau à voile; parmi eux, 20 % prennent l’option PI-\nLOTE."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            361.62,
+            319.1,
+            373.83
+          ],
+          "text": "• 42 % des clients prennent l’option PILOTE."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            379.36,
+            383.3,
+            390.75
+          ],
+          "text": "On choisit au hasard un client et on considère les évènements :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            400.14,
+            306.02,
+            412.38
+          ],
+          "text": "• V : « le client choisit un bateau à voile »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            415.38,
+            295.58,
+            427.62
+          ],
+          "text": "• L : « le client prend l’option PILOTE »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            167.28,
+            444.71,
+            444.7,
+            454.74
+          ],
+          "text": "Les trois parties peuvent être traitées de manière indépendante"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            475.73,
+            135.94,
+            487.11
+          ],
+          "text": "Partie A"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            234.41,
+            202.0,
+            245.79
+          ],
+          "text": "EXERCICE 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            256.6,
+            512.85,
+            281.55
+          ],
+          "text": "Une entreprise de location de bateaux de tourisme propose à ses clients deux types de ba-\nteaux : bateau à voile et bateau à moteur."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            286.6,
+            512.76,
+            311.55
+          ],
+          "text": "Par ailleurs, un client peut prendre l’option PILOTE. Dans ce cas, le bateau, qu’il soit à voile\nou à moteur, est loué avec un pilote."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            316.72,
+            155.66,
+            328.11
+          ],
+          "text": "On sait que :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            332.82,
+            512.73,
+            358.59
+          ],
+          "text": "• 60 % des clients choisissent un bateau à voile; parmi eux, 20 % prennent l’option PI-\nLOTE."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            361.62,
+            319.1,
+            373.83
+          ],
+          "text": "• 42 % des clients prennent l’option PILOTE."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            379.36,
+            383.3,
+            390.75
+          ],
+          "text": "On choisit au hasard un client et on considère les évènements :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            400.14,
+            306.02,
+            412.38
+          ],
+          "text": "• V : « le client choisit un bateau à voile »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            415.38,
+            295.58,
+            427.62
+          ],
+          "text": "• L : « le client prend l’option PILOTE »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            167.28,
+            444.71,
+            444.7,
+            454.74
+          ],
+          "text": "Les trois parties peuvent être traitées de manière indépendante"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            475.73,
+            135.94,
+            487.11
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            508.37,
+            495.74,
+            519.87
+          ],
+          "text": "1. Traduire la situation par un arbre pondéré que l’on complètera au fur et à mesure."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            523.61,
+            512.82,
+            548.67
+          ],
+          "text": "2. Calculer la probabilité que le client choisisse un bateau à voile et qu’il ne prenne pas\nl’option PILOTE."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            552.41,
+            512.76,
+            577.47
+          ],
+          "text": "3. Démontrer que la probabilité que le client choisisse un bateau à moteur et qu’il prenne\nl’option PILOTE est égale à 0,30."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            581.21,
+            184.48,
+            592.74
+          ],
+          "text": "4. En déduire P"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            184.8,
+            581.32,
+            425.42,
+            596.31
+          ],
+          "text": "V (L), probabilité de L sachant que V n’est pas réalisé."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            596.45,
+            272.78,
+            607.95
+          ],
+          "text": "5. Un client a pris l’option PILOTE."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            126.48,
+            613.12,
+            478.1,
+            624.51
+          ],
+          "text": "Quelle est la probabilité qu’il ait choisi un bateau à voile? Arrondir à 0,01 près."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            640.01,
+            136.34,
+            651.39
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            662.2,
+            512.88,
+            687.15
+          ],
+          "text": "Lorsqu’un client ne prend pas l’option PILOTE, la probabilité que son bateau subisse une\navarie est égale à 0,12. Cette probabilité n’est que de 0,005 si le client prend l’option PILOTE."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            692.32,
+            458.54,
+            703.74
+          ],
+          "text": "On considère un client. On note A l’évènement : « son bateau subit une avarie »."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            34.37,
+            512.69,
+            45.75
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            63.25,
+            245.09,
+            85.14
+          ],
+          "text": "1. Déterminer P(L ∩A) et P\n3"
+        },
+        {
+          "type": "code",
+          "page": 2,
+          "bbox": [
+            245.16,
+            63.25,
+            275.42,
+            85.14
+          ],
+          "text": "L ∩A\n ́\n."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            89.57,
+            268.34,
+            101.07
+          ],
+          "text": "2. L’entreprise loue 1 000 bateaux."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            106.24,
+            313.63,
+            117.63
+          ],
+          "text": "À combien d’avaries peut-elle s’attendre?"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            131.09,
+            136.4,
+            142.47
+          ],
+          "text": "Partie C"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            152.32,
+            504.98,
+            163.71
+          ],
+          "text": "On rappelle que la probabilité qu’un client donné prenne l’option PILOTE est égale à 0,42."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            168.88,
+            512.85,
+            193.83
+          ],
+          "text": "On considère un échantillon aléatoire de 40 clients. On note X la variable aléatoire comptant\nle nombre de clients de l’échantillon prenant l’option PILOTE."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            207.29,
+            512.74,
+            260.67
+          ],
+          "text": "1. On admet que la variable aléatoire X suit une loi binomiale. Donner sans justification\nses paramètres.\n2. Calculer la probabilité, arrondie à 10−3, qu’au moins 15 clients prennent l’option PI-\nLOTE."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                508.37,
+                495.74,
+                519.87
+              ],
+              "text": "Traduire la situation par un arbre pondéré que l’on complètera au fur et à mesure."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                523.61,
+                512.82,
+                548.67
+              ],
+              "text": "Calculer la probabilité que le client choisisse un bateau à voile et qu’il ne prenne pas\nl’option PILOTE."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                552.41,
+                512.76,
+                577.47
+              ],
+              "text": "Démontrer que la probabilité que le client choisisse un bateau à moteur et qu’il prenne\nl’option PILOTE est égale à 0,30."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                581.21,
+                184.48,
+                592.74
+              ],
+              "text": "En déduire P"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                184.8,
+                581.32,
+                425.42,
+                596.31
+              ],
+              "text": "V (L), probabilité de L sachant que V n’est pas réalisé."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                596.45,
+                272.78,
+                607.95
+              ],
+              "text": "Un client a pris l’option PILOTE."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                126.48,
+                613.12,
+                478.1,
+                624.51
+              ],
+              "text": "Quelle est la probabilité qu’il ait choisi un bateau à voile? Arrondir à 0,01 près."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                640.01,
+                136.34,
+                651.39
+              ],
+              "text": "Partie B"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                662.2,
+                512.88,
+                687.15
+              ],
+              "text": "Lorsqu’un client ne prend pas l’option PILOTE, la probabilité que son bateau subisse une\navarie est égale à 0,12. Cette probabilité n’est que de 0,005 si le client prend l’option PILOTE."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                692.32,
+                458.54,
+                703.74
+              ],
+              "text": "On considère un client. On note A l’évènement : « son bateau subit une avarie »."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                34.37,
+                512.69,
+                45.75
+              ],
+              "text": "Baccalauréat spécialité\nA. P. M. E. P."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                63.25,
+                245.09,
+                85.14
+              ],
+              "text": "Déterminer P(L ∩A) et P\n3"
+            },
+            {
+              "type": "code",
+              "page": 2,
+              "bbox": [
+                245.16,
+                63.25,
+                275.42,
+                85.14
+              ],
+              "text": "L ∩A\n ́\n."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                89.57,
+                268.34,
+                101.07
+              ],
+              "text": "L’entreprise loue 1 000 bateaux."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                106.24,
+                313.63,
+                117.63
+              ],
+              "text": "À combien d’avaries peut-elle s’attendre?"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                131.09,
+                136.4,
+                142.47
+              ],
+              "text": "Partie C"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                152.32,
+                504.98,
+                163.71
+              ],
+              "text": "On rappelle que la probabilité qu’un client donné prenne l’option PILOTE est égale à 0,42."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                168.88,
+                512.85,
+                193.83
+              ],
+              "text": "On considère un échantillon aléatoire de 40 clients. On note X la variable aléatoire comptant\nle nombre de clients de l’échantillon prenant l’option PILOTE."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                207.29,
+                512.74,
+                260.67
+              ],
+              "text": "Calculer la probabilité, arrondie à 10−3, qu’au moins 15 clients prennent l’option PI-\nLOTE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "EXERCICE 2",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            278.69,
+            202.0,
+            290.07
+          ],
+          "text": "EXERCICE 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            299.22,
+            453.26,
+            312.55
+          ],
+          "text": "On considère la suite (un) définie par u0 = 3 et, pour tout entier naturel n, par :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            261.0,
+            319.62,
+            350.9,
+            332.95
+          ],
+          "text": "un+1 = 5un −4n −3."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            278.69,
+            202.0,
+            290.07
+          ],
+          "text": "EXERCICE 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            299.22,
+            453.26,
+            312.55
+          ],
+          "text": "On considère la suite (un) définie par u0 = 3 et, pour tout entier naturel n, par :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            261.0,
+            319.62,
+            350.9,
+            332.95
+          ],
+          "text": "un+1 = 5un −4n −3."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            349.14,
+            512.73,
+            419.34
+          ],
+          "text": "1.\na. Démontrer que u1 = 12.\nb. Déterminer u2 en détaillant le calcul.\nc. À l’aide de la calculatrice, conjecturer le sens de variation ainsi que la limite de la\nsuite (un).\n2.\na. Démontrer par récurrence que, pour tout entier naturel n, on a :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            307.08,
+            427.5,
+            356.18,
+            440.89
+          ],
+          "text": "un ⩾n +1."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            449.93,
+            416.66,
+            477.31
+          ],
+          "text": "b. En déduire la limite de la suite (un).\n3. On considère la suite (vn) définie pour tout entier naturel n par :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            285.36,
+            484.38,
+            354.14,
+            497.71
+          ],
+          "text": "vn = un −n −1."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.8,
+            505.49,
+            353.78,
+            518.11
+          ],
+          "text": "a. Démontrer que la suite (vn) est géométrique."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            522.16,
+            486.5,
+            563.22
+          ],
+          "text": "Donner sa raison et son premier terme v0.\nb. En déduire, pour tout entier naturel n, l’expression de vn en fonction de n.\nc. En déduire que pour tout entier naturel n :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            289.8,
+            566.94,
+            373.46,
+            584.71
+          ],
+          "text": "un = 2×5n +n +1."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            593.81,
+            389.21,
+            647.89
+          ],
+          "text": "d. En déduire le sens de variation de la suite (un).\n4. On considère la fonction ci-contre, écrite de manière in-\ncomplète en langage Python et destinée à renvoyer le plus\npetit entier naturel n tel que un ⩾107."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            140.04,
+            652.61,
+            389.13,
+            677.67
+          ],
+          "text": "a. Recopier le programme et compléter les deux ins-\ntructions manquantes."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            139.44,
+            683.57,
+            370.26,
+            695.07
+          ],
+          "text": "b. Quelle est la valeur renvoyée par cette fonction?"
+        },
+        {
+          "type": "code",
+          "page": 2,
+          "bbox": [
+            414.84,
+            617.68,
+            465.38,
+            629.07
+          ],
+          "text": "def suite() :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            438.36,
+            631.24,
+            460.0,
+            642.63
+          ],
+          "text": "u = 3"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            438.36,
+            644.8,
+            460.12,
+            656.19
+          ],
+          "text": "n = 0"
+        },
+        {
+          "type": "code",
+          "page": 2,
+          "bbox": [
+            438.36,
+            658.36,
+            480.98,
+            669.75
+          ],
+          "text": "while ... :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            462.12,
+            671.92,
+            489.02,
+            683.31
+          ],
+          "text": "u = ..."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            462.12,
+            685.48,
+            500.32,
+            696.87
+          ],
+          "text": "n = n + 1"
+        },
+        {
+          "type": "code",
+          "page": 2,
+          "bbox": [
+            438.36,
+            699.04,
+            475.41,
+            710.43
+          ],
+          "text": "return n"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            727.84,
+            512.58,
+            739.23
+          ],
+          "text": "Nouvelle-Calédonie Jour 1\n2\n28 août 2023"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            34.37,
+            512.69,
+            45.75
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex2-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                593.81,
+                389.21,
+                647.89
+              ],
+              "text": "On considère la fonction ci-contre, écrite de manière in-\ncomplète en langage Python et destinée à renvoyer le plus\npetit entier naturel n tel que un ⩾107."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex2-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    140.04,
+                    652.61,
+                    389.13,
+                    677.67
+                  ],
+                  "text": "Recopier le programme et compléter les deux ins-\ntructions manquantes."
+                }
+              ]
+            },
+            {
+              "id": "ex2-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    139.44,
+                    683.57,
+                    370.26,
+                    695.07
+                  ],
+                  "text": "Quelle est la valeur renvoyée par cette fonction?"
+                },
+                {
+                  "type": "code",
+                  "page": 2,
+                  "bbox": [
+                    414.84,
+                    617.68,
+                    465.38,
+                    629.07
+                  ],
+                  "text": "def suite() :"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    438.36,
+                    631.24,
+                    460.0,
+                    642.63
+                  ],
+                  "text": "u = 3"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    438.36,
+                    644.8,
+                    460.12,
+                    656.19
+                  ],
+                  "text": "n = 0"
+                },
+                {
+                  "type": "code",
+                  "page": 2,
+                  "bbox": [
+                    438.36,
+                    658.36,
+                    480.98,
+                    669.75
+                  ],
+                  "text": "while ... :"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    462.12,
+                    671.92,
+                    489.02,
+                    683.31
+                  ],
+                  "text": "u = ..."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    462.12,
+                    685.48,
+                    500.32,
+                    696.87
+                  ],
+                  "text": "n = n + 1"
+                },
+                {
+                  "type": "code",
+                  "page": 2,
+                  "bbox": [
+                    438.36,
+                    699.04,
+                    475.41,
+                    710.43
+                  ],
+                  "text": "return n"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    99.24,
+                    727.84,
+                    512.58,
+                    739.23
+                  ],
+                  "text": "Nouvelle-Calédonie Jour 1\n2\n28 août 2023"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    99.24,
+                    34.37,
+                    512.69,
+                    45.75
+                  ],
+                  "text": "Baccalauréat spécialité\nA. P. M. E. P."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "EXERCICE 3",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            72.77,
+            202.0,
+            84.15
+          ],
+          "text": "EXERCICE 3\n5 points"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": null,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            96.47,
+            513.02,
+            174.3
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiples. Pour chacune des questions suivantes, une\nseule des quatre réponses proposées est exacte.\nPour répondre, indiquer sur la copie le numéro de la question et la lettre de la réponse choisie.\nAucune justification n’est demandée.\nUne réponse fausse, une absence de réponse, ou une réponse multiple, ne rapporte ni n’enlève\nde point."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            96.47,
+            513.02,
+            174.3
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiples. Pour chacune des questions suivantes, une\nseule des quatre réponses proposées est exacte.\nPour répondre, indiquer sur la copie le numéro de la question et la lettre de la réponse choisie.\nAucune justification n’est demandée.\nUne réponse fausse, une absence de réponse, ou une réponse multiple, ne rapporte ni n’enlève\nde point."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            189.28,
+            402.98,
+            201.78
+          ],
+          "text": "1. On considère la fonction f définie sur R par : f (x) = (x +1)ex."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            205.84,
+            318.14,
+            218.34
+          ],
+          "text": "Une primitive F de f sur R est définie par :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.48,
+            230.22,
+            408.45,
+            242.46
+          ],
+          "text": "a. F(x) = 1+ x e x\nb. F(x) = (1+ x) e x"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.48,
+            237.97,
+            383.59,
+            262.98
+          ],
+          "text": "c. F(x) = (2+ x) e x\nd. F(x) =\nμx2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            376.08,
+            237.97,
+            422.9,
+            270.39
+          ],
+          "text": "2 + x\n¶\ne x."
+        },
+        {
+          "type": "code",
+          "page": 3,
+          "bbox": [
+            99.24,
+            280.36,
+            513.0,
+            307.7
+          ],
+          "text": "Dans toute la suite de l’exercice, on se place dans l’espace muni d’un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            318.41,
+            512.74,
+            343.47
+          ],
+          "text": "2. On considère les droites (d1) et (d2) dont des représentations paramétriques sont res-\npectivement :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            183.0,
+            369.76,
+            200.79,
+            382.12
+          ],
+          "text": "(d1)"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            201.84,
+            349.69,
+            210.17,
+            368.73
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            201.84,
+            376.81,
+            210.17,
+            386.85
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            215.4,
+            355.14,
+            344.79,
+            394.5
+          ],
+          "text": "x\n=\n2+r\ny\n=\n1+r\nz\n=\n−r\n(r ∈R)\net (d2)"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            345.84,
+            349.69,
+            354.17,
+            368.73
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            345.84,
+            376.81,
+            354.17,
+            386.85
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            359.4,
+            355.14,
+            456.27,
+            394.5
+          ],
+          "text": "x\n=\n1−s\ny\n=\n−1+ s\nz\n=\n2−s\n(s ∈R)"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            406.84,
+            253.46,
+            419.32
+          ],
+          "text": "Les droites (d1) et (d2) sont :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.48,
+            430.01,
+            437.06,
+            455.07
+          ],
+          "text": "a. sécantes.\nb. strictement parallèles.\nc. confondues.\nd. non coplanaires."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            466.13,
+            397.94,
+            477.66
+          ],
+          "text": "3. On considère le plan (P) dont une équation cartésienne est :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            281.04,
+            488.94,
+            358.1,
+            501.18
+          ],
+          "text": "2x −y + z −1 = 0."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            512.32,
+            440.3,
+            524.79
+          ],
+          "text": "On considère la droite (∆) dont une représentation paramétrique est :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            266.04,
+            529.81,
+            274.37,
+            548.97
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            266.04,
+            556.93,
+            274.37,
+            566.97
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            279.6,
+            535.38,
+            373.23,
+            574.62
+          ],
+          "text": "x\n=\n2+u\ny\n=\n4+u\nz\n=\n1−u\n(u ∈R)"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            584.8,
+            203.42,
+            597.27
+          ],
+          "text": "La droite (∆) est :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.48,
+            613.37,
+            444.62,
+            638.46
+          ],
+          "text": "a. sécante et non orthogonale\nau plan (P).\nb. incluse dans le plan (P)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.48,
+            640.49,
+            449.66,
+            652.02
+          ],
+          "text": "c. strictement parallèle au plan (P).\nd. orthogonale au plan (P)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            667.14,
+            512.76,
+            694.0
+          ],
+          "text": "4. On considère le plan (P1) dont une équation cartésienne est x−2y +z+1 = 0, ainsi que\nle plan (P2) dont une équation cartésienne est 2x + y + z −6 = 0."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            697.96,
+            247.46,
+            710.44
+          ],
+          "text": "Les plans (P1) et (P2) sont :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            727.84,
+            512.58,
+            739.23
+          ],
+          "text": "Nouvelle-Calédonie Jour 1\n3\n28 août 2023"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            34.37,
+            512.69,
+            45.75
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            71.33,
+            439.34,
+            96.27
+          ],
+          "text": "a. sécants et perpendiculaires.\nb. confondus.\nc. sécants et non perpendiculaires.\nd. strictement parallèles."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            107.58,
+            391.58,
+            119.79
+          ],
+          "text": "5. On considère les points E(1; 2; 1), F(2; 4; 3) et G(−2 ; 2 ; 5)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            123.61,
+            380.42,
+            137.18
+          ],
+          "text": "On peut affirmer que la mesure α de l’angle \nFEG vérifie :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            149.46,
+            467.31,
+            162.5
+          ],
+          "text": "a. α = 90°\nb. α > 90°\nc. α = 0°\nd. α ≈71°"
+        }
+      ],
+      "questions": [
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                189.28,
+                402.98,
+                201.78
+              ],
+              "text": "On considère la fonction f définie sur R par : f (x) = (x +1)ex."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                205.84,
+                318.14,
+                218.34
+              ],
+              "text": "Une primitive F de f sur R est définie par :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.48,
+                    230.22,
+                    408.45,
+                    242.46
+                  ],
+                  "text": "F(x) = (1+ x) e x"
+                }
+              ]
+            },
+            {
+              "id": "exe-q1-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.48,
+                    237.97,
+                    383.59,
+                    262.98
+                  ],
+                  "text": "F(x) =\nμx2"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    376.08,
+                    237.97,
+                    422.9,
+                    270.39
+                  ],
+                  "text": "2 + x\n¶\ne x."
+                },
+                {
+                  "type": "code",
+                  "page": 3,
+                  "bbox": [
+                    99.24,
+                    280.36,
+                    513.0,
+                    307.7
+                  ],
+                  "text": "Dans toute la suite de l’exercice, on se place dans l’espace muni d’un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                318.41,
+                512.74,
+                343.47
+              ],
+              "text": "On considère les droites (d1) et (d2) dont des représentations paramétriques sont res-\npectivement :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                183.0,
+                369.76,
+                200.79,
+                382.12
+              ],
+              "text": "(d1)"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                201.84,
+                349.69,
+                210.17,
+                368.73
+              ],
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                201.84,
+                376.81,
+                210.17,
+                386.85
+              ],
+              "text": ""
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                215.4,
+                355.14,
+                344.79,
+                394.5
+              ],
+              "text": "x\n=\n2+r\ny\n=\n1+r\nz\n=\n−r\n(r ∈R)\net (d2)"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                345.84,
+                349.69,
+                354.17,
+                368.73
+              ],
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                345.84,
+                376.81,
+                354.17,
+                386.85
+              ],
+              "text": ""
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                359.4,
+                355.14,
+                456.27,
+                394.5
+              ],
+              "text": "x\n=\n1−s\ny\n=\n−1+ s\nz\n=\n2−s\n(s ∈R)"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                406.84,
+                253.46,
+                419.32
+              ],
+              "text": "Les droites (d1) et (d2) sont :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q2-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.48,
+                    430.01,
+                    437.06,
+                    455.07
+                  ],
+                  "text": "non coplanaires."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                466.13,
+                397.94,
+                477.66
+              ],
+              "text": "On considère le plan (P) dont une équation cartésienne est :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                281.04,
+                488.94,
+                358.1,
+                501.18
+              ],
+              "text": "2x −y + z −1 = 0."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                512.32,
+                440.3,
+                524.79
+              ],
+              "text": "On considère la droite (∆) dont une représentation paramétrique est :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                266.04,
+                529.81,
+                274.37,
+                548.97
+              ],
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                266.04,
+                556.93,
+                274.37,
+                566.97
+              ],
+              "text": ""
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                279.6,
+                535.38,
+                373.23,
+                574.62
+              ],
+              "text": "x\n=\n2+u\ny\n=\n4+u\nz\n=\n1−u\n(u ∈R)"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                584.8,
+                203.42,
+                597.27
+              ],
+              "text": "La droite (∆) est :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.48,
+                    613.37,
+                    444.62,
+                    638.46
+                  ],
+                  "text": "incluse dans le plan (P)."
+                }
+              ]
+            },
+            {
+              "id": "exe-q3-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.48,
+                    640.49,
+                    449.66,
+                    652.02
+                  ],
+                  "text": "orthogonale au plan (P)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                667.14,
+                512.76,
+                694.0
+              ],
+              "text": "On considère le plan (P1) dont une équation cartésienne est x−2y +z+1 = 0, ainsi que\nle plan (P2) dont une équation cartésienne est 2x + y + z −6 = 0."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                697.96,
+                247.46,
+                710.44
+              ],
+              "text": "Les plans (P1) et (P2) sont :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                727.84,
+                512.58,
+                739.23
+              ],
+              "text": "Nouvelle-Calédonie Jour 1\n3\n28 août 2023"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                99.24,
+                34.37,
+                512.69,
+                45.75
+              ],
+              "text": "Baccalauréat spécialité\nA. P. M. E. P."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q4-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    132.48,
+                    71.33,
+                    439.34,
+                    96.27
+                  ],
+                  "text": "strictement parallèles."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                107.58,
+                391.58,
+                119.79
+              ],
+              "text": "On considère les points E(1; 2; 1), F(2; 4; 3) et G(−2 ; 2 ; 5)."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                123.61,
+                380.42,
+                137.18
+              ],
+              "text": "On peut affirmer que la mesure α de l’angle \nFEG vérifie :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q5-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    132.48,
+                    149.46,
+                    467.31,
+                    162.5
+                  ],
+                  "text": "α ≈71°"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "EXERCICE 4",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.48,
+            187.73,
+            202.0,
+            199.11
+          ],
+          "text": "EXERCICE 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            209.58,
+            452.66,
+            221.82
+          ],
+          "text": "On considère la fonction f définie pour tout réel x de l’intervalle ]0 ; +∞[ par :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            247.2,
+            229.62,
+            365.78,
+            246.3
+          ],
+          "text": "f (x) = 5x2 +2x −2x2 ln(x)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            261.45,
+            447.98,
+            275.67
+          ],
+          "text": "On note C f la courbe représentative de f dans un repère orthogonal du plan."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            278.1,
+            385.22,
+            290.34
+          ],
+          "text": "On admet que f est deux fois dérivable sur l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            291.52,
+            309.74,
+            306.9
+          ],
+          "text": "On note f ′ sa dérivée et f ′′ sa dérivée seconde."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.48,
+            187.73,
+            202.0,
+            199.11
+          ],
+          "text": "EXERCICE 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            209.58,
+            452.66,
+            221.82
+          ],
+          "text": "On considère la fonction f définie pour tout réel x de l’intervalle ]0 ; +∞[ par :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            247.2,
+            229.62,
+            365.78,
+            246.3
+          ],
+          "text": "f (x) = 5x2 +2x −2x2 ln(x)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            261.45,
+            447.98,
+            275.67
+          ],
+          "text": "On note C f la courbe représentative de f dans un repère orthogonal du plan."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            278.1,
+            385.22,
+            290.34
+          ],
+          "text": "On admet que f est deux fois dérivable sur l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            291.52,
+            309.74,
+            306.9
+          ],
+          "text": "On note f ′ sa dérivée et f ′′ sa dérivée seconde."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            323.69,
+            412.94,
+            335.22
+          ],
+          "text": "1.\na. Démontrer que la limite de la fonction f en 0 est égale à 0."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            338.34,
+            351.98,
+            350.58
+          ],
+          "text": "b. Déterminer la limite de la fonction f en +∞."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            352.23,
+            383.78,
+            366.06
+          ],
+          "text": "2. Déterminer f ′(x) pour tout réel x de l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            369.3,
+            397.03,
+            381.54
+          ],
+          "text": "3.\na. Démontrer que pour tout réel x de l’intervalle ]0 ; +∞["
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            288.6,
+            391.71,
+            375.62,
+            406.14
+          ],
+          "text": "f ′′(x) = 4(1−ln(x))."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            420.21,
+            512.7,
+            446.07
+          ],
+          "text": "b. En déduire le plus grand intervalle sur lequel la courbe C f est au-dessus de ses\ntangentes."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.28,
+            446.2,
+            482.54,
+            461.58
+          ],
+          "text": "c. Dresser le tableau des variations de la fonction f ′ sur l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            150.48,
+            463.71,
+            405.75,
+            490.75
+          ],
+          "text": "(On admettra que lim\nx→0\nx>0\nf ′(x) = 2 et que lim\nx→+∞f ′(x) = −∞.)"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            489.75,
+            512.76,
+            517.95
+          ],
+          "text": "4.\na. Montrer que l’équation f ′(x) = 0 admet dans l’intervalle ]0 ; +∞[ une unique\nsolution α dont on donnera un encadrement d’amplitude 10−2."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            518.79,
+            512.73,
+            546.18
+          ],
+          "text": "b. En déduire le signe de f ′(x) sur l’intervalle ]0 ; +∞[ ainsi que le tableau des va-\nriations de la fonction f sur l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            547.83,
+            360.14,
+            562.47
+          ],
+          "text": "5.\na. En utilisant l’égalité f ′(α) = 0, démontrer que :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            298.32,
+            573.66,
+            360.88,
+            594.02
+          ],
+          "text": "ln(α) = 4α+1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            341.16,
+            581.8,
+            364.94,
+            601.58
+          ],
+          "text": "2α\n."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            150.48,
+            601.14,
+            284.42,
+            618.14
+          ],
+          "text": "En déduire que f (α) = α2 +α."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            617.44,
+            497.78,
+            632.82
+          ],
+          "text": "b. En déduire un encadrement d’amplitude 10−1 du maximum de la fonction f ."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            727.84,
+            512.58,
+            739.23
+          ],
+          "text": "Nouvelle-Calédonie Jour 1\n4\n28 août 2023"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex4-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    112.56,
+                    323.69,
+                    412.94,
+                    335.22
+                  ],
+                  "text": "Démontrer que la limite de la fonction f en 0 est égale à 0."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    338.34,
+                    351.98,
+                    350.58
+                  ],
+                  "text": "Déterminer la limite de la fonction f en +∞."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex4-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                352.23,
+                383.78,
+                366.06
+              ],
+              "text": "Déterminer f ′(x) pour tout réel x de l’intervalle ]0 ; +∞[."
+            }
+          ]
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    112.56,
+                    369.3,
+                    397.03,
+                    381.54
+                  ],
+                  "text": "Démontrer que pour tout réel x de l’intervalle ]0 ; +∞["
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    288.6,
+                    391.71,
+                    375.62,
+                    406.14
+                  ],
+                  "text": "f ′′(x) = 4(1−ln(x))."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    420.21,
+                    512.7,
+                    446.07
+                  ],
+                  "text": "En déduire le plus grand intervalle sur lequel la courbe C f est au-dessus de ses\ntangentes."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q3-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    137.28,
+                    446.2,
+                    482.54,
+                    461.58
+                  ],
+                  "text": "Dresser le tableau des variations de la fonction f ′ sur l’intervalle ]0 ; +∞[."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    150.48,
+                    463.71,
+                    405.75,
+                    490.75
+                  ],
+                  "text": "(On admettra que lim\nx→0\nx>0\nf ′(x) = 2 et que lim\nx→+∞f ′(x) = −∞.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    112.56,
+                    489.75,
+                    512.76,
+                    517.95
+                  ],
+                  "text": "Montrer que l’équation f ′(x) = 0 admet dans l’intervalle ]0 ; +∞[ une unique\nsolution α dont on donnera un encadrement d’amplitude 10−2."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    518.79,
+                    512.73,
+                    546.18
+                  ],
+                  "text": "En déduire le signe de f ′(x) sur l’intervalle ]0 ; +∞[ ainsi que le tableau des va-\nriations de la fonction f sur l’intervalle ]0 ; +∞[."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex4-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q5-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    112.56,
+                    547.83,
+                    360.14,
+                    562.47
+                  ],
+                  "text": "En utilisant l’égalité f ′(α) = 0, démontrer que :"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    298.32,
+                    573.66,
+                    360.88,
+                    594.02
+                  ],
+                  "text": "ln(α) = 4α+1"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    341.16,
+                    581.8,
+                    364.94,
+                    601.58
+                  ],
+                  "text": "2α\n."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    150.48,
+                    601.14,
+                    284.42,
+                    618.14
+                  ],
+                  "text": "En déduire que f (α) = α2 +α."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q5-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    617.44,
+                    497.78,
+                    632.82
+                  ],
+                  "text": "En déduire un encadrement d’amplitude 10−1 du maximum de la fonction f ."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    727.84,
+                    512.58,
+                    739.23
+                  ],
+                  "text": "Nouvelle-Calédonie Jour 1\n4\n28 août 2023"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 115
+}

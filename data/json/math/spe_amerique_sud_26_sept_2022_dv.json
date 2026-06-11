@@ -1,0 +1,5948 @@
+{
+  "id": "spe_amerique_sud_26_sept_2022_dv",
+  "subject": "math",
+  "year": 2022,
+  "metadata": {
+    "source_pdf": "math/2022/sujets/spe_amerique_sud_26_sept_2022_dv.pdf",
+    "filename": "spe_amerique_sud_26_sept_2022_dv.pdf",
+    "year": 2022,
+    "title": "Baccalauréat Amérique du Sud 26 septembre 2022",
+    "header_text": "; Baccalauréat Amérique du Sud 26 septembre 2022 <\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ Jour 1\n\nLe sujet propose 4 exercices\nLe candidat choisit 3 exercices parmi les 4 exercices et ne doit traiter que ces 3 exercices"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2022/corriges/corrige_spe_amerique_sud_26_sept_2022_fh.pdf"
+  },
+  "instructions": "; Baccalauréat Amérique du Sud 26 septembre 2022 <\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ Jour 1\n\nLe sujet propose 4 exercices\nLe candidat choisit 3 exercices parmi les 4 exercices et ne doit traiter que ces 3 exercices",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        136.32,
+        83.31,
+        475.67,
+        99.04
+      ],
+      "text": "; Baccalauréat Amérique du Sud 26 septembre 2022 <"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        144.96,
+        106.03,
+        467.11,
+        121.0
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ Jour 1"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        99.24,
+        141.64,
+        498.16,
+        166.59
+      ],
+      "text": "Le sujet propose 4 exercices\nLe candidat choisit 3 exercices parmi les 4 exercices et ne doit traiter que ces 3 exercices"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            174.64,
+            490.7,
+            199.59
+          ],
+          "text": "Chaque exercice est noté sur 7 points (le total sera ramené sur 20 points).\nLes traces de recherche, même incomplètes ou infructueuses, seront prises en compte."
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "1",
+      "title": "EXERCICE 1",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            213.65,
+            512.68,
+            225.03
+          ],
+          "text": "EXERCICE 1 PROBABILITÉS\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            233.21,
+            143.02,
+            244.59
+          ],
+          "text": "PARTIE A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            252.76,
+            512.78,
+            331.95
+          ],
+          "text": "Le système d’alarme d’une entreprise fonctionne de telle sorte que, si un danger se présente,\nl’alarme s’active avec une probabilité de 0,97.\nLa probabilité qu’un danger se présente est de 0,01 et la probabilité que l’alarme s’active est\nde 0,014 65.\nOn note A l’évènement « l’alarme s’active » et D l’événement « un danger se présente ».\nOn note"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            320.56,
+            512.73,
+            345.55
+          ],
+          "text": "M l’évènement contraire d’un évènement M et P(M) la probabilité de l’évènement\nM."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            213.65,
+            512.68,
+            225.03
+          ],
+          "text": "EXERCICE 1 PROBABILITÉS\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            233.21,
+            143.02,
+            244.59
+          ],
+          "text": "PARTIE A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            252.76,
+            512.78,
+            331.95
+          ],
+          "text": "Le système d’alarme d’une entreprise fonctionne de telle sorte que, si un danger se présente,\nl’alarme s’active avec une probabilité de 0,97.\nLa probabilité qu’un danger se présente est de 0,01 et la probabilité que l’alarme s’active est\nde 0,014 65.\nOn note A l’évènement « l’alarme s’active » et D l’événement « un danger se présente ».\nOn note"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            320.56,
+            512.73,
+            345.55
+          ],
+          "text": "M l’évènement contraire d’un évènement M et P(M) la probabilité de l’évènement\nM."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            359.21,
+            512.76,
+            384.27
+          ],
+          "text": "1. Représenter la situation par un arbre pondéré qui sera complété au fur et à mesure de\nl’exercice."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            390.17,
+            475.58,
+            401.67
+          ],
+          "text": "2.\na. Calculer la probabilité qu’un danger se présente et que l’alarme s’active."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            136.08,
+            407.57,
+            512.66,
+            432.63
+          ],
+          "text": "b. En déduire la probabilité qu’un danger se présente sachant que l’alarme s’active.\nArrondir le résultat à 10−3."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            438.53,
+            512.85,
+            463.59
+          ],
+          "text": "3. Montrer que la probabilité que l’alarme s’active sachant qu’aucun danger ne s’est pré-\nsenté est 0,005."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            469.49,
+            512.85,
+            508.11
+          ],
+          "text": "4. On considère qu’une alarme ne fonctionne pas normalement lorsqu’un danger se pré-\nsente et qu’elle ne s’active pas ou bien lorsqu’aucun danger ne se présente et qu’elle\ns’active."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            126.48,
+            512.2,
+            512.88,
+            537.03
+          ],
+          "text": "Montrer que la probabilité que l’alarme ne fonctionne pas normalement est inférieure\nà 0,01."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            550.85,
+            143.41,
+            562.23
+          ],
+          "text": "PARTIE B"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            570.52,
+            512.73,
+            676.71
+          ],
+          "text": "Une usine fabrique en grande quantité des systèmes d’alarme. On prélève successivement\net au hasard 5 systèmes d’alarme dans la production de l’usine. Ce prélèvement est assimilé\nà un tirage avec remise.\nOn note S l’évènement « l’alarme ne fonctionne pas normalement » et on admet que\nP(S) = 0,00525.\nOn considère X la variable aléatoire qui donne le nombre de systèmes d’alarme ne fonction-\nnant pas normalement parmi les 5 systèmes d’alarme prélevés.\nLes résultats seront arrondis à 10−4."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            690.53,
+            512.42,
+            702.03
+          ],
+          "text": "1. Donner la loi de probabilité suivie par la variable aléatoire X et préciser ses paramètres."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            48.65,
+            512.69,
+            60.03
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            86.93,
+            512.76,
+            111.99
+          ],
+          "text": "2. Calculer la probabilité que, dans le lot prélevé, un seul système d’alarme ne fonctionne\npas normalement."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            117.65,
+            512.73,
+            142.71
+          ],
+          "text": "3. Calculer la probabilité que, dans le lot prélevé, au moins un système d’alarme ne fonc-\ntionne pas normalement."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            155.81,
+            143.47,
+            167.19
+          ],
+          "text": "PARTIE C"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            175.24,
+            516.5,
+            227.31
+          ],
+          "text": "Soit n un entier naturel non nul. On prélève successivement et au hasard n systèmes d’alarme.\nCe prélèvement est assimilé à un tirage avec remise.\nDéterminer le plus petit entier n tel que la probabilité d’avoir, dans le lot prélevé, au moins\nun système d’alarme qui ne fonctionne pas normalement soit supérieure à 0,07."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                359.21,
+                512.76,
+                384.27
+              ],
+              "text": "Représenter la situation par un arbre pondéré qui sera complété au fur et à mesure de\nl’exercice."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  451.49,
+                  512.94,
+                  510.88
+                ],
+                "text": "On a une répétition de 5 épreuves assimilées à un tirage avec remise donc la variable\naléatoire X qui donne le nombre de systèmes d’alarme ne fonctionnant pas norma-\nlement parmi les 5 systèmes d’alarme prélevés suit une loi binomiale de paramètres\nn = 5 et p = 0,00525."
+              }
+            ],
+            "text": "On a une répétition de 5 épreuves assimilées à un tirage avec remise donc la variable\naléatoire X qui donne le nombre de systèmes d’alarme ne fonctionnant pas norma-\nlement parmi les 5 systèmes d’alarme prélevés suit une loi binomiale de paramètres\nn = 5 et p = 0,00525."
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex1-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    112.56,
+                    390.17,
+                    475.58,
+                    401.67
+                  ],
+                  "text": "Calculer la probabilité qu’un danger se présente et que l’alarme s’active."
+                }
+              ]
+            },
+            {
+              "id": "ex1-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    136.08,
+                    407.57,
+                    512.66,
+                    432.63
+                  ],
+                  "text": "En déduire la probabilité qu’un danger se présente sachant que l’alarme s’active.\nArrondir le résultat à 10−3."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  509.33,
+                  512.82,
+                  520.87
+                ],
+                "text": "La probabilité que, dans le lot prélevé, un seul système d’alarme ne fonctionne pas"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  532.19,
+                  259.47,
+                  549.4
+                ],
+                "text": "normalement est : P(X = 1) ="
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  261.24,
+                  514.21,
+                  271.6,
+                  549.67
+                ],
+                "text": "Ã\n5\n1"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  271.56,
+                  514.21,
+                  276.51,
+                  524.25
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  277.8,
+                  528.26,
+                  452.3,
+                  549.4
+                ],
+                "text": "×0,005251 ×(1−0,00525)5−1 ≈0,0257."
+              }
+            ],
+            "text": "La probabilité que, dans le lot prélevé, un seul système d’alarme ne fonctionne pas\n\nnormalement est : P(X = 1) =\n\nÃ\n5\n1\n\n!\n\n×0,005251 ×(1−0,00525)5−1 ≈0,0257."
+          }
+        },
+        {
+          "id": "ex1-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                438.53,
+                512.85,
+                463.59
+              ],
+              "text": "Montrer que la probabilité que l’alarme s’active sachant qu’aucun danger ne s’est pré-\nsenté est 0,005."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  555.05,
+                  512.76,
+                  580.03
+                ],
+                "text": "La probabilité que, dans le lot prélevé, au moins un système d’alarme ne fonctionne\npas normalement est :"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  591.62,
+                  256.47,
+                  610.24
+                ],
+                "text": "P(X ⩾1) = 1−P(X = 0) = 1−"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  257.76,
+                  575.05,
+                  268.12,
+                  610.51
+                ],
+                "text": "Ã\n5\n0"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  268.2,
+                  575.05,
+                  273.15,
+                  585.09
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  274.44,
+                  589.1,
+                  439.34,
+                  610.24
+                ],
+                "text": "×0,005250 ×(1−0,00525)5 = 0,0260."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  628.01,
+                  143.48,
+                  639.51
+                ],
+                "text": "PARTIE C"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  653.75,
+                  516.5,
+                  677.35
+                ],
+                "text": "Soit n un entier naturel non nul. On prélève successivement et au hasard n systèmes d’alarme.\nCe prélèvement est assimilé à un tirage avec remise."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  685.79,
+                  512.7,
+                  709.39
+                ],
+                "text": "On cherche le plus petit entier n tel que la probabilité d’avoir, dans le lot prélevé, au moins\nun système d’alarme qui ne fonctionne pas normalement soit supérieure à 0,07."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  729.23,
+                  512.58,
+                  739.27
+                ],
+                "text": "Amérique du Sud\n2\n26 septembre 2022"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  48.65,
+                  512.69,
+                  60.15
+                ],
+                "text": "Baccalauréat spécialité - corrigé\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  89.99,
+                  512.88,
+                  120.75
+                ],
+                "text": "Comme dans la partie B, la variable aléatoire Y qui donne le nombre de systèmes d’alarme\ndéfectueux suit une loi binomiale de paramètres n et p = 0,00525."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  120.74,
+                  269.06,
+                  139.35
+                ],
+                "text": "On cherche n tel que P(Y ⩾1) > 0,07."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  139.22,
+                  375.87,
+                  157.83
+                ],
+                "text": "P(Y ⩾1) > 0,07 ⇐⇒1−P(Y = 0) > 0,07 ⇐⇒0,93 > P(Y = 0)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  165.95,
+                  191.0,
+                  183.15
+                ],
+                "text": "P(Y = 0) < 0,93 ⇐⇒"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  194.64,
+                  148.09,
+                  205.76,
+                  183.55
+                ],
+                "text": "Ã\nn\n0"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  206.28,
+                  148.09,
+                  211.23,
+                  158.13
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  212.52,
+                  162.13,
+                  463.12,
+                  183.15
+                ],
+                "text": "×0,005250 ×(1−0,00525)n < 0,93 ⇐⇒0,99475n < 0,93"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  172.44,
+                  179.17,
+                  433.47,
+                  205.35
+                ],
+                "text": "⇐⇒ln\n¡\n0,99475n¢\n< ln(0,93) ⇐⇒n ln(0,99475) < ln(0,93)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  172.44,
+                  199.79,
+                  257.55,
+                  224.31
+                ],
+                "text": "⇐⇒n >\nln(0,93)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  213.48,
+                  214.55,
+                  266.07,
+                  224.71
+                ],
+                "text": "ln(0,99475)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  229.43,
+                  158.19,
+                  246.91
+                ],
+                "text": "Or\nln(0,93)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  114.12,
+                  236.87,
+                  512.73,
+                  261.63
+                ],
+                "text": "ln(0,99475) ≈13,8, donc il faut prélever au moins 14 systèmes d’alarme pour que la pro-"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  254.27,
+                  512.82,
+                  277.87
+                ],
+                "text": "babilité d’avoir, dans le lot prélevé, au moins un système d’alarme qui ne fonctionne pas\nnormalement soit supérieure à 0,07."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  286.31,
+                  225.0,
+                  296.35
+                ],
+                "text": "Vérification à la calculatrice"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  116.88,
+                  302.3,
+                  343.94,
+                  320.92
+                ],
+                "text": "• Pour n = 13, on trouve P(Y ⩾1) ≈0,0661 < 0,07."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  116.88,
+                  319.7,
+                  343.94,
+                  338.32
+                ],
+                "text": "• Pour n = 14, on trouve P(Y ⩾1) ≈0,0710 > 0,07."
+              }
+            ],
+            "text": "La probabilité que, dans le lot prélevé, au moins un système d’alarme ne fonctionne\npas normalement est :\n\nP(X ⩾1) = 1−P(X = 0) = 1−\n\nÃ\n5\n0\n\n!\n\n×0,005250 ×(1−0,00525)5 = 0,0260.\n\nPARTIE C\n\nSoit n un entier naturel non nul. On prélève successivement et au hasard n systèmes d’alarme.\nCe prélèvement est assimilé à un tirage avec remise.\n\nOn cherche le plus petit entier n tel que la probabilité d’avoir, dans le lot prélevé, au moins\nun système d’alarme qui ne fonctionne pas normalement soit supérieure à 0,07.\n\nAmérique du Sud\n2\n26 septembre 2022\n\nBaccalauréat spécialité - corrigé\nA. P. M. E. P.\n\nComme dans la partie B, la variable aléatoire Y qui donne le nombre de systèmes d’alarme\ndéfectueux suit une loi binomiale de paramètres n et p = 0,00525.\n\nOn cherche n tel que P(Y ⩾1) > 0,07.\n\nP(Y ⩾1) > 0,07 ⇐⇒1−P(Y = 0) > 0,07 ⇐⇒0,93 > P(Y = 0)\n\nP(Y = 0) < 0,93 ⇐⇒\n\nÃ\nn\n0\n\n!\n\n×0,005250 ×(1−0,00525)n < 0,93 ⇐⇒0,99475n < 0,93\n\n⇐⇒ln\n¡\n0,99475n¢\n< ln(0,93) ⇐⇒n ln(0,99475) < ln(0,93)\n\n⇐⇒n >\nln(0,93)\n\nln(0,99475)\n\nOr\nln(0,93)\n\nln(0,99475) ≈13,8, donc il faut prélever au moins 14 systèmes d’alarme pour que la pro-\n\nbabilité d’avoir, dans le lot prélevé, au moins un système d’alarme qui ne fonctionne pas\nnormalement soit supérieure à 0,07.\n\nVérification à la calculatrice\n\n• Pour n = 13, on trouve P(Y ⩾1) ≈0,0661 < 0,07.\n\n• Pour n = 14, on trouve P(Y ⩾1) ≈0,0710 > 0,07."
+          }
+        },
+        {
+          "id": "ex1-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                469.49,
+                512.85,
+                508.11
+              ],
+              "text": "On considère qu’une alarme ne fonctionne pas normalement lorsqu’un danger se pré-\nsente et qu’elle ne s’active pas ou bien lorsqu’aucun danger ne se présente et qu’elle\ns’active."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                126.48,
+                512.2,
+                512.88,
+                537.03
+              ],
+              "text": "Montrer que la probabilité que l’alarme ne fonctionne pas normalement est inférieure\nà 0,01."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                550.85,
+                143.41,
+                562.23
+              ],
+              "text": "PARTIE B"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                570.52,
+                512.73,
+                676.71
+              ],
+              "text": "Une usine fabrique en grande quantité des systèmes d’alarme. On prélève successivement\net au hasard 5 systèmes d’alarme dans la production de l’usine. Ce prélèvement est assimilé\nà un tirage avec remise.\nOn note S l’évènement « l’alarme ne fonctionne pas normalement » et on admet que\nP(S) = 0,00525.\nOn considère X la variable aléatoire qui donne le nombre de systèmes d’alarme ne fonction-\nnant pas normalement parmi les 5 systèmes d’alarme prélevés.\nLes résultats seront arrondis à 10−4."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  226.13,
+                  512.85,
+                  264.79
+                ],
+                "text": "On considère qu’une alarme ne fonctionne pas normalement lorsqu’un danger se pré-\nsente et qu’elle ne s’active pas ou bien lorsqu’aucun danger ne se présente et qu’elle\ns’active."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  270.11,
+                  372.98,
+                  287.32
+                ],
+                "text": "Cette situation est représentée par les événements D ∩"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  375.0,
+                  270.11,
+                  392.73,
+                  280.15
+                ],
+                "text": "A et"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  394.92,
+                  270.11,
+                  423.38,
+                  287.31
+                ],
+                "text": "D ∩A."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  285.47,
+                  442.82,
+                  295.51
+                ],
+                "text": "La probabilité que l’alarme ne fonctionne pas normalement est donc :"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  290.41,
+                  155.91,
+                  319.59
+                ],
+                "text": "P\n3\nD ∩"
+              },
+              {
+                "type": "code",
+                "page": 2,
+                "bbox": [
+                  157.92,
+                  290.41,
+                  191.1,
+                  319.59
+                ],
+                "text": "A\n ́\n+P\n3"
+              },
+              {
+                "type": "code",
+                "page": 2,
+                "bbox": [
+                  191.16,
+                  290.41,
+                  425.66,
+                  319.59
+                ],
+                "text": "D ∩A\n ́\n= 0,01×0,03+0,99×0,005 = 0,00525 < 0,01."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  330.53,
+                  143.41,
+                  342.03
+                ],
+                "text": "PARTIE B"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  356.27,
+                  512.76,
+                  414.16
+                ],
+                "text": "Une usine fabrique en grande quantité des systèmes d’alarme. On prélève successivement\net au hasard 5 systèmes d’alarme dans la production de l’usine. Ce prélèvement est assimilé\nà un tirage avec remise. On note S l’évènement « l’alarme ne fonctionne pas normalement »\net on admet que P(S) = 0,00525."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  415.55,
+                  512.73,
+                  439.15
+                ],
+                "text": "On considère X la variable aléatoire qui donne le nombre de systèmes d’alarme ne fonction-\nnant pas normalement parmi les 5 systèmes d’alarme prélevés."
+              }
+            ],
+            "text": "On considère qu’une alarme ne fonctionne pas normalement lorsqu’un danger se pré-\nsente et qu’elle ne s’active pas ou bien lorsqu’aucun danger ne se présente et qu’elle\ns’active.\n\nCette situation est représentée par les événements D ∩\n\nA et\n\nD ∩A.\n\nLa probabilité que l’alarme ne fonctionne pas normalement est donc :\n\nP\n3\nD ∩\n\nA\n ́\n+P\n3\n\nD ∩A\n ́\n= 0,01×0,03+0,99×0,005 = 0,00525 < 0,01.\n\nPARTIE B\n\nUne usine fabrique en grande quantité des systèmes d’alarme. On prélève successivement\net au hasard 5 systèmes d’alarme dans la production de l’usine. Ce prélèvement est assimilé\nà un tirage avec remise. On note S l’évènement « l’alarme ne fonctionne pas normalement »\net on admet que P(S) = 0,00525.\n\nOn considère X la variable aléatoire qui donne le nombre de systèmes d’alarme ne fonction-\nnant pas normalement parmi les 5 systèmes d’alarme prélevés."
+          }
+        },
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                690.53,
+                512.42,
+                702.03
+              ],
+              "text": "Donner la loi de probabilité suivie par la variable aléatoire X et préciser ses paramètres."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                48.65,
+                512.69,
+                60.03
+              ],
+              "text": "Baccalauréat spécialité\nA. P. M. E. P."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  451.49,
+                  512.94,
+                  510.88
+                ],
+                "text": "On a une répétition de 5 épreuves assimilées à un tirage avec remise donc la variable\naléatoire X qui donne le nombre de systèmes d’alarme ne fonctionnant pas norma-\nlement parmi les 5 systèmes d’alarme prélevés suit une loi binomiale de paramètres\nn = 5 et p = 0,00525."
+              }
+            ],
+            "text": "On a une répétition de 5 épreuves assimilées à un tirage avec remise donc la variable\naléatoire X qui donne le nombre de systèmes d’alarme ne fonctionnant pas norma-\nlement parmi les 5 systèmes d’alarme prélevés suit une loi binomiale de paramètres\nn = 5 et p = 0,00525."
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                86.93,
+                512.76,
+                111.99
+              ],
+              "text": "Calculer la probabilité que, dans le lot prélevé, un seul système d’alarme ne fonctionne\npas normalement."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  509.33,
+                  512.82,
+                  520.87
+                ],
+                "text": "La probabilité que, dans le lot prélevé, un seul système d’alarme ne fonctionne pas"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  532.19,
+                  259.47,
+                  549.4
+                ],
+                "text": "normalement est : P(X = 1) ="
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  261.24,
+                  514.21,
+                  271.6,
+                  549.67
+                ],
+                "text": "Ã\n5\n1"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  271.56,
+                  514.21,
+                  276.51,
+                  524.25
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  277.8,
+                  528.26,
+                  452.3,
+                  549.4
+                ],
+                "text": "×0,005251 ×(1−0,00525)5−1 ≈0,0257."
+              }
+            ],
+            "text": "La probabilité que, dans le lot prélevé, un seul système d’alarme ne fonctionne pas\n\nnormalement est : P(X = 1) =\n\nÃ\n5\n1\n\n!\n\n×0,005251 ×(1−0,00525)5−1 ≈0,0257."
+          }
+        },
+        {
+          "id": "ex1-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                117.65,
+                512.73,
+                142.71
+              ],
+              "text": "Calculer la probabilité que, dans le lot prélevé, au moins un système d’alarme ne fonc-\ntionne pas normalement."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                155.81,
+                143.47,
+                167.19
+              ],
+              "text": "PARTIE C"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                175.24,
+                516.5,
+                227.31
+              ],
+              "text": "Soit n un entier naturel non nul. On prélève successivement et au hasard n systèmes d’alarme.\nCe prélèvement est assimilé à un tirage avec remise.\nDéterminer le plus petit entier n tel que la probabilité d’avoir, dans le lot prélevé, au moins\nun système d’alarme qui ne fonctionne pas normalement soit supérieure à 0,07."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  555.05,
+                  512.76,
+                  580.03
+                ],
+                "text": "La probabilité que, dans le lot prélevé, au moins un système d’alarme ne fonctionne\npas normalement est :"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  591.62,
+                  256.47,
+                  610.24
+                ],
+                "text": "P(X ⩾1) = 1−P(X = 0) = 1−"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  257.76,
+                  575.05,
+                  268.12,
+                  610.51
+                ],
+                "text": "Ã\n5\n0"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  268.2,
+                  575.05,
+                  273.15,
+                  585.09
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  274.44,
+                  589.1,
+                  439.34,
+                  610.24
+                ],
+                "text": "×0,005250 ×(1−0,00525)5 = 0,0260."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  628.01,
+                  143.48,
+                  639.51
+                ],
+                "text": "PARTIE C"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  653.75,
+                  516.5,
+                  677.35
+                ],
+                "text": "Soit n un entier naturel non nul. On prélève successivement et au hasard n systèmes d’alarme.\nCe prélèvement est assimilé à un tirage avec remise."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  685.79,
+                  512.7,
+                  709.39
+                ],
+                "text": "On cherche le plus petit entier n tel que la probabilité d’avoir, dans le lot prélevé, au moins\nun système d’alarme qui ne fonctionne pas normalement soit supérieure à 0,07."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  729.23,
+                  512.58,
+                  739.27
+                ],
+                "text": "Amérique du Sud\n2\n26 septembre 2022"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  48.65,
+                  512.69,
+                  60.15
+                ],
+                "text": "Baccalauréat spécialité - corrigé\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  89.99,
+                  512.88,
+                  120.75
+                ],
+                "text": "Comme dans la partie B, la variable aléatoire Y qui donne le nombre de systèmes d’alarme\ndéfectueux suit une loi binomiale de paramètres n et p = 0,00525."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  120.74,
+                  269.06,
+                  139.35
+                ],
+                "text": "On cherche n tel que P(Y ⩾1) > 0,07."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  139.22,
+                  375.87,
+                  157.83
+                ],
+                "text": "P(Y ⩾1) > 0,07 ⇐⇒1−P(Y = 0) > 0,07 ⇐⇒0,93 > P(Y = 0)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  165.95,
+                  191.0,
+                  183.15
+                ],
+                "text": "P(Y = 0) < 0,93 ⇐⇒"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  194.64,
+                  148.09,
+                  205.76,
+                  183.55
+                ],
+                "text": "Ã\nn\n0"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  206.28,
+                  148.09,
+                  211.23,
+                  158.13
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  212.52,
+                  162.13,
+                  463.12,
+                  183.15
+                ],
+                "text": "×0,005250 ×(1−0,00525)n < 0,93 ⇐⇒0,99475n < 0,93"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  172.44,
+                  179.17,
+                  433.47,
+                  205.35
+                ],
+                "text": "⇐⇒ln\n¡\n0,99475n¢\n< ln(0,93) ⇐⇒n ln(0,99475) < ln(0,93)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  172.44,
+                  199.79,
+                  257.55,
+                  224.31
+                ],
+                "text": "⇐⇒n >\nln(0,93)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  213.48,
+                  214.55,
+                  266.07,
+                  224.71
+                ],
+                "text": "ln(0,99475)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  229.43,
+                  158.19,
+                  246.91
+                ],
+                "text": "Or\nln(0,93)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  114.12,
+                  236.87,
+                  512.73,
+                  261.63
+                ],
+                "text": "ln(0,99475) ≈13,8, donc il faut prélever au moins 14 systèmes d’alarme pour que la pro-"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  254.27,
+                  512.82,
+                  277.87
+                ],
+                "text": "babilité d’avoir, dans le lot prélevé, au moins un système d’alarme qui ne fonctionne pas\nnormalement soit supérieure à 0,07."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  286.31,
+                  225.0,
+                  296.35
+                ],
+                "text": "Vérification à la calculatrice"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  116.88,
+                  302.3,
+                  343.94,
+                  320.92
+                ],
+                "text": "• Pour n = 13, on trouve P(Y ⩾1) ≈0,0661 < 0,07."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  116.88,
+                  319.7,
+                  343.94,
+                  338.32
+                ],
+                "text": "• Pour n = 14, on trouve P(Y ⩾1) ≈0,0710 > 0,07."
+              }
+            ],
+            "text": "La probabilité que, dans le lot prélevé, au moins un système d’alarme ne fonctionne\npas normalement est :\n\nP(X ⩾1) = 1−P(X = 0) = 1−\n\nÃ\n5\n0\n\n!\n\n×0,005250 ×(1−0,00525)5 = 0,0260.\n\nPARTIE C\n\nSoit n un entier naturel non nul. On prélève successivement et au hasard n systèmes d’alarme.\nCe prélèvement est assimilé à un tirage avec remise.\n\nOn cherche le plus petit entier n tel que la probabilité d’avoir, dans le lot prélevé, au moins\nun système d’alarme qui ne fonctionne pas normalement soit supérieure à 0,07.\n\nAmérique du Sud\n2\n26 septembre 2022\n\nBaccalauréat spécialité - corrigé\nA. P. M. E. P.\n\nComme dans la partie B, la variable aléatoire Y qui donne le nombre de systèmes d’alarme\ndéfectueux suit une loi binomiale de paramètres n et p = 0,00525.\n\nOn cherche n tel que P(Y ⩾1) > 0,07.\n\nP(Y ⩾1) > 0,07 ⇐⇒1−P(Y = 0) > 0,07 ⇐⇒0,93 > P(Y = 0)\n\nP(Y = 0) < 0,93 ⇐⇒\n\nÃ\nn\n0\n\n!\n\n×0,005250 ×(1−0,00525)n < 0,93 ⇐⇒0,99475n < 0,93\n\n⇐⇒ln\n¡\n0,99475n¢\n< ln(0,93) ⇐⇒n ln(0,99475) < ln(0,93)\n\n⇐⇒n >\nln(0,93)\n\nln(0,99475)\n\nOr\nln(0,93)\n\nln(0,99475) ≈13,8, donc il faut prélever au moins 14 systèmes d’alarme pour que la pro-\n\nbabilité d’avoir, dans le lot prélevé, au moins un système d’alarme qui ne fonctionne pas\nnormalement soit supérieure à 0,07.\n\nVérification à la calculatrice\n\n• Pour n = 13, on trouve P(Y ⩾1) ≈0,0661 < 0,07.\n\n• Pour n = 14, on trouve P(Y ⩾1) ≈0,0710 > 0,07."
+          }
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "EXERCICE 2",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            240.77,
+            512.68,
+            252.15
+          ],
+          "text": "EXERCICE 2 SUITES\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            256.6,
+            431.56,
+            276.55
+          ],
+          "text": "Soit (un) la suite définie par u0 = 4 et, pour tout entier naturel n, un+1 = 1"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            426.24,
+            262.25,
+            447.5,
+            282.87
+          ],
+          "text": "5u2\nn."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            240.77,
+            512.68,
+            252.15
+          ],
+          "text": "EXERCICE 2 SUITES\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            256.6,
+            431.56,
+            276.55
+          ],
+          "text": "Soit (un) la suite définie par u0 = 4 et, pour tout entier naturel n, un+1 = 1"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            426.24,
+            262.25,
+            447.5,
+            282.87
+          ],
+          "text": "5u2\nn."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            291.05,
+            228.38,
+            304.23
+          ],
+          "text": "1.\na. Calculer u1 et u2."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            308.21,
+            514.17,
+            333.31
+          ],
+          "text": "b. Recopier et compléter la fonction ci-dessous écrite en langage Python. Cette fonc-\ntion est nommée suite_u et prend pour paramètre l’entier naturel p."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            150.48,
+            337.12,
+            405.38,
+            349.63
+          ],
+          "text": "Elle renvoie la valeur du terme de rang p de la suite (un)."
+        },
+        {
+          "type": "code",
+          "page": 2,
+          "bbox": [
+            261.0,
+            360.8,
+            402.33,
+            425.83
+          ],
+          "text": "def suite_u(p) :\nu= ...\nfor i in range(1,...) :\nu =...\nreturn u"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            435.73,
+            463.22,
+            449.17
+          ],
+          "text": "2.\na. Démontrer par récurrence que pour tout entier naturel n, 0 < un ⩽4."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            453.65,
+            353.66,
+            466.27
+          ],
+          "text": "b. Démontrer que la suite (un) est décroissante."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            137.28,
+            470.81,
+            351.5,
+            483.43
+          ],
+          "text": "c. En déduire que la suite (un) est convergente."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            484.72,
+            415.48,
+            504.67
+          ],
+          "text": "3.\na. Justifier que la limite lde la suite (un) vérifie l’égalité l= 1"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            410.16,
+            490.37,
+            429.62,
+            510.99
+          ],
+          "text": "5l2."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            510.8,
+            264.86,
+            523.11
+          ],
+          "text": "b. En déduire la valeur de l."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            528.01,
+            420.26,
+            541.39
+          ],
+          "text": "4. Pour tout entier naturel n, on pose vn = ln(un) et wn = vn −ln(5)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.8,
+            545.05,
+            417.62,
+            558.43
+          ],
+          "text": "a. Montrer que, pour tout entier naturel n, vn+1 = 2vn −ln(5)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            562.97,
+            395.3,
+            575.59
+          ],
+          "text": "b. Montrer que la suite (wn) est géométrique de raison 2."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            137.28,
+            580.13,
+            512.82,
+            593.31
+          ],
+          "text": "c. Pour tout entier naturel n, donner l’expression de wn en fonction de n et montrer"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            150.48,
+            584.89,
+            213.4,
+            610.87
+          ],
+          "text": "que vn = ln\nμ4"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            208.08,
+            605.8,
+            213.4,
+            617.19
+          ],
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            214.68,
+            584.89,
+            273.74,
+            609.75
+          ],
+          "text": "¶\n×2n +ln(5)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            619.49,
+            304.34,
+            636.43
+          ],
+          "text": "5. Calculer lim\nn→+∞vn et retrouver lim\nn→+∞un."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    291.05,
+                    228.38,
+                    304.23
+                  ],
+                  "text": "Calculer u1 et u2."
+                }
+              ]
+            },
+            {
+              "id": "ex2-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    308.21,
+                    514.17,
+                    333.31
+                  ],
+                  "text": "Recopier et compléter la fonction ci-dessous écrite en langage Python. Cette fonc-\ntion est nommée suite_u et prend pour paramètre l’entier naturel p."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    150.48,
+                    337.12,
+                    405.38,
+                    349.63
+                  ],
+                  "text": "Elle renvoie la valeur du terme de rang p de la suite (un)."
+                },
+                {
+                  "type": "code",
+                  "page": 2,
+                  "bbox": [
+                    261.0,
+                    360.8,
+                    402.33,
+                    425.83
+                  ],
+                  "text": "def suite_u(p) :\nu= ...\nfor i in range(1,...) :\nu =...\nreturn u"
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      136.08,
+                      428.39,
+                      512.76,
+                      465.55
+                    ],
+                    "text": "On complète la fonction ci-dessous qui renvoie la valeur du terme de rang p de\nla suite (un)."
+                  },
+                  {
+                    "type": "code",
+                    "page": 3,
+                    "bbox": [
+                      255.24,
+                      476.24,
+                      407.97,
+                      541.27
+                    ],
+                    "text": "def suite_u(p) :\nu = 4\nfor i in range(1,p + 1) :\nu = u*u/5\nreturn u"
+                  }
+                ],
+                "text": "On complète la fonction ci-dessous qui renvoie la valeur du terme de rang p de\nla suite (un).\n\ndef suite_u(p) :\nu = 4\nfor i in range(1,p + 1) :\nu = u*u/5\nreturn u"
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    435.73,
+                    463.22,
+                    449.17
+                  ],
+                  "text": "Démontrer par récurrence que pour tout entier naturel n, 0 < un ⩽4."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      112.56,
+                      551.49,
+                      290.78,
+                      570.99
+                    ],
+                    "text": "Soit Pn la propriété 0 < un ⩽4."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      161.28,
+                      573.53,
+                      231.4,
+                      585.07
+                    ],
+                    "text": "• Initialisation"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      588.21,
+                      333.74,
+                      609.39
+                    ],
+                    "text": "u0 = 4 et 0 < 4 ⩽4 donc P0 est vraie."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      161.28,
+                      606.41,
+                      211.85,
+                      617.95
+                    ],
+                    "text": "• Hérédité"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      621.09,
+                      494.9,
+                      640.6
+                    ],
+                    "text": "On suppose Pn vraie, c’est-à-dire 0 < un ⩽4 (hypothèse de récurrence)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      635.51,
+                      345.88,
+                      660.04
+                    ],
+                    "text": "0 < un ⩽4 donc 0 < u2\nn ⩽16 donc 0 < 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      340.56,
+                      635.51,
+                      383.32,
+                      660.43
+                    ],
+                    "text": "5u2\nn ⩽16"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      375.36,
+                      650.39,
+                      380.68,
+                      660.43
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      659.99,
+                      196.48,
+                      677.47
+                    ],
+                    "text": "Or 16"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      188.52,
+                      659.99,
+                      290.92,
+                      692.07
+                    ],
+                    "text": "5 = 3,2 ⩽4 donc 0 < 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      285.6,
+                      665.3,
+                      438.5,
+                      684.91
+                    ],
+                    "text": "5u2\nn ⩽4, c’est-à-dire 0 < un+1 ⩽4."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      682.89,
+                      264.26,
+                      701.74
+                    ],
+                    "text": "Donc Pn+1 est vraie."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      99.24,
+                      730.91,
+                      512.58,
+                      740.95
+                    ],
+                    "text": "Amérique du Sud\n3\n26 septembre 2022"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      99.24,
+                      48.65,
+                      512.69,
+                      60.15
+                    ],
+                    "text": "Baccalauréat spécialité - corrigé\nA. P. M. E. P."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      161.28,
+                      88.49,
+                      224.2,
+                      100.03
+                    ],
+                    "text": "• Conclusion"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      170.88,
+                      105.47,
+                      512.86,
+                      129.07
+                    ],
+                    "text": "La propriété est vraie au rang 0, et elle est héréditaire. Donc, d’après le prin-\ncipe de récurrence, elle est vraie pour tout entier naturel."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      138.62,
+                      462.02,
+                      157.23
+                    ],
+                    "text": "On a donc démontré que pour tout entier naturel n, on a : 0 < un ⩽4."
+                  }
+                ],
+                "text": "Soit Pn la propriété 0 < un ⩽4.\n\n• Initialisation\n\nu0 = 4 et 0 < 4 ⩽4 donc P0 est vraie.\n\n• Hérédité\n\nOn suppose Pn vraie, c’est-à-dire 0 < un ⩽4 (hypothèse de récurrence).\n\n0 < un ⩽4 donc 0 < u2\nn ⩽16 donc 0 < 1\n\n5u2\nn ⩽16\n\n5\n\nOr 16\n\n5 = 3,2 ⩽4 donc 0 < 1\n\n5u2\nn ⩽4, c’est-à-dire 0 < un+1 ⩽4.\n\nDonc Pn+1 est vraie.\n\nAmérique du Sud\n3\n26 septembre 2022\n\nBaccalauréat spécialité - corrigé\nA. P. M. E. P.\n\n• Conclusion\n\nLa propriété est vraie au rang 0, et elle est héréditaire. Donc, d’après le prin-\ncipe de récurrence, elle est vraie pour tout entier naturel.\n\nOn a donc démontré que pour tout entier naturel n, on a : 0 < un ⩽4."
+              }
+            },
+            {
+              "id": "ex2-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    453.65,
+                    353.66,
+                    466.27
+                  ],
+                  "text": "Démontrer que la suite (un) est décroissante."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      154.43,
+                      211.6,
+                      180.75
+                    ],
+                    "text": "un+1 −un = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      206.28,
+                      150.01,
+                      287.9,
+                      181.71
+                    ],
+                    "text": "5u2\nn −un = un\n3un"
+                  },
+                  {
+                    "type": "code",
+                    "page": 4,
+                    "bbox": [
+                      279.96,
+                      150.01,
+                      331.46,
+                      186.51
+                    ],
+                    "text": "5 −1\n ́\n= un"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      333.36,
+                      146.89,
+                      366.4,
+                      173.31
+                    ],
+                    "text": "μun −5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      350.16,
+                      169.31,
+                      355.48,
+                      179.35
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      367.68,
+                      146.89,
+                      372.17,
+                      156.93
+                    ],
+                    "text": "¶"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      180.02,
+                      487.48,
+                      200.31
+                    ],
+                    "text": "un ⩽4 donc un −5 < 0; or un > 0 donc un (un −5) < 0 et donc un+1 −un < 0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      196.91,
+                      367.22,
+                      208.03
+                    ],
+                    "text": "On en conclut que la suite (un) est décroissante."
+                  }
+                ],
+                "text": "un+1 −un = 1\n\n5u2\nn −un = un\n3un\n\n5 −1\n ́\n= un\n\nμun −5\n\n5\n\n¶\n\nun ⩽4 donc un −5 < 0; or un > 0 donc un (un −5) < 0 et donc un+1 −un < 0\n\nOn en conclut que la suite (un) est décroissante."
+              }
+            },
+            {
+              "id": "ex2-q2-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    137.28,
+                    470.81,
+                    351.5,
+                    483.43
+                  ],
+                  "text": "En déduire que la suite (un) est convergente."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      137.28,
+                      212.69,
+                      400.22,
+                      231.39
+                    ],
+                    "text": "Pour tout n, 0 < un donc la suite (un) est minorée par 0."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      229.55,
+                      512.73,
+                      254.23
+                    ],
+                    "text": "La suite (un) est décroissante et minorée donc, d’après le théorème de la conver-\ngence monotone, la suite (un) est convergente."
+                  }
+                ],
+                "text": "Pour tout n, 0 < un donc la suite (un) est minorée par 0.\n\nLa suite (un) est décroissante et minorée donc, d’après le théorème de la conver-\ngence monotone, la suite (un) est convergente."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    484.72,
+                    415.48,
+                    504.67
+                  ],
+                  "text": "Justifier que la limite lde la suite (un) vérifie l’égalité l= 1"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    410.16,
+                    490.37,
+                    429.62,
+                    510.99
+                  ],
+                  "text": "5l2."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      112.56,
+                      258.08,
+                      290.18,
+                      281.26
+                    ],
+                    "text": "•\nlim\nn→+∞un+1 = lim\nn→+∞un = l;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      161.28,
+                      278.99,
+                      204.4,
+                      307.18
+                    ],
+                    "text": "•\nlim\nn→+∞\n1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      199.08,
+                      278.99,
+                      235.24,
+                      306.27
+                    ],
+                    "text": "5u2\nn = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      229.92,
+                      281.87,
+                      250.58,
+                      303.91
+                    ],
+                    "text": "5l2 ;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      161.28,
+                      305.27,
+                      293.2,
+                      331.59
+                    ],
+                    "text": "• Pour tout n, on a : un+1 = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      287.88,
+                      310.58,
+                      309.14,
+                      330.19
+                    ],
+                    "text": "5u2\nn."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      329.87,
+                      287.8,
+                      354.39
+                    ],
+                    "text": "On peut en conclure que l= 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      282.48,
+                      334.88,
+                      302.06,
+                      354.79
+                    ],
+                    "text": "5l2."
+                  }
+                ],
+                "text": "•\nlim\nn→+∞un+1 = lim\nn→+∞un = l;\n\n•\nlim\nn→+∞\n1\n\n5u2\nn = 1\n\n5l2 ;\n\n• Pour tout n, on a : un+1 = 1\n\n5u2\nn.\n\nOn peut en conclure que l= 1\n\n5l2."
+              }
+            },
+            {
+              "id": "ex2-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    510.8,
+                    264.86,
+                    523.11
+                  ],
+                  "text": "En déduire la valeur de l."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      356.15,
+                      298.96,
+                      380.79
+                    ],
+                    "text": "lest solution de l’équation x = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      293.64,
+                      359.63,
+                      430.1,
+                      381.07
+                    ],
+                    "text": "5x2 ; on résout cette équation."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.72,
+                      381.47,
+                      174.04,
+                      406.12
+                    ],
+                    "text": "x = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      168.72,
+                      373.93,
+                      245.2,
+                      406.39
+                    ],
+                    "text": "5x2 ⇐⇒x\nμ\n1−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      239.88,
+                      373.93,
+                      360.4,
+                      406.39
+                    ],
+                    "text": "5x\n¶\n= 0 ⇐⇒x = 0 ou x = 5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      406.16,
+                      512.73,
+                      439.24
+                    ],
+                    "text": "Or, pour tout n, on a : 0 < un ⩽4 donc lvérifie 0 ⩽l⩽4. La solution l= 5 n’est\ndonc pas valable donc l= 0."
+                  }
+                ],
+                "text": "lest solution de l’équation x = 1\n\n5x2 ; on résout cette équation.\n\nx = 1\n\n5x2 ⇐⇒x\nμ\n1−1\n\n5x\n¶\n= 0 ⇐⇒x = 0 ou x = 5\n\nOr, pour tout n, on a : 0 < un ⩽4 donc lvérifie 0 ⩽l⩽4. La solution l= 5 n’est\ndonc pas valable donc l= 0."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                528.01,
+                420.26,
+                541.39
+              ],
+              "text": "Pour tout entier naturel n, on pose vn = ln(un) et wn = vn −ln(5)."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex2-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.8,
+                    545.05,
+                    417.62,
+                    558.43
+                  ],
+                  "text": "Montrer que, pour tout entier naturel n, vn+1 = 2vn −ln(5)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.8,
+                      446.17,
+                      253.24,
+                      479.92
+                    ],
+                    "text": "vn+1 = ln(un+1) = ln\nμ1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      247.92,
+                      458.9,
+                      265.7,
+                      478.63
+                    ],
+                    "text": "5u2\nn"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      266.64,
+                      446.17,
+                      303.16,
+                      478.23
+                    ],
+                    "text": "¶\n= ln\nμ1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      297.84,
+                      468.59,
+                      303.16,
+                      478.63
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      304.32,
+                      446.17,
+                      511.71,
+                      478.35
+                    ],
+                    "text": "¶\n+ln\n¡\nu2\nn\n¢\n= −ln(5)+2ln(un) = 2ln(un)−ln(5)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      173.4,
+                      478.79,
+                      231.51,
+                      497.67
+                    ],
+                    "text": "= 2vn −ln(5)"
+                  }
+                ],
+                "text": "vn+1 = ln(un+1) = ln\nμ1\n\n5u2\nn\n\n¶\n= ln\nμ1\n\n5\n\n¶\n+ln\n¡\nu2\nn\n¢\n= −ln(5)+2ln(un) = 2ln(un)−ln(5)\n\n= 2vn −ln(5)"
+              }
+            },
+            {
+              "id": "ex2-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    562.97,
+                    395.3,
+                    575.59
+                  ],
+                  "text": "Montrer que la suite (wn) est géométrique de raison 2."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      494.57,
+                      313.83,
+                      514.95
+                    ],
+                    "text": "wn = vn −ln(5) donc vn = wn +ln(5)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      511.43,
+                      435.15,
+                      551.59
+                    ],
+                    "text": "wn+1 = vn+1 −ln(5) = 2vn −ln(5)−ln(5) = 2(wn +ln(5)) −2ln(5)\n= 2wn +2ln(5)−2ln(5) = 2wn\nDonc la suite (wn) est géométrique de raison 2."
+                  }
+                ],
+                "text": "wn = vn −ln(5) donc vn = wn +ln(5)\n\nwn+1 = vn+1 −ln(5) = 2vn −ln(5)−ln(5) = 2(wn +ln(5)) −2ln(5)\n= 2wn +2ln(5)−2ln(5) = 2wn\nDonc la suite (wn) est géométrique de raison 2."
+              }
+            },
+            {
+              "id": "ex2-q4-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    137.28,
+                    580.13,
+                    512.82,
+                    593.31
+                  ],
+                  "text": "Pour tout entier naturel n, donner l’expression de wn en fonction de n et montrer"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    150.48,
+                    584.89,
+                    213.4,
+                    610.87
+                  ],
+                  "text": "que vn = ln\nμ4"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    208.08,
+                    605.8,
+                    213.4,
+                    617.19
+                  ],
+                  "text": "5"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    214.68,
+                    584.89,
+                    273.74,
+                    609.75
+                  ],
+                  "text": "¶\n×2n +ln(5)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      137.28,
+                      547.57,
+                      421.24,
+                      581.43
+                    ],
+                    "text": "v0 = ln(u0) = ln(4) donc w0 = v0 −ln(5) = ln(4)−ln(5) = ln\nμ4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      415.92,
+                      569.99,
+                      421.24,
+                      580.03
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      422.4,
+                      547.57,
+                      426.89,
+                      557.61
+                    ],
+                    "text": "¶"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      574.57,
+                      507.16,
+                      608.32
+                    ],
+                    "text": "La suite (wn) est géométrique de raison q = 2 et de premier terme w0 = ln\nμ4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      501.84,
+                      596.99,
+                      507.16,
+                      607.03
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      508.32,
+                      574.57,
+                      512.81,
+                      584.61
+                    ],
+                    "text": "¶"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      599.65,
+                      418.48,
+                      633.39
+                    ],
+                    "text": "donc, pour tout entier naturel n, on a : wn = w0 × qn = ln\nμ4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      413.16,
+                      622.07,
+                      418.48,
+                      632.11
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      419.64,
+                      599.65,
+                      447.62,
+                      631.72
+                    ],
+                    "text": "¶\n×2n."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      626.65,
+                      345.88,
+                      660.39
+                    ],
+                    "text": "Pour tout n, vn = wn +ln(5) donc vn = ln\nμ4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      340.56,
+                      648.95,
+                      345.88,
+                      658.99
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      347.16,
+                      626.65,
+                      406.22,
+                      658.72
+                    ],
+                    "text": "¶\n×2n +ln(5)."
+                  }
+                ],
+                "text": "v0 = ln(u0) = ln(4) donc w0 = v0 −ln(5) = ln(4)−ln(5) = ln\nμ4\n\n5\n\n¶\n\nLa suite (wn) est géométrique de raison q = 2 et de premier terme w0 = ln\nμ4\n\n5\n\n¶\n\ndonc, pour tout entier naturel n, on a : wn = w0 × qn = ln\nμ4\n\n5\n\n¶\n×2n.\n\nPour tout n, vn = wn +ln(5) donc vn = ln\nμ4\n\n5\n\n¶\n×2n +ln(5)."
+              }
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  112.56,
+                  437.81,
+                  420.26,
+                  458.2
+                ],
+                "text": "Pour tout entier naturel n, on pose vn = ln(un) et wn = vn −ln(5)."
+              }
+            ],
+            "text": "Pour tout entier naturel n, on pose vn = ln(un) et wn = vn −ln(5)."
+          }
+        },
+        {
+          "id": "ex2-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                619.49,
+                304.34,
+                636.43
+              ],
+              "text": "Calculer lim\nn→+∞vn et retrouver lim\nn→+∞un."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  112.56,
+                  662.87,
+                  205.48,
+                  691.18
+                ],
+                "text": "lim\nn→+∞2n = +∞; 4"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  200.16,
+                  655.33,
+                  271.48,
+                  694.95
+                ],
+                "text": "5 < 1 donc ln\nμ4"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  266.16,
+                  677.75,
+                  271.48,
+                  687.79
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  272.64,
+                  655.33,
+                  296.06,
+                  687.52
+                ],
+                "text": "¶\n< 0."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  126.48,
+                  682.33,
+                  255.64,
+                  718.18
+                ],
+                "text": "On en déduit que lim\nn→+∞ln\nμ4"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  250.32,
+                  704.75,
+                  255.64,
+                  714.79
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  256.8,
+                  682.33,
+                  440.54,
+                  718.18
+                ],
+                "text": "¶\n×2n = −∞, et donc que lim\nn→+∞vn = −∞."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  99.24,
+                  730.91,
+                  512.58,
+                  740.95
+                ],
+                "text": "Amérique du Sud\n4\n26 septembre 2022"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  99.24,
+                  48.65,
+                  512.69,
+                  60.15
+                ],
+                "text": "Baccalauréat spécialité - corrigé\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.72,
+                  87.86,
+                  241.72,
+                  108.87
+                ],
+                "text": "vn = ln(un) donc un = evn"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  101.17,
+                  366.5,
+                  125.98
+                ],
+                "text": "Or lim\nx→−∞ex = 0, et lim\nn→+∞vn = −∞, donc lim\nn→+∞evn = 0."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  122.15,
+                  308.9,
+                  143.02
+                ],
+                "text": "On a donc redémontré que lim\nn→+∞un = 0."
+              }
+            ],
+            "text": "lim\nn→+∞2n = +∞; 4\n\n5 < 1 donc ln\nμ4\n\n5\n\n¶\n< 0.\n\nOn en déduit que lim\nn→+∞ln\nμ4\n\n5\n\n¶\n×2n = −∞, et donc que lim\nn→+∞vn = −∞.\n\nAmérique du Sud\n4\n26 septembre 2022\n\nBaccalauréat spécialité - corrigé\nA. P. M. E. P.\n\nvn = ln(un) donc un = evn\n\nOr lim\nx→−∞ex = 0, et lim\nn→+∞vn = −∞, donc lim\nn→+∞evn = 0.\n\nOn a donc redémontré que lim\nn→+∞un = 0."
+          }
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "EXERCICE 3",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            651.53,
+            512.68,
+            662.91
+          ],
+          "text": "EXERCICE 3 FONCTIONS, FONCTION LOGARITHME\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            670.09,
+            335.1,
+            682.39
+          ],
+          "text": "Soit g la fonction définie sur l’intervalle ]0 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            251.52,
+            695.69,
+            360.74,
+            709.39
+          ],
+          "text": "g(x) = 1+ x2[1−2ln(x)]."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            727.84,
+            512.58,
+            739.23
+          ],
+          "text": "Amérique du Sud\n2\n26 septembre 2022"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            48.65,
+            512.69,
+            60.03
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            84.64,
+            512.66,
+            113.59
+          ],
+          "text": "La fonction g est dérivable sur l’intervalle ]0 ; +∞[ et on note g ′ sa fonction dérivée.\nOn appelle C la courbe représentative de la fonction g dans un repère orthonormé du plan."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            121.37,
+            143.02,
+            132.75
+          ],
+          "text": "PARTIE A"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            651.53,
+            512.68,
+            662.91
+          ],
+          "text": "EXERCICE 3 FONCTIONS, FONCTION LOGARITHME\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            670.09,
+            335.1,
+            682.39
+          ],
+          "text": "Soit g la fonction définie sur l’intervalle ]0 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            251.52,
+            695.69,
+            360.74,
+            709.39
+          ],
+          "text": "g(x) = 1+ x2[1−2ln(x)]."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            727.84,
+            512.58,
+            739.23
+          ],
+          "text": "Amérique du Sud\n2\n26 septembre 2022"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            48.65,
+            512.69,
+            60.03
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            84.64,
+            512.66,
+            113.59
+          ],
+          "text": "La fonction g est dérivable sur l’intervalle ]0 ; +∞[ et on note g ′ sa fonction dérivée.\nOn appelle C la courbe représentative de la fonction g dans un repère orthonormé du plan."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            121.37,
+            143.02,
+            132.75
+          ],
+          "text": "PARTIE A"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            146.21,
+            308.3,
+            157.75
+          ],
+          "text": "1. Justifier que g(e) est strictement négatif."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            162.73,
+            260.54,
+            180.43
+          ],
+          "text": "2. Justifier que lim\nx→+∞g(x) = −∞."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            181.19,
+            504.86,
+            195.07
+          ],
+          "text": "3.\na. Montrer que, pour tout x appartenant à l’intervalle ]0 ; +∞[, g ′(x) = −4x ln(x)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            199.93,
+            453.31,
+            212.23
+          ],
+          "text": "b. Étudier le sens de variation de la fonction g sur l’intervalle ]0 ; +∞["
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            137.28,
+            217.16,
+            512.73,
+            242.91
+          ],
+          "text": "c. Montrer que l’équation g(x) = 0 admet une unique solution, notée α, sur l’inter-\nvalle [1 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            246.35,
+            365.83,
+            260.19
+          ],
+          "text": "d. Donner un encadrement de α d’amplitude 10−2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            265.09,
+            464.54,
+            277.39
+          ],
+          "text": "4. Déduire de ce qui précède le signe de la fonction g sur l’intervalle [1 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            290.69,
+            143.41,
+            302.07
+          ],
+          "text": "PARTIE B"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            313.19,
+            492.86,
+            327.07
+          ],
+          "text": "1. On admet que, pour tout x appartenant à l’intervalle [1 ; α], g ′′(x) = −4[ln(x)+1]."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            330.2,
+            395.18,
+            342.55
+          ],
+          "text": "Justifier que la fonction g est concave sur l’intervalle [1 ; α]."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            349.37,
+            297.69,
+            387.87
+          ],
+          "text": "2. Sur la figure ci-contre, A et B sont les\npoints de la courbe C d’abscisses res-\npectives 1 et α."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.8,
+            393.77,
+            297.84,
+            418.83
+          ],
+          "text": "a. Déterminer l’équation réduite\nde la droite (AB)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            424.73,
+            297.74,
+            449.79
+          ],
+          "text": "b. En déduire que pour tout réel x\nappartenant à l’intervalle [1 ; α],"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            150.72,
+            447.49,
+            200.92,
+            467.23
+          ],
+          "text": "g(x) ⩾−2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            183.48,
+            447.44,
+            241.38,
+            474.67
+          ],
+          "text": "α−1 x + 2α"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            224.16,
+            455.8,
+            250.22,
+            474.63
+          ],
+          "text": "α−1."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            369.12,
+            469.49,
+            446.83,
+            478.12
+          ],
+          "text": "0\n1\n2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            358.2,
+            457.97,
+            362.23,
+            466.6
+          ],
+          "text": "0"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            358.2,
+            421.13,
+            362.23,
+            429.76
+          ],
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            358.2,
+            376.1,
+            404.42,
+            392.92
+          ],
+          "text": "2\nA"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            437.7,
+            449.8,
+            451.14,
+            470.52
+          ],
+          "text": "B\nα"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            429.92,
+            393.49,
+            437.34,
+            403.53
+          ],
+          "text": "C"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                146.21,
+                308.3,
+                157.75
+              ],
+              "text": "Justifier que g(e) est strictement négatif."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  295.76,
+                  492.86,
+                  315.27
+                ],
+                "text": "On admet que, pour tout x appartenant à l’intervalle [1 ; α], g ′′(x) = −4[ln(x)+1]."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  311.24,
+                  467.42,
+                  344.32
+                ],
+                "text": "Sur [1 ; α], ln(x) ⩾0 donc ln(x)+1 > 0 donc −4(ln(x)+1) < 0.\nOn en déduit que g ′′(x) > 0 et donc que la fonction g est concave sur [1 ; α]."
+              }
+            ],
+            "text": "On admet que, pour tout x appartenant à l’intervalle [1 ; α], g ′′(x) = −4[ln(x)+1].\n\nSur [1 ; α], ln(x) ⩾0 donc ln(x)+1 > 0 donc −4(ln(x)+1) < 0.\nOn en déduit que g ′′(x) > 0 et donc que la fonction g est concave sur [1 ; α]."
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                162.73,
+                260.54,
+                180.43
+              ],
+              "text": "Justifier que lim\nx→+∞g(x) = −∞."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  351.05,
+                  314.62,
+                  389.71
+                ],
+                "text": "Sur la figure ci-contre, A et B sont les\npoints de la courbe C d’abscisses respec-\ntives 1 et α."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  376.92,
+                  442.58,
+                  437.71,
+                  450.19
+                ],
+                "text": "0\n1\n2"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  366.0,
+                  431.06,
+                  370.03,
+                  438.67
+                ],
+                "text": "0"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  366.0,
+                  402.74,
+                  370.03,
+                  410.35
+                ],
+                "text": "1"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  366.0,
+                  366.42,
+                  403.84,
+                  381.91
+                ],
+                "text": "2\nA"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  429.34,
+                  423.11,
+                  442.9,
+                  442.86
+                ],
+                "text": "B\nα"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  425.08,
+                  378.29,
+                  432.51,
+                  388.32
+                ],
+                "text": "C"
+              }
+            ],
+            "text": "Sur la figure ci-contre, A et B sont les\npoints de la courbe C d’abscisses respec-\ntives 1 et α.\n\n0\n1\n2\n\n0\n\n1\n\n2\nA\n\nB\nα\n\nC"
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    112.56,
+                    181.19,
+                    504.86,
+                    195.07
+                  ],
+                  "text": "Montrer que, pour tout x appartenant à l’intervalle ]0 ; +∞[, g ′(x) = −4x ln(x)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      112.56,
+                      336.17,
+                      254.42,
+                      354.87
+                    ],
+                    "text": "Pour x ∈]0 ;+∞[, on a :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.72,
+                      339.97,
+                      287.2,
+                      372.15
+                    ],
+                    "text": "g ′(x) = 2x (1−2ln(x))+ x2\nμ\n−2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      281.76,
+                      362.39,
+                      286.94,
+                      372.43
+                    ],
+                    "text": "x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      288.84,
+                      339.97,
+                      436.94,
+                      372.16
+                    ],
+                    "text": "¶\n= 2x −4x ln(x)−2x = −4x ln(x)."
+                  }
+                ],
+                "text": "Pour x ∈]0 ;+∞[, on a :\n\ng ′(x) = 2x (1−2ln(x))+ x2\nμ\n−2\n\nx\n\n¶\n= 2x −4x ln(x)−2x = −4x ln(x)."
+              }
+            },
+            {
+              "id": "ex3-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    199.93,
+                    453.31,
+                    212.23
+                  ],
+                  "text": "Étudier le sens de variation de la fonction g sur l’intervalle ]0 ; +∞["
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      136.08,
+                      374.21,
+                      512.73,
+                      404.02
+                    ],
+                    "text": "Pour étudier le sens de variation de la fonction g sur l’intervalle ]0 ; +∞[, on\ndétermine le signe de g ′(x) sur cet intervalle."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      232.92,
+                      416.27,
+                      238.1,
+                      426.31
+                    ],
+                    "text": "x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      283.68,
+                      416.27,
+                      465.05,
+                      433.47
+                    ],
+                    "text": "0\n1\n+∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      226.44,
+                      437.03,
+                      244.34,
+                      454.23
+                    ],
+                    "text": "−4x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      323.28,
+                      437.65,
+                      330.51,
+                      454.23
+                    ],
+                    "text": "−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      405.24,
+                      437.65,
+                      412.47,
+                      454.23
+                    ],
+                    "text": "−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      224.76,
+                      457.79,
+                      246.87,
+                      467.83
+                    ],
+                    "text": "ln(x)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      323.28,
+                      458.41,
+                      330.51,
+                      474.99
+                    ],
+                    "text": "−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      364.68,
+                      457.79,
+                      412.47,
+                      474.99
+                    ],
+                    "text": "0\n+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      198.48,
+                      476.78,
+                      273.39,
+                      495.63
+                    ],
+                    "text": "g ′(x) = −4x ln(x)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      323.28,
+                      479.05,
+                      330.51,
+                      495.63
+                    ],
+                    "text": "+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      364.68,
+                      478.43,
+                      412.47,
+                      495.63
+                    ],
+                    "text": "0\n−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      502.43,
+                      233.85,
+                      512.47
+                    ],
+                    "text": "Donc la fonction g"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      518.63,
+                      332.66,
+                      528.67
+                    ],
+                    "text": "• est strictement croissante sur ]0 ;1[;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      535.19,
+                      355.94,
+                      552.39
+                    ],
+                    "text": "• est strictement décroissante sur ]1 ;+∞[;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      547.79,
+                      450.86,
+                      569.07
+                    ],
+                    "text": "• admet en x = 1 un maximum égal à g(1) = 1+12 (1−ln(1)) = 2."
+                  }
+                ],
+                "text": "Pour étudier le sens de variation de la fonction g sur l’intervalle ]0 ; +∞[, on\ndétermine le signe de g ′(x) sur cet intervalle.\n\nx\n\n0\n1\n+∞\n\n−4x\n\n−\n\n−\n\nln(x)\n\n−\n\n0\n+\n\ng ′(x) = −4x ln(x)\n\n+\n\n0\n−\n\nDonc la fonction g\n\n• est strictement croissante sur ]0 ;1[;\n\n• est strictement décroissante sur ]1 ;+∞[;\n\n• admet en x = 1 un maximum égal à g(1) = 1+12 (1−ln(1)) = 2."
+              }
+            },
+            {
+              "id": "ex3-q3-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    137.28,
+                    217.16,
+                    512.73,
+                    242.91
+                  ],
+                  "text": "Montrer que l’équation g(x) = 0 admet une unique solution, notée α, sur l’inter-\nvalle [1 ; +∞[."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      137.28,
+                      566.33,
+                      433.34,
+                      585.04
+                    ],
+                    "text": "On trace le tableau des variations de la fonction g sur [1 ; +∞[."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      217.44,
+                      593.03,
+                      222.62,
+                      603.07
+                    ],
+                    "text": "x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      241.8,
+                      593.03,
+                      454.13,
+                      610.23
+                    ],
+                    "text": "0\n1\n+∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      209.28,
+                      609.38,
+                      231.51,
+                      625.9
+                    ],
+                    "text": "g ′(x)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      291.12,
+                      611.65,
+                      298.35,
+                      628.23
+                    ],
+                    "text": "+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      339.6,
+                      611.03,
+                      394.47,
+                      628.23
+                    ],
+                    "text": "0\n−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      340.56,
+                      629.03,
+                      345.88,
+                      639.07
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      210.72,
+                      646.67,
+                      230.07,
+                      656.71
+                    ],
+                    "text": "g(x)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      436.68,
+                      664.93,
+                      454.13,
+                      681.51
+                    ],
+                    "text": "−∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      687.47,
+                      512.88,
+                      718.23
+                    ],
+                    "text": "D’après ce tableau de variations, on peut dire que l’équation g(x) = 0 admet une\nsolution unique sur l’intervalle ]1 ;+∞[. On appelle α cette solution."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      99.24,
+                      730.91,
+                      512.58,
+                      740.95
+                    ],
+                    "text": "Amérique du Sud\n5\n26 septembre 2022"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      99.24,
+                      48.65,
+                      512.69,
+                      60.15
+                    ],
+                    "text": "Baccalauréat spécialité - corrigé\nA. P. M. E. P."
+                  }
+                ],
+                "text": "On trace le tableau des variations de la fonction g sur [1 ; +∞[.\n\nx\n\n0\n1\n+∞\n\ng ′(x)\n\n+\n\n0\n−\n\n2\n\ng(x)\n\n−∞\n\nD’après ce tableau de variations, on peut dire que l’équation g(x) = 0 admet une\nsolution unique sur l’intervalle ]1 ;+∞[. On appelle α cette solution.\n\nAmérique du Sud\n5\n26 septembre 2022\n\nBaccalauréat spécialité - corrigé\nA. P. M. E. P."
+              }
+            },
+            {
+              "id": "ex3-q3-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    246.35,
+                    365.83,
+                    260.19
+                  ],
+                  "text": "Donner un encadrement de α d’amplitude 10−2"
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      136.08,
+                      88.55,
+                      229.72,
+                      119.31
+                    ],
+                    "text": "g(1) = 2 > 0\ng(2) ≈−0,55 < 0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      234.72,
+                      80.53,
+                      309.67,
+                      112.6
+                    ],
+                    "text": "3⁄4\ndonc α ∈[1 ;2]"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      156.96,
+                      118.55,
+                      250.24,
+                      149.32
+                    ],
+                    "text": "g(1,8) ≈0,43 > 0\ng(1.9) ≈−0,024 < 0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      255.24,
+                      110.53,
+                      348.31,
+                      142.72
+                    ],
+                    "text": "3⁄4\ndonc α ∈[1,8 ;1,9]"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      156.96,
+                      148.55,
+                      255.64,
+                      179.32
+                    ],
+                    "text": "g(1,89) ≈0,024 > 0\ng(1.90) ≈−0,024 < 0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      260.64,
+                      140.53,
+                      364.27,
+                      172.72
+                    ],
+                    "text": "3⁄4\ndonc α ∈[1,89 ;1,90]"
+                  }
+                ],
+                "text": "g(1) = 2 > 0\ng(2) ≈−0,55 < 0\n\n3⁄4\ndonc α ∈[1 ;2]\n\ng(1,8) ≈0,43 > 0\ng(1.9) ≈−0,024 < 0\n\n3⁄4\ndonc α ∈[1,8 ;1,9]\n\ng(1,89) ≈0,024 > 0\ng(1.90) ≈−0,024 < 0\n\n3⁄4\ndonc α ∈[1,89 ;1,90]"
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                265.09,
+                464.54,
+                277.39
+              ],
+              "text": "Déduire de ce qui précède le signe de la fonction g sur l’intervalle [1 ; +∞[."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                290.69,
+                143.41,
+                302.07
+              ],
+              "text": "PARTIE B"
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  177.05,
+                  405.26,
+                  195.75
+                ],
+                "text": "On en déduit le signe de la fonction g sur l’intervalle [1 ; +∞[."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  220.08,
+                  212.51,
+                  225.26,
+                  222.55
+                ],
+                "text": "x"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  243.12,
+                  210.2,
+                  426.17,
+                  229.71
+                ],
+                "text": "1\nα\n+∞"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  213.36,
+                  230.51,
+                  232.71,
+                  240.55
+                ],
+                "text": "g(x)"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  282.72,
+                  231.13,
+                  289.95,
+                  247.71
+                ],
+                "text": "+"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  324.84,
+                  230.51,
+                  373.59,
+                  247.71
+                ],
+                "text": "0\n−"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  99.24,
+                  266.33,
+                  143.41,
+                  277.83
+                ],
+                "text": "PARTIE B"
+              }
+            ],
+            "text": "On en déduit le signe de la fonction g sur l’intervalle [1 ; +∞[.\n\nx\n\n1\nα\n+∞\n\ng(x)\n\n+\n\n0\n−\n\nPARTIE B"
+          }
+        },
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                313.19,
+                492.86,
+                327.07
+              ],
+              "text": "On admet que, pour tout x appartenant à l’intervalle [1 ; α], g ′′(x) = −4[ln(x)+1]."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                330.2,
+                395.18,
+                342.55
+              ],
+              "text": "Justifier que la fonction g est concave sur l’intervalle [1 ; α]."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  295.76,
+                  492.86,
+                  315.27
+                ],
+                "text": "On admet que, pour tout x appartenant à l’intervalle [1 ; α], g ′′(x) = −4[ln(x)+1]."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  311.24,
+                  467.42,
+                  344.32
+                ],
+                "text": "Sur [1 ; α], ln(x) ⩾0 donc ln(x)+1 > 0 donc −4(ln(x)+1) < 0.\nOn en déduit que g ′′(x) > 0 et donc que la fonction g est concave sur [1 ; α]."
+              }
+            ],
+            "text": "On admet que, pour tout x appartenant à l’intervalle [1 ; α], g ′′(x) = −4[ln(x)+1].\n\nSur [1 ; α], ln(x) ⩾0 donc ln(x)+1 > 0 donc −4(ln(x)+1) < 0.\nOn en déduit que g ′′(x) > 0 et donc que la fonction g est concave sur [1 ; α]."
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                349.37,
+                297.69,
+                387.87
+              ],
+              "text": "Sur la figure ci-contre, A et B sont les\npoints de la courbe C d’abscisses res-\npectives 1 et α."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex3-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.8,
+                    393.77,
+                    297.84,
+                    418.83
+                  ],
+                  "text": "Déterminer l’équation réduite\nde la droite (AB)."
+                }
+              ]
+            },
+            {
+              "id": "ex3-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    424.73,
+                    297.74,
+                    449.79
+                  ],
+                  "text": "En déduire que pour tout réel x\nappartenant à l’intervalle [1 ; α],"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    150.72,
+                    447.49,
+                    200.92,
+                    467.23
+                  ],
+                  "text": "g(x) ⩾−2"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    183.48,
+                    447.44,
+                    241.38,
+                    474.67
+                  ],
+                  "text": "α−1 x + 2α"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    224.16,
+                    455.8,
+                    250.22,
+                    474.63
+                  ],
+                  "text": "α−1."
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    369.12,
+                    469.49,
+                    446.83,
+                    478.12
+                  ],
+                  "text": "0\n1\n2"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    358.2,
+                    457.97,
+                    362.23,
+                    466.6
+                  ],
+                  "text": "0"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    358.2,
+                    421.13,
+                    362.23,
+                    429.76
+                  ],
+                  "text": "1"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    358.2,
+                    376.1,
+                    404.42,
+                    392.92
+                  ],
+                  "text": "2\nA"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    437.7,
+                    449.8,
+                    451.14,
+                    470.52
+                  ],
+                  "text": "B\nα"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    429.92,
+                    393.49,
+                    437.34,
+                    403.53
+                  ],
+                  "text": "C"
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      136.08,
+                      508.88,
+                      512.73,
+                      547.27
+                    ],
+                    "text": "Sur l’intervalle [1 ; α], la fonction est concave, donc sa courbe représentative est\nsituée au dessus de toute sécante, donc au dessus du segment [AB]."
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      549.23,
+                      357.4,
+                      566.71
+                    ],
+                    "text": "On en déduit que sur [1 ; α], on a : g(x) ⩾−2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      339.96,
+                      546.92,
+                      397.86,
+                      581.31
+                    ],
+                    "text": "α−1 x + 2α"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      380.64,
+                      556.67,
+                      406.7,
+                      581.31
+                    ],
+                    "text": "α−1."
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      99.24,
+                      730.91,
+                      512.58,
+                      740.95
+                    ],
+                    "text": "Amérique du Sud\n6\n26 septembre 2022"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      99.24,
+                      48.65,
+                      512.69,
+                      60.15
+                    ],
+                    "text": "Baccalauréat spécialité - corrigé\nA. P. M. E. P."
+                  }
+                ],
+                "text": "Sur l’intervalle [1 ; α], la fonction est concave, donc sa courbe représentative est\nsituée au dessus de toute sécante, donc au dessus du segment [AB].\n\nOn en déduit que sur [1 ; α], on a : g(x) ⩾−2\n\nα−1 x + 2α\n\nα−1.\n\nAmérique du Sud\n6\n26 septembre 2022\n\nBaccalauréat spécialité - corrigé\nA. P. M. E. P."
+              }
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  351.05,
+                  314.62,
+                  389.71
+                ],
+                "text": "Sur la figure ci-contre, A et B sont les\npoints de la courbe C d’abscisses respec-\ntives 1 et α."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  376.92,
+                  442.58,
+                  437.71,
+                  450.19
+                ],
+                "text": "0\n1\n2"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  366.0,
+                  431.06,
+                  370.03,
+                  438.67
+                ],
+                "text": "0"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  366.0,
+                  402.74,
+                  370.03,
+                  410.35
+                ],
+                "text": "1"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  366.0,
+                  366.42,
+                  403.84,
+                  381.91
+                ],
+                "text": "2\nA"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  429.34,
+                  423.11,
+                  442.9,
+                  442.86
+                ],
+                "text": "B\nα"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  425.08,
+                  378.29,
+                  432.51,
+                  388.32
+                ],
+                "text": "C"
+              }
+            ],
+            "text": "Sur la figure ci-contre, A et B sont les\npoints de la courbe C d’abscisses respec-\ntives 1 et α.\n\n0\n1\n2\n\n0\n\n1\n\n2\nA\n\nB\nα\n\nC"
+          }
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "EXERCICE 4",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            483.05,
+            512.68,
+            494.43
+          ],
+          "text": "EXERCICE 4 GÉOMÉTRIE DANS L’ESPACE\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            502.6,
+            512.85,
+            554.55
+          ],
+          "text": "Dans la figure ci-dessous, ABCDEFGH est un parallélépipède rectangle tel que\nAB = 5, AD = 3 et AE = 2.\nL’espace est muni d’un repère orthonormé d’origine A dans lequel les points B, D et E ont\nrespectivement pour coordonnées (5; 0; 0), (0; 3; 0) et (0; 0; 2)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            174.27,
+            704.53,
+            386.83,
+            715.92
+          ],
+          "text": "A\nB"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            227.27,
+            650.68,
+            428.45,
+            669.03
+          ],
+          "text": "C\nD"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            173.07,
+            611.0,
+            379.0,
+            629.47
+          ],
+          "text": "E\nF"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            212.28,
+            569.87,
+            427.4,
+            582.7
+          ],
+          "text": "G\nH\nM"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            729.52,
+            512.58,
+            740.91
+          ],
+          "text": "Amérique du Sud\n3\n26 septembre 2022"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            48.65,
+            512.69,
+            60.03
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            483.05,
+            512.68,
+            494.43
+          ],
+          "text": "EXERCICE 4 GÉOMÉTRIE DANS L’ESPACE\n7 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            502.6,
+            512.85,
+            554.55
+          ],
+          "text": "Dans la figure ci-dessous, ABCDEFGH est un parallélépipède rectangle tel que\nAB = 5, AD = 3 et AE = 2.\nL’espace est muni d’un repère orthonormé d’origine A dans lequel les points B, D et E ont\nrespectivement pour coordonnées (5; 0; 0), (0; 3; 0) et (0; 0; 2)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            174.27,
+            704.53,
+            386.83,
+            715.92
+          ],
+          "text": "A\nB"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            227.27,
+            650.68,
+            428.45,
+            669.03
+          ],
+          "text": "C\nD"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            173.07,
+            611.0,
+            379.0,
+            629.47
+          ],
+          "text": "E\nF"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            212.28,
+            569.87,
+            427.4,
+            582.7
+          ],
+          "text": "G\nH\nM"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            729.52,
+            512.58,
+            740.91
+          ],
+          "text": "Amérique du Sud\n3\n26 septembre 2022"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            48.65,
+            512.69,
+            60.03
+          ],
+          "text": "Baccalauréat spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            88.49,
+            460.94,
+            99.99
+          ],
+          "text": "1.\na. Donner, dans le repère considéré, les coordonnées des points H et G."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            105.89,
+            419.42,
+            117.39
+          ],
+          "text": "b. Donner une représentation paramétrique de la droite (GH)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            115.45,
+            512.73,
+            148.35
+          ],
+          "text": "2. Soit M un point du segment [GH] tel que −−→\nHM = k−−→\nHG avec k un nombre réel de l’in-\ntervalle [0; 1]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.8,
+            154.25,
+            378.86,
+            165.79
+          ],
+          "text": "a. Justifier que les coordonnées de M sont (5k ; 3 ; 2)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            163.81,
+            340.58,
+            183.19
+          ],
+          "text": "b. En déduire que −−→\nAM ·−−→\nCM = 25k2 −25k +4."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.28,
+            189.05,
+            510.14,
+            200.59
+          ],
+          "text": "c. Déterminer les valeurs de k pour lesquelles AMC est un triangle rectangle en M."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            208.48,
+            506.06,
+            233.43
+          ],
+          "text": "Dans toute la suite de l’exercice, on considère que le point M a pour coordonnées (1; 3; 2).\nOn admet que le triangle AMC est rectangle en M ."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            232.12,
+            406.48,
+            250.95
+          ],
+          "text": "On rappelle que le volume d’un tétraèdre est donné par la formule 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            401.16,
+            238.69,
+            512.72,
+            258.39
+          ],
+          "text": "3 ×Aire de la base×h où"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            255.64,
+            248.66,
+            267.07
+          ],
+          "text": "h est la hauteur relative à la base."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            274.85,
+            347.42,
+            286.35
+          ],
+          "text": "3. On considère le point K de coordonnées (1; 3; 0)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.8,
+            292.13,
+            390.98,
+            303.63
+          ],
+          "text": "a. Déterminer une équation cartésienne du plan (ACD)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            309.53,
+            498.5,
+            321.03
+          ],
+          "text": "b. Justifier que le point K est le projeté orthogonal du point M sur le plan (ACD)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.28,
+            326.93,
+            338.9,
+            338.43
+          ],
+          "text": "c. En déduire le volume du tétraèdre MACD."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            344.33,
+            404.06,
+            355.83
+          ],
+          "text": "4. On note P le projeté orthogonal du point D sur le plan (AMC)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            357.47,
+            408.74,
+            371.31
+          ],
+          "text": "Calculer la distance DP; en donner une valeur arrondie à 10−1."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            729.52,
+            512.58,
+            740.91
+          ],
+          "text": "Amérique du Sud\n4\n26 septembre 2022"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex4-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    112.56,
+                    88.49,
+                    460.94,
+                    99.99
+                  ],
+                  "text": "Donner, dans le repère considéré, les coordonnées des points H et G."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      112.56,
+                      368.53,
+                      446.66,
+                      407.19
+                    ],
+                    "text": "−−→\nAH = −−→\nAD +−→\nAE donc le point H a pour coordonnées (0 ;3 ;2).\n−−→\nAG = −−→\nAB +−−→\nAD +−→\nAE donc le point G a pour coordonnées (5 ;3 ;2)."
+                  }
+                ],
+                "text": "−−→\nAH = −−→\nAD +−→\nAE donc le point H a pour coordonnées (0 ;3 ;2).\n−−→\nAG = −−→\nAB +−−→\nAD +−→\nAE donc le point G a pour coordonnées (5 ;3 ;2)."
+              }
+            },
+            {
+              "id": "ex4-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    105.89,
+                    419.42,
+                    117.39
+                  ],
+                  "text": "Donner une représentation paramétrique de la droite (GH)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      136.08,
+                      399.85,
+                      511.1,
+                      446.73
+                    ],
+                    "text": "La droite (GH) a pour vecteur directeur −−→\nHG de coordonnées (5 ;0 ;0).\nDe plus, elle passe par le point G donc elle a pour représentation paramétrique :\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      150.48,
+                      454.81,
+                      158.81,
+                      464.85
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      164.04,
+                      435.35,
+                      268.22,
+                      479.67
+                    ],
+                    "text": "x = 5+5t\ny = 3\nz = 2\navec t ∈R."
+                  }
+                ],
+                "text": "La droite (GH) a pour vecteur directeur −−→\nHG de coordonnées (5 ;0 ;0).\nDe plus, elle passe par le point G donc elle a pour représentation paramétrique :\n\n\n\n\n\nx = 5+5t\ny = 3\nz = 2\navec t ∈R."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex4-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                115.45,
+                512.73,
+                148.35
+              ],
+              "text": "Soit M un point du segment [GH] tel que −−→\nHM = k−−→\nHG avec k un nombre réel de l’in-\ntervalle [0; 1]."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex4-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.8,
+                    154.25,
+                    378.86,
+                    165.79
+                  ],
+                  "text": "Justifier que les coordonnées de M sont (5k ; 3 ; 2)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      136.8,
+                      516.49,
+                      227.12,
+                      540.15
+                    ],
+                    "text": "−−→\nHM = k−−→\nHG ⇐⇒"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      230.76,
+                      501.61,
+                      239.09,
+                      520.65
+                    ],
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      230.76,
+                      528.73,
+                      239.09,
+                      538.77
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      244.32,
+                      509.27,
+                      329.84,
+                      555.27
+                    ],
+                    "text": "xM −0 = 5k\nyM −3 = 0\nzM −2 = 0\n⇐⇒"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      333.48,
+                      501.61,
+                      341.81,
+                      520.65
+                    ],
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      333.48,
+                      528.73,
+                      341.81,
+                      538.77
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      150.48,
+                      509.27,
+                      388.15,
+                      560.35
+                    ],
+                    "text": "xM = 5k\nyM = 3\nzM = 2\nDonc les coordonnées de M sont (5k ; 3 ; 2)."
+                  }
+                ],
+                "text": "−−→\nHM = k−−→\nHG ⇐⇒\n\n\n\n\n\n\nxM −0 = 5k\nyM −3 = 0\nzM −2 = 0\n⇐⇒\n\n\n\n\n\n\nxM = 5k\nyM = 3\nzM = 2\nDonc les coordonnées de M sont (5k ; 3 ; 2)."
+              }
+            },
+            {
+              "id": "ex4-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    163.81,
+                    340.58,
+                    183.19
+                  ],
+                  "text": "En déduire que −−→\nAM ·−−→\nCM = 25k2 −25k +4."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      136.08,
+                      560.17,
+                      512.67,
+                      627.39
+                    ],
+                    "text": "Les coordonnées de −−→\nAM sont celles de M donc : (5k ; 3 ; 2).\nLes coordonnées de C sont (5 ;3 ;0), donc celles de −−→\nCM sont (5k −5 ;3−3 ;2−0)\nsoit (5k −5 ;0 ;2).\n−−→\nAM ·−−→\nCM = 5k ×(5k −5)+3×0+2×2 = 25k2 −25k +4"
+                  }
+                ],
+                "text": "Les coordonnées de −−→\nAM sont celles de M donc : (5k ; 3 ; 2).\nLes coordonnées de C sont (5 ;3 ;0), donc celles de −−→\nCM sont (5k −5 ;3−3 ;2−0)\nsoit (5k −5 ;0 ;2).\n−−→\nAM ·−−→\nCM = 5k ×(5k −5)+3×0+2×2 = 25k2 −25k +4"
+              }
+            },
+            {
+              "id": "ex4-q2-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    137.28,
+                    189.05,
+                    510.14,
+                    200.59
+                  ],
+                  "text": "Déterminer les valeurs de k pour lesquelles AMC est un triangle rectangle en M."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    208.48,
+                    506.06,
+                    233.43
+                  ],
+                  "text": "Dans toute la suite de l’exercice, on considère que le point M a pour coordonnées (1; 3; 2).\nOn admet que le triangle AMC est rectangle en M ."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    232.12,
+                    406.48,
+                    250.95
+                  ],
+                  "text": "On rappelle que le volume d’un tétraèdre est donné par la formule 1"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    401.16,
+                    238.69,
+                    512.72,
+                    258.39
+                  ],
+                  "text": "3 ×Aire de la base×h où"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    255.64,
+                    248.66,
+                    267.07
+                  ],
+                  "text": "h est la hauteur relative à la base."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      137.28,
+                      620.05,
+                      512.76,
+                      673.36
+                    ],
+                    "text": "Le triangle AMC est rectangle en M si et seulement si −−→\nAM ⊥−−→\nCM, c’est-à-dire\n−−→\nAM ·−−→\nCM ou encore 25k2 −25k +4 = 0.\nOn résout cette équation. ∆= (−25)2 −4×25×4 = 225 = 152"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      150.48,
+                      667.55,
+                      352.72,
+                      692.07
+                    ],
+                    "text": "L’équation admet deux solutions k′ = 25+15"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      324.36,
+                      667.55,
+                      376.84,
+                      699.63
+                    ],
+                    "text": "2×25 = 40"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      366.24,
+                      667.55,
+                      395.56,
+                      699.63
+                    ],
+                    "text": "50 = 4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      390.24,
+                      667.55,
+                      464.2,
+                      692.47
+                    ],
+                    "text": "5 et k′′ = 25−15"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      435.84,
+                      667.55,
+                      488.32,
+                      699.63
+                    ],
+                    "text": "2×25 = 10"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      477.72,
+                      667.55,
+                      507.04,
+                      699.63
+                    ],
+                    "text": "50 = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      501.72,
+                      682.43,
+                      507.04,
+                      692.47
+                    ],
+                    "text": "5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      150.48,
+                      691.55,
+                      225.4,
+                      716.07
+                    ],
+                    "text": "Donc pour k = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      220.08,
+                      691.55,
+                      266.68,
+                      716.47
+                    ],
+                    "text": "5 ou k = 4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      261.36,
+                      698.87,
+                      430.46,
+                      716.47
+                    ],
+                    "text": "5, le triangle AMC est rectangle en M."
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      99.24,
+                      730.91,
+                      512.58,
+                      740.95
+                    ],
+                    "text": "Amérique du Sud\n7\n26 septembre 2022"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      99.24,
+                      48.65,
+                      512.69,
+                      60.15
+                    ],
+                    "text": "Baccalauréat spécialité - corrigé\nA. P. M. E. P."
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      99.24,
+                      89.99,
+                      506.06,
+                      100.03
+                    ],
+                    "text": "Dans toute la suite de l’exercice, on considère que le point M a pour coordonnées (1; 3; 2)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      99.24,
+                      108.59,
+                      323.66,
+                      118.63
+                    ],
+                    "text": "On admet que le triangle AMC est rectangle en M."
+                  }
+                ],
+                "text": "Le triangle AMC est rectangle en M si et seulement si −−→\nAM ⊥−−→\nCM, c’est-à-dire\n−−→\nAM ·−−→\nCM ou encore 25k2 −25k +4 = 0.\nOn résout cette équation. ∆= (−25)2 −4×25×4 = 225 = 152\n\nL’équation admet deux solutions k′ = 25+15\n\n2×25 = 40\n\n50 = 4\n\n5 et k′′ = 25−15\n\n2×25 = 10\n\n50 = 1\n\n5\n\nDonc pour k = 1\n\n5 ou k = 4\n\n5, le triangle AMC est rectangle en M.\n\nAmérique du Sud\n7\n26 septembre 2022\n\nBaccalauréat spécialité - corrigé\nA. P. M. E. P.\n\nDans toute la suite de l’exercice, on considère que le point M a pour coordonnées (1; 3; 2).\n\nOn admet que le triangle AMC est rectangle en M."
+              }
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  475.09,
+                  512.74,
+                  505.15
+                ],
+                "text": "Soit M un point du segment [GH] tel que −−→\nHM = k−−→\nHG avec k un nombre réel de l’in-\ntervalle [0; 1]."
+              }
+            ],
+            "text": "Soit M un point du segment [GH] tel que −−→\nHM = k−−→\nHG avec k un nombre réel de l’in-\ntervalle [0; 1]."
+          }
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                274.85,
+                347.42,
+                286.35
+              ],
+              "text": "On considère le point K de coordonnées (1; 3; 0)."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex4-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.8,
+                    292.13,
+                    390.98,
+                    303.63
+                  ],
+                  "text": "Déterminer une équation cartésienne du plan (ACD)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      136.8,
+                      143.77,
+                      512.73,
+                      180.99
+                    ],
+                    "text": "Le plan (ACD) a pour vecteurs directeurs −−→\nAB et −−→\nAD, donc il a pour équation car-\ntésienne z = 0."
+                  }
+                ],
+                "text": "Le plan (ACD) a pour vecteurs directeurs −−→\nAB et −−→\nAD, donc il a pour équation car-\ntésienne z = 0."
+              }
+            },
+            {
+              "id": "ex4-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    309.53,
+                    498.5,
+                    321.03
+                  ],
+                  "text": "Justifier que le point K est le projeté orthogonal du point M sur le plan (ACD)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      136.08,
+                      179.69,
+                      367.46,
+                      240.99
+                    ],
+                    "text": "zK = 0 donc le point K appartient au plan (ACD).\n−−→\nMK a pour coordonnées (0 ;0 ;−2), donc\n• −−→\nMK ·−−→\nAB = 0 donc −−→\nMK ⊥−−→\nAB ;\n• −−→\nMK ·−−→\nAC = 0 donc −−→\nMK ⊥−−→\nAC."
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      232.69,
+                      512.76,
+                      262.75
+                    ],
+                    "text": "On en déduit que −−→\nMK est orthogonal au plan (ACD), et donc que K est le projeté\northogonal du point M sur le plan (ACD)."
+                  }
+                ],
+                "text": "zK = 0 donc le point K appartient au plan (ACD).\n−−→\nMK a pour coordonnées (0 ;0 ;−2), donc\n• −−→\nMK ·−−→\nAB = 0 donc −−→\nMK ⊥−−→\nAB ;\n• −−→\nMK ·−−→\nAC = 0 donc −−→\nMK ⊥−−→\nAC.\n\nOn en déduit que −−→\nMK est orthogonal au plan (ACD), et donc que K est le projeté\northogonal du point M sur le plan (ACD)."
+              }
+            },
+            {
+              "id": "ex4-q3-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    137.28,
+                    326.93,
+                    338.9,
+                    338.43
+                  ],
+                  "text": "En déduire le volume du tétraèdre MACD."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      137.28,
+                      266.75,
+                      316.96,
+                      284.23
+                    ],
+                    "text": "Le volume du tétraèdre MACD est : 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      274.19,
+                      411.26,
+                      313.12
+                    ],
+                    "text": "3 ×Aire de ACD×MK.\n−−→\nMK a pour coordonnées (0 ;0 ;−2), donc MK = 2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      308.15,
+                      423.14,
+                      325.63
+                    ],
+                    "text": "Le triangle ACD est rectangle en D donc a pour aire AD×DC"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      401.16,
+                      308.15,
+                      457.0,
+                      333.07
+                    ],
+                    "text": "2\n= 3×5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      444.12,
+                      308.15,
+                      481.0,
+                      333.07
+                    ],
+                    "text": "2\n= 15"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      473.04,
+                      315.59,
+                      484.94,
+                      333.07
+                    ],
+                    "text": "2 ."
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      332.63,
+                      438.76,
+                      350.11
+                    ],
+                    "text": "Le volume du tétraèdre MACD est donc, en unités de volume : 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      433.44,
+                      332.63,
+                      461.56,
+                      364.71
+                    ],
+                    "text": "3 × 15"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      453.6,
+                      340.07,
+                      496.94,
+                      364.71
+                    ],
+                    "text": "2 ×2 = 5."
+                  }
+                ],
+                "text": "Le volume du tétraèdre MACD est : 1\n\n3 ×Aire de ACD×MK.\n−−→\nMK a pour coordonnées (0 ;0 ;−2), donc MK = 2.\n\nLe triangle ACD est rectangle en D donc a pour aire AD×DC\n\n2\n= 3×5\n\n2\n= 15\n\n2 .\n\nLe volume du tétraèdre MACD est donc, en unités de volume : 1\n\n3 × 15\n\n2 ×2 = 5."
+              }
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  112.56,
+                  131.33,
+                  347.42,
+                  142.87
+                ],
+                "text": "On considère le point K de coordonnées (1; 3; 0)."
+              }
+            ],
+            "text": "On considère le point K de coordonnées (1; 3; 0)."
+          }
+        },
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                344.33,
+                404.06,
+                355.83
+              ],
+              "text": "On note P le projeté orthogonal du point D sur le plan (AMC)."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                357.47,
+                408.74,
+                371.31
+              ],
+              "text": "Calculer la distance DP; en donner une valeur arrondie à 10−1."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                99.24,
+                729.52,
+                512.58,
+                740.91
+              ],
+              "text": "Amérique du Sud\n4\n26 septembre 2022"
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  112.56,
+                  358.37,
+                  404.06,
+                  369.91
+                ],
+                "text": "On note P le projeté orthogonal du point D sur le plan (AMC)."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  126.48,
+                  375.35,
+                  512.85,
+                  398.95
+                ],
+                "text": "Si on considère D comme sommet du tétraèdre MACD, la base est le triangle AMC, et\nla hauteur est DP."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  126.48,
+                  398.99,
+                  413.19,
+                  416.47
+                ],
+                "text": "Le triangle AMC est rectangle en M donc son aire est : AM×MC"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  389.52,
+                  406.43,
+                  417.02,
+                  423.91
+                ],
+                "text": "2\n."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  126.48,
+                  417.49,
+                  163.28,
+                  445.36
+                ],
+                "text": "AM =\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  163.32,
+                  419.65,
+                  298.64,
+                  445.35
+                ],
+                "text": "(1−0)2 +(3−0)2 +(2−0)2 =\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  298.68,
+                  428.15,
+                  309.28,
+                  438.19
+                ],
+                "text": "14"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  126.48,
+                  432.97,
+                  163.76,
+                  460.84
+                ],
+                "text": "CM =\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  163.8,
+                  435.13,
+                  299.24,
+                  460.83
+                ],
+                "text": "(1−5)2 +(3−3)2 +(2−0)2 =\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  299.16,
+                  443.63,
+                  309.76,
+                  453.67
+                ],
+                "text": "20"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  126.48,
+                  465.59,
+                  216.02,
+                  475.63
+                ],
+                "text": "L’aire de AMC vaut :"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  219.48,
+                  449.77,
+                  227.84,
+                  466.35
+                ],
+                "text": "p"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  227.88,
+                  449.77,
+                  256.76,
+                  475.35
+                ],
+                "text": "14×\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  256.8,
+                  458.15,
+                  267.4,
+                  468.19
+                ],
+                "text": "20"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  240.84,
+                  457.21,
+                  287.96,
+                  483.07
+                ],
+                "text": "2\n=\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  287.88,
+                  465.59,
+                  301.22,
+                  475.63
+                ],
+                "text": "70."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  126.48,
+                  486.11,
+                  320.2,
+                  503.59
+                ],
+                "text": "Le tétraèdre MACD a donc pour volume : 1"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  314.88,
+                  485.17,
+                  339.68,
+                  518.19
+                ],
+                "text": "3 ×\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  339.72,
+                  477.73,
+                  423.44,
+                  510.75
+                ],
+                "text": "70×DP soit : DP\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  423.48,
+                  486.11,
+                  434.08,
+                  496.15
+                ],
+                "text": "70"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  414.96,
+                  493.55,
+                  437.9,
+                  511.03
+                ],
+                "text": "3\n."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  126.48,
+                  505.81,
+                  314.84,
+                  531.67
+                ],
+                "text": "On sait que ce volume vaut 5, donc : DP\np"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  314.88,
+                  514.19,
+                  325.48,
+                  524.23
+                ],
+                "text": "70"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  306.36,
+                  514.19,
+                  416.08,
+                  539.11
+                ],
+                "text": "3\n= 5 donc : DP = 15"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  401.4,
+                  522.61,
+                  409.76,
+                  539.19
+                ],
+                "text": "p"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  409.68,
+                  521.63,
+                  449.42,
+                  541.03
+                ],
+                "text": "70\n≈1,8."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  99.24,
+                  730.91,
+                  512.58,
+                  740.95
+                ],
+                "text": "Amérique du Sud\n8\n26 septembre 2022"
+              }
+            ],
+            "text": "On note P le projeté orthogonal du point D sur le plan (AMC).\n\nSi on considère D comme sommet du tétraèdre MACD, la base est le triangle AMC, et\nla hauteur est DP.\n\nLe triangle AMC est rectangle en M donc son aire est : AM×MC\n\n2\n.\n\nAM =\np\n\n(1−0)2 +(3−0)2 +(2−0)2 =\np\n\n14\n\nCM =\np\n\n(1−5)2 +(3−3)2 +(2−0)2 =\np\n\n20\n\nL’aire de AMC vaut :\n\np\n\n14×\np\n\n20\n\n2\n=\np\n\n70.\n\nLe tétraèdre MACD a donc pour volume : 1\n\n3 ×\np\n\n70×DP soit : DP\np\n\n70\n\n3\n.\n\nOn sait que ce volume vaut 5, donc : DP\np\n\n70\n\n3\n= 5 donc : DP = 15\n\np\n\n70\n≈1,8.\n\nAmérique du Sud\n8\n26 septembre 2022"
+          }
+        }
+      ]
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 97
+}

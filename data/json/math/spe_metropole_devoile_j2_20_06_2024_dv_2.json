@@ -1,0 +1,4581 @@
+{
+  "id": "spe_metropole_devoile_j2_20_06_2024_dv_2",
+  "subject": "math",
+  "year": 2024,
+  "metadata": {
+    "source_pdf": "math/2024/sujets/Spe_Metropole_devoile_J2_20_06_2024_DV_2.pdf",
+    "filename": "Spe_Metropole_devoile_J2_20_06_2024_DV_2.pdf",
+    "year": 2024,
+    "title": "Baccalauréat Métropole 20 juin 2024 J2 (dévoilé)",
+    "header_text": "A. P. M. E. P.\n\n; Baccalauréat Métropole 20 juin 2024 J2 (dévoilé)<\n\nSujet 2\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2024/corriges/Corrige_spe_Metro_devoile_20_06_2024_DV.pdf"
+  },
+  "instructions": "A. P. M. E. P.\n\n; Baccalauréat Métropole 20 juin 2024 J2 (dévoilé)<\n\nSujet 2\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        509.45,
+        70.13,
+        520.95,
+        127.66
+      ],
+      "text": "A. P. M. E. P."
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        134.64,
+        92.17,
+        460.67,
+        108.05
+      ],
+      "text": "; Baccalauréat Métropole 20 juin 2024 J2 (dévoilé)<"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        276.96,
+        117.77,
+        318.31,
+        132.89
+      ],
+      "text": "Sujet 2"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        156.24,
+        140.81,
+        438.98,
+        155.93
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "1",
+      "title": "EXERCICE 1",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.84,
+            180.15,
+            501.64,
+            191.65
+          ],
+          "text": "EXERCICE 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            204.74,
+            260.78,
+            216.17
+          ],
+          "text": "Les parties A et B sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            229.11,
+            130.3,
+            240.61
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            253.7,
+            501.78,
+            292.21
+          ],
+          "text": "Une société de vente en ligne procède à une étude du niveau de fidélité de ses clients. Elle\ndéfinit pour cela comme « régulier » un client qui a fait des achats chaque année depuis\ntrois ans."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            299.42,
+            501.69,
+            324.37
+          ],
+          "text": "Elle constate que 60 % de ses clients sont des clients réguliers, et que parmi eux, 47 % ont\nacheté la carte de fidélité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            331.46,
+            501.72,
+            356.41
+          ],
+          "text": "Par ailleurs, parmi l’ensemble de tous les clients de la société, 38 % ont acheté la carte de\nfidélité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            363.5,
+            428.66,
+            374.89
+          ],
+          "text": "On interroge au hasard un client et on considère les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            111.24,
+            380.9,
+            282.14,
+            392.33
+          ],
+          "text": "• R : « le client est un client régulier »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            111.24,
+            396.38,
+            308.42,
+            407.81
+          ],
+          "text": "• F : « le client a acheté la carte de fidélité »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            413.78,
+            288.36,
+            425.21
+          ],
+          "text": "Pour un évènement E quelconque, on note"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            413.78,
+            501.7,
+            438.73
+          ],
+          "text": "E son évènement contraire et P(E) sa probabi-\nlité."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.84,
+            180.15,
+            501.64,
+            191.65
+          ],
+          "text": "EXERCICE 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            204.74,
+            260.78,
+            216.17
+          ],
+          "text": "Les parties A et B sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            229.11,
+            130.3,
+            240.61
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            253.7,
+            501.78,
+            292.21
+          ],
+          "text": "Une société de vente en ligne procède à une étude du niveau de fidélité de ses clients. Elle\ndéfinit pour cela comme « régulier » un client qui a fait des achats chaque année depuis\ntrois ans."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            299.42,
+            501.69,
+            324.37
+          ],
+          "text": "Elle constate que 60 % de ses clients sont des clients réguliers, et que parmi eux, 47 % ont\nacheté la carte de fidélité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            331.46,
+            501.72,
+            356.41
+          ],
+          "text": "Par ailleurs, parmi l’ensemble de tous les clients de la société, 38 % ont acheté la carte de\nfidélité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            363.5,
+            428.66,
+            374.89
+          ],
+          "text": "On interroge au hasard un client et on considère les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            111.24,
+            380.9,
+            282.14,
+            392.33
+          ],
+          "text": "• R : « le client est un client régulier »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            111.24,
+            396.38,
+            308.42,
+            407.81
+          ],
+          "text": "• F : « le client a acheté la carte de fidélité »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            413.78,
+            288.36,
+            425.21
+          ],
+          "text": "Pour un évènement E quelconque, on note"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            413.78,
+            501.7,
+            438.73
+          ],
+          "text": "E son évènement contraire et P(E) sa probabi-\nlité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            106.92,
+            457.47,
+            368.34,
+            486.61
+          ],
+          "text": "1.\na. Reproduire l’arbre ci-contre et compléter les\npointillés."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            133.8,
+            492.51,
+            368.38,
+            531.01
+          ],
+          "text": "b. Calculer la probabilité que le client interrogé soit\nun client régulier et qu’il ait acheté la carte de fi-\ndélité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            134.88,
+            536.91,
+            368.49,
+            575.53
+          ],
+          "text": "c. Déterminer la probabilité que le client ait acheté\nla carte de fidélité sachant que ce n’est pas un\nclient régulier."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            133.8,
+            581.43,
+            368.4,
+            620.05
+          ],
+          "text": "d. Le directeur du service des ventes affirme que\nparmi les clients qui ont acheté la carte de fidé-\nlité, plus de 80 % sont des clients réguliers."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            148.08,
+            624.14,
+            336.5,
+            635.53
+          ],
+          "text": "Cette affirmation est-elle exacte? Justifier."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            411.93,
+            506.73,
+            444.54,
+            522.1
+          ],
+          "text": "R\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            462.95,
+            484.6,
+            496.05,
+            497.69
+          ],
+          "text": "F\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            462.95,
+            520.68,
+            496.05,
+            535.97
+          ],
+          "text": "F\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            411.93,
+            561.33,
+            496.05,
+            590.45
+          ],
+          "text": "R\n...\nF"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            490.32,
+            599.61,
+            496.05,
+            609.65
+          ],
+          "text": "F"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            106.92,
+            635.43,
+            501.69,
+            660.49
+          ],
+          "text": "2. On choisit un échantillon de 20 clients de la société sélectionnés de manière indé-\npendante. On suppose que ce choix s’assimile à un tirage avec remise."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            120.84,
+            667.7,
+            506.4,
+            692.69
+          ],
+          "text": "On note X la variable aléatoire qui à chaque échantillon de 20 clients associe le nombre\nde clients ayant acheté la carte de fidélité parmi eux. On rappelle que P(F) = 0,38."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            120.84,
+            695.78,
+            431.78,
+            711.13
+          ],
+          "text": "Les valeurs des probabilités demandées seront arrondies à 10−3 près."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            131.04,
+            717.03,
+            418.94,
+            728.57
+          ],
+          "text": "a. Quelle loi de probabilité suit la variable aléatoire X ? Justifier."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            130.44,
+            732.51,
+            501.72,
+            757.57
+          ],
+          "text": "b. Déterminer la probabilité qu’au moins 5 clients aient acheté la carte de fidélité\ndans un échantillon de 20."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            20.91,
+            501.65,
+            32.41
+          ],
+          "text": "Baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            60.87,
+            130.7,
+            72.37
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            85.46,
+            501.72,
+            123.97
+          ],
+          "text": "La société demande à un institut de sondage de faire une enquête sur le profil de ses clients\nréguliers. L’institut a élaboré un questionnaire en ligne constitué d’un nombre variable de\nquestions."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            131.18,
+            501.69,
+            156.13
+          ],
+          "text": "On choisit au hasard un échantillon de 1 000 clients réguliers, à qui le questionnaire est\nproposé. On considère que ces 1 000 clients répondent."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            108.12,
+            168.11,
+            501.8,
+            207.49
+          ],
+          "text": "• Pour les remercier, la société offre un bon d’achat à chacun des clients de l’échan-\ntillon. Le montant de ce bon d’achat dépend du nombre de questions posées au\nclient."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            108.12,
+            210.71,
+            501.84,
+            250.09
+          ],
+          "text": "• La société souhaite récompenser particulièrement les clients de l’échantillon qui ont\nacheté une carte de fidélité et, en plus du bon d’achat, offre à chacun d’eux une prime\nd’un montant de 50 euros versée sur la carte de fidélité."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            262.94,
+            501.48,
+            287.89
+          ],
+          "text": "On note Y1 la variable aléatoire qui, à chaque échantillon de 1 000 clients réguliers, associe\nle total, en euros, des montants du bon d’achat des 1000 clients."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            294.98,
+            501.69,
+            319.93
+          ],
+          "text": "On admet que son espérance E (Y1) est égale à 30 000 et que sa variance V (Y1) est égale à\n100 000."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            327.14,
+            501.9,
+            379.09
+          ],
+          "text": "On note X2 la variable aléatoire qui, à chaque échantillon de 1 000 clients réguliers, associe\nle nombre de clients ayant acheté la carte de fidélité parmi eux, et on note Y2 la variable\naléatoire qui, à chaque échantillon de 1 000 clients, associe le total, en euros, des montants\nde la prime de fidélité versée."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            385.43,
+            467.66,
+            399.37
+          ],
+          "text": "On admet que X2 suit la loi binomiale de paramètres 1 000 et 0,47 et que Y2 = 50X2."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            106.92,
+            416.43,
+            501.84,
+            441.49
+          ],
+          "text": "1. Calculer l’espérance E (X2) de la variable X2 et interpréter le résultat dans le contexte\nde l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            453.47,
+            501.9,
+            494.53
+          ],
+          "text": "On note Y = Y1 + Y2 la variable aléatoire égale au total général, en euros, des montants\nofferts (bon d’achat et prime de fidélité) aux 1 000 clients. On admet que les variables aléa-\ntoires Y1 et Y2 sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            498.09,
+            317.93,
+            515.57
+          ],
+          "text": "On note Z la variable aléatoire définie par Z =\nY"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            304.92,
+            504.14,
+            331.22,
+            522.97
+          ],
+          "text": "1000."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            106.92,
+            530.79,
+            427.94,
+            542.33
+          ],
+          "text": "2. Préciser ce que modélise la variable Z dans le contexte de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            120.84,
+            549.38,
+            501.69,
+            574.33
+          ],
+          "text": "Vérifier que son espérance E(Z) est égale à 53,5 et que sa variance V (Z) est égale à\n0,722 75."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            106.92,
+            578.31,
+            501.57,
+            603.37
+          ],
+          "text": "3. À l’aide de l’inégalité de Bienaymé-Tchebychev, vérifier que la probabilité que Z soit\nstrictement compris entre 51,7 euros et 55,3 euros est supérieure à 0,75."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex1-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    106.92,
+                    457.47,
+                    368.34,
+                    486.61
+                  ],
+                  "text": "Reproduire l’arbre ci-contre et compléter les\npointillés."
+                }
+              ]
+            },
+            {
+              "id": "ex1-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    133.8,
+                    492.51,
+                    368.38,
+                    531.01
+                  ],
+                  "text": "Calculer la probabilité que le client interrogé soit\nun client régulier et qu’il ait acheté la carte de fi-\ndélité."
+                }
+              ]
+            },
+            {
+              "id": "ex1-q1-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    134.88,
+                    536.91,
+                    368.49,
+                    575.53
+                  ],
+                  "text": "Déterminer la probabilité que le client ait acheté\nla carte de fidélité sachant que ce n’est pas un\nclient régulier."
+                }
+              ]
+            },
+            {
+              "id": "ex1-q1-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    133.8,
+                    581.43,
+                    368.4,
+                    620.05
+                  ],
+                  "text": "Le directeur du service des ventes affirme que\nparmi les clients qui ont acheté la carte de fidé-\nlité, plus de 80 % sont des clients réguliers."
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    148.08,
+                    624.14,
+                    336.5,
+                    635.53
+                  ],
+                  "text": "Cette affirmation est-elle exacte? Justifier."
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    411.93,
+                    506.73,
+                    444.54,
+                    522.1
+                  ],
+                  "text": "R\n..."
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    462.95,
+                    484.6,
+                    496.05,
+                    497.69
+                  ],
+                  "text": "F\n..."
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    462.95,
+                    520.68,
+                    496.05,
+                    535.97
+                  ],
+                  "text": "F\n..."
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    411.93,
+                    561.33,
+                    496.05,
+                    590.45
+                  ],
+                  "text": "R\n...\nF"
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    490.32,
+                    599.61,
+                    496.05,
+                    609.65
+                  ],
+                  "text": "F"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  106.92,
+                  635.55,
+                  501.78,
+                  661.73
+                ],
+                "text": "La variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47 donc\nson espérance E(X2) est égale à np = 1000×0,47 = 470."
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  120.84,
+                  668.25,
+                  501.81,
+                  691.85
+                ],
+                "text": "Cela signifie qu’en moyenne, sur un échantillon de 1 000 clients réguliers, il y en aura\n470 qui ont acheté la carte de fidélité."
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  93.6,
+                  703.91,
+                  501.9,
+                  743.57
+                ],
+                "text": "On note Y = Y1 + Y2 la variable aléatoire égale au total général, en euros, des montants\nofferts (bon d’achat et prime de fidélité) aux 1 000 clients. On admet que les variables aléa-\ntoires Y1 et Y2 sont indépendantes."
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  93.6,
+                  742.17,
+                  317.93,
+                  759.53
+                ],
+                "text": "On note Z la variable aléatoire définie par Z =\nY"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  304.92,
+                  749.49,
+                  331.22,
+                  767.09
+                ],
+                "text": "1000."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  93.6,
+                  20.91,
+                  501.65,
+                  32.41
+                ],
+                "text": "Corrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+              }
+            ],
+            "text": "La variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47 donc\nson espérance E(X2) est égale à np = 1000×0,47 = 470.\n\nCela signifie qu’en moyenne, sur un échantillon de 1 000 clients réguliers, il y en aura\n470 qui ont acheté la carte de fidélité.\n\nOn note Y = Y1 + Y2 la variable aléatoire égale au total général, en euros, des montants\nofferts (bon d’achat et prime de fidélité) aux 1 000 clients. On admet que les variables aléa-\ntoires Y1 et Y2 sont indépendantes.\n\nOn note Z la variable aléatoire définie par Z =\nY\n\n1000.\n\nCorrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                106.92,
+                635.43,
+                501.69,
+                660.49
+              ],
+              "text": "On choisit un échantillon de 20 clients de la société sélectionnés de manière indé-\npendante. On suppose que ce choix s’assimile à un tirage avec remise."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                120.84,
+                667.7,
+                506.4,
+                692.69
+              ],
+              "text": "On note X la variable aléatoire qui à chaque échantillon de 20 clients associe le nombre\nde clients ayant acheté la carte de fidélité parmi eux. On rappelle que P(F) = 0,38."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                120.84,
+                695.78,
+                431.78,
+                711.13
+              ],
+              "text": "Les valeurs des probabilités demandées seront arrondies à 10−3 près."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex1-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    131.04,
+                    717.03,
+                    418.94,
+                    728.57
+                  ],
+                  "text": "Quelle loi de probabilité suit la variable aléatoire X ? Justifier."
+                }
+              ]
+            },
+            {
+              "id": "ex1-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    130.44,
+                    732.51,
+                    501.72,
+                    757.57
+                  ],
+                  "text": "Déterminer la probabilité qu’au moins 5 clients aient acheté la carte de fidélité\ndans un échantillon de 20."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    20.91,
+                    501.65,
+                    32.41
+                  ],
+                  "text": "Baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    60.87,
+                    130.7,
+                    72.37
+                  ],
+                  "text": "Partie B"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    85.46,
+                    501.72,
+                    123.97
+                  ],
+                  "text": "La société demande à un institut de sondage de faire une enquête sur le profil de ses clients\nréguliers. L’institut a élaboré un questionnaire en ligne constitué d’un nombre variable de\nquestions."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    131.18,
+                    501.69,
+                    156.13
+                  ],
+                  "text": "On choisit au hasard un échantillon de 1 000 clients réguliers, à qui le questionnaire est\nproposé. On considère que ces 1 000 clients répondent."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    108.12,
+                    168.11,
+                    501.8,
+                    207.49
+                  ],
+                  "text": "• Pour les remercier, la société offre un bon d’achat à chacun des clients de l’échan-\ntillon. Le montant de ce bon d’achat dépend du nombre de questions posées au\nclient."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    108.12,
+                    210.71,
+                    501.84,
+                    250.09
+                  ],
+                  "text": "• La société souhaite récompenser particulièrement les clients de l’échantillon qui ont\nacheté une carte de fidélité et, en plus du bon d’achat, offre à chacun d’eux une prime\nd’un montant de 50 euros versée sur la carte de fidélité."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    262.94,
+                    501.48,
+                    287.89
+                  ],
+                  "text": "On note Y1 la variable aléatoire qui, à chaque échantillon de 1 000 clients réguliers, associe\nle total, en euros, des montants du bon d’achat des 1000 clients."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    294.98,
+                    501.69,
+                    319.93
+                  ],
+                  "text": "On admet que son espérance E (Y1) est égale à 30 000 et que sa variance V (Y1) est égale à\n100 000."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    327.14,
+                    501.9,
+                    379.09
+                  ],
+                  "text": "On note X2 la variable aléatoire qui, à chaque échantillon de 1 000 clients réguliers, associe\nle nombre de clients ayant acheté la carte de fidélité parmi eux, et on note Y2 la variable\naléatoire qui, à chaque échantillon de 1 000 clients, associe le total, en euros, des montants\nde la prime de fidélité versée."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    93.6,
+                    385.43,
+                    467.66,
+                    399.37
+                  ],
+                  "text": "On admet que X2 suit la loi binomiale de paramètres 1 000 et 0,47 et que Y2 = 50X2."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  106.92,
+                  60.87,
+                  501.5,
+                  72.41
+                ],
+                "text": "La variable Z représente la moyenne par client des montants offerts aux 1 000 clients."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  135.24,
+                  86.73,
+                  308.66,
+                  96.77
+                ],
+                "text": "• On utilise la linéarité de l’espérance."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  145.32,
+                  98.61,
+                  178.01,
+                  116.09
+                ],
+                "text": "Z =\nY"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  165.0,
+                  98.61,
+                  272.67,
+                  123.53
+                ],
+                "text": "1000 donc E(Z) = E(Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  250.32,
+                  105.11,
+                  462.86,
+                  123.53
+                ],
+                "text": "1000, et Y = Y1 +Y2 donc E(Y ) = E(Y1)+E(Y2)."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  122.63,
+                  414.16,
+                  135.29
+                ],
+                "text": "De plus, Y2 = 50X2 donc E(Y2) = 50E(X2) = 50×470 = 23500"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  137.75,
+                  264.38,
+                  149.81
+                ],
+                "text": "On sait que E(Y1) = 30000."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  152.87,
+                  501.72,
+                  164.93
+                ],
+                "text": "On en déduit que : E(Y ) = E(Y1)+E(Y2) = 30000+23500 = 53500, et donc que"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  164.25,
+                  201.39,
+                  181.61
+                ],
+                "text": "E(Z) = E(Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  179.04,
+                  164.25,
+                  242.32,
+                  189.17
+                ],
+                "text": "1000 = 53500"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  217.44,
+                  170.63,
+                  276.86,
+                  189.17
+                ],
+                "text": "1000 = 53,5."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  135.24,
+                  190.77,
+                  480.5,
+                  200.81
+                ],
+                "text": "• Les variables étant indépendantes, on va utiliser l’additivité de la variance."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.6,
+                  203.76,
+                  501.74,
+                  217.01
+                ],
+                "text": "V (Y ) = V (Y1 + Y2) = V (Y1) +V (Y2), V (Y2) = V (50X2) = 502V (X2) = 2500V (X2),"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  208.55,
+                  217.85,
+                  233.45
+                ],
+                "text": "et V (Z) = V\nμ\nY"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  204.84,
+                  230.85,
+                  227.08,
+                  240.89
+                ],
+                "text": "1000"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  228.48,
+                  208.55,
+                  270.27,
+                  233.45
+                ],
+                "text": "¶\n= V (Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  245.04,
+                  216.09,
+                  308.79,
+                  240.89
+                ],
+                "text": "10002 = V (Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  229.56,
+                  501.64,
+                  267.41
+                ],
+                "text": "106\nLa variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47\ndonc sa variance V (X2) est égale à np(1−p) = 1000×0,47×(1−0,47) = 249,1."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  270.47,
+                  426.86,
+                  282.53
+                ],
+                "text": "On en déduit que V (Y2) = 2500V (X2) = 2500×249,1 = 622750."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.6,
+                  285.59,
+                  374.18,
+                  311.21
+                ],
+                "text": "On sait que V (Y1) = 100000 donc\nV (Y ) = V (Y1)+V (Y2) = 100000+622750 = 722750."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.6,
+                  311.37,
+                  203.67,
+                  328.85
+                ],
+                "text": "V (Z) = V (Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  184.44,
+                  311.37,
+                  249.88,
+                  336.29
+                ],
+                "text": "106 = 722750"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  225.96,
+                  317.87,
+                  297.76,
+                  336.29
+                ],
+                "text": "106\n= 0,72275"
+              }
+            ],
+            "text": "La variable Z représente la moyenne par client des montants offerts aux 1 000 clients.\n\n• On utilise la linéarité de l’espérance.\n\nZ =\nY\n\n1000 donc E(Z) = E(Y )\n\n1000, et Y = Y1 +Y2 donc E(Y ) = E(Y1)+E(Y2).\n\nDe plus, Y2 = 50X2 donc E(Y2) = 50E(X2) = 50×470 = 23500\n\nOn sait que E(Y1) = 30000.\n\nOn en déduit que : E(Y ) = E(Y1)+E(Y2) = 30000+23500 = 53500, et donc que\n\nE(Z) = E(Y )\n\n1000 = 53500\n\n1000 = 53,5.\n\n• Les variables étant indépendantes, on va utiliser l’additivité de la variance.\n\nV (Y ) = V (Y1 + Y2) = V (Y1) +V (Y2), V (Y2) = V (50X2) = 502V (X2) = 2500V (X2),\n\net V (Z) = V\nμ\nY\n\n1000\n\n¶\n= V (Y )\n\n10002 = V (Y )\n\n106\nLa variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47\ndonc sa variance V (X2) est égale à np(1−p) = 1000×0,47×(1−0,47) = 249,1.\n\nOn en déduit que V (Y2) = 2500V (X2) = 2500×249,1 = 622750.\n\nOn sait que V (Y1) = 100000 donc\nV (Y ) = V (Y1)+V (Y2) = 100000+622750 = 722750.\n\nV (Z) = V (Y )\n\n106 = 722750\n\n106\n= 0,72275"
+          }
+        },
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                106.92,
+                416.43,
+                501.84,
+                441.49
+              ],
+              "text": "Calculer l’espérance E (X2) de la variable X2 et interpréter le résultat dans le contexte\nde l’exercice."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                93.6,
+                453.47,
+                501.9,
+                494.53
+              ],
+              "text": "On note Y = Y1 + Y2 la variable aléatoire égale au total général, en euros, des montants\nofferts (bon d’achat et prime de fidélité) aux 1 000 clients. On admet que les variables aléa-\ntoires Y1 et Y2 sont indépendantes."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                93.6,
+                498.09,
+                317.93,
+                515.57
+              ],
+              "text": "On note Z la variable aléatoire définie par Z =\nY"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                304.92,
+                504.14,
+                331.22,
+                522.97
+              ],
+              "text": "1000."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  106.92,
+                  635.55,
+                  501.78,
+                  661.73
+                ],
+                "text": "La variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47 donc\nson espérance E(X2) est égale à np = 1000×0,47 = 470."
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  120.84,
+                  668.25,
+                  501.81,
+                  691.85
+                ],
+                "text": "Cela signifie qu’en moyenne, sur un échantillon de 1 000 clients réguliers, il y en aura\n470 qui ont acheté la carte de fidélité."
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  93.6,
+                  703.91,
+                  501.9,
+                  743.57
+                ],
+                "text": "On note Y = Y1 + Y2 la variable aléatoire égale au total général, en euros, des montants\nofferts (bon d’achat et prime de fidélité) aux 1 000 clients. On admet que les variables aléa-\ntoires Y1 et Y2 sont indépendantes."
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  93.6,
+                  742.17,
+                  317.93,
+                  759.53
+                ],
+                "text": "On note Z la variable aléatoire définie par Z =\nY"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  304.92,
+                  749.49,
+                  331.22,
+                  767.09
+                ],
+                "text": "1000."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  93.6,
+                  20.91,
+                  501.65,
+                  32.41
+                ],
+                "text": "Corrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+              }
+            ],
+            "text": "La variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47 donc\nson espérance E(X2) est égale à np = 1000×0,47 = 470.\n\nCela signifie qu’en moyenne, sur un échantillon de 1 000 clients réguliers, il y en aura\n470 qui ont acheté la carte de fidélité.\n\nOn note Y = Y1 + Y2 la variable aléatoire égale au total général, en euros, des montants\nofferts (bon d’achat et prime de fidélité) aux 1 000 clients. On admet que les variables aléa-\ntoires Y1 et Y2 sont indépendantes.\n\nOn note Z la variable aléatoire définie par Z =\nY\n\n1000.\n\nCorrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                106.92,
+                530.79,
+                427.94,
+                542.33
+              ],
+              "text": "Préciser ce que modélise la variable Z dans le contexte de l’exercice."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                120.84,
+                549.38,
+                501.69,
+                574.33
+              ],
+              "text": "Vérifier que son espérance E(Z) est égale à 53,5 et que sa variance V (Z) est égale à\n0,722 75."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  106.92,
+                  60.87,
+                  501.5,
+                  72.41
+                ],
+                "text": "La variable Z représente la moyenne par client des montants offerts aux 1 000 clients."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  135.24,
+                  86.73,
+                  308.66,
+                  96.77
+                ],
+                "text": "• On utilise la linéarité de l’espérance."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  145.32,
+                  98.61,
+                  178.01,
+                  116.09
+                ],
+                "text": "Z =\nY"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  165.0,
+                  98.61,
+                  272.67,
+                  123.53
+                ],
+                "text": "1000 donc E(Z) = E(Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  250.32,
+                  105.11,
+                  462.86,
+                  123.53
+                ],
+                "text": "1000, et Y = Y1 +Y2 donc E(Y ) = E(Y1)+E(Y2)."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  122.63,
+                  414.16,
+                  135.29
+                ],
+                "text": "De plus, Y2 = 50X2 donc E(Y2) = 50E(X2) = 50×470 = 23500"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  137.75,
+                  264.38,
+                  149.81
+                ],
+                "text": "On sait que E(Y1) = 30000."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  152.87,
+                  501.72,
+                  164.93
+                ],
+                "text": "On en déduit que : E(Y ) = E(Y1)+E(Y2) = 30000+23500 = 53500, et donc que"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  164.25,
+                  201.39,
+                  181.61
+                ],
+                "text": "E(Z) = E(Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  179.04,
+                  164.25,
+                  242.32,
+                  189.17
+                ],
+                "text": "1000 = 53500"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  217.44,
+                  170.63,
+                  276.86,
+                  189.17
+                ],
+                "text": "1000 = 53,5."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  135.24,
+                  190.77,
+                  480.5,
+                  200.81
+                ],
+                "text": "• Les variables étant indépendantes, on va utiliser l’additivité de la variance."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.6,
+                  203.76,
+                  501.74,
+                  217.01
+                ],
+                "text": "V (Y ) = V (Y1 + Y2) = V (Y1) +V (Y2), V (Y2) = V (50X2) = 502V (X2) = 2500V (X2),"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  208.55,
+                  217.85,
+                  233.45
+                ],
+                "text": "et V (Z) = V\nμ\nY"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  204.84,
+                  230.85,
+                  227.08,
+                  240.89
+                ],
+                "text": "1000"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  228.48,
+                  208.55,
+                  270.27,
+                  233.45
+                ],
+                "text": "¶\n= V (Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  245.04,
+                  216.09,
+                  308.79,
+                  240.89
+                ],
+                "text": "10002 = V (Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  229.56,
+                  501.64,
+                  267.41
+                ],
+                "text": "106\nLa variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47\ndonc sa variance V (X2) est égale à np(1−p) = 1000×0,47×(1−0,47) = 249,1."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.84,
+                  270.47,
+                  426.86,
+                  282.53
+                ],
+                "text": "On en déduit que V (Y2) = 2500V (X2) = 2500×249,1 = 622750."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.6,
+                  285.59,
+                  374.18,
+                  311.21
+                ],
+                "text": "On sait que V (Y1) = 100000 donc\nV (Y ) = V (Y1)+V (Y2) = 100000+622750 = 722750."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  144.6,
+                  311.37,
+                  203.67,
+                  328.85
+                ],
+                "text": "V (Z) = V (Y )"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  184.44,
+                  311.37,
+                  249.88,
+                  336.29
+                ],
+                "text": "106 = 722750"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  225.96,
+                  317.87,
+                  297.76,
+                  336.29
+                ],
+                "text": "106\n= 0,72275"
+              }
+            ],
+            "text": "La variable Z représente la moyenne par client des montants offerts aux 1 000 clients.\n\n• On utilise la linéarité de l’espérance.\n\nZ =\nY\n\n1000 donc E(Z) = E(Y )\n\n1000, et Y = Y1 +Y2 donc E(Y ) = E(Y1)+E(Y2).\n\nDe plus, Y2 = 50X2 donc E(Y2) = 50E(X2) = 50×470 = 23500\n\nOn sait que E(Y1) = 30000.\n\nOn en déduit que : E(Y ) = E(Y1)+E(Y2) = 30000+23500 = 53500, et donc que\n\nE(Z) = E(Y )\n\n1000 = 53500\n\n1000 = 53,5.\n\n• Les variables étant indépendantes, on va utiliser l’additivité de la variance.\n\nV (Y ) = V (Y1 + Y2) = V (Y1) +V (Y2), V (Y2) = V (50X2) = 502V (X2) = 2500V (X2),\n\net V (Z) = V\nμ\nY\n\n1000\n\n¶\n= V (Y )\n\n10002 = V (Y )\n\n106\nLa variable aléatoire X2 suit la loi binomiale de paramètres n = 1000 et p = 0,47\ndonc sa variance V (X2) est égale à np(1−p) = 1000×0,47×(1−0,47) = 249,1.\n\nOn en déduit que V (Y2) = 2500V (X2) = 2500×249,1 = 622750.\n\nOn sait que V (Y1) = 100000 donc\nV (Y ) = V (Y1)+V (Y2) = 100000+622750 = 722750.\n\nV (Z) = V (Y )\n\n106 = 722750\n\n106\n= 0,72275"
+          }
+        },
+        {
+          "id": "ex1-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                106.92,
+                578.31,
+                501.57,
+                603.37
+              ],
+              "text": "À l’aide de l’inégalité de Bienaymé-Tchebychev, vérifier que la probabilité que Z soit\nstrictement compris entre 51,7 euros et 55,3 euros est supérieure à 0,75."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  106.92,
+                  344.07,
+                  501.52,
+                  369.17
+                ],
+                "text": "La variable aléatoire Z a pour espérance E(Z) = 53,5 et pour variance V (Z) = 0,72275\ndonc, d’après l’inégalité de Bienaymé-Tchebychev, on a :"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  120.84,
+                  371.28,
+                  343.95,
+                  391.13
+                ],
+                "text": "pour tout δ ∈\n¤\n0 ; +∞\n£\n, P\n¡ ̄ ̄Z −E(Z)\n ̄ ̄ ⩾δ\n¢ ⩽V (Z)"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  327.0,
+                  381.09,
+                  347.78,
+                  396.26
+                ],
+                "text": "δ2\n."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  120.84,
+                  402.23,
+                  455.32,
+                  413.21
+                ],
+                "text": "51,7 < Z < 55,3 ⇐⇒53,5−1,8 < Z < 53,5+1,8 ⇐⇒−1,8 < Z −53,5 < 1,8"
+              },
+              {
+                "type": "code",
+                "page": 2,
+                "bbox": [
+                  193.92,
+                  410.51,
+                  285.64,
+                  429.77
+                ],
+                "text": "⇐⇒\n ̄ ̄Z −53,5\n ̄ ̄ < 1,8"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  120.84,
+                  434.1,
+                  501.72,
+                  446.45
+                ],
+                "text": "En remplaçant E(Z) et V (Z) par leurs valeurs, et en prenant δ = 1,8, l’inégalité de"
+              },
+              {
+                "type": "code",
+                "page": 2,
+                "bbox": [
+                  120.84,
+                  444.12,
+                  403.96,
+                  463.97
+                ],
+                "text": "Bienaymé-Tchebychev devient : P\n¡ ̄ ̄Z −53,5\n ̄ ̄ ⩾1,8\n¢ ⩽0,72275"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  376.92,
+                  460.08,
+                  395.23,
+                  471.53
+                ],
+                "text": "1,82"
+              },
+              {
+                "type": "code",
+                "page": 2,
+                "bbox": [
+                  120.84,
+                  472.79,
+                  471.64,
+                  492.05
+                ],
+                "text": "En considérant l’évènement contraire, on a : P\n¡ ̄ ̄Z −53,5\n ̄ ̄ < 1,8\n¢\n> 1−0,72275"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  444.48,
+                  482.01,
+                  475.58,
+                  499.61
+                ],
+                "text": "1,82\n."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  120.84,
+                  502.77,
+                  172.72,
+                  520.13
+                ],
+                "text": "1−0,72275"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  145.56,
+                  509.15,
+                  209.92,
+                  527.69
+                ],
+                "text": "1,82\n≈0,777"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  120.84,
+                  531.57,
+                  501.69,
+                  555.17
+                ],
+                "text": "Donc la probabilité que Z soit strictement compris entre 51,7 euros et 55,3 euros est\nsupérieure à 0,75."
+              }
+            ],
+            "text": "La variable aléatoire Z a pour espérance E(Z) = 53,5 et pour variance V (Z) = 0,72275\ndonc, d’après l’inégalité de Bienaymé-Tchebychev, on a :\n\npour tout δ ∈\n¤\n0 ; +∞\n£\n, P\n¡ ̄ ̄Z −E(Z)\n ̄ ̄ ⩾δ\n¢ ⩽V (Z)\n\nδ2\n.\n\n51,7 < Z < 55,3 ⇐⇒53,5−1,8 < Z < 53,5+1,8 ⇐⇒−1,8 < Z −53,5 < 1,8\n\n⇐⇒\n ̄ ̄Z −53,5\n ̄ ̄ < 1,8\n\nEn remplaçant E(Z) et V (Z) par leurs valeurs, et en prenant δ = 1,8, l’inégalité de\n\nBienaymé-Tchebychev devient : P\n¡ ̄ ̄Z −53,5\n ̄ ̄ ⩾1,8\n¢ ⩽0,72275\n\n1,82\n\nEn considérant l’évènement contraire, on a : P\n¡ ̄ ̄Z −53,5\n ̄ ̄ < 1,8\n¢\n> 1−0,72275\n\n1,82\n.\n\n1−0,72275\n\n1,82\n≈0,777\n\nDonc la probabilité que Z soit strictement compris entre 51,7 euros et 55,3 euros est\nsupérieure à 0,75."
+          }
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "EXERCICE 2",
+      "points": 4.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.84,
+            628.11,
+            501.64,
+            639.61
+          ],
+          "text": "EXERCICE 2\n4 points"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "s",
+      "title": "exercice s",
+      "points": null,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            654.09,
+            501.83,
+            691.25
+          ],
+          "text": "Pour chacune des affirmations suivantes, indiquer si elle est vraie ou fausse. Chaque réponse\ndoit être justifiée. Une réponse non justifiée ne rapporte aucun point. Les quatre questions de\ncet exercice sont indépendantes."
+        },
+        {
+          "type": "code",
+          "page": 2,
+          "bbox": [
+            93.6,
+            695.51,
+            483.66,
+            717.41
+          ],
+          "text": "Dans l’espace rapporté à un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́\n, on considère les points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            195.12,
+            732.59,
+            399.98,
+            744.85
+          ],
+          "text": "A(0 ; 4 ; −1),\nB(6; 1; 5)\net\nC(6 ; −2 ; −1)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Métropole\n2\n20 juin 2024"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            20.91,
+            501.65,
+            32.41
+          ],
+          "text": "Baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            60.98,
+            333.98,
+            72.37
+          ],
+          "text": "On admet que les points A, B et C ne sont pas alignés."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            90.59,
+            222.32,
+            109.97
+          ],
+          "text": "Affirmation 1 : Le vecteur −→\nn"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            223.32,
+            79.07,
+            229.29,
+            89.11
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            223.32,
+            84.98,
+            241.84,
+            123.37
+          ],
+          "text": "\n2\n2\n−1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            241.92,
+            79.07,
+            247.89,
+            89.11
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            241.92,
+            97.07,
+            416.9,
+            109.93
+          ],
+          "text": "est un vecteur normal au plan (ABC)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            135.51,
+            406.41,
+            147.01
+          ],
+          "text": "Affirmation 2 : Une représentation paramétrique de la droite (AB) est"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            238.44,
+            158.27,
+            246.77,
+            177.31
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            238.44,
+            185.39,
+            246.77,
+            195.43
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            252.0,
+            163.67,
+            356.78,
+            203.09
+          ],
+          "text": "x\n=\n2+2t\ny\n=\n3−t\nz\n=\n1+2t\noù t ∈R."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            220.91,
+            501.69,
+            260.21
+          ],
+          "text": "Affirmation 3 : Une équation cartésienne du plan P passant par le point C et orthogonal à\nla droite(AB) est\n2x +2y −z −9 = 0."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            281.78,
+            501.82,
+            310.69
+          ],
+          "text": "On considère les droites D et D′ dont on donne ci-dessous une représentation paramé-\ntrique :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            148.44,
+            341.15,
+            156.35,
+            351.18
+          ],
+          "text": "D"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            167.64,
+            322.07,
+            175.97,
+            341.11
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            167.64,
+            349.19,
+            175.97,
+            359.23
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            181.2,
+            327.47,
+            304.64,
+            366.89
+          ],
+          "text": "x\n=\n3+ t\ny\n=\n1+ t\nz\n=\n2+ t\noù t ∈R ;\nD′"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            315.84,
+            322.07,
+            324.17,
+            341.11
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            315.84,
+            349.19,
+            324.17,
+            359.23
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            329.4,
+            325.89,
+            374.84,
+            339.77
+          ],
+          "text": "x\n=\n2t′"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            329.76,
+            339.45,
+            384.68,
+            353.33
+          ],
+          "text": "y\n=\n4−t′"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            329.4,
+            336.59,
+            446.78,
+            366.89
+          ],
+          "text": "z\n=\n−1+2t′\noù t′ ∈R."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            376.22,
+            307.1,
+            391.57
+          ],
+          "text": "Affirmation 4 : D et D′ ne sont pas coplanaires."
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "3",
+      "title": "EXERCICE 3",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.84,
+            410.55,
+            501.64,
+            422.05
+          ],
+          "text": "EXERCICE 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            435.26,
+            310.34,
+            446.69
+          ],
+          "text": "Soit a un nombre réel strictement supérieur à 1."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            452.87,
+            428.54,
+            466.25
+          ],
+          "text": "On considère la suite (un) définie par u0 = a et, pour tout entier naturel n :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            252.6,
+            475.95,
+            342.5,
+            491.81
+          ],
+          "text": "un+1 = u2\nn −2un +2."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            506.87,
+            314.42,
+            520.25
+          ],
+          "text": "On admet que pour tout entier naturel n, un > 1."
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": null,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            526.22,
+            501.76,
+            551.21
+          ],
+          "text": "L’objectif de cet exercice est d’étudier la suite (un) pour différentes valeurs du nombre réel\na."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            569.39,
+            328.78,
+            581.77
+          ],
+          "text": "Partie A : étude de la suite (un) dans le cas 1 < a < 2"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            526.22,
+            501.76,
+            551.21
+          ],
+          "text": "L’objectif de cet exercice est d’étudier la suite (un) pour différentes valeurs du nombre réel\na."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            569.39,
+            328.78,
+            581.77
+          ],
+          "text": "Partie A : étude de la suite (un) dans le cas 1 < a < 2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            106.92,
+            599.75,
+            451.94,
+            613.69
+          ],
+          "text": "1.\na. Montrer que, pour tout entier naturel n, on a : un+1 −2 = un (un −2)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            130.44,
+            615.23,
+            480.98,
+            628.61
+          ],
+          "text": "b. Montrer que, pour tout entier naturel n, on a : un+1 −un = (un −1)(un −2)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            106.92,
+            631.35,
+            501.7,
+            656.41
+          ],
+          "text": "2. Dans cette question, on pourra utiliser les égalités établies dans la question précé-\ndente."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            131.04,
+            662.31,
+            501.79,
+            688.49
+          ],
+          "text": "a. En utilisant un raisonnement par récurrence démontrer que, pour tout entier\nnaturel n : un < 2."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            130.44,
+            691.35,
+            438.62,
+            703.97
+          ],
+          "text": "b. Montrer que la suite (un) est convergente et déterminer sa limite."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Métropole\n3\n20 juin 2024"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            20.91,
+            501.65,
+            32.41
+          ],
+          "text": "Baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            60.11,
+            293.98,
+            72.37
+          ],
+          "text": "Partie B : étude dans le cas particulier a = 2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            91.11,
+            311.28,
+            161.45
+          ],
+          "text": "1. On donne ci-contre la fonction u écrite en\nlangage Python.\nDéterminer les valeurs renvoyées par le\nprogramme lorsque l’on saisit u(2,1) et\nu(2,2) dans la console Python."
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            336.12,
+            96.06,
+            405.45,
+            107.45
+          ],
+          "text": "def\ndef\ndef u(a,n) :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            359.64,
+            110.1,
+            376.89,
+            121.01
+          ],
+          "text": "u=a"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            359.04,
+            123.18,
+            468.45,
+            134.57
+          ],
+          "text": "for\nfor\nfor k in\nin\nin range(n) :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            371.04,
+            137.22,
+            440.13,
+            148.13
+          ],
+          "text": "u=u**2-2*u+2"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            359.04,
+            150.3,
+            405.45,
+            161.69
+          ],
+          "text": "return\nreturn\nreturn u"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            164.03,
+            488.1,
+            177.41
+          ],
+          "text": "2. Quelle conjecture peut-on formuler concernant la suite (un) dans le cas où a = 2?"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            120.84,
+            183.38,
+            322.7,
+            194.77
+          ],
+          "text": "On admettra ce résultat sans démonstration."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            219.51,
+            253.3,
+            231.01
+          ],
+          "text": "Partie C : étude dans le cas général"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            248.99,
+            483.02,
+            262.37
+          ],
+          "text": "1. On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            131.04,
+            267.15,
+            501.69,
+            292.25
+          ],
+          "text": "a. Montrer que la suite (vn) est une suite géométrique de raison 2 dont on préci-\nsera le premier terme en fonction de a."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            130.44,
+            293.85,
+            428.54,
+            308.81
+          ],
+          "text": "b. En déduire que, pour tout entier naturel n,un = 1+ e 2n×ln(a−1)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            313.59,
+            501.72,
+            339.77
+          ],
+          "text": "2. Déterminer, suivant les valeurs du réel a strictement supérieur à 1, la limite de la suite\n(un)."
+        }
+      ],
+      "questions": [
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "exe-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    106.92,
+                    599.75,
+                    451.94,
+                    613.69
+                  ],
+                  "text": "Montrer que, pour tout entier naturel n, on a : un+1 −2 = un (un −2)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      131.04,
+                      107.51,
+                      501.75,
+                      141.05
+                    ],
+                    "text": "Quel que soit n ∈N, vn+1 = ln(un+1 −1) = ln\n¡\nu2\nn −2un +2−1\n¢\n= ln\n£\n(un −1)2¤\n=\n2ln(un −1) car on sait que un > 1 ⇐⇒un −1 > 0."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      144.59,
+                      317.42,
+                      156.65
+                    ],
+                    "text": "Finalement : vn+1 = 2ln(un −1) = 2vn."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      158.54,
+                      501.72,
+                      185.69
+                    ],
+                    "text": "L’égalité vn+1 = 2vn vraie pour tout n ∈N montre que la suite (vn) est une suite\ngéométrique de raison 2 de premier terme v0 = lna −1)"
+                  }
+                ],
+                "text": "Quel que soit n ∈N, vn+1 = ln(un+1 −1) = ln\n¡\nu2\nn −2un +2−1\n¢\n= ln\n£\n(un −1)2¤\n=\n2ln(un −1) car on sait que un > 1 ⇐⇒un −1 > 0.\n\nFinalement : vn+1 = 2ln(un −1) = 2vn.\n\nL’égalité vn+1 = 2vn vraie pour tout n ∈N montre que la suite (vn) est une suite\ngéométrique de raison 2 de premier terme v0 = lna −1)"
+              }
+            },
+            {
+              "id": "exe-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    130.44,
+                    615.23,
+                    480.98,
+                    628.61
+                  ],
+                  "text": "Montrer que, pour tout entier naturel n, on a : un+1 −un = (un −1)(un −2)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      130.44,
+                      187.19,
+                      405.02,
+                      203.21
+                    ],
+                    "text": "On sait que quel que soit n ∈N, vn = v0 ×2n = 2n ln(a −1)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      199.79,
+                      501.69,
+                      231.29
+                    ],
+                    "text": "On peut écrire vn = ln(a −1)2n = ln(un −1) soit par croissance de la fonction\nlogarithme népérien :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      228.83,
+                      392.18,
+                      247.85
+                    ],
+                    "text": "(a −1)2n = un −1 ⇐⇒un = 1+(a −1)2n = 1+e2n ln(a−1)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      106.92,
+                      257.79,
+                      115.37,
+                      269.29
+                    ],
+                    "text": "2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      276.35,
+                      501.58,
+                      300.89
+                    ],
+                    "text": "• Si 1 < a < 2, alors 0 < a −1 < 1 ⇒ln(a −1) < 0 (par croissance de la fonction loga-\nrithme népérien)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      303.24,
+                      473.42,
+                      324.29
+                    ],
+                    "text": "On a donc 2n ln(a −1) < 0 et on sait que lim\nn→+∞e2n ln(a−1) = 0, donc lim\nn→+∞un = 1."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      325.17,
+                      501.69,
+                      358.13
+                    ],
+                    "text": "• Si a = 2, ln(a −1) = ln1 = 0, donc 2n ln(a −1) = 0 et un = 1+1 = 2. u est constante et\non peut écrire lim\nn→+∞un = 2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      359.88,
+                      501.62,
+                      380.93
+                    ],
+                    "text": "• Si a > 2, a −1 > 1, donc ln(a −1) > 0 et lim\nn→+∞e2n ln(a−1) = +∞, donc lim\nn→+∞un = +∞."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      381.09,
+                      224.06,
+                      391.13
+                    ],
+                    "text": "La suite est divergente."
+                  }
+                ],
+                "text": "On sait que quel que soit n ∈N, vn = v0 ×2n = 2n ln(a −1).\n\nOn peut écrire vn = ln(a −1)2n = ln(un −1) soit par croissance de la fonction\nlogarithme népérien :\n\n(a −1)2n = un −1 ⇐⇒un = 1+(a −1)2n = 1+e2n ln(a−1).\n\n2.\n\n• Si 1 < a < 2, alors 0 < a −1 < 1 ⇒ln(a −1) < 0 (par croissance de la fonction loga-\nrithme népérien).\n\nOn a donc 2n ln(a −1) < 0 et on sait que lim\nn→+∞e2n ln(a−1) = 0, donc lim\nn→+∞un = 1.\n\n• Si a = 2, ln(a −1) = ln1 = 0, donc 2n ln(a −1) = 0 et un = 1+1 = 2. u est constante et\non peut écrire lim\nn→+∞un = 2.\n\n• Si a > 2, a −1 > 1, donc ln(a −1) > 0 et lim\nn→+∞e2n ln(a−1) = +∞, donc lim\nn→+∞un = +∞.\n\nLa suite est divergente."
+              }
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  106.92,
+                  92.43,
+                  483.02,
+                  105.05
+                ],
+                "text": "On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+              }
+            ],
+            "text": "On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+          }
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                106.92,
+                631.35,
+                501.7,
+                656.41
+              ],
+              "text": "Dans cette question, on pourra utiliser les égalités établies dans la question précé-\ndente."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    131.04,
+                    662.31,
+                    501.79,
+                    688.49
+                  ],
+                  "text": "En utilisant un raisonnement par récurrence démontrer que, pour tout entier\nnaturel n : un < 2."
+                }
+              ]
+            },
+            {
+              "id": "exe-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    130.44,
+                    691.35,
+                    438.62,
+                    703.97
+                  ],
+                  "text": "Montrer que la suite (un) est convergente et déterminer sa limite."
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    93.6,
+                    780.14,
+                    501.54,
+                    791.53
+                  ],
+                  "text": "Métropole\n3\n20 juin 2024"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    93.6,
+                    20.91,
+                    501.65,
+                    32.41
+                  ],
+                  "text": "Baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    93.6,
+                    60.11,
+                    293.98,
+                    72.37
+                  ],
+                  "text": "Partie B : étude dans le cas particulier a = 2"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  106.92,
+                  749.18,
+                  472.34,
+                  762.77
+                ],
+                "text": "On peut conjecturer que la suite (un) est constante : un = 2 quel que soit n ∈N"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  93.6,
+                  781.53,
+                  501.54,
+                  791.57
+                ],
+                "text": "Métropole\n4\n20 juin 2024"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  93.6,
+                  20.91,
+                  501.65,
+                  32.41
+                ],
+                "text": "Corrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  93.6,
+                  60.87,
+                  253.3,
+                  72.37
+                ],
+                "text": "Partie C : étude dans le cas général"
+              }
+            ],
+            "text": "On peut conjecturer que la suite (un) est constante : un = 2 quel que soit n ∈N\n\nMétropole\n4\n20 juin 2024\n\nCorrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P.\n\nPartie C : étude dans le cas général"
+          }
+        },
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                91.11,
+                311.28,
+                161.45
+              ],
+              "text": "On donne ci-contre la fonction u écrite en\nlangage Python.\nDéterminer les valeurs renvoyées par le\nprogramme lorsque l’on saisit u(2,1) et\nu(2,2) dans la console Python."
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                336.12,
+                96.06,
+                405.45,
+                107.45
+              ],
+              "text": "def\ndef\ndef u(a,n) :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                359.64,
+                110.1,
+                376.89,
+                121.01
+              ],
+              "text": "u=a"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                359.04,
+                123.18,
+                468.45,
+                134.57
+              ],
+              "text": "for\nfor\nfor k in\nin\nin range(n) :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                371.04,
+                137.22,
+                440.13,
+                148.13
+              ],
+              "text": "u=u**2-2*u+2"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                359.04,
+                150.3,
+                405.45,
+                161.69
+              ],
+              "text": "return\nreturn\nreturn u"
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  106.92,
+                  92.43,
+                  483.02,
+                  105.05
+                ],
+                "text": "On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+              }
+            ],
+            "text": "On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+          }
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                164.03,
+                488.1,
+                177.41
+              ],
+              "text": "Quelle conjecture peut-on formuler concernant la suite (un) dans le cas où a = 2?"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                120.84,
+                183.38,
+                322.7,
+                194.77
+              ],
+              "text": "On admettra ce résultat sans démonstration."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                93.6,
+                219.51,
+                253.3,
+                231.01
+              ],
+              "text": "Partie C : étude dans le cas général"
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  106.92,
+                  749.18,
+                  472.34,
+                  762.77
+                ],
+                "text": "On peut conjecturer que la suite (un) est constante : un = 2 quel que soit n ∈N"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  93.6,
+                  781.53,
+                  501.54,
+                  791.57
+                ],
+                "text": "Métropole\n4\n20 juin 2024"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  93.6,
+                  20.91,
+                  501.65,
+                  32.41
+                ],
+                "text": "Corrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  93.6,
+                  60.87,
+                  253.3,
+                  72.37
+                ],
+                "text": "Partie C : étude dans le cas général"
+              }
+            ],
+            "text": "On peut conjecturer que la suite (un) est constante : un = 2 quel que soit n ∈N\n\nMétropole\n4\n20 juin 2024\n\nCorrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P.\n\nPartie C : étude dans le cas général"
+          }
+        },
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                248.99,
+                483.02,
+                262.37
+              ],
+              "text": "On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    131.04,
+                    267.15,
+                    501.69,
+                    292.25
+                  ],
+                  "text": "Montrer que la suite (vn) est une suite géométrique de raison 2 dont on préci-\nsera le premier terme en fonction de a."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      131.04,
+                      107.51,
+                      501.75,
+                      141.05
+                    ],
+                    "text": "Quel que soit n ∈N, vn+1 = ln(un+1 −1) = ln\n¡\nu2\nn −2un +2−1\n¢\n= ln\n£\n(un −1)2¤\n=\n2ln(un −1) car on sait que un > 1 ⇐⇒un −1 > 0."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      144.59,
+                      317.42,
+                      156.65
+                    ],
+                    "text": "Finalement : vn+1 = 2ln(un −1) = 2vn."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      158.54,
+                      501.72,
+                      185.69
+                    ],
+                    "text": "L’égalité vn+1 = 2vn vraie pour tout n ∈N montre que la suite (vn) est une suite\ngéométrique de raison 2 de premier terme v0 = lna −1)"
+                  }
+                ],
+                "text": "Quel que soit n ∈N, vn+1 = ln(un+1 −1) = ln\n¡\nu2\nn −2un +2−1\n¢\n= ln\n£\n(un −1)2¤\n=\n2ln(un −1) car on sait que un > 1 ⇐⇒un −1 > 0.\n\nFinalement : vn+1 = 2ln(un −1) = 2vn.\n\nL’égalité vn+1 = 2vn vraie pour tout n ∈N montre que la suite (vn) est une suite\ngéométrique de raison 2 de premier terme v0 = lna −1)"
+              }
+            },
+            {
+              "id": "exe-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    130.44,
+                    293.85,
+                    428.54,
+                    308.81
+                  ],
+                  "text": "En déduire que, pour tout entier naturel n,un = 1+ e 2n×ln(a−1)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      130.44,
+                      187.19,
+                      405.02,
+                      203.21
+                    ],
+                    "text": "On sait que quel que soit n ∈N, vn = v0 ×2n = 2n ln(a −1)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      199.79,
+                      501.69,
+                      231.29
+                    ],
+                    "text": "On peut écrire vn = ln(a −1)2n = ln(un −1) soit par croissance de la fonction\nlogarithme népérien :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      144.84,
+                      228.83,
+                      392.18,
+                      247.85
+                    ],
+                    "text": "(a −1)2n = un −1 ⇐⇒un = 1+(a −1)2n = 1+e2n ln(a−1)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      106.92,
+                      257.79,
+                      115.37,
+                      269.29
+                    ],
+                    "text": "2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      276.35,
+                      501.58,
+                      300.89
+                    ],
+                    "text": "• Si 1 < a < 2, alors 0 < a −1 < 1 ⇒ln(a −1) < 0 (par croissance de la fonction loga-\nrithme népérien)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      303.24,
+                      473.42,
+                      324.29
+                    ],
+                    "text": "On a donc 2n ln(a −1) < 0 et on sait que lim\nn→+∞e2n ln(a−1) = 0, donc lim\nn→+∞un = 1."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      325.17,
+                      501.69,
+                      358.13
+                    ],
+                    "text": "• Si a = 2, ln(a −1) = ln1 = 0, donc 2n ln(a −1) = 0 et un = 1+1 = 2. u est constante et\non peut écrire lim\nn→+∞un = 2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      359.88,
+                      501.62,
+                      380.93
+                    ],
+                    "text": "• Si a > 2, a −1 > 1, donc ln(a −1) > 0 et lim\nn→+∞e2n ln(a−1) = +∞, donc lim\nn→+∞un = +∞."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      120.84,
+                      381.09,
+                      224.06,
+                      391.13
+                    ],
+                    "text": "La suite est divergente."
+                  }
+                ],
+                "text": "On sait que quel que soit n ∈N, vn = v0 ×2n = 2n ln(a −1).\n\nOn peut écrire vn = ln(a −1)2n = ln(un −1) soit par croissance de la fonction\nlogarithme népérien :\n\n(a −1)2n = un −1 ⇐⇒un = 1+(a −1)2n = 1+e2n ln(a−1).\n\n2.\n\n• Si 1 < a < 2, alors 0 < a −1 < 1 ⇒ln(a −1) < 0 (par croissance de la fonction loga-\nrithme népérien).\n\nOn a donc 2n ln(a −1) < 0 et on sait que lim\nn→+∞e2n ln(a−1) = 0, donc lim\nn→+∞un = 1.\n\n• Si a = 2, ln(a −1) = ln1 = 0, donc 2n ln(a −1) = 0 et un = 1+1 = 2. u est constante et\non peut écrire lim\nn→+∞un = 2.\n\n• Si a > 2, a −1 > 1, donc ln(a −1) > 0 et lim\nn→+∞e2n ln(a−1) = +∞, donc lim\nn→+∞un = +∞.\n\nLa suite est divergente."
+              }
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  106.92,
+                  92.43,
+                  483.02,
+                  105.05
+                ],
+                "text": "On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+              }
+            ],
+            "text": "On considère la suite (vn) définie, pour tout entier naturel n, par vn = ln(un −1)."
+          }
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                313.59,
+                501.72,
+                339.77
+              ],
+              "text": "Déterminer, suivant les valeurs du réel a strictement supérieur à 1, la limite de la suite\n(un)."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  106.92,
+                  749.18,
+                  472.34,
+                  762.77
+                ],
+                "text": "On peut conjecturer que la suite (un) est constante : un = 2 quel que soit n ∈N"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  93.6,
+                  781.53,
+                  501.54,
+                  791.57
+                ],
+                "text": "Métropole\n4\n20 juin 2024"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  93.6,
+                  20.91,
+                  501.65,
+                  32.41
+                ],
+                "text": "Corrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  93.6,
+                  60.87,
+                  253.3,
+                  72.37
+                ],
+                "text": "Partie C : étude dans le cas général"
+              }
+            ],
+            "text": "On peut conjecturer que la suite (un) est constante : un = 2 quel que soit n ∈N\n\nMétropole\n4\n20 juin 2024\n\nCorrigé du baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P.\n\nPartie C : étude dans le cas général"
+          }
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "EXERCICE 4",
+      "points": 6.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.84,
+            363.39,
+            501.64,
+            374.89
+          ],
+          "text": "EXERCICE 4\n6 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            384.02,
+            501.32,
+            399.41
+          ],
+          "text": "Soit f une fonction définie et deux fois dérivable sur R. On note f ′ sa fonction dérivée et f ′′"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            401.54,
+            181.1,
+            412.93
+          ],
+          "text": "sa dérivée seconde."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            420.02,
+            360.26,
+            431.41
+          ],
+          "text": "Dans le repère orthonormé ci-dessous ont été représentés :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            111.24,
+            436.55,
+            323.42,
+            450.73
+          ],
+          "text": "• la courbe représentative C f de la fonction f ;"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            111.24,
+            452.03,
+            300.86,
+            466.21
+          ],
+          "text": "• la tangente T à C f en son point N(0; 2);"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            111.24,
+            467.51,
+            456.62,
+            481.57
+          ],
+          "text": "• le point M(−2 ; 0) appartenant à C f et P(2; 0) appartenant à la tangente T ."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            484.91,
+            501.69,
+            510.73
+          ],
+          "text": "On précise que la fonction f est strictement positive sur l’intervalle [0 ; +∞[ et qu’elle est\nstrictement croissante sur l’intervalle ]−∞; −1]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            193.68,
+            633.45,
+            398.83,
+            642.74
+          ],
+          "text": "0\n1\n2\n3\n4\n5\n−1\n−2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            622.59,
+            246.19,
+            631.22
+          ],
+          "text": "0"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            236.64,
+            650.25,
+            246.19,
+            659.54
+          ],
+          "text": "−1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            594.27,
+            246.19,
+            602.9
+          ],
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            565.95,
+            246.19,
+            574.58
+          ],
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            537.51,
+            246.19,
+            546.14
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            185.47,
+            614.42,
+            194.94,
+            625.81
+          ],
+          "text": "M"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            258.6,
+            557.72,
+            266.43,
+            569.12
+          ],
+          "text": "N"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            315.29,
+            614.42,
+            321.31,
+            625.81
+          ],
+          "text": "P"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            336.32,
+            659.64,
+            342.4,
+            669.67
+          ],
+          "text": "T"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            237.24,
+            690.75,
+            358.01,
+            702.25
+          ],
+          "text": "Partie A : étude graphique"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            721.34,
+            376.7,
+            732.73
+          ],
+          "text": "On répondra aux questions suivantes en utilisant le graphique."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.84,
+            363.39,
+            501.64,
+            374.89
+          ],
+          "text": "EXERCICE 4\n6 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            384.02,
+            501.32,
+            399.41
+          ],
+          "text": "Soit f une fonction définie et deux fois dérivable sur R. On note f ′ sa fonction dérivée et f ′′"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            401.54,
+            181.1,
+            412.93
+          ],
+          "text": "sa dérivée seconde."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            420.02,
+            360.26,
+            431.41
+          ],
+          "text": "Dans le repère orthonormé ci-dessous ont été représentés :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            111.24,
+            436.55,
+            323.42,
+            450.73
+          ],
+          "text": "• la courbe représentative C f de la fonction f ;"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            111.24,
+            452.03,
+            300.86,
+            466.21
+          ],
+          "text": "• la tangente T à C f en son point N(0; 2);"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            111.24,
+            467.51,
+            456.62,
+            481.57
+          ],
+          "text": "• le point M(−2 ; 0) appartenant à C f et P(2; 0) appartenant à la tangente T ."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            484.91,
+            501.69,
+            510.73
+          ],
+          "text": "On précise que la fonction f est strictement positive sur l’intervalle [0 ; +∞[ et qu’elle est\nstrictement croissante sur l’intervalle ]−∞; −1]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            193.68,
+            633.45,
+            398.83,
+            642.74
+          ],
+          "text": "0\n1\n2\n3\n4\n5\n−1\n−2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            622.59,
+            246.19,
+            631.22
+          ],
+          "text": "0"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            236.64,
+            650.25,
+            246.19,
+            659.54
+          ],
+          "text": "−1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            594.27,
+            246.19,
+            602.9
+          ],
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            565.95,
+            246.19,
+            574.58
+          ],
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            242.16,
+            537.51,
+            246.19,
+            546.14
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            185.47,
+            614.42,
+            194.94,
+            625.81
+          ],
+          "text": "M"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            258.6,
+            557.72,
+            266.43,
+            569.12
+          ],
+          "text": "N"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            315.29,
+            614.42,
+            321.31,
+            625.81
+          ],
+          "text": "P"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            336.32,
+            659.64,
+            342.4,
+            669.67
+          ],
+          "text": "T"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            237.24,
+            690.75,
+            358.01,
+            702.25
+          ],
+          "text": "Partie A : étude graphique"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            721.34,
+            376.7,
+            732.73
+          ],
+          "text": "On répondra aux questions suivantes en utilisant le graphique."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            745.59,
+            203.78,
+            757.13
+          ],
+          "text": "1.\na. Donner f (0)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Métropole\n4\n20 juin 2024"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            20.91,
+            501.65,
+            32.41
+          ],
+          "text": "Baccalauréat spécialité sujet 2 (dévoilé)\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            58.53,
+            501.69,
+            130.49
+          ],
+          "text": "b. Déterminer f ′(0).\n2. Résoudre l’équation f (x) = 0.\n3. La fonction f est-elle convexe sur R? Justifier.\n4. Parmi les courbes suivantes, indiquer laquelle peut représenter une primitive de la\nfonction f sur R. Justifier."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            163.8,
+            149.18,
+            205.12,
+            160.57
+          ],
+          "text": "Courbe 1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            290.64,
+            149.18,
+            331.96,
+            160.57
+          ],
+          "text": "Courbe 2"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            417.48,
+            149.18,
+            458.8,
+            160.57
+          ],
+          "text": "Courbe 3"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            128.16,
+            203.25,
+            236.95,
+            212.54
+          ],
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n−1\n−2"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            137.04,
+            192.39,
+            146.59,
+            291.74
+          ],
+          "text": "0\n−1\n−2\n−3\n−4\n−5\n−6\n−7\n8"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            142.56,
+            169.71,
+            146.59,
+            189.74
+          ],
+          "text": "1\n2"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            249.84,
+            203.25,
+            358.63,
+            212.54
+          ],
+          "text": "0\n1\n2\n3\n4\n5\n−1\n−2\n−3\n−4"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            281.52,
+            192.39,
+            291.07,
+            291.74
+          ],
+          "text": "0\n−1\n−2\n−3\n−4\n−5\n−6\n−7\n8"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            286.92,
+            169.71,
+            290.95,
+            189.74
+          ],
+          "text": "1\n2"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            381.84,
+            203.25,
+            490.63,
+            212.54
+          ],
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n−1\n−2"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            390.72,
+            192.39,
+            400.27,
+            291.74
+          ],
+          "text": "0\n−1\n−2\n−3\n−4\n−5\n−6\n−7\n8"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            396.24,
+            169.71,
+            400.27,
+            189.74
+          ],
+          "text": "1\n2"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            185.52,
+            320.67,
+            409.85,
+            332.17
+          ],
+          "text": "Partie B : recherche d’une expression algébrique"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            347.18,
+            283.56,
+            358.57
+          ],
+          "text": "On admet que la fonction [ est de la forme"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            255.0,
+            366.36,
+            341.3,
+            379.13
+          ],
+          "text": "f (x) = (ax +b) e λx,"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            388.1,
+            267.86,
+            399.53
+          ],
+          "text": "où a,b et λ sont des constantes réelles."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            406.7,
+            445.1,
+            418.09
+          ],
+          "text": "Pour répondre aux questions suivantes, on utilisera les résultats de la partie A."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            432.71,
+            367.22,
+            474.65
+          ],
+          "text": "1. Justifier que b = 2.\n2. Justifier que −2a +b = 0 puis en déduire la valeur de a.\n3. Déterminer une expression algébrique de f . Justifier."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            236.04,
+            498.03,
+            359.33,
+            509.53
+          ],
+          "text": "Partie C : étude algébrique"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            523.58,
+            310.38,
+            536.09
+          ],
+          "text": "On admet que la fonction f est définie sur R par"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            258.36,
+            542.13,
+            338.06,
+            556.49
+          ],
+          "text": "f (x) = (x +2) e −x."
+        },
+        {
+          "type": "code",
+          "page": 5,
+          "bbox": [
+            106.92,
+            575.75,
+            487.1,
+            602.93
+          ],
+          "text": "1. Déterminer la limite de f en −∞.\n2. On admet que f ′(x) = (−x −1) e −x. Dresser le tableau de variations complet de f ."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            609.98,
+            479.06,
+            665.93
+          ],
+          "text": "Justifier.\n3.\na. Étudier la convexité de f .\nb. Préciser les coordonnées des éventuels points d’inflexion de la courbe C f .\n4. Pour tout nombre réel t ⩾0, on pose :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            271.8,
+            667.07,
+            311.11,
+            691.49
+          ],
+          "text": "I(t) =\nZt"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            304.08,
+            680.06,
+            351.14,
+            699.62
+          ],
+          "text": "−2\nf (x)dx."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            131.04,
+            704.07,
+            386.78,
+            715.57
+          ],
+          "text": "a. En utilisant une intégration par parties, montrer que :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            270.96,
+            719.27,
+            375.86,
+            736.13
+          ],
+          "text": "I(t) = (−t −3) e −t + e 2."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            130.44,
+            746.31,
+            441.62,
+            757.81
+          ],
+          "text": "b. En déduire un exemple de surface non limitée dont l’aire est finie."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Métropole\n5\n20 juin 2024"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                58.53,
+                501.69,
+                130.49
+              ],
+              "text": "Parmi les courbes suivantes, indiquer laquelle peut représenter une primitive de la\nfonction f sur R. Justifier."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                163.8,
+                149.18,
+                205.12,
+                160.57
+              ],
+              "text": "Courbe 1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                290.64,
+                149.18,
+                331.96,
+                160.57
+              ],
+              "text": "Courbe 2"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                417.48,
+                149.18,
+                458.8,
+                160.57
+              ],
+              "text": "Courbe 3"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                128.16,
+                203.25,
+                236.95,
+                212.54
+              ],
+              "text": "0\n1\n2\n3\n4\n5\n6\n7\n−1\n−2"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                137.04,
+                192.39,
+                146.59,
+                291.74
+              ],
+              "text": "0\n−1\n−2\n−3\n−4\n−5\n−6\n−7\n8"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                142.56,
+                169.71,
+                146.59,
+                189.74
+              ],
+              "text": "1\n2"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                249.84,
+                203.25,
+                358.63,
+                212.54
+              ],
+              "text": "0\n1\n2\n3\n4\n5\n−1\n−2\n−3\n−4"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                281.52,
+                192.39,
+                291.07,
+                291.74
+              ],
+              "text": "0\n−1\n−2\n−3\n−4\n−5\n−6\n−7\n8"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                286.92,
+                169.71,
+                290.95,
+                189.74
+              ],
+              "text": "1\n2"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                381.84,
+                203.25,
+                490.63,
+                212.54
+              ],
+              "text": "0\n1\n2\n3\n4\n5\n6\n7\n−1\n−2"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                390.72,
+                192.39,
+                400.27,
+                291.74
+              ],
+              "text": "0\n−1\n−2\n−3\n−4\n−5\n−6\n−7\n8"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                396.24,
+                169.71,
+                400.27,
+                189.74
+              ],
+              "text": "1\n2"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                185.52,
+                320.67,
+                409.85,
+                332.17
+              ],
+              "text": "Partie B : recherche d’une expression algébrique"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                93.6,
+                347.18,
+                283.56,
+                358.57
+              ],
+              "text": "On admet que la fonction [ est de la forme"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                255.0,
+                366.36,
+                341.3,
+                379.13
+              ],
+              "text": "f (x) = (ax +b) e λx,"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                93.6,
+                388.1,
+                267.86,
+                399.53
+              ],
+              "text": "où a,b et λ sont des constantes réelles."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                93.6,
+                406.7,
+                445.1,
+                418.09
+              ],
+              "text": "Pour répondre aux questions suivantes, on utilisera les résultats de la partie A."
+            }
+          ]
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                432.71,
+                367.22,
+                474.65
+              ],
+              "text": "Déterminer une expression algébrique de f . Justifier."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                236.04,
+                498.03,
+                359.33,
+                509.53
+              ],
+              "text": "Partie C : étude algébrique"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                93.6,
+                523.58,
+                310.38,
+                536.09
+              ],
+              "text": "On admet que la fonction f est définie sur R par"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                258.36,
+                542.13,
+                338.06,
+                556.49
+              ],
+              "text": "f (x) = (x +2) e −x."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                609.98,
+                479.06,
+                665.93
+              ],
+              "text": "Pour tout nombre réel t ⩾0, on pose :"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                271.8,
+                667.07,
+                311.11,
+                691.49
+              ],
+              "text": "I(t) =\nZt"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                304.08,
+                680.06,
+                351.14,
+                699.62
+              ],
+              "text": "−2\nf (x)dx."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex4-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 5,
+                  "bbox": [
+                    131.04,
+                    704.07,
+                    386.78,
+                    715.57
+                  ],
+                  "text": "En utilisant une intégration par parties, montrer que :"
+                },
+                {
+                  "type": "text",
+                  "page": 5,
+                  "bbox": [
+                    270.96,
+                    719.27,
+                    375.86,
+                    736.13
+                  ],
+                  "text": "I(t) = (−t −3) e −t + e 2."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 5,
+                  "bbox": [
+                    130.44,
+                    746.31,
+                    441.62,
+                    757.81
+                  ],
+                  "text": "En déduire un exemple de surface non limitée dont l’aire est finie."
+                },
+                {
+                  "type": "text",
+                  "page": 5,
+                  "bbox": [
+                    93.6,
+                    780.14,
+                    501.54,
+                    791.53
+                  ],
+                  "text": "Métropole\n5\n20 juin 2024"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 156
+}

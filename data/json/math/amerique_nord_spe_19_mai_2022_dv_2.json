@@ -1,0 +1,5643 @@
+{
+  "id": "amerique_nord_spe_19_mai_2022_dv_2",
+  "subject": "math",
+  "year": 2022,
+  "metadata": {
+    "source_pdf": "math/2022/sujets/Amerique_Nord_spe_19_mai_2022_DV-2.pdf",
+    "filename": "Amerique_Nord_spe_19_mai_2022_DV-2.pdf",
+    "year": 2022,
+    "title": "Baccalauréat Amérique du Nord Jour 2 19 mai 2022",
+    "header_text": "; Baccalauréat Amérique du Nord Jour 2 19 mai 2022 <\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2022/corriges/Corrige_Spe_Amerique_Nord_21_19_mai_2022_RR-2.pdf"
+  },
+  "instructions": "; Baccalauréat Amérique du Nord Jour 2 19 mai 2022 <\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        133.8,
+        82.35,
+        478.19,
+        98.23
+      ],
+      "text": "; Baccalauréat Amérique du Nord Jour 2 19 mai 2022 <"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        164.64,
+        105.07,
+        447.38,
+        120.19
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            137.86,
+            464.05,
+            184.02
+          ],
+          "text": "Le sujet propose 4 exercices\nLe candidat choisit 3 exercices parmi les 4 exercices et ne doit traiter que ces 3 exercices\nChaque exercice est noté sur 7 points (le total sera ramené sur 20 points).\nLes traces de recherche, même incomplètes ou infructueuses, seront prises en compte."
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "1",
+      "title": "EXERCICE 1",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            197.51,
+            512.77,
+            208.02
+          ],
+          "text": "EXERCICE 1\n(7 points)\nThème : probabilités, suites"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            215.5,
+            498.75,
+            225.9
+          ],
+          "text": "Dans une région touristique, une société propose un service de location de vélos pour la journée."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            230.5,
+            512.55,
+            252.78
+          ],
+          "text": "La société dispose de deux points de location distinctes, le point A et le point B. Les vélos peuvent\nêtre empruntés et restitués indifféremment dans l’un où l’autre des deux points de location."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            257.38,
+            512.67,
+            279.66
+          ],
+          "text": "On admettra que le nombre total de vélos est constant et que tous les matins, à l’ouverture du service,\nchaque vélo se trouve au point A ou au point B."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            284.26,
+            224.91,
+            294.66
+          ],
+          "text": "D’après une étude statistique :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            304.42,
+            512.07,
+            326.82
+          ],
+          "text": "•\nSi un vélo se trouve au point A un matin, la probabilité qu’il se trouve au point A le matin suivant\nest égale à 0,84;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            331.9,
+            512.67,
+            354.18
+          ],
+          "text": "•\nSi un vélo se trouve au point B un matin la probabilité qu’il se trouve au point B le matin suivant\nest égale à 0,76."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            361.06,
+            512.67,
+            383.46
+          ],
+          "text": "À l’ouverture du service le premier matin, la société a disposé la moitié de ses vélos au point A, l’autre\nmoitié au point B."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            387.94,
+            302.55,
+            398.34
+          ],
+          "text": "On considère un vélo de la société pris au hasard."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            402.94,
+            390.75,
+            413.37
+          ],
+          "text": "Pour tout entier naturel non nul n, on définit les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            420.1,
+            333.33,
+            437.08
+          ],
+          "text": "•\nAn : « le vélo se trouve au point A le n-ième matin »"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            435.58,
+            335.31,
+            452.56
+          ],
+          "text": "•\nBn : « le vélo se trouve au point B le n-ième matin »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            452.74,
+            512.79,
+            483.16
+          ],
+          "text": "Pour tout entier naturel non nul n, on note an la probabilité de l’évènement An et bn la probabilité\nde l’évènement Bn. Ainsi a1 = 0,5 et b1 = 0,5."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            197.51,
+            512.77,
+            208.02
+          ],
+          "text": "EXERCICE 1\n(7 points)\nThème : probabilités, suites"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            215.5,
+            498.75,
+            225.9
+          ],
+          "text": "Dans une région touristique, une société propose un service de location de vélos pour la journée."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            230.5,
+            512.55,
+            252.78
+          ],
+          "text": "La société dispose de deux points de location distinctes, le point A et le point B. Les vélos peuvent\nêtre empruntés et restitués indifféremment dans l’un où l’autre des deux points de location."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            257.38,
+            512.67,
+            279.66
+          ],
+          "text": "On admettra que le nombre total de vélos est constant et que tous les matins, à l’ouverture du service,\nchaque vélo se trouve au point A ou au point B."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            284.26,
+            224.91,
+            294.66
+          ],
+          "text": "D’après une étude statistique :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            304.42,
+            512.07,
+            326.82
+          ],
+          "text": "•\nSi un vélo se trouve au point A un matin, la probabilité qu’il se trouve au point A le matin suivant\nest égale à 0,84;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            331.9,
+            512.67,
+            354.18
+          ],
+          "text": "•\nSi un vélo se trouve au point B un matin la probabilité qu’il se trouve au point B le matin suivant\nest égale à 0,76."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            361.06,
+            512.67,
+            383.46
+          ],
+          "text": "À l’ouverture du service le premier matin, la société a disposé la moitié de ses vélos au point A, l’autre\nmoitié au point B."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            387.94,
+            302.55,
+            398.34
+          ],
+          "text": "On considère un vélo de la société pris au hasard."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            402.94,
+            390.75,
+            413.37
+          ],
+          "text": "Pour tout entier naturel non nul n, on définit les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            420.1,
+            333.33,
+            437.08
+          ],
+          "text": "•\nAn : « le vélo se trouve au point A le n-ième matin »"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            110.4,
+            435.58,
+            335.31,
+            452.56
+          ],
+          "text": "•\nBn : « le vélo se trouve au point B le n-ième matin »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            452.74,
+            512.79,
+            483.16
+          ],
+          "text": "Pour tout entier naturel non nul n, on note an la probabilité de l’évènement An et bn la probabilité\nde l’évènement Bn. Ainsi a1 = 0,5 et b1 = 0,5."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            111.48,
+            487.79,
+            512.75,
+            510.3
+          ],
+          "text": "1. Recopier et compléter l’arbre pondéré ci-dessous qui modélise la situation pour les deux pre-\nmiers matins :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            267.66,
+            534.64,
+            318.69,
+            547.51
+          ],
+          "text": "A1\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            352.73,
+            516.33,
+            405.81,
+            530.17
+          ],
+          "text": "A2\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            352.76,
+            545.6,
+            405.45,
+            559.33
+          ],
+          "text": "B2\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            267.63,
+            574.65,
+            405.81,
+            603.01
+          ],
+          "text": "B1\n...\nA2\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            352.72,
+            603.92,
+            405.45,
+            617.65
+          ],
+          "text": "B2\n..."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            111.48,
+            626.99,
+            194.79,
+            638.41
+          ],
+          "text": "2.\na. Calculer a2."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            132.96,
+            642.47,
+            512.79,
+            664.98
+          ],
+          "text": "b. Le vélo se trouve au point A le deuxième matin. Calculer la probabilité qu’il se soit trouvé\nau point B le premier matin. La probabilité sera arrondie au millième."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            111.48,
+            669.83,
+            512.75,
+            698.92
+          ],
+          "text": "3.\na. Recopier et compléter l’arbre pondéré ci-dessous qui modélise la situation pour les n-\nième et n +1-ième matins."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            48.23,
+            512.81,
+            58.74
+          ],
+          "text": "Baccalauréat Spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            276.55,
+            99.16,
+            327.34,
+            111.6
+          ],
+          "text": "An\nan"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            361.23,
+            80.66,
+            419.13,
+            99.57
+          ],
+          "text": "An+1\n..."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            361.25,
+            110.0,
+            418.77,
+            128.85
+          ],
+          "text": "Bn+1\n..."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            276.15,
+            139.1,
+            419.13,
+            167.67
+          ],
+          "text": "Bn\n...\nAn+1\n..."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            361.21,
+            168.44,
+            418.77,
+            187.29
+          ],
+          "text": "Bn+1\n..."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            132.96,
+            188.15,
+            427.47,
+            206.68
+          ],
+          "text": "b. Justifier que pour tout entier naturel non nul n, an+1 = 0,6an +0,24."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            201.26,
+            486.87,
+            221.32
+          ],
+          "text": "4. Montrer par récurrence que, pour tout entier naturel non nul n, an = 0,6−0,1×0,6n−1."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            217.31,
+            501.39,
+            228.75
+          ],
+          "text": "5. Déterminer la limite de la suite (an) et interpréter cette limite dans le contexte de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            231.95,
+            512.67,
+            254.46
+          ],
+          "text": "6. Déterminer le plus petit entier naturel n tel que an ⩾0,599 et interpréter le résultat obtenu\ndans le contexte de l’exercice."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                111.48,
+                487.79,
+                512.75,
+                510.3
+              ],
+              "text": "Recopier et compléter l’arbre pondéré ci-dessous qui modélise la situation pour les deux pre-\nmiers matins :"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                267.66,
+                534.64,
+                318.69,
+                547.51
+              ],
+              "text": "A1\n..."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                352.73,
+                516.33,
+                405.81,
+                530.17
+              ],
+              "text": "A2\n..."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                352.76,
+                545.6,
+                405.45,
+                559.33
+              ],
+              "text": "B2\n..."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                267.63,
+                574.65,
+                405.81,
+                603.01
+              ],
+              "text": "B1\n...\nA2\n..."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                352.72,
+                603.92,
+                405.45,
+                617.65
+              ],
+              "text": "B2\n..."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  84.24,
+                  214.23,
+                  306.26,
+                  225.73
+                ],
+                "text": "L’arbre complété avec les valeurs disponibles :"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  266.21,
+                  257.85,
+                  311.47,
+                  272.31
+                ],
+                "text": "A1\n0,5"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  334.37,
+                  234.24,
+                  384.67,
+                  250.46
+                ],
+                "text": "A2\n0,84"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  334.38,
+                  276.33,
+                  384.43,
+                  288.65
+                ],
+                "text": "B2\n0,16"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  266.22,
+                  308.2,
+                  384.67,
+                  342.98
+                ],
+                "text": "B1\n0,5\nA2\n0,24"
+              },
+              {
+                "type": "text",
+                "page": 1,
+                "bbox": [
+                  334.38,
+                  350.37,
+                  384.43,
+                  362.69
+                ],
+                "text": "B2\n0,76"
+              }
+            ],
+            "text": "L’arbre complété avec les valeurs disponibles :\n\nA1\n0,5\n\nA2\n0,84\n\nB2\n0,16\n\nB1\n0,5\nA2\n0,24\n\nB2\n0,76"
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex1-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    111.48,
+                    626.99,
+                    194.79,
+                    638.41
+                  ],
+                  "text": "Calculer a2."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      84.24,
+                      372.27,
+                      435.74,
+                      392.65
+                    ],
+                    "text": "Utilisons la formule des probabilités totales pour calculer a2 = p(A2) :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      122.16,
+                      387.86,
+                      410.43,
+                      421.69
+                    ],
+                    "text": "a2 = p(A2 ∩A1)+ p(A2 ∩B1) = p A1(A2)× p(A1)+ pB1(A2)× p(B1)\n= 0,84×0,5+0,24×0,5 = 0,54. Donc a2 = 0,54."
+                  }
+                ],
+                "text": "Utilisons la formule des probabilités totales pour calculer a2 = p(A2) :\n\na2 = p(A2 ∩A1)+ p(A2 ∩B1) = p A1(A2)× p(A1)+ pB1(A2)× p(B1)\n= 0,84×0,5+0,24×0,5 = 0,54. Donc a2 = 0,54."
+              }
+            },
+            {
+              "id": "ex1-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    132.96,
+                    642.47,
+                    512.79,
+                    664.98
+                  ],
+                  "text": "Le vélo se trouve au point A le deuxième matin. Calculer la probabilité qu’il se soit trouvé\nau point B le premier matin. La probabilité sera arrondie au millième."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      107.76,
+                      418.83,
+                      357.38,
+                      432.11
+                    ],
+                    "text": "Utilisons la formule de Bayes pour calculer p A2(B1) :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      122.4,
+                      432.26,
+                      216.03,
+                      458.17
+                    ],
+                    "text": "p A2(B1) = p(A2 ∩B1)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      179.76,
+                      431.9,
+                      299.19,
+                      459.62
+                    ],
+                    "text": "p(A2)\n= pB1(A2)× p(B1)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      251.52,
+                      432.26,
+                      356.32,
+                      459.62
+                    ],
+                    "text": "p(A2)\n= 0,24×0,5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      324.72,
+                      439.58,
+                      393.52,
+                      458.53
+                    ],
+                    "text": "0,54\n≈0,222"
+                  }
+                ],
+                "text": "Utilisons la formule de Bayes pour calculer p A2(B1) :\n\np A2(B1) = p(A2 ∩B1)\n\np(A2)\n= pB1(A2)× p(B1)\n\np(A2)\n= 0,24×0,5\n\n0,54\n≈0,222"
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex1-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex1-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    111.48,
+                    669.83,
+                    512.75,
+                    698.92
+                  ],
+                  "text": "Recopier et compléter l’arbre pondéré ci-dessous qui modélise la situation pour les n-\nième et n +1-ième matins."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    99.24,
+                    48.23,
+                    512.81,
+                    58.74
+                  ],
+                  "text": "Baccalauréat Spécialité\nA. P. M. E. P."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    276.55,
+                    99.16,
+                    327.34,
+                    111.6
+                  ],
+                  "text": "An\nan"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    361.23,
+                    80.66,
+                    419.13,
+                    99.57
+                  ],
+                  "text": "An+1\n..."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    361.25,
+                    110.0,
+                    418.77,
+                    128.85
+                  ],
+                  "text": "Bn+1\n..."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    276.15,
+                    139.1,
+                    419.13,
+                    167.67
+                  ],
+                  "text": "Bn\n...\nAn+1\n..."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    361.21,
+                    168.44,
+                    418.77,
+                    187.29
+                  ],
+                  "text": "Bn+1\n..."
+                }
+              ]
+            },
+            {
+              "id": "ex1-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    132.96,
+                    188.15,
+                    427.47,
+                    206.68
+                  ],
+                  "text": "Justifier que pour tout entier naturel non nul n, an+1 = 0,6an +0,24."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      107.76,
+                      611.97,
+                      524.37,
+                      653.33
+                    ],
+                    "text": "Utilisons là encore, la formule des probabilités totales pour déterminer an+1 en fonction\nde an, pour tout entier naturel non nul :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      122.16,
+                      655.34,
+                      510.63,
+                      690.14
+                    ],
+                    "text": "∀n ∈N∗, an+1 = p(An+1 ∩An)+ p(An+1 ∩Bn) = p An(An+1)× p(An)+ pBn(An+1)× p(Bn)\n= 0,84× p(An)+0,24× p(Bn) = 0,84 an +0,24 bn. Or ∀n ∈N∗, bn = 1−an."
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      122.16,
+                      684.38,
+                      388.96,
+                      705.74
+                    ],
+                    "text": "Donc ∀n ∈N∗, an+1 = 0,84 an +0,24(1−an) = 0,6 an +0,24"
+                  }
+                ],
+                "text": "Utilisons là encore, la formule des probabilités totales pour déterminer an+1 en fonction\nde an, pour tout entier naturel non nul :\n\n∀n ∈N∗, an+1 = p(An+1 ∩An)+ p(An+1 ∩Bn) = p An(An+1)× p(An)+ pBn(An+1)× p(Bn)\n= 0,84× p(An)+0,24× p(Bn) = 0,84 an +0,24 bn. Or ∀n ∈N∗, bn = 1−an.\n\nDonc ∀n ∈N∗, an+1 = 0,84 an +0,24(1−an) = 0,6 an +0,24"
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex1-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                201.26,
+                486.87,
+                221.32
+              ],
+              "text": "Montrer par récurrence que, pour tout entier naturel non nul n, an = 0,6−0,1×0,6n−1."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                217.31,
+                501.39,
+                228.75
+              ],
+              "text": "Déterminer la limite de la suite (an) et interpréter cette limite dans le contexte de l’exercice."
+            }
+          ]
+        },
+        {
+          "id": "ex1-q6",
+          "number": "6",
+          "label": "6.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                231.95,
+                512.67,
+                254.46
+              ],
+              "text": "Déterminer le plus petit entier naturel n tel que an ⩾0,599 et interpréter le résultat obtenu\ndans le contexte de l’exercice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "EXERCICE 2",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            269.75,
+            513.08,
+            280.26
+          ],
+          "text": "EXERCICE 2\n(7 points)\nThème : fonctions, fonction exponentielle"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            291.71,
+            132.74,
+            302.22
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            308.85,
+            314.91,
+            325.84
+          ],
+          "text": "Soit p la fonction définie sur l’intervalle [−3 ; 4] par :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            258.72,
+            330.62,
+            353.34,
+            349.72
+          ],
+          "text": "p(x) = x3 −3x2 +5x +1"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            269.75,
+            513.08,
+            280.26
+          ],
+          "text": "EXERCICE 2\n(7 points)\nThème : fonctions, fonction exponentielle"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            291.71,
+            132.74,
+            302.22
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            308.85,
+            314.91,
+            325.84
+          ],
+          "text": "Soit p la fonction définie sur l’intervalle [−3 ; 4] par :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            258.72,
+            330.62,
+            353.34,
+            349.72
+          ],
+          "text": "p(x) = x3 −3x2 +5x +1"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            349.07,
+            392.19,
+            366.16
+          ],
+          "text": "1. Déterminer les variations de la fonction p sur l’intervalle [−3 ; 4]."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            363.71,
+            512.75,
+            386.86
+          ],
+          "text": "2. Justifier que l’équation p(x) = 0 admet dans l’intervalle [−3 ; 4] une unique solution qui sera\nnotée α."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            390.23,
+            373.59,
+            401.5
+          ],
+          "text": "3. Déterminer une valeur approchée du réel α au dixième près."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            404.75,
+            401.67,
+            421.84
+          ],
+          "text": "4. Donner le tableau de signes de la fonction p sur l’intervalle [−3 ; 4]."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            430.67,
+            133.1,
+            441.18
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            447.81,
+            314.79,
+            464.8
+          ],
+          "text": "Soit f la fonction définie sur l’intervalle [−3 ; 4] par :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            279.84,
+            467.06,
+            323.75,
+            491.56
+          ],
+          "text": "f (x) =\nex"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            308.28,
+            480.38,
+            331.29,
+            498.28
+          ],
+          "text": "1+ x2"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            492.94,
+            364.95,
+            505.86
+          ],
+          "text": "On note C f sa courbe représentative dans un repère orthogonal."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            514.55,
+            399.27,
+            531.64
+          ],
+          "text": "1.\na. Déterminer la dérivée de la fonction f sur l’intervalle [−3 ; 4]."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            132.96,
+            528.46,
+            476.31,
+            541.38
+          ],
+          "text": "b. Justifier que la courbe C f admet une tangente horizontale au point d’abscisse 1."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.48,
+            542.98,
+            512.75,
+            578.22
+          ],
+          "text": "2. Les concepteurs d’un toboggan utilisent la courbe C f comme profil d’un toboggan. Ils estiment\nque le toboggan assure de bonnes sensations si le profil possède au moins deux points d’in-\nflexion."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            119.76,
+            677.9,
+            296.01,
+            690.81
+          ],
+          "text": "0\n1\n2\n3\n4\n−1\n−2\n−3\n−4"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            196.44,
+            645.38,
+            200.13,
+            653.29
+          ],
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            196.44,
+            624.02,
+            200.13,
+            631.93
+          ],
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            196.44,
+            602.78,
+            200.13,
+            610.69
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            196.44,
+            581.54,
+            200.13,
+            589.45
+          ],
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            143.76,
+            684.36,
+            272.31,
+            696.77
+          ],
+          "text": "Représentation de la courbe C f"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            257.7,
+            612.61,
+            267.21,
+            624.47
+          ],
+          "text": "C f"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            357.84,
+            685.79,
+            464.79,
+            696.2
+          ],
+          "text": "Vue de profil du toboggan"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            728.62,
+            512.57,
+            739.02
+          ],
+          "text": "Amérique du Nord\n2\n19 mai 2022"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            48.23,
+            512.81,
+            58.74
+          ],
+          "text": "Baccalauréat Spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            133.56,
+            86.75,
+            512.61,
+            109.14
+          ],
+          "text": "a. D’après le graphique ci-dessus, le toboggan semble-t-il assurer de bonnes sensations?\nArgumenter."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.96,
+            114.11,
+            512.73,
+            143.2
+          ],
+          "text": "b. On admet que la fonction f ′′, dérivée seconde de la fonction f , a pour expression pour\ntout réel x de l’intervalle [−3 ; 4] :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            285.96,
+            147.26,
+            371.52,
+            171.64
+          ],
+          "text": "f ′′(x) = p(x)(x −1)ex"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            328.32,
+            156.95,
+            362.73,
+            180.76
+          ],
+          "text": "¡\n1+ x2¢3"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            146.04,
+            182.25,
+            512.75,
+            218.34
+          ],
+          "text": "où p est la fonction définie dans la partie A.\nEn utilisant l’expression précédente de f ′′, répondre à la question : « le toboggan assure-\nt-il de bonnes sensations? ». Justifier."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                349.07,
+                392.19,
+                366.16
+              ],
+              "text": "Déterminer les variations de la fonction p sur l’intervalle [−3 ; 4]."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                363.71,
+                512.75,
+                386.86
+              ],
+              "text": "Justifier que l’équation p(x) = 0 admet dans l’intervalle [−3 ; 4] une unique solution qui sera\nnotée α."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                390.23,
+                373.59,
+                401.5
+              ],
+              "text": "Déterminer une valeur approchée du réel α au dixième près."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  84.24,
+                  568.11,
+                  216.5,
+                  586.82
+                ],
+                "text": "À la calculatrice, α ≈−0,2."
+              }
+            ],
+            "text": "À la calculatrice, α ≈−0,2."
+          }
+        },
+        {
+          "id": "ex2-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                404.75,
+                401.67,
+                421.84
+              ],
+              "text": "Donner le tableau de signes de la fonction p sur l’intervalle [−3 ; 4]."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                430.67,
+                133.1,
+                441.18
+              ],
+              "text": "Partie B"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                447.81,
+                314.79,
+                464.8
+              ],
+              "text": "Soit f la fonction définie sur l’intervalle [−3 ; 4] par :"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                279.84,
+                467.06,
+                323.75,
+                491.56
+              ],
+              "text": "f (x) =\nex"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                308.28,
+                480.38,
+                331.29,
+                498.28
+              ],
+              "text": "1+ x2"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                492.94,
+                364.95,
+                505.86
+              ],
+              "text": "On note C f sa courbe représentative dans un repère orthogonal."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  84.24,
+                  590.55,
+                  524.4,
+                  622.82
+                ],
+                "text": "D’après les variations de la fonction p, et en utilisant le résultat précédent, on peut établir le\ntableau de signe de la fonction p sur [−3 ; 4] :"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  237.63,
+                  636.4,
+                  242.81,
+                  646.43
+                ],
+                "text": "x"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  230.67,
+                  657.56,
+                  250.5,
+                  668.99
+                ],
+                "text": "p(x)"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  269.58,
+                  635.84,
+                  407.48,
+                  654.44
+                ],
+                "text": "−3\nα\n4"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  300.57,
+                  658.52,
+                  378.66,
+                  676.64
+                ],
+                "text": "−\n0\n+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  70.92,
+                  699.39,
+                  108.02,
+                  710.89
+                ],
+                "text": "Partie B"
+              }
+            ],
+            "text": "D’après les variations de la fonction p, et en utilisant le résultat précédent, on peut établir le\ntableau de signe de la fonction p sur [−3 ; 4] :\n\nx\n\np(x)\n\n−3\nα\n4\n\n−\n0\n+\n\nPartie B"
+          }
+        },
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    111.48,
+                    514.55,
+                    399.27,
+                    531.64
+                  ],
+                  "text": "Déterminer la dérivée de la fonction f sur l’intervalle [−3 ; 4]."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      84.24,
+                      728.84,
+                      479.06,
+                      749.53
+                    ],
+                    "text": "La fonction f est continue et dérivable sur [−3 ; 4] (car ∀x ∈[−3 ; 4], 1+ x2 ̸= 0)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      122.16,
+                      743.36,
+                      311.06,
+                      771.49
+                    ],
+                    "text": "∀x ∈[−3 ; 4], f ′(x) = ex ×(1+ x2)−ex ×2x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      245.52,
+                      743.36,
+                      389.55,
+                      781.45
+                    ],
+                    "text": "¡\n1+ x2¢2\n= ex(x2 −2x +1)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      343.08,
+                      741.5,
+                      447.33,
+                      778.93
+                    ],
+                    "text": "(1+2)2\n= (x −1)2 ex"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      411.36,
+                      752.9,
+                      452.3,
+                      778.93
+                    ],
+                    "text": "(1+2)2\n."
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      70.92,
+                      808.46,
+                      524.22,
+                      819.85
+                    ],
+                    "text": "Amérique du Nord\n2\n19 mai 2022"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      70.92,
+                      49.35,
+                      524.33,
+                      60.85
+                    ],
+                    "text": "Corrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                  }
+                ],
+                "text": "La fonction f est continue et dérivable sur [−3 ; 4] (car ∀x ∈[−3 ; 4], 1+ x2 ̸= 0).\n\n∀x ∈[−3 ; 4], f ′(x) = ex ×(1+ x2)−ex ×2x\n\n¡\n1+ x2¢2\n= ex(x2 −2x +1)\n\n(1+2)2\n= (x −1)2 ex\n\n(1+2)2\n.\n\nAmérique du Nord\n2\n19 mai 2022\n\nCorrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+              }
+            },
+            {
+              "id": "ex2-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    132.96,
+                    528.46,
+                    476.31,
+                    541.38
+                  ],
+                  "text": "Justifier que la courbe C f admet une tangente horizontale au point d’abscisse 1."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      107.76,
+                      83.54,
+                      232.41,
+                      113.41
+                    ],
+                    "text": "f ′(x) = 0 ⇐⇒(x −1)2 ex"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      196.44,
+                      90.86,
+                      495.62,
+                      120.97
+                    ],
+                    "text": "(1+2)2\n= 0 ⇐⇒(x −1)2 ex ⇐⇒(x −1)2 ⇐⇒x −1 = 0 ⇐⇒x = 1."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      111.62,
+                      172.08,
+                      137.54
+                    ],
+                    "text": "Et f (1) = e"
+                  }
+                ],
+                "text": "f ′(x) = 0 ⇐⇒(x −1)2 ex\n\n(1+2)2\n= 0 ⇐⇒(x −1)2 ex ⇐⇒(x −1)2 ⇐⇒x −1 = 0 ⇐⇒x = 1.\n\nEt f (1) = e"
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                111.48,
+                542.98,
+                512.75,
+                578.22
+              ],
+              "text": "Les concepteurs d’un toboggan utilisent la courbe C f comme profil d’un toboggan. Ils estiment\nque le toboggan assure de bonnes sensations si le profil possède au moins deux points d’in-\nflexion."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                119.76,
+                677.9,
+                296.01,
+                690.81
+              ],
+              "text": "0\n1\n2\n3\n4\n−1\n−2\n−3\n−4"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                196.44,
+                645.38,
+                200.13,
+                653.29
+              ],
+              "text": "1"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                196.44,
+                624.02,
+                200.13,
+                631.93
+              ],
+              "text": "2"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                196.44,
+                602.78,
+                200.13,
+                610.69
+              ],
+              "text": "3"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                196.44,
+                581.54,
+                200.13,
+                589.45
+              ],
+              "text": "4"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                143.76,
+                684.36,
+                272.31,
+                696.77
+              ],
+              "text": "Représentation de la courbe C f"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                257.7,
+                612.61,
+                267.21,
+                624.47
+              ],
+              "text": "C f"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                357.84,
+                685.79,
+                464.79,
+                696.2
+              ],
+              "text": "Vue de profil du toboggan"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                728.62,
+                512.57,
+                739.02
+              ],
+              "text": "Amérique du Nord\n2\n19 mai 2022"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                48.23,
+                512.81,
+                58.74
+              ],
+              "text": "Baccalauréat Spécialité\nA. P. M. E. P."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex2-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    133.56,
+                    86.75,
+                    512.61,
+                    109.14
+                  ],
+                  "text": "D’après le graphique ci-dessus, le toboggan semble-t-il assurer de bonnes sensations?\nArgumenter."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      84.24,
+                      164.67,
+                      473.06,
+                      176.21
+                    ],
+                    "text": "Avec la précision permise par le graphique, on peut voir que la fonction f est :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      132.96,
+                      182.42,
+                      235.1,
+                      201.02
+                    ],
+                    "text": "• convexe sur [−3 ; 0];"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      132.96,
+                      197.9,
+                      228.02,
+                      209.29
+                    ],
+                    "text": "• concave sur [0 ; 1];"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      132.96,
+                      213.5,
+                      226.82,
+                      224.89
+                    ],
+                    "text": "• convexe sur [1 ; 4]."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      230.15,
+                      428.54,
+                      249.62
+                    ],
+                    "text": "Donc C f admet deux points d’inflexion, aux abscisses x = 0 et x = 1."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      246.5,
+                      375.62,
+                      257.89
+                    ],
+                    "text": "Le toboggan semble donc assurer de bonnes sensations."
+                  }
+                ],
+                "text": "Avec la précision permise par le graphique, on peut voir que la fonction f est :\n\n• convexe sur [−3 ; 0];\n\n• concave sur [0 ; 1];\n\n• convexe sur [1 ; 4].\n\nDonc C f admet deux points d’inflexion, aux abscisses x = 0 et x = 1.\n\nLe toboggan semble donc assurer de bonnes sensations."
+              }
+            },
+            {
+              "id": "ex2-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.96,
+                    114.11,
+                    512.73,
+                    143.2
+                  ],
+                  "text": "On admet que la fonction f ′′, dérivée seconde de la fonction f , a pour expression pour\ntout réel x de l’intervalle [−3 ; 4] :"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    285.96,
+                    147.26,
+                    371.52,
+                    171.64
+                  ],
+                  "text": "f ′′(x) = p(x)(x −1)ex"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    328.32,
+                    156.95,
+                    362.73,
+                    180.76
+                  ],
+                  "text": "¡\n1+ x2¢3"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    146.04,
+                    182.25,
+                    512.75,
+                    218.34
+                  ],
+                  "text": "où p est la fonction définie dans la partie A.\nEn utilisant l’expression précédente de f ′′, répondre à la question : « le toboggan assure-\nt-il de bonnes sensations? ». Justifier."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      107.76,
+                      261.0,
+                      279.21,
+                      287.66
+                    ],
+                    "text": "∀x ∈[−3 ; 4] : f ′′(x) = p(x)(x −1)ex"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      231.96,
+                      271.55,
+                      269.59,
+                      297.61
+                    ],
+                    "text": "¡\n1+ x2¢3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      292.7,
+                      524.22,
+                      322.52
+                    ],
+                    "text": "Recherchons les points d’inflexion, c’est-à-dire les valeurs de x ∈[−3 ; 4] pour lesquelles\nf ′′(x) s’annule et change de signe."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      314.27,
+                      476.54,
+                      340.45
+                    ],
+                    "text": "∀x ∈[−3 ; 4],\n¡\n1+ x2¢3 > 0 et ex > 0 donc f ′′(x) a le même signe que p(x)(x −1)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      337.34,
+                      330.26,
+                      348.73
+                    ],
+                    "text": "On construit alors le tableau de signe suivant :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      235.45,
+                      362.01,
+                      419.48,
+                      380.61
+                    ],
+                    "text": "x\n−3\nα\n1\n4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      228.49,
+                      383.6,
+                      397.75,
+                      402.68
+                    ],
+                    "text": "p(x)\n−\n0\n+\n+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      227.77,
+                      407.24,
+                      397.74,
+                      425.84
+                    ],
+                    "text": "x −1\n−\n−\n0\n+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      226.93,
+                      429.18,
+                      397.74,
+                      448.04
+                    ],
+                    "text": "f ′′(x)\n+\n0\n−\n0\n+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      454.1,
+                      524.46,
+                      483.01
+                    ],
+                    "text": "La fonction f ′′ s’annule et change de signe en x = α et x = 1. Donc C f admet deux points\nd’inflexion. Le toboggan assure donc de bonnes sensations."
+                  }
+                ],
+                "text": "∀x ∈[−3 ; 4] : f ′′(x) = p(x)(x −1)ex\n\n¡\n1+ x2¢3\n\nRecherchons les points d’inflexion, c’est-à-dire les valeurs de x ∈[−3 ; 4] pour lesquelles\nf ′′(x) s’annule et change de signe.\n\n∀x ∈[−3 ; 4],\n¡\n1+ x2¢3 > 0 et ex > 0 donc f ′′(x) a le même signe que p(x)(x −1).\n\nOn construit alors le tableau de signe suivant :\n\nx\n−3\nα\n1\n4\n\np(x)\n−\n0\n+\n+\n\nx −1\n−\n−\n0\n+\n\nf ′′(x)\n+\n0\n−\n0\n+\n\nLa fonction f ′′ s’annule et change de signe en x = α et x = 1. Donc C f admet deux points\nd’inflexion. Le toboggan assure donc de bonnes sensations."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "EXERCICE 3",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            238.79,
+            512.96,
+            249.3
+          ],
+          "text": "EXERCICE 3\n(7 points)\nThème : géométrie dans l’espace"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            262.77,
+            512.79,
+            297.06
+          ],
+          "text": "Une exposition d’art contemporain a lieu dans une salle en forme de pavé droit de largeur 6 m, de\nlongueur 8 m et de hauteur 4 m.\nElle est représentée par le parallélépipède rectangle OBCDEFGH où OB = 6 m, OD = 8 m et OE = 4 m."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            293.27,
+            349.02,
+            319.84
+          ],
+          "text": "On utilise le repère orthonormé\n3\nO ; −→ı , −→, −→\nk\n ́\ntel que −→ı = 1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            344.16,
+            296.13,
+            393.42,
+            320.1
+          ],
+          "text": "6\n−−→\nOB,−→= 1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            388.56,
+            296.13,
+            447.78,
+            320.1
+          ],
+          "text": "8\n−−→\nOD et −→\nk = 1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            442.92,
+            299.4,
+            465.87,
+            320.1
+          ],
+          "text": "4\n−−→\nOE."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            198.87,
+            404.65,
+            204.69,
+            415.05
+          ],
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            200.19,
+            446.92,
+            206.11,
+            457.32
+          ],
+          "text": "B"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            328.44,
+            476.71,
+            334.71,
+            487.11
+          ],
+          "text": "C"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            403.07,
+            446.92,
+            410.21,
+            457.32
+          ],
+          "text": "D"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            274.94,
+            332.71,
+            280.5,
+            343.11
+          ],
+          "text": "E"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            200.79,
+            362.49,
+            206.11,
+            372.9
+          ],
+          "text": "F"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            335.04,
+            404.4,
+            341.77,
+            414.8
+          ],
+          "text": "G"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            403.07,
+            362.49,
+            410.38,
+            372.9
+          ],
+          "text": "H"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            274.22,
+            420.01,
+            281.21,
+            430.41
+          ],
+          "text": "O"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            258.5,
+            372.98,
+            264.41,
+            383.38
+          ],
+          "text": "R"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            278.02,
+            439.85,
+            282.97,
+            450.26
+          ],
+          "text": "S"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            240.81,
+            346.88,
+            246.5,
+            357.28
+          ],
+          "text": "T"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            253.64,
+            404.1,
+            312.78,
+            419.99
+          ],
+          "text": "−→ı\n−→"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            263.54,
+            391.9,
+            272.71,
+            406.15
+          ],
+          "text": "−→\nk"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            492.81,
+            470.36,
+            515.22
+          ],
+          "text": "Dans ce repère on a, en particulier C(6; 8; 0), F(6; 0; 4) et G(6; 8; 4).\nUne des œuvres exposées est un triangle de verre représenté par le triangle ART qui a pour"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            509.27,
+            446.34,
+            532.02
+          ],
+          "text": "sommets A(6; 0; 2), R(6; 3; 4) et T(3; 0; 4), Enfin, S est le point de coordonnées\nμ\n3 ; 5"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            441.48,
+            509.27,
+            466.47,
+            538.86
+          ],
+          "text": "2 ; 0\n¶\n."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            238.79,
+            512.96,
+            249.3
+          ],
+          "text": "EXERCICE 3\n(7 points)\nThème : géométrie dans l’espace"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            262.77,
+            512.79,
+            297.06
+          ],
+          "text": "Une exposition d’art contemporain a lieu dans une salle en forme de pavé droit de largeur 6 m, de\nlongueur 8 m et de hauteur 4 m.\nElle est représentée par le parallélépipède rectangle OBCDEFGH où OB = 6 m, OD = 8 m et OE = 4 m."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            293.27,
+            349.02,
+            319.84
+          ],
+          "text": "On utilise le repère orthonormé\n3\nO ; −→ı , −→, −→\nk\n ́\ntel que −→ı = 1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            344.16,
+            296.13,
+            393.42,
+            320.1
+          ],
+          "text": "6\n−−→\nOB,−→= 1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            388.56,
+            296.13,
+            447.78,
+            320.1
+          ],
+          "text": "8\n−−→\nOD et −→\nk = 1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            442.92,
+            299.4,
+            465.87,
+            320.1
+          ],
+          "text": "4\n−−→\nOE."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            198.87,
+            404.65,
+            204.69,
+            415.05
+          ],
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            200.19,
+            446.92,
+            206.11,
+            457.32
+          ],
+          "text": "B"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            328.44,
+            476.71,
+            334.71,
+            487.11
+          ],
+          "text": "C"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            403.07,
+            446.92,
+            410.21,
+            457.32
+          ],
+          "text": "D"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            274.94,
+            332.71,
+            280.5,
+            343.11
+          ],
+          "text": "E"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            200.79,
+            362.49,
+            206.11,
+            372.9
+          ],
+          "text": "F"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            335.04,
+            404.4,
+            341.77,
+            414.8
+          ],
+          "text": "G"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            403.07,
+            362.49,
+            410.38,
+            372.9
+          ],
+          "text": "H"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            274.22,
+            420.01,
+            281.21,
+            430.41
+          ],
+          "text": "O"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            258.5,
+            372.98,
+            264.41,
+            383.38
+          ],
+          "text": "R"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            278.02,
+            439.85,
+            282.97,
+            450.26
+          ],
+          "text": "S"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            240.81,
+            346.88,
+            246.5,
+            357.28
+          ],
+          "text": "T"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            253.64,
+            404.1,
+            312.78,
+            419.99
+          ],
+          "text": "−→ı\n−→"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            263.54,
+            391.9,
+            272.71,
+            406.15
+          ],
+          "text": "−→\nk"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            492.81,
+            470.36,
+            515.22
+          ],
+          "text": "Dans ce repère on a, en particulier C(6; 8; 0), F(6; 0; 4) et G(6; 8; 4).\nUne des œuvres exposées est un triangle de verre représenté par le triangle ART qui a pour"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            509.27,
+            446.34,
+            532.02
+          ],
+          "text": "sommets A(6; 0; 2), R(6; 3; 4) et T(3; 0; 4), Enfin, S est le point de coordonnées\nμ\n3 ; 5"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            441.48,
+            509.27,
+            466.47,
+            538.86
+          ],
+          "text": "2 ; 0\n¶\n."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            111.48,
+            542.99,
+            324.27,
+            553.5
+          ],
+          "text": "1.\na. Vérifier que le triangle ART est isocèle en A."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.96,
+            556.68,
+            292.59,
+            577.12
+          ],
+          "text": "b. Calculer le produit scalaire −−→\nAR ·−→\nAT."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            133.92,
+            574.43,
+            413.79,
+            586.02
+          ],
+          "text": "c. En déduire une valeur approchée à 0,1 degré près de l’angle d\nRAT."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            111.48,
+            599.4,
+            249.17,
+            619.84
+          ],
+          "text": "2.\na. Justifier que le vecteur −→\nn"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            250.08,
+            584.99,
+            255.53,
+            594.15
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            250.08,
+            590.74,
+            267.06,
+            625.02
+          ],
+          "text": "\n2\n−2\n3"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            267.0,
+            584.99,
+            272.45,
+            594.15
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            267.0,
+            601.55,
+            426.75,
+            613.26
+          ],
+          "text": "est un vecteur normal au plan (ART)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.96,
+            629.51,
+            361.35,
+            640.02
+          ],
+          "text": "b. En déduire une équation cartésienne du plan (ART)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            111.48,
+            644.99,
+            512.79,
+            667.5
+          ],
+          "text": "3. Un rayon laser dirigé vers le triangle ART est émis du plancher à partir du point S. On admet\nque ce rayon est orthogonal au plan (ART)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            133.56,
+            671.47,
+            421.95,
+            682.86
+          ],
+          "text": "a. Soit ∆la droite orthogonale au plan (ART) et passant par le point S."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            146.04,
+            685.27,
+            502.47,
+            696.66
+          ],
+          "text": "Justifier que le système ci-dessous est une représentation paramétrique de la droite ∆:"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            728.62,
+            512.57,
+            739.02
+          ],
+          "text": "Amérique du Nord\n3\n19 mai 2022"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            48.23,
+            512.81,
+            58.74
+          ],
+          "text": "Baccalauréat Spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            265.32,
+            88.67,
+            272.93,
+            111.63
+          ],
+          "text": "\n\n\n"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            265.32,
+            118.91,
+            272.93,
+            133.59
+          ],
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            278.16,
+            96.33,
+            335.96,
+            113.32
+          ],
+          "text": "x\n=\n3+2k"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            278.4,
+            106.05,
+            316.02,
+            129.88
+          ],
+          "text": "y\n=\n5"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            311.16,
+            112.9,
+            336.08,
+            136.72
+          ],
+          "text": "2 −2k"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            278.16,
+            128.02,
+            336.08,
+            145.0
+          ],
+          "text": "z\n=\n3k"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            344.04,
+            111.43,
+            393.63,
+            129.4
+          ],
+          "text": ", avec k ∈R."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.96,
+            146.47,
+            401.55,
+            157.86
+          ],
+          "text": "b. Soit L le point d’intersection de la droite ∆, avec le plan (ART)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            146.04,
+            153.47,
+            326.7,
+            176.22
+          ],
+          "text": "Démontrer que L a pour coordonnées\nμ\n5 ; 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            321.84,
+            153.47,
+            346.83,
+            183.06
+          ],
+          "text": "2 ; 3\n¶\n."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            111.48,
+            185.51,
+            512.79,
+            221.7
+          ],
+          "text": "4. L’artiste installe un rail représenté par le segment [DK] ou K est le milieu du segment [EH].\nSur ce rail, il positionne une source lumineuse laser en un point N du segment [DK] et il oriente\nce second rayon laser vers le point S."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            211.23,
+            309.97,
+            217.05,
+            320.37
+          ],
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            212.55,
+            352.24,
+            218.47,
+            362.64
+          ],
+          "text": "B"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            340.8,
+            382.03,
+            347.07,
+            392.43
+          ],
+          "text": "C"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            415.55,
+            352.24,
+            422.69,
+            362.64
+          ],
+          "text": "D"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            287.3,
+            238.03,
+            292.86,
+            248.43
+          ],
+          "text": "E"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            213.15,
+            267.81,
+            218.47,
+            278.22
+          ],
+          "text": "F"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            347.52,
+            309.72,
+            354.25,
+            320.12
+          ],
+          "text": "G"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            415.55,
+            267.81,
+            422.86,
+            278.22
+          ],
+          "text": "H"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            286.58,
+            325.33,
+            293.56,
+            335.74
+          ],
+          "text": "O"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            270.98,
+            278.3,
+            276.89,
+            288.7
+          ],
+          "text": "R"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            290.38,
+            345.17,
+            295.33,
+            355.58
+          ],
+          "text": "S"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            253.16,
+            252.2,
+            258.86,
+            262.6
+          ],
+          "text": "T"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            274.52,
+            309.33,
+            316.79,
+            323.71
+          ],
+          "text": "−→ı\n−→"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            285.86,
+            287.66,
+            294.11,
+            300.45
+          ],
+          "text": "−→k"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            367.36,
+            270.65,
+            374.51,
+            281.05
+          ],
+          "text": "N"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            348.01,
+            252.08,
+            354.04,
+            262.48
+          ],
+          "text": "K"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            236.4,
+            299.82,
+            241.6,
+            310.22
+          ],
+          "text": "L"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            133.56,
+            397.79,
+            512.73,
+            420.3
+          ],
+          "text": "a. Montrer que, pour tout réel t de l’intervalle [0; 1], le point N de coordonnées (0 ; 8−4t ; 4t)\nest un point du segment [DK]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.96,
+            425.15,
+            512.73,
+            447.66
+          ],
+          "text": "b. Calculer les coordonnées exactes du point N tel que les deux rayons laser représentés par\nles segments [SL] et [SN] soient perpendiculaires."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    111.48,
+                    542.99,
+                    324.27,
+                    553.5
+                  ],
+                  "text": "Vérifier que le triangle ART est isocèle en A."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      84.24,
+                      605.6,
+                      353.72,
+                      629.42
+                    ],
+                    "text": "Les vecteurs −−→\nAR et −−→\nAT ont pour coordonnées : −−→\nAR"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      355.92,
+                      585.23,
+                      361.89,
+                      595.27
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      355.92,
+                      602.87,
+                      361.89,
+                      625.39
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      361.8,
+                      593.9,
+                      367.12,
+                      605.29
+                    ],
+                    "text": "0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      361.8,
+                      611.54,
+                      367.12,
+                      622.93
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      361.8,
+                      629.06,
+                      367.12,
+                      640.45
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      367.2,
+                      585.23,
+                      373.17,
+                      595.27
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      367.2,
+                      602.87,
+                      402.8,
+                      629.42
+                    ],
+                    "text": "et −−→\nAT"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      404.88,
+                      585.23,
+                      410.85,
+                      595.27
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      404.88,
+                      602.87,
+                      410.85,
+                      625.39
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      410.88,
+                      593.9,
+                      423.4,
+                      612.49
+                    ],
+                    "text": "−3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      414.48,
+                      611.54,
+                      419.8,
+                      622.93
+                    ],
+                    "text": "0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      414.48,
+                      629.06,
+                      419.8,
+                      640.45
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      423.48,
+                      585.23,
+                      429.45,
+                      595.27
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      423.48,
+                      602.87,
+                      432.02,
+                      625.39
+                    ],
+                    "text": "."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.88,
+                      641.24,
+                      193.88,
+                      667.22
+                    ],
+                    "text": "AR = ∥−−→\nAR ∥=\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      193.92,
+                      641.96,
+                      262.64,
+                      667.22
+                    ],
+                    "text": "02 +32 +22 =\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      262.56,
+                      639.95,
+                      359.24,
+                      667.21
+                    ],
+                    "text": "13 et AT = ∥−−→\nAT ∥=\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      359.28,
+                      641.96,
+                      442.16,
+                      667.21
+                    ],
+                    "text": "(−3)2 +02 +22 =\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      442.2,
+                      648.62,
+                      452.8,
+                      660.01
+                    ],
+                    "text": "13"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      659.0,
+                      357.38,
+                      682.82
+                    ],
+                    "text": "∥−−→\nAR ∥= ∥−−→\nAR ∥donc le triangle ART est isocèle en A."
+                  }
+                ],
+                "text": "Les vecteurs −−→\nAR et −−→\nAT ont pour coordonnées : −−→\nAR\n\n\n\n\n\n0\n\n3\n\n2\n\n\n\net −−→\nAT\n\n\n\n\n\n−3\n\n0\n\n2\n\n\n\n.\n\nAR = ∥−−→\nAR ∥=\np\n\n02 +32 +22 =\np\n\n13 et AT = ∥−−→\nAT ∥=\np\n\n(−3)2 +02 +22 =\np\n\n13\n\n∥−−→\nAR ∥= ∥−−→\nAR ∥donc le triangle ART est isocèle en A."
+              }
+            },
+            {
+              "id": "ex3-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.96,
+                    556.68,
+                    292.59,
+                    577.12
+                  ],
+                  "text": "Calculer le produit scalaire −−→\nAR ·−→\nAT."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      107.76,
+                      677.6,
+                      280.96,
+                      701.54
+                    ],
+                    "text": "−−→\nAR .−−→\nAT = 0×(−3)+3×0+2×2 = 4"
+                  }
+                ],
+                "text": "−−→\nAR .−−→\nAT = 0×(−3)+3×0+2×2 = 4"
+              }
+            },
+            {
+              "id": "ex3-q1-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    133.92,
+                    574.43,
+                    413.79,
+                    586.02
+                  ],
+                  "text": "En déduire une valeur approchée à 0,1 degré près de l’angle d\nRAT."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      108.96,
+                      689.51,
+                      470.81,
+                      719.06
+                    ],
+                    "text": "Utilisons la formule du produit scalaire : −−→\nAR .−−→\nAT =\n°°°−−→\nAR\n°°°×\n°°°−−→\nAT\n°°°×cos\n¡ d\nRAT\n¢"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      122.16,
+                      715.64,
+                      251.72,
+                      746.89
+                    ],
+                    "text": "donc cos\n¡ d\nRAT\n¢\n=\n−−→\nAR .−−→\nAR"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      201.84,
+                      720.86,
+                      292.96,
+                      757.33
+                    ],
+                    "text": "∥−−→\nAR ∥×∥−−→\nAT ∥\n=\n4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      278.52,
+                      732.44,
+                      286.88,
+                      749.17
+                    ],
+                    "text": "p"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      286.92,
+                      720.86,
+                      323.44,
+                      751.22
+                    ],
+                    "text": "13\n2 = 4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      315.36,
+                      713.78,
+                      431.08,
+                      747.13
+                    ],
+                    "text": "13 donc \nRAT = arccos\nμ 4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      423.12,
+                      735.74,
+                      433.72,
+                      747.13
+                    ],
+                    "text": "13"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      434.88,
+                      714.71,
+                      473.43,
+                      746.89
+                    ],
+                    "text": "¶\n≈72,1°"
+                  }
+                ],
+                "text": "Utilisons la formule du produit scalaire : −−→\nAR .−−→\nAT =\n°°°−−→\nAR\n°°°×\n°°°−−→\nAT\n°°°×cos\n¡ d\nRAT\n¢\n\ndonc cos\n¡ d\nRAT\n¢\n=\n−−→\nAR .−−→\nAR\n\n∥−−→\nAR ∥×∥−−→\nAT ∥\n=\n4\n\np\n\n13\n2 = 4\n\n13 donc \nRAT = arccos\nμ 4\n\n13\n\n¶\n≈72,1°"
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    111.48,
+                    599.4,
+                    249.17,
+                    619.84
+                  ],
+                  "text": "Justifier que le vecteur −→\nn"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    250.08,
+                    584.99,
+                    255.53,
+                    594.15
+                  ],
+                  "text": ""
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    250.08,
+                    590.74,
+                    267.06,
+                    625.02
+                  ],
+                  "text": "\n2\n−2\n3"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    267.0,
+                    584.99,
+                    272.45,
+                    594.15
+                  ],
+                  "text": ""
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    267.0,
+                    601.55,
+                    426.75,
+                    613.26
+                  ],
+                  "text": "est un vecteur normal au plan (ART)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      84.24,
+                      756.32,
+                      524.42,
+                      780.13
+                    ],
+                    "text": "Les vecteurs −−→\nAR et −−→\nAT ne sont pas colinéaires : il n’existe pas de réel k tel que −−→\nJK = k×−→\nJL ."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      70.92,
+                      808.46,
+                      524.22,
+                      819.85
+                    ],
+                    "text": "Amérique du Nord\n3\n19 mai 2022"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      70.92,
+                      49.35,
+                      524.33,
+                      60.85
+                    ],
+                    "text": "Corrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      107.66,
+                      206.88,
+                      119.05
+                    ],
+                    "text": "En effet le système"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      209.64,
+                      81.71,
+                      217.97,
+                      106.75
+                    ],
+                    "text": "\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      209.64,
+                      114.83,
+                      217.97,
+                      130.87
+                    ],
+                    "text": "\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      222.96,
+                      90.74,
+                      291.03,
+                      109.33
+                    ],
+                    "text": "0\n=\nk ×(−3)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      222.96,
+                      108.38,
+                      276.88,
+                      126.97
+                    ],
+                    "text": "3\n=\nk ×0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      222.96,
+                      125.9,
+                      276.88,
+                      144.49
+                    ],
+                    "text": "2\n=\nk ×2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      299.88,
+                      107.66,
+                      524.52,
+                      119.05
+                    ],
+                    "text": "n’admet pas de solution. Donc ils définissent une"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      121.92,
+                      139.7,
+                      524.42,
+                      173.9
+                    ],
+                    "text": "base du plan (ART ). Calculons :\n−→\nn .−−→\nAR = 2×0+(−2)×3+3×2 = −6+6 = 0 et −→\nn .−−→\nAT = 2×(−3)+(−2)×0+3×2 = −6+6 = 0."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      165.56,
+                      524.37,
+                      195.77
+                    ],
+                    "text": "Donc −→\nn ⊥−−→\nAR et −→\nn ⊥−−→\nAT donc −→\nn est normal à tout vecteur du plan (ART ), donc −→\nn est\nun vecteur normal au plan (ART )."
+                  }
+                ],
+                "text": "Les vecteurs −−→\nAR et −−→\nAT ne sont pas colinéaires : il n’existe pas de réel k tel que −−→\nJK = k×−→\nJL .\n\nAmérique du Nord\n3\n19 mai 2022\n\nCorrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P.\n\nEn effet le système\n\n\n\n\n\n\n\n\n\n\n0\n=\nk ×(−3)\n\n3\n=\nk ×0\n\n2\n=\nk ×2\n\nn’admet pas de solution. Donc ils définissent une\n\nbase du plan (ART ). Calculons :\n−→\nn .−−→\nAR = 2×0+(−2)×3+3×2 = −6+6 = 0 et −→\nn .−−→\nAT = 2×(−3)+(−2)×0+3×2 = −6+6 = 0.\n\nDonc −→\nn ⊥−−→\nAR et −→\nn ⊥−−→\nAT donc −→\nn est normal à tout vecteur du plan (ART ), donc −→\nn est\nun vecteur normal au plan (ART )."
+              }
+            },
+            {
+              "id": "ex3-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.96,
+                    629.51,
+                    361.35,
+                    640.02
+                  ],
+                  "text": "En déduire une équation cartésienne du plan (ART)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      107.76,
+                      201.75,
+                      524.46,
+                      247.57
+                    ],
+                    "text": "Le plan (ART ) a pour équation cartésienne : ax + by + cz + d = 0, où (a ; b ; c) sont les\ncordonnées d’un vecteur normal au plan. En prenant comme vecteur normal le vecteur\n−→\nn , on obtient : (ART ) : 2x −2y +3z +d = 0."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      244.58,
+                      346.82,
+                      263.17
+                    ],
+                    "text": "Or A ∈(ART) donc 12−0+6+d = 0 donc d = −18."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      260.06,
+                      381.14,
+                      278.65
+                    ],
+                    "text": "Donc le plan (ART ) a pour équation 2x −2y +3z −18 = 0."
+                  }
+                ],
+                "text": "Le plan (ART ) a pour équation cartésienne : ax + by + cz + d = 0, où (a ; b ; c) sont les\ncordonnées d’un vecteur normal au plan. En prenant comme vecteur normal le vecteur\n−→\nn , on obtient : (ART ) : 2x −2y +3z +d = 0.\n\nOr A ∈(ART) donc 12−0+6+d = 0 donc d = −18.\n\nDonc le plan (ART ) a pour équation 2x −2y +3z −18 = 0."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                111.48,
+                644.99,
+                512.79,
+                667.5
+              ],
+              "text": "Un rayon laser dirigé vers le triangle ART est émis du plancher à partir du point S. On admet\nque ce rayon est orthogonal au plan (ART)."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex3-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    133.56,
+                    671.47,
+                    421.95,
+                    682.86
+                  ],
+                  "text": "Soit ∆la droite orthogonale au plan (ART) et passant par le point S."
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    146.04,
+                    685.27,
+                    502.47,
+                    696.66
+                  ],
+                  "text": "Justifier que le système ci-dessous est une représentation paramétrique de la droite ∆:"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    99.24,
+                    728.62,
+                    512.57,
+                    739.02
+                  ],
+                  "text": "Amérique du Nord\n3\n19 mai 2022"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    48.23,
+                    512.81,
+                    58.74
+                  ],
+                  "text": "Baccalauréat Spécialité\nA. P. M. E. P."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    265.32,
+                    88.67,
+                    272.93,
+                    111.63
+                  ],
+                  "text": "\n\n\n"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    265.32,
+                    118.91,
+                    272.93,
+                    133.59
+                  ],
+                  "text": "\n\n"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    278.16,
+                    96.33,
+                    335.96,
+                    113.32
+                  ],
+                  "text": "x\n=\n3+2k"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    278.4,
+                    106.05,
+                    316.02,
+                    129.88
+                  ],
+                  "text": "y\n=\n5"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    311.16,
+                    112.9,
+                    336.08,
+                    136.72
+                  ],
+                  "text": "2 −2k"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    278.16,
+                    128.02,
+                    336.08,
+                    145.0
+                  ],
+                  "text": "z\n=\n3k"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    344.04,
+                    111.43,
+                    393.63,
+                    129.4
+                  ],
+                  "text": ", avec k ∈R."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      84.24,
+                      281.54,
+                      524.4,
+                      294.05
+                    ],
+                    "text": "La droite ∆est orthogonale au plan (ART ), donc elle admet comme vecteur directeur le"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      287.39,
+                      425.8,
+                      319.45
+                    ],
+                    "text": "vecteur −→\nu , vecteur normal à ce plan. Elle passe par le point S\nμ\n3 ; 5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      420.48,
+                      287.39,
+                      524.49,
+                      319.81
+                    ],
+                    "text": "2 ; 0\n¶\n. Une représenta-"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      317.54,
+                      313.1,
+                      354.19
+                    ],
+                    "text": "tion paramétrique de la droite ∆est donc :\n\n\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      362.27,
+                      130.49,
+                      381.31
+                    ],
+                    "text": "\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      135.72,
+                      336.14,
+                      194.59,
+                      354.73
+                    ],
+                    "text": "x\n=\n3+2k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      348.14,
+                      175.24,
+                      374.17
+                    ],
+                    "text": "y\n=\n5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      169.92,
+                      355.58,
+                      197.11,
+                      381.61
+                    ],
+                    "text": "2 −2k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      135.72,
+                      375.38,
+                      194.59,
+                      393.97
+                    ],
+                    "text": "z\n=\n0+3k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      205.2,
+                      354.02,
+                      250.17,
+                      373.69
+                    ],
+                    "text": ",k ∈R soit"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      252.48,
+                      326.03,
+                      260.81,
+                      354.19
+                    ],
+                    "text": "\n\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      252.48,
+                      362.27,
+                      260.81,
+                      381.31
+                    ],
+                    "text": "\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      266.04,
+                      336.14,
+                      327.43,
+                      354.73
+                    ],
+                    "text": "x\n=\n3+2k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      266.4,
+                      348.14,
+                      305.68,
+                      374.17
+                    ],
+                    "text": "y\n=\n5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      300.36,
+                      355.58,
+                      327.43,
+                      381.61
+                    ],
+                    "text": "2 −2k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      266.04,
+                      375.38,
+                      327.43,
+                      393.97
+                    ],
+                    "text": "z\n=\n3k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      335.52,
+                      354.02,
+                      389.78,
+                      373.69
+                    ],
+                    "text": ", avec k ∈R."
+                  }
+                ],
+                "text": "La droite ∆est orthogonale au plan (ART ), donc elle admet comme vecteur directeur le\n\nvecteur −→\nu , vecteur normal à ce plan. Elle passe par le point S\nμ\n3 ; 5\n\n2 ; 0\n¶\n. Une représenta-\n\ntion paramétrique de la droite ∆est donc :\n\n\n\n\n\n\n\n\n\n\n\nx\n=\n3+2k\n\ny\n=\n5\n\n2 −2k\n\nz\n=\n0+3k\n\n,k ∈R soit\n\n\n\n\n\n\n\n\n\n\n\n\nx\n=\n3+2k\n\ny\n=\n5\n\n2 −2k\n\nz\n=\n3k\n\n, avec k ∈R."
+              }
+            },
+            {
+              "id": "ex3-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    132.96,
+                    146.47,
+                    401.55,
+                    157.86
+                  ],
+                  "text": "Soit L le point d’intersection de la droite ∆, avec le plan (ART)."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    146.04,
+                    153.47,
+                    326.7,
+                    176.22
+                  ],
+                  "text": "Démontrer que L a pour coordonnées\nμ\n5 ; 1"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    321.84,
+                    153.47,
+                    346.83,
+                    183.06
+                  ],
+                  "text": "2 ; 3\n¶\n."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      107.76,
+                      393.03,
+                      426.02,
+                      404.53
+                    ],
+                    "text": "Les coordonnées du point L sont les uniques solutions du système :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      438.74,
+                      135.27,
+                      450.17
+                    ],
+                    "text": "(S)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.32,
+                      400.67,
+                      144.65,
+                      437.83
+                    ],
+                    "text": "\n\n\n\n\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.32,
+                      445.79,
+                      144.65,
+                      473.95
+                    ],
+                    "text": "\n\n\n\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      149.76,
+                      411.02,
+                      192.43,
+                      429.61
+                    ],
+                    "text": "x = 3+2k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.12,
+                      423.02,
+                      173.2,
+                      448.93
+                    ],
+                    "text": "y = 5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      167.88,
+                      430.34,
+                      194.95,
+                      456.49
+                    ],
+                    "text": "2 −2k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      149.76,
+                      450.14,
+                      176.83,
+                      468.73
+                    ],
+                    "text": "z = 3k"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      149.52,
+                      467.78,
+                      239.92,
+                      486.37
+                    ],
+                    "text": "2x −2y +3z −18 = 0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      248.04,
+                      438.74,
+                      524.42,
+                      450.17
+                    ],
+                    "text": "En remplaçant x, y et z dans la dernière équation, on obtient :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      475.43,
+                      299.8,
+                      507.49
+                    ],
+                    "text": "2x −2y +3z −18 = 0 ⇐⇒2(3+2k)−2\nμ5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      294.48,
+                      475.43,
+                      524.44,
+                      515.05
+                    ],
+                    "text": "2 −2k\n¶\n+3×3k −18 = 0 ⇐⇒17k −17 = 0 ⇐⇒k = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      122.16,
+                      508.58,
+                      236.2,
+                      534.62
+                    ],
+                    "text": "Donc x = 3+2k = 5, y = 5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      230.88,
+                      508.58,
+                      275.08,
+                      542.05
+                    ],
+                    "text": "2 −2k = 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      269.76,
+                      502.43,
+                      502.48,
+                      534.85
+                    ],
+                    "text": "2 et z = 3k = 3. Le point L a pour coordonnées\nμ\n5 ; 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      497.16,
+                      502.43,
+                      524.42,
+                      534.85
+                    ],
+                    "text": "2 ; 3\n¶\n."
+                  }
+                ],
+                "text": "Les coordonnées du point L sont les uniques solutions du système :\n\n(S)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nx = 3+2k\n\ny = 5\n\n2 −2k\n\nz = 3k\n\n2x −2y +3z −18 = 0\n\nEn remplaçant x, y et z dans la dernière équation, on obtient :\n\n2x −2y +3z −18 = 0 ⇐⇒2(3+2k)−2\nμ5\n\n2 −2k\n¶\n+3×3k −18 = 0 ⇐⇒17k −17 = 0 ⇐⇒k = 1\n\nDonc x = 3+2k = 5, y = 5\n\n2 −2k = 1\n\n2 et z = 3k = 3. Le point L a pour coordonnées\nμ\n5 ; 1\n\n2 ; 3\n¶\n."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                111.48,
+                185.51,
+                512.79,
+                221.7
+              ],
+              "text": "L’artiste installe un rail représenté par le segment [DK] ou K est le milieu du segment [EH].\nSur ce rail, il positionne une source lumineuse laser en un point N du segment [DK] et il oriente\nce second rayon laser vers le point S."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                211.23,
+                309.97,
+                217.05,
+                320.37
+              ],
+              "text": "A"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                212.55,
+                352.24,
+                218.47,
+                362.64
+              ],
+              "text": "B"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                340.8,
+                382.03,
+                347.07,
+                392.43
+              ],
+              "text": "C"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                415.55,
+                352.24,
+                422.69,
+                362.64
+              ],
+              "text": "D"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                287.3,
+                238.03,
+                292.86,
+                248.43
+              ],
+              "text": "E"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                213.15,
+                267.81,
+                218.47,
+                278.22
+              ],
+              "text": "F"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                347.52,
+                309.72,
+                354.25,
+                320.12
+              ],
+              "text": "G"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                415.55,
+                267.81,
+                422.86,
+                278.22
+              ],
+              "text": "H"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                286.58,
+                325.33,
+                293.56,
+                335.74
+              ],
+              "text": "O"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                270.98,
+                278.3,
+                276.89,
+                288.7
+              ],
+              "text": "R"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                290.38,
+                345.17,
+                295.33,
+                355.58
+              ],
+              "text": "S"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                253.16,
+                252.2,
+                258.86,
+                262.6
+              ],
+              "text": "T"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                274.52,
+                309.33,
+                316.79,
+                323.71
+              ],
+              "text": "−→ı\n−→"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                285.86,
+                287.66,
+                294.11,
+                300.45
+              ],
+              "text": "−→k"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                367.36,
+                270.65,
+                374.51,
+                281.05
+              ],
+              "text": "N"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                348.01,
+                252.08,
+                354.04,
+                262.48
+              ],
+              "text": "K"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                236.4,
+                299.82,
+                241.6,
+                310.22
+              ],
+              "text": "L"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex3-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    133.56,
+                    397.79,
+                    512.73,
+                    420.3
+                  ],
+                  "text": "Montrer que, pour tout réel t de l’intervalle [0; 1], le point N de coordonnées (0 ; 8−4t ; 4t)\nest un point du segment [DK]."
+                }
+              ]
+            },
+            {
+              "id": "ex3-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    132.96,
+                    425.15,
+                    512.73,
+                    447.66
+                  ],
+                  "text": "Calculer les coordonnées exactes du point N tel que les deux rayons laser représentés par\nles segments [SL] et [SN] soient perpendiculaires."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  84.24,
+                  542.55,
+                  524.42,
+                  561.25
+                ],
+                "text": "Le milieu K de [EH] a donc pour coordonnées (0 ; 4 ; 4). N a pour coordonnées (0 ; 8−4t ; 4t)."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  98.16,
+                  569.96,
+                  402.32,
+                  593.77
+                ],
+                "text": "Pour t ∈[0 ; 1], les vecteurs −−→\nDK et −−→\nND ont pour coordonnées : −−→\nDK"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  404.4,
+                  549.59,
+                  410.37,
+                  559.63
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  404.4,
+                  567.23,
+                  410.37,
+                  589.75
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  414.0,
+                  558.26,
+                  419.32,
+                  569.65
+                ],
+                "text": "0"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  410.4,
+                  575.9,
+                  422.92,
+                  594.49
+                ],
+                "text": "−4"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  414.0,
+                  593.54,
+                  419.32,
+                  604.93
+                ],
+                "text": "4"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  423.0,
+                  549.59,
+                  428.97,
+                  559.63
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  423.0,
+                  567.23,
+                  461.72,
+                  593.77
+                ],
+                "text": "et −−→\nDN"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  463.8,
+                  549.59,
+                  469.77,
+                  559.63
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  463.8,
+                  567.23,
+                  469.77,
+                  589.75
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  475.08,
+                  558.26,
+                  480.4,
+                  569.65
+                ],
+                "text": "0"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  469.8,
+                  575.9,
+                  485.73,
+                  594.49
+                ],
+                "text": "−4t"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  473.4,
+                  593.54,
+                  482.13,
+                  604.93
+                ],
+                "text": "4t"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  485.76,
+                  549.59,
+                  491.73,
+                  559.63
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  485.76,
+                  567.23,
+                  494.42,
+                  589.75
+                ],
+                "text": "."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  98.16,
+                  610.28,
+                  524.46,
+                  640.49
+                ],
+                "text": "On remarque alors que −−→\nDN = t ×−−→\nDK . Les deux vecteurs sont donc colinéaires, donc les points\nD,K et N sont alignés."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  98.16,
+                  643.04,
+                  457.94,
+                  666.85
+                ],
+                "text": "Pour vérifier que N est un point du segment [DK ], montrons que −−→\nNK .−−→\nND ⩽0 :"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  98.16,
+                  680.24,
+                  117.44,
+                  696.97
+                ],
+                "text": "−−→\nNK"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  119.52,
+                  659.87,
+                  125.49,
+                  669.91
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  119.52,
+                  677.51,
+                  125.49,
+                  700.03
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  138.48,
+                  668.54,
+                  143.8,
+                  679.93
+                ],
+                "text": "0"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  125.52,
+                  686.18,
+                  156.57,
+                  704.77
+                ],
+                "text": "−4+4t"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  129.12,
+                  703.82,
+                  152.97,
+                  722.41
+                ],
+                "text": "4−4t"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  156.72,
+                  659.87,
+                  162.69,
+                  669.91
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  156.72,
+                  677.51,
+                  195.43,
+                  704.05
+                ],
+                "text": "et −−→\nND"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  197.52,
+                  659.87,
+                  203.49,
+                  669.91
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  197.52,
+                  677.51,
+                  203.49,
+                  700.03
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  208.92,
+                  668.54,
+                  214.24,
+                  679.93
+                ],
+                "text": "0"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  207.12,
+                  686.18,
+                  215.85,
+                  697.57
+                ],
+                "text": "4t"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  203.52,
+                  703.82,
+                  219.45,
+                  722.41
+                ],
+                "text": "−4t"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  219.48,
+                  659.87,
+                  225.45,
+                  669.91
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  219.48,
+                  677.51,
+                  225.45,
+                  700.03
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  98.16,
+                  720.56,
+                  453.98,
+                  744.37
+                ],
+                "text": "donc −−→\nNK .−−→\nND = 0×0+(−4+4t)×4t +(4−4t)×(−4t) = 32t2 −32t = 32t(t −1)."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  98.4,
+                  743.76,
+                  402.02,
+                  762.37
+                ],
+                "text": "t ∈[0 ; 1] donc 32t(t −1) ⩽0 donc N est un point du segment [DK ]."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  70.92,
+                  808.46,
+                  524.22,
+                  819.85
+                ],
+                "text": "Amérique du Nord\n4\n19 mai 2022"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  70.92,
+                  49.35,
+                  524.33,
+                  60.85
+                ],
+                "text": "Corrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+              }
+            ],
+            "text": "Le milieu K de [EH] a donc pour coordonnées (0 ; 4 ; 4). N a pour coordonnées (0 ; 8−4t ; 4t).\n\nPour t ∈[0 ; 1], les vecteurs −−→\nDK et −−→\nND ont pour coordonnées : −−→\nDK\n\n\n\n\n\n0\n\n−4\n\n4\n\n\n\net −−→\nDN\n\n\n\n\n\n0\n\n−4t\n\n4t\n\n\n\n.\n\nOn remarque alors que −−→\nDN = t ×−−→\nDK . Les deux vecteurs sont donc colinéaires, donc les points\nD,K et N sont alignés.\n\nPour vérifier que N est un point du segment [DK ], montrons que −−→\nNK .−−→\nND ⩽0 :\n\n−−→\nNK\n\n\n\n\n\n0\n\n−4+4t\n\n4−4t\n\n\n\net −−→\nND\n\n\n\n\n\n0\n\n4t\n\n−4t\n\n\n\n\n\ndonc −−→\nNK .−−→\nND = 0×0+(−4+4t)×4t +(4−4t)×(−4t) = 32t2 −32t = 32t(t −1).\n\nt ∈[0 ; 1] donc 32t(t −1) ⩽0 donc N est un point du segment [DK ].\n\nAmérique du Nord\n4\n19 mai 2022\n\nCorrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+          }
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "EXERCICE 4",
+      "points": 7.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.48,
+            468.11,
+            513.01,
+            478.62
+          ],
+          "text": "EXERCICE 4\n(7 points)\nThème : fonction logarithme népérien, probabilités"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": null,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            493.36,
+            512.89,
+            562.29
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiples (QCM) qui comprend six questions. Les six questions\nsont indépendantes. Pour chacune des questions, une seule des quatre réponses est exacte. Le candidat\nindiquera sur sa copie le numéro de la question suivi de la lettre correspondant à la réponse exacte.\nAucune justification n’est demandée.\nUne réponse fausse, une réponse multiple ou une absence de réponse ne rapporte ni n’enlève aucun\npoint"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            569.75,
+            145.29,
+            580.26
+          ],
+          "text": "Question 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            594.81,
+            250.11,
+            611.8
+          ],
+          "text": "Le réel a est définie par a = ln(9)+ln"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            251.16,
+            579.71,
+            264.44,
+            597.4
+          ],
+          "text": "Ãp"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            264.48,
+            588.1,
+            269.34,
+            598.5
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            260.64,
+            601.66,
+            265.5,
+            612.06
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            270.48,
+            579.71,
+            275.0,
+            588.87
+          ],
+          "text": "!"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            276.24,
+            582.47,
+            303.42,
+            611.8
+          ],
+          "text": "+ln\nμ1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            298.56,
+            601.66,
+            303.42,
+            612.06
+          ],
+          "text": "9"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            304.68,
+            582.47,
+            352.95,
+            605.22
+          ],
+          "text": "¶\nest égal à :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            105.24,
+            623.14,
+            136.5,
+            646.96
+          ],
+          "text": "a. 1−1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            131.64,
+            623.13,
+            228.54,
+            647.1
+          ],
+          "text": "2 ln(3)\nb. 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            223.68,
+            623.13,
+            365.46,
+            647.1
+          ],
+          "text": "2 ln(3)\nc. 3ln(3)+ 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            360.6,
+            623.13,
+            442.02,
+            647.1
+          ],
+          "text": "2\nd. −1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            437.16,
+            629.97,
+            463.65,
+            647.1
+          ],
+          "text": "2 ln(3)"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            660.11,
+            145.29,
+            670.62
+          ],
+          "text": "Question 2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            678.1,
+            427.71,
+            695.08
+          ],
+          "text": "On note (E) l’équation suivante lnx +ln(x −10) = ln3+ln7 d’inconnue le réel x."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            695.87,
+            195.39,
+            706.41
+          ],
+          "text": "a. 3 est solution de (E)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            728.62,
+            512.57,
+            739.02
+          ],
+          "text": "Amérique du Nord\n4\n19 mai 2022"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            48.23,
+            512.81,
+            58.74
+          ],
+          "text": "Baccalauréat Spécialité\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            82.08,
+            132.55,
+            103.84
+          ],
+          "text": "b. 5−\np"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            86.86,
+            310.47,
+            121.17
+          ],
+          "text": "46 est solution de (E).\nc. L’équation (E) admet une unique solution réelle.\nd. L’équation (E) admet deux solutions réelles."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            128.51,
+            145.29,
+            139.02
+          ],
+          "text": "Question 3"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            144.98,
+            448.83,
+            170.58
+          ],
+          "text": "La fonction f est définie sur l’intervalle ]0 ; +∞[ par l’expression f (x) = x2(−1+lnx).\nOn note C f sa courbe représentative dans le plan muni d’un repère."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            169.06,
+            336.66,
+            192.88
+          ],
+          "text": "a. Pour tout réel x de l’intervalle ]0 ; +∞[, f ′(x) = 2x + 1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            331.8,
+            175.9,
+            340.71,
+            193.05
+          ],
+          "text": "x ."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            190.55,
+            325.11,
+            217.41
+          ],
+          "text": "b. La fonction f est croissante sur l’intervalle ]0 ; +∞[.\nc. f ′ ¡p"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            131.04,
+            195.71,
+            212.43,
+            212.94
+          ],
+          "text": "e\n¢\nest différent de 0."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            212.61,
+            225.54,
+            236.32
+          ],
+          "text": "d. La droite d’équation y = −1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            220.68,
+            215.4,
+            436.64,
+            236.58
+          ],
+          "text": "2e est tangente à la courbe C f au point d’abscisse p"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            436.56,
+            219.34,
+            443.67,
+            229.74
+          ],
+          "text": "e."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            239.63,
+            145.29,
+            250.14
+          ],
+          "text": "Question 4"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            257.62,
+            512.79,
+            291.9
+          ],
+          "text": "Un sac contient 20 jetons jaunes et 30 jetons bleus. On tire successivement et avec remise 5 jetons du\nsac.\nLa probabilité de tirer exactement 2 jetons jaunes, arrondie au millième, est :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            105.24,
+            303.11,
+            451.02,
+            313.62
+          ],
+          "text": "a. 0,683\nb. 0,346\nc. 0,230\nd. 0,165"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            331.31,
+            145.29,
+            341.82
+          ],
+          "text": "Question 5"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            349.3,
+            512.79,
+            383.58
+          ],
+          "text": "Un sac contient 20 jetons jaunes et 30 jetons bleus. On tire successivement et avec remise 5 jetons du\nsac.\nLa probabilité de tirer au moins un jeton jaune, arrondie au milllième, est :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            105.24,
+            394.79,
+            451.02,
+            405.3
+          ],
+          "text": "a. 0,078\nb. 0,259\nc. 0,337\nd. 0,922"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            422.87,
+            145.29,
+            433.38
+          ],
+          "text": "Question 6"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            440.98,
+            512.79,
+            499.14
+          ],
+          "text": "Un sac contient 20 jetons jaunes et 30 jetons bleus.\nOn réalise l’expérience aléatoire suivante : on tire successivement et avec remise cinq jetons du sac.\nOn note le nombre de jetons jaunes obtenus après ces cinq tirages.\nSi on répète cette expérience aléatoire un très grand nombre de fois alors, en moyenne, le nombre de\njetons jaunes est égal à :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            105.24,
+            510.35,
+            441.42,
+            520.86
+          ],
+          "text": "a. 0,4\nb. 1,2\nc. 2\nd. 2,5"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            728.62,
+            512.57,
+            739.02
+          ],
+          "text": "Amérique du Nord\n5\n19 mai 2022"
+        }
+      ],
+      "questions": []
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 175
+}
