@@ -2,6 +2,8 @@
 
 Annales du bac (spé mathématiques et spé physique-chimie), sessions 2021–2025.
 
+- `formation-bac/` — guide HTML imprimable (révision express spé maths & PC, adapté profil cognitif)
+
 - `math/` — sujets et corrigés (source : APMEP)
 - `physique-chimie/` — sujets et corrigés (source : sujetdebac.fr)
 - `data/json/` — annales extraites en JSON (1 fichier par sujet + index global)
