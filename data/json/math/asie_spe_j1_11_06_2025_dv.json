@@ -1,0 +1,3783 @@
+{
+  "id": "asie_spe_j1_11_06_2025_dv",
+  "subject": "math",
+  "year": 2025,
+  "metadata": {
+    "source_pdf": "math/2025/sujets/Asie_spe_J1_11_06_2025_DV.pdf",
+    "filename": "Asie_spe_J1_11_06_2025_DV.pdf",
+    "year": 2025,
+    "title": "Baccalauréat Asie 11 juin 2025 /",
+    "header_text": "A. P. M. E. P.\n\n0 Baccalauréat Asie 11 juin 2025 /\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2025/corriges/Corrige_Asie_spe_J1_05_09_2025_FH.pdf"
+  },
+  "instructions": "A. P. M. E. P.\n\n0 Baccalauréat Asie 11 juin 2025 /\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        503.81,
+        98.45,
+        515.21,
+        155.98
+      ],
+      "text": "A. P. M. E. P."
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        189.24,
+        115.39,
+        405.98,
+        131.32
+      ],
+      "text": "0 Baccalauréat Asie 11 juin 2025 /"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        276.96,
+        141.17,
+        318.31,
+        156.16
+      ],
+      "text": "Sujet 1"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        156.24,
+        164.21,
+        438.98,
+        179.2
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "1",
+      "title": "Exercice 1",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            216.77,
+            496.09,
+            231.76
+          ],
+          "text": "Exercice 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            236.15,
+            376.1,
+            272.77
+          ],
+          "text": "L’espace est rapporté à un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́\n.\nOn considère :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            116.88,
+            286.82,
+            227.3,
+            299.04
+          ],
+          "text": "• α un réel quelconque;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            116.88,
+            309.38,
+            326.66,
+            321.6
+          ],
+          "text": "• les points A(1; 1; 0), B(2; 1; 0) et C(α ; 3 ; α);"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            116.88,
+            331.82,
+            377.42,
+            343.25
+          ],
+          "text": "• (d) la droite dont une représentation paramétrique est :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            264.96,
+            354.11,
+            273.29,
+            379.27
+          ],
+          "text": "\n\n\n"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            264.96,
+            387.23,
+            273.29,
+            403.39
+          ],
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            278.4,
+            363.26,
+            314.1,
+            381.85
+          ],
+          "text": "x = 1+ t"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            278.76,
+            380.9,
+            314.94,
+            399.49
+          ],
+          "text": "y =\n2t"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            278.4,
+            399.81,
+            313.62,
+            417.01
+          ],
+          "text": "z =\n−t"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            323.28,
+            379.1,
+            357.65,
+            398.77
+          ],
+          "text": ",\nt ∈R"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            424.22,
+            496.05,
+            463.44
+          ],
+          "text": "Pour chacune des affirmations suivantes, préciser si elle est vraie ou fausse, puis justifier\nla réponse donnée. Une réponse non argumentée ne sera pas prise en compte.\nAffirmation 1 : Pour toutes les valeurs de α, les points A, B et C définissent un plan et un"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            479.97,
+            238.28,
+            502.33
+          ],
+          "text": "vecteur normal à ce plan est −→"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            239.4,
+            458.15,
+            245.37,
+            468.19
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            239.4,
+            475.79,
+            245.37,
+            498.31
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            245.4,
+            466.82,
+            250.72,
+            478.21
+          ],
+          "text": "0"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            245.4,
+            484.46,
+            250.72,
+            495.85
+          ],
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            245.4,
+            502.1,
+            250.72,
+            513.49
+          ],
+          "text": "0"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            250.68,
+            458.15,
+            256.65,
+            468.19
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            250.68,
+            475.79,
+            259.34,
+            498.31
+          ],
+          "text": "."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            515.79,
+            496.02,
+            622.13
+          ],
+          "text": "Affirmation 2 : Il existe exactement une valeur de α telle que les droites (AC) et (d) soient\nparallèles.\nAffirmation 3 : Une mesure de l’angle \nOAB est 135°.\nAffirmation 4 : Le projeté orthogonal du point A sur la droite (d) est le point H(1; 2; 2).\nAffirmation 5 : La sphère de centre O et de rayon 1 rencontre la droite (d) en deux points\ndistincts.\nOn rappelle que la sphère de centre Ωet de rayon r est l’ensemble des points de l’espace\nsitués à une distance r de Ω."
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "2",
+      "title": "Exercice 2",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            642.53,
+            496.09,
+            657.52
+          ],
+          "text": "Exercice 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            670.1,
+            496.06,
+            708.65
+          ],
+          "text": "Une entreprise qui fabrique des jouets doit effectuer des contrôles de conformité avant\nleur commercialisation. Dans cet exercice, on s’intéresse à deux tests effectués par l’en-\ntreprise de jouets : un test de fabrication et un test de sécurité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            716.66,
+            418.34,
+            728.05
+          ],
+          "text": "À la suite d’un grand nombre de vérifications, l’entreprise affirme que :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            742.22,
+            345.86,
+            760.82
+          ],
+          "text": "• 95 % des jouets réussissent le test de fabrication;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            764.66,
+            496.08,
+            789.61
+          ],
+          "text": "• Parmi les jouets qui réussissent le test de fabrication, 98 % réussissent le test de\nsécurité;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            49.35,
+            496.01,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            89.3,
+            354.26,
+            107.89
+          ],
+          "text": "• 1 % des jouets ne réussissent aucun des deux tests."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            109.34,
+            393.86,
+            120.73
+          ],
+          "text": "On choisit au hasard un jouet parmi les jouets produits. On note :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            129.26,
+            376.22,
+            147.85
+          ],
+          "text": "• F l’évènement : « le jouet réussit le test de fabrication »;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            149.9,
+            360.14,
+            168.49
+          ],
+          "text": "• S l’évènement : « le jouet réussit le test de sécurité »."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            177.6,
+            139.56,
+            190.09
+          ],
+          "text": "Partie A"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            642.53,
+            496.09,
+            657.52
+          ],
+          "text": "Exercice 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            670.1,
+            496.06,
+            708.65
+          ],
+          "text": "Une entreprise qui fabrique des jouets doit effectuer des contrôles de conformité avant\nleur commercialisation. Dans cet exercice, on s’intéresse à deux tests effectués par l’en-\ntreprise de jouets : un test de fabrication et un test de sécurité."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            716.66,
+            418.34,
+            728.05
+          ],
+          "text": "À la suite d’un grand nombre de vérifications, l’entreprise affirme que :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            742.22,
+            345.86,
+            760.82
+          ],
+          "text": "• 95 % des jouets réussissent le test de fabrication;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            764.66,
+            496.08,
+            789.61
+          ],
+          "text": "• Parmi les jouets qui réussissent le test de fabrication, 98 % réussissent le test de\nsécurité;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            49.35,
+            496.01,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            89.3,
+            354.26,
+            107.89
+          ],
+          "text": "• 1 % des jouets ne réussissent aucun des deux tests."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            109.34,
+            393.86,
+            120.73
+          ],
+          "text": "On choisit au hasard un jouet parmi les jouets produits. On note :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            129.26,
+            376.22,
+            147.85
+          ],
+          "text": "• F l’évènement : « le jouet réussit le test de fabrication »;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            149.9,
+            360.14,
+            168.49
+          ],
+          "text": "• S l’évènement : « le jouet réussit le test de sécurité »."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            177.6,
+            139.56,
+            190.09
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            199.23,
+            448.94,
+            212.41
+          ],
+          "text": "1. À partir des données de l’énoncé, donner les probabilités P(F) et PF (S)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            219.87,
+            495.94,
+            244.93
+          ],
+          "text": "2.\na. Construire un arbre pondéré qui illustre la situation avec les données dispo-\nnibles dans l’énoncé."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            249.15,
+            215.68,
+            260.69
+          ],
+          "text": "b. Montrer que P"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            216.12,
+            256.2,
+            220.46,
+            263.81
+          ],
+          "text": "F"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            223.08,
+            238.79,
+            227.22,
+            248.83
+          ],
+          "text": "3"
+        },
+        {
+          "type": "code",
+          "page": 2,
+          "bbox": [
+            227.16,
+            238.79,
+            265.22,
+            267.85
+          ],
+          "text": "S\n ́\n= 0,2."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            270.99,
+            418.94,
+            282.49
+          ],
+          "text": "3. Calculer la probabilité que le jouet choisi réussisse les deux tests."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            291.63,
+            496.05,
+            316.69
+          ],
+          "text": "4. Montrer que la probabilité que le jouet réussisse le test de sécurité vaut 0,97 ar-\nrondi au centième."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            325.83,
+            495.84,
+            350.89
+          ],
+          "text": "5. Lorsque le jouet a réussi le test de sécurité, quelle est la probabilité qu’il réussisse\nle test de fabrication? Donner une valeur approchée du résultat au centième."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            367.2,
+            139.99,
+            379.69
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            388.94,
+            496.26,
+            488.78
+          ],
+          "text": "On prélève au hasard dans la production de l’entreprise un lot de n jouets, où n est un\nentier strictement positif. On suppose que ce prélèvement se fait sur une quantité suffi-\nsamment grande de jouets pour être assimilé à une succession de n tirages indépendants\navec remise.\nOn rappelle que la probabilité qu’un jouet réussisse le test de fabrication est égale à 0,95.\nSoit Sn la variable aléatoire qui compte le nombre de jouets ayant réussi le test de fabri-\ncation. On admet que Sn suit la loi binomiale de paramètres n et p = 0,95."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            494.19,
+            482.3,
+            507.37
+          ],
+          "text": "1. Exprimer l’espérance et la variance de la variable aléatoire Sn en fonction de n."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            514.83,
+            295.82,
+            533.54
+          ],
+          "text": "2. Dans cette question, on pose n = 150."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.8,
+            531.74,
+            496.26,
+            560.65
+          ],
+          "text": "a. Déterminer une valeur approchée à 10−3 près de P (S150 = 145). Interpréter\nce résultat dans le contexte de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            564.75,
+            495.96,
+            590.72
+          ],
+          "text": "b. Déterminer la probabilité qu’au moins 94 % des jouets de ce lot réussissent le\ntest de fabrication. Donner une valeur approchée du résultat à 10−3 près."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            598.95,
+            401.9,
+            610.49
+          ],
+          "text": "3. Dans cette question, l’entier naturel non nul n n’est plus fixé."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            614.37,
+            349.58,
+            640.58
+          ],
+          "text": "Soit Fn la variable aléatoire définie par : Fn = Sn"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            341.28,
+            620.3,
+            496.17,
+            639.29
+          ],
+          "text": "n . La variable aléatoire Fn repré-"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            636.38,
+            496.08,
+            661.37
+          ],
+          "text": "sente la proportion des jouets qui réussissent le test de fabrication dans un lot de\nn jouets prélevés."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            666.98,
+            457.1,
+            679.49
+          ],
+          "text": "On note E(Fn) l’espérance et V (Fn) la variance de la variable aléatoire Fn."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.8,
+            684.14,
+            367.84,
+            710.05
+          ],
+          "text": "a. Montrer que E(Fn) = 0,95 et que V (Fn) = 0,0475"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            349.32,
+            691.46,
+            371.78,
+            710.45
+          ],
+          "text": "n\n."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            709.59,
+            496.08,
+            790.01
+          ],
+          "text": "b. On s’intéresse à l’évènement I suivant : « la proportion de jouets qui réus-\nsissent le test de fabrication dans un lot de n jouets est strictement comprise\nentre 93 % et 97 % ».\nEn utilisant l’inégalité de Bienaymé-Tchebychev, déterminer une valeur n de\nla taille du lot de jouets à prélever, à partir de laquelle la probabilité de l’évè-\nnement I est supérieure ou égale à 0,96."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            808.46,
+            495.9,
+            819.85
+          ],
+          "text": "Asie\n2\n11 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            49.35,
+            496.01,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                199.23,
+                448.94,
+                212.41
+              ],
+              "text": "À partir des données de l’énoncé, donner les probabilités P(F) et PF (S)."
+            }
+          ]
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    219.87,
+                    495.94,
+                    244.93
+                  ],
+                  "text": "Construire un arbre pondéré qui illustre la situation avec les données dispo-\nnibles dans l’énoncé."
+                }
+              ]
+            },
+            {
+              "id": "ex2-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    249.15,
+                    215.68,
+                    260.69
+                  ],
+                  "text": "Montrer que P"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    216.12,
+                    256.2,
+                    220.46,
+                    263.81
+                  ],
+                  "text": "F"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    223.08,
+                    238.79,
+                    227.22,
+                    248.83
+                  ],
+                  "text": "3"
+                },
+                {
+                  "type": "code",
+                  "page": 2,
+                  "bbox": [
+                    227.16,
+                    238.79,
+                    265.22,
+                    267.85
+                  ],
+                  "text": "S\n ́\n= 0,2."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex2-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                270.99,
+                418.94,
+                282.49
+              ],
+              "text": "Calculer la probabilité que le jouet choisi réussisse les deux tests."
+            }
+          ]
+        },
+        {
+          "id": "ex2-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                291.63,
+                496.05,
+                316.69
+              ],
+              "text": "Montrer que la probabilité que le jouet réussisse le test de sécurité vaut 0,97 ar-\nrondi au centième."
+            }
+          ]
+        },
+        {
+          "id": "ex2-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                325.83,
+                495.84,
+                350.89
+              ],
+              "text": "Lorsque le jouet a réussi le test de sécurité, quelle est la probabilité qu’il réussisse\nle test de fabrication? Donner une valeur approchée du résultat au centième."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                367.2,
+                139.99,
+                379.69
+              ],
+              "text": "Partie B"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                388.94,
+                496.26,
+                488.78
+              ],
+              "text": "On prélève au hasard dans la production de l’entreprise un lot de n jouets, où n est un\nentier strictement positif. On suppose que ce prélèvement se fait sur une quantité suffi-\nsamment grande de jouets pour être assimilé à une succession de n tirages indépendants\navec remise.\nOn rappelle que la probabilité qu’un jouet réussisse le test de fabrication est égale à 0,95.\nSoit Sn la variable aléatoire qui compte le nombre de jouets ayant réussi le test de fabri-\ncation. On admet que Sn suit la loi binomiale de paramètres n et p = 0,95."
+            }
+          ]
+        },
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                494.19,
+                482.3,
+                507.37
+              ],
+              "text": "Exprimer l’espérance et la variance de la variable aléatoire Sn en fonction de n."
+            }
+          ]
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                514.83,
+                295.82,
+                533.54
+              ],
+              "text": "Dans cette question, on pose n = 150."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex2-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.8,
+                    531.74,
+                    496.26,
+                    560.65
+                  ],
+                  "text": "Déterminer une valeur approchée à 10−3 près de P (S150 = 145). Interpréter\nce résultat dans le contexte de l’exercice."
+                }
+              ]
+            },
+            {
+              "id": "ex2-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    564.75,
+                    495.96,
+                    590.72
+                  ],
+                  "text": "Déterminer la probabilité qu’au moins 94 % des jouets de ce lot réussissent le\ntest de fabrication. Donner une valeur approchée du résultat à 10−3 près."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex2-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                598.95,
+                401.9,
+                610.49
+              ],
+              "text": "Dans cette question, l’entier naturel non nul n n’est plus fixé."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                614.37,
+                349.58,
+                640.58
+              ],
+              "text": "Soit Fn la variable aléatoire définie par : Fn = Sn"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                341.28,
+                620.3,
+                496.17,
+                639.29
+              ],
+              "text": "n . La variable aléatoire Fn repré-"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                636.38,
+                496.08,
+                661.37
+              ],
+              "text": "sente la proportion des jouets qui réussissent le test de fabrication dans un lot de\nn jouets prélevés."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                666.98,
+                457.1,
+                679.49
+              ],
+              "text": "On note E(Fn) l’espérance et V (Fn) la variance de la variable aléatoire Fn."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex2-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.8,
+                    684.14,
+                    367.84,
+                    710.05
+                  ],
+                  "text": "Montrer que E(Fn) = 0,95 et que V (Fn) = 0,0475"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    349.32,
+                    691.46,
+                    371.78,
+                    710.45
+                  ],
+                  "text": "n\n."
+                }
+              ]
+            },
+            {
+              "id": "ex2-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    709.59,
+                    496.08,
+                    790.01
+                  ],
+                  "text": "On s’intéresse à l’évènement I suivant : « la proportion de jouets qui réus-\nsissent le test de fabrication dans un lot de n jouets est strictement comprise\nentre 93 % et 97 % ».\nEn utilisant l’inégalité de Bienaymé-Tchebychev, déterminer une valeur n de\nla taille du lot de jouets à prélever, à partir de laquelle la probabilité de l’évè-\nnement I est supérieure ou égale à 0,96."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    99.24,
+                    808.46,
+                    495.9,
+                    819.85
+                  ],
+                  "text": "Asie\n2\n11 juin 2025"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    99.24,
+                    49.35,
+                    496.01,
+                    60.75
+                  ],
+                  "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Exercice 3",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            86.33,
+            496.09,
+            101.32
+          ],
+          "text": "Exercice 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            113.9,
+            496.06,
+            174.85
+          ],
+          "text": "Un patient doit prendre toutes les heures une dose de 2 ml d’un médicament.\nOn introduit la suite (un) telle que le terme un représente la quantité de médicament, ex-\nprimée en ml présente dans l’organisme immédiatement après n prises de médicament.\nOn a u1 = 2 et"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            154.8,
+            180.14,
+            440.54,
+            200.41
+          ],
+          "text": "pour tout entier naturel n strictement positif : un+1 = 2+0,8un."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            208.68,
+            139.56,
+            221.17
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            230.42,
+            496.2,
+            268.93
+          ],
+          "text": "En utilisant ce modèle, un médecin cherche à savoir à partir de combien de prises du\nmédicament la quantité présente dans l’organisme du patient est strictement supérieure\nà 9 mL."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            86.33,
+            496.09,
+            101.32
+          ],
+          "text": "Exercice 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            113.9,
+            496.06,
+            174.85
+          ],
+          "text": "Un patient doit prendre toutes les heures une dose de 2 ml d’un médicament.\nOn introduit la suite (un) telle que le terme un représente la quantité de médicament, ex-\nprimée en ml présente dans l’organisme immédiatement après n prises de médicament.\nOn a u1 = 2 et"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            154.8,
+            180.14,
+            440.54,
+            200.41
+          ],
+          "text": "pour tout entier naturel n strictement positif : un+1 = 2+0,8un."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            208.68,
+            139.56,
+            221.17
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            230.42,
+            496.2,
+            268.93
+          ],
+          "text": "En utilisant ce modèle, un médecin cherche à savoir à partir de combien de prises du\nmédicament la quantité présente dans l’organisme du patient est strictement supérieure\nà 9 mL."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            282.87,
+            220.94,
+            295.46
+          ],
+          "text": "1. Calculer la valeur u2."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            305.43,
+            257.18,
+            316.93
+          ],
+          "text": "2. Montrer par récurrence que :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            165.96,
+            325.46,
+            456.62,
+            350.29
+          ],
+          "text": "un = 10−8×0,8n−1 pour tout entier natureln strictement positif."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            358.95,
+            496.8,
+            381.32
+          ],
+          "text": "3. Déterminer lim\nn→+∞un et et donner une interprétation de ce résultat dans le contexte"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            374.54,
+            184.58,
+            385.93
+          ],
+          "text": "de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            396.99,
+            496.01,
+            422.05
+          ],
+          "text": "4. Soit N un entier naturel strictement positif, l’inéquation uN ⩾10 admet-elle des\nsolutions?"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            428.66,
+            439.22,
+            440.05
+          ],
+          "text": "Interpréter le résultat de cette question dans le contexte de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            451.11,
+            496.1,
+            489.73
+          ],
+          "text": "5. Déterminer à partir de combien de prises de médicament la quantité de médi-\ncament présente dans l’organisme du patient est strictement supérieure à 9 mL.\nJustifier votre démarche."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            506.88,
+            139.99,
+            519.37
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            528.62,
+            496.14,
+            568.25
+          ],
+          "text": "En utilisant la même modélisation, le médecin s’intéresse à la quantité moyenne de mé-\ndicament présente dans l’organisme du malade au cours du temps.\nOn définit pour cela la suite (Sn) définie pour tout entier naturel n strictement positif par"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            246.6,
+            576.81,
+            343.94,
+            603.02
+          ],
+          "text": "Sn = u1 +u2 +···+un"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            304.2,
+            582.74,
+            348.62,
+            601.73
+          ],
+          "text": "n\n."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            605.3,
+            285.26,
+            617.81
+          ],
+          "text": "On admet que la suite (Sn) est croissante."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            636.63,
+            179.54,
+            649.22
+          ],
+          "text": "1. Calculer S2."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            659.19,
+            389.66,
+            670.73
+          ],
+          "text": "2. Montrer que pour tout entier naturel n strictement positif,"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            223.56,
+            689.64,
+            398.9,
+            711.14
+          ],
+          "text": "u1 +u2 +···+un = 10n −40+40×0,8n."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            715.35,
+            207.62,
+            737.72
+          ],
+          "text": "3. Calculer lim\nn→+∞Sn."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            739.83,
+            423.38,
+            751.33
+          ],
+          "text": "4. On donne la fonction mystere suivante, écrite en langage Python :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            808.46,
+            495.9,
+            819.85
+          ],
+          "text": "Asie\n3\n11 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            49.35,
+            496.01,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            224.88,
+            90.74,
+            230.2,
+            102.13
+          ],
+          "text": "1"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            242.64,
+            90.74,
+            312.62,
+            102.13
+          ],
+          "text": "def mystere(k) :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            224.88,
+            108.38,
+            230.2,
+            119.77
+          ],
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            252.24,
+            108.38,
+            274.0,
+            119.77
+          ],
+          "text": "n = 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            224.88,
+            125.9,
+            230.2,
+            137.29
+          ],
+          "text": "3"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            252.24,
+            125.9,
+            272.08,
+            137.29
+          ],
+          "text": "s = 2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            224.88,
+            143.54,
+            230.2,
+            154.93
+          ],
+          "text": "4"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            252.24,
+            143.54,
+            303.98,
+            154.93
+          ],
+          "text": "while s < k :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            224.88,
+            161.18,
+            230.2,
+            172.57
+          ],
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            271.44,
+            161.18,
+            309.64,
+            172.57
+          ],
+          "text": "n = n + 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            224.88,
+            178.82,
+            230.2,
+            190.21
+          ],
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            271.44,
+            178.82,
+            396.81,
+            190.21
+          ],
+          "text": "s = 10 - 40/n + (40*0.8**n)/n"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            224.88,
+            196.46,
+            230.2,
+            207.85
+          ],
+          "text": "7"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            252.24,
+            196.46,
+            289.29,
+            207.85
+          ],
+          "text": "return n"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            220.46,
+            525.18,
+            232.12
+          ],
+          "text": "Dans le contexte de l’énoncé, que représente la valeur renvoyée par la saisie mystere(9)?"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            241.11,
+            379.82,
+            252.61
+          ],
+          "text": "5. Justifier que cette valeur est strictement supérieure à 10."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                282.87,
+                220.94,
+                295.46
+              ],
+              "text": "Calculer la valeur u2."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  561.51,
+                  510.26,
+                  593.77
+                ],
+                "text": "Pour chaque question, il y a deux issues possibles : Dominique donne la bonne réponse,\navec une probabilité p = 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  226.2,
+                  576.57,
+                  440.9,
+                  589.73
+                ],
+                "text": "4, ou Dominique donne une mauvaise réponse."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  595.05,
+                  449.66,
+                  605.09
+                ],
+                "text": "On effectue cette expérience élémentaire 10 fois et de façon indépendante."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  613.65,
+                  510.21,
+                  644.42
+                ],
+                "text": "La variable aléatoire X qui compte le nombre de bonnes réponses à ce QCM suit donc la\nloi binomiale de paramètres n = 10 et p = 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  302.4,
+                  627.21,
+                  310.34,
+                  640.37
+                ],
+                "text": "4."
+              }
+            ],
+            "text": "Pour chaque question, il y a deux issues possibles : Dominique donne la bonne réponse,\navec une probabilité p = 1\n\n4, ou Dominique donne une mauvaise réponse.\n\nOn effectue cette expérience élémentaire 10 fois et de façon indépendante.\n\nLa variable aléatoire X qui compte le nombre de bonnes réponses à ce QCM suit donc la\nloi binomiale de paramètres n = 10 et p = 1\n\n4."
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                305.43,
+                257.18,
+                316.93
+              ],
+              "text": "Montrer par récurrence que :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                165.96,
+                325.46,
+                456.62,
+                350.29
+              ],
+              "text": "un = 10−8×0,8n−1 pour tout entier natureln strictement positif."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  640.83,
+                  454.94,
+                  652.37
+                ],
+                "text": "La probabilité que Dominique obtienne exactement 5 bonnes réponses est :"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  651.95,
+                  198.07,
+                  678.25
+                ],
+                "text": "P (X = 5) =\n¡10\n5\n¢\n×\n¡ 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  194.04,
+                  651.95,
+                  241.99,
+                  678.14
+                ],
+                "text": "4\n¢5 ×\n¡\n1−1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  237.96,
+                  651.95,
+                  306.28,
+                  678.14
+                ],
+                "text": "4\n¢10−5 ≈0,0584"
+              }
+            ],
+            "text": "La probabilité que Dominique obtienne exactement 5 bonnes réponses est :\n\nP (X = 5) =\n¡10\n5\n¢\n×\n¡ 1\n\n4\n¢5 ×\n¡\n1−1\n\n4\n¢10−5 ≈0,0584"
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                358.95,
+                496.8,
+                381.32
+              ],
+              "text": "Déterminer lim\nn→+∞un et et donner une interprétation de ce résultat dans le contexte"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                374.54,
+                184.58,
+                385.93
+              ],
+              "text": "de l’exercice."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  673.56,
+                  290.95,
+                  693.25
+                ],
+                "text": "L’espérance de X est E(X ) = np = 10× 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  286.92,
+                  676.05,
+                  320.06,
+                  696.97
+                ],
+                "text": "4 = 2,5."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  694.53,
+                  486.62,
+                  704.57
+                ],
+                "text": "En procédant comme Dominique, un élève aura en moyenne 2,5 bonnes réponses."
+              }
+            ],
+            "text": "L’espérance de X est E(X ) = np = 10× 1\n\n4 = 2,5.\n\nEn procédant comme Dominique, un élève aura en moyenne 2,5 bonnes réponses."
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                396.99,
+                496.01,
+                422.05
+              ],
+              "text": "Soit N un entier naturel strictement positif, l’inéquation uN ⩾10 admet-elle des\nsolutions?"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                428.66,
+                439.22,
+                440.05
+              ],
+              "text": "Interpréter le résultat de cette question dans le contexte de l’exercice."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  708.27,
+                  510.93,
+                  733.37
+                ],
+                "text": "On suppose dans cette question qu’une bonne réponse rapporte un point et qu’une mau-\nvaise réponse fait perdre 0,5 point. La note finale peut donc être négative."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  741.81,
+                  433.82,
+                  751.85
+                ],
+                "text": "On note Y la variable aléatoire qui donne le nombre de points obtenus."
+              }
+            ],
+            "text": "On suppose dans cette question qu’une bonne réponse rapporte un point et qu’une mau-\nvaise réponse fait perdre 0,5 point. La note finale peut donc être négative.\n\nOn note Y la variable aléatoire qui donne le nombre de points obtenus."
+          }
+        },
+        {
+          "id": "ex3-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                451.11,
+                496.1,
+                489.73
+              ],
+              "text": "Déterminer à partir de combien de prises de médicament la quantité de médi-\ncament présente dans l’organisme du patient est strictement supérieure à 9 mL.\nJustifier votre démarche."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                506.88,
+                139.99,
+                519.37
+              ],
+              "text": "Partie B"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                528.62,
+                496.14,
+                568.25
+              ],
+              "text": "En utilisant la même modélisation, le médecin s’intéresse à la quantité moyenne de mé-\ndicament présente dans l’organisme du malade au cours du temps.\nOn définit pour cela la suite (Sn) définie pour tout entier naturel n strictement positif par"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                246.6,
+                576.81,
+                343.94,
+                603.02
+              ],
+              "text": "Sn = u1 +u2 +···+un"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                304.2,
+                582.74,
+                348.62,
+                601.73
+              ],
+              "text": "n\n."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                605.3,
+                285.26,
+                617.81
+              ],
+              "text": "On admet que la suite (Sn) est croissante."
+            }
+          ]
+        },
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                636.63,
+                179.54,
+                649.22
+              ],
+              "text": "Calculer S2."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  561.51,
+                  510.26,
+                  593.77
+                ],
+                "text": "Pour chaque question, il y a deux issues possibles : Dominique donne la bonne réponse,\navec une probabilité p = 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  226.2,
+                  576.57,
+                  440.9,
+                  589.73
+                ],
+                "text": "4, ou Dominique donne une mauvaise réponse."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  595.05,
+                  449.66,
+                  605.09
+                ],
+                "text": "On effectue cette expérience élémentaire 10 fois et de façon indépendante."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  613.65,
+                  510.21,
+                  644.42
+                ],
+                "text": "La variable aléatoire X qui compte le nombre de bonnes réponses à ce QCM suit donc la\nloi binomiale de paramètres n = 10 et p = 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  302.4,
+                  627.21,
+                  310.34,
+                  640.37
+                ],
+                "text": "4."
+              }
+            ],
+            "text": "Pour chaque question, il y a deux issues possibles : Dominique donne la bonne réponse,\navec une probabilité p = 1\n\n4, ou Dominique donne une mauvaise réponse.\n\nOn effectue cette expérience élémentaire 10 fois et de façon indépendante.\n\nLa variable aléatoire X qui compte le nombre de bonnes réponses à ce QCM suit donc la\nloi binomiale de paramètres n = 10 et p = 1\n\n4."
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                659.19,
+                389.66,
+                670.73
+              ],
+              "text": "Montrer que pour tout entier naturel n strictement positif,"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                223.56,
+                689.64,
+                398.9,
+                711.14
+              ],
+              "text": "u1 +u2 +···+un = 10n −40+40×0,8n."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  640.83,
+                  454.94,
+                  652.37
+                ],
+                "text": "La probabilité que Dominique obtienne exactement 5 bonnes réponses est :"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  651.95,
+                  198.07,
+                  678.25
+                ],
+                "text": "P (X = 5) =\n¡10\n5\n¢\n×\n¡ 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  194.04,
+                  651.95,
+                  241.99,
+                  678.14
+                ],
+                "text": "4\n¢5 ×\n¡\n1−1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  237.96,
+                  651.95,
+                  306.28,
+                  678.14
+                ],
+                "text": "4\n¢10−5 ≈0,0584"
+              }
+            ],
+            "text": "La probabilité que Dominique obtienne exactement 5 bonnes réponses est :\n\nP (X = 5) =\n¡10\n5\n¢\n×\n¡ 1\n\n4\n¢5 ×\n¡\n1−1\n\n4\n¢10−5 ≈0,0584"
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                715.35,
+                207.62,
+                737.72
+              ],
+              "text": "Calculer lim\nn→+∞Sn."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  673.56,
+                  290.95,
+                  693.25
+                ],
+                "text": "L’espérance de X est E(X ) = np = 10× 1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  286.92,
+                  676.05,
+                  320.06,
+                  696.97
+                ],
+                "text": "4 = 2,5."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  694.53,
+                  486.62,
+                  704.57
+                ],
+                "text": "En procédant comme Dominique, un élève aura en moyenne 2,5 bonnes réponses."
+              }
+            ],
+            "text": "L’espérance de X est E(X ) = np = 10× 1\n\n4 = 2,5.\n\nEn procédant comme Dominique, un élève aura en moyenne 2,5 bonnes réponses."
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                739.83,
+                423.38,
+                751.33
+              ],
+              "text": "On donne la fonction mystere suivante, écrite en langage Python :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                808.46,
+                495.9,
+                819.85
+              ],
+              "text": "Asie\n3\n11 juin 2025"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                99.24,
+                49.35,
+                496.01,
+                60.75
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                224.88,
+                90.74,
+                230.2,
+                102.13
+              ],
+              "text": "1"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                242.64,
+                90.74,
+                312.62,
+                102.13
+              ],
+              "text": "def mystere(k) :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                224.88,
+                108.38,
+                230.2,
+                119.77
+              ],
+              "text": "2"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                252.24,
+                108.38,
+                274.0,
+                119.77
+              ],
+              "text": "n = 1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                224.88,
+                125.9,
+                230.2,
+                137.29
+              ],
+              "text": "3"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                252.24,
+                125.9,
+                272.08,
+                137.29
+              ],
+              "text": "s = 2"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                224.88,
+                143.54,
+                230.2,
+                154.93
+              ],
+              "text": "4"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                252.24,
+                143.54,
+                303.98,
+                154.93
+              ],
+              "text": "while s < k :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                224.88,
+                161.18,
+                230.2,
+                172.57
+              ],
+              "text": "5"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                271.44,
+                161.18,
+                309.64,
+                172.57
+              ],
+              "text": "n = n + 1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                224.88,
+                178.82,
+                230.2,
+                190.21
+              ],
+              "text": "6"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                271.44,
+                178.82,
+                396.81,
+                190.21
+              ],
+              "text": "s = 10 - 40/n + (40*0.8**n)/n"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                224.88,
+                196.46,
+                230.2,
+                207.85
+              ],
+              "text": "7"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                252.24,
+                196.46,
+                289.29,
+                207.85
+              ],
+              "text": "return n"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                220.46,
+                525.18,
+                232.12
+              ],
+              "text": "Dans le contexte de l’énoncé, que représente la valeur renvoyée par la saisie mystere(9)?"
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  98.4,
+                  708.27,
+                  510.93,
+                  733.37
+                ],
+                "text": "On suppose dans cette question qu’une bonne réponse rapporte un point et qu’une mau-\nvaise réponse fait perdre 0,5 point. La note finale peut donc être négative."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.32,
+                  741.81,
+                  433.82,
+                  751.85
+                ],
+                "text": "On note Y la variable aléatoire qui donne le nombre de points obtenus."
+              }
+            ],
+            "text": "On suppose dans cette question qu’une bonne réponse rapporte un point et qu’une mau-\nvaise réponse fait perdre 0,5 point. La note finale peut donc être négative.\n\nOn note Y la variable aléatoire qui donne le nombre de points obtenus."
+          }
+        },
+        {
+          "id": "ex3-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                241.11,
+                379.82,
+                252.61
+              ],
+              "text": "Justifier que cette valeur est strictement supérieure à 10."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "Exercice 4",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            272.09,
+            496.08,
+            287.08
+          ],
+          "text": "Exercice 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            299.66,
+            378.18,
+            318.25
+          ],
+          "text": "On considère la fonction f définie sur l’intervalle ]0 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            272.28,
+            319.82,
+            316.18,
+            350.77
+          ],
+          "text": "f (x) = e\np"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            316.32,
+            324.12,
+            320.25,
+            331.73
+          ],
+          "text": "x"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            303.12,
+            335.85,
+            316.76,
+            351.61
+          ],
+          "text": "2p"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            341.61,
+            417.38,
+            367.81
+          ],
+          "text": "x\net on appelle C f sa courbe représentative dans un repère orthonormé."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            272.09,
+            496.08,
+            287.08
+          ],
+          "text": "Exercice 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            299.66,
+            378.18,
+            318.25
+          ],
+          "text": "On considère la fonction f définie sur l’intervalle ]0 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            272.28,
+            319.82,
+            316.18,
+            350.77
+          ],
+          "text": "f (x) = e\np"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            316.32,
+            324.12,
+            320.25,
+            331.73
+          ],
+          "text": "x"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            303.12,
+            335.85,
+            316.76,
+            351.61
+          ],
+          "text": "2p"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            341.61,
+            417.38,
+            367.81
+          ],
+          "text": "x\net on appelle C f sa courbe représentative dans un repère orthonormé."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            375.62,
+            401.26,
+            399.25
+          ],
+          "text": "1. On définit la fonction g sur l’intervalle ]0 ; +∞[ par g(x) = e\np"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            401.4,
+            379.92,
+            409.1,
+            392.05
+          ],
+          "text": "x."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.8,
+            401.31,
+            422.78,
+            420.02
+          ],
+          "text": "a. Montrer que g ′(x) = f (x) pour tout x de l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            417.03,
+            465.26,
+            435.74
+          ],
+          "text": "b. Pour tout réel x de l’intervalle ]0 ; +∞[, calculer f ′(x) et montrer que :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            277.56,
+            438.38,
+            322.66,
+            470.06
+          ],
+          "text": "f ′(x) =\ne\np"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            322.8,
+            435.95,
+            341.12,
+            454.34
+          ],
+          "text": "x ¡p"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            341.28,
+            435.95,
+            366.17,
+            462.01
+          ],
+          "text": "x −1\n¢"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            325.8,
+            455.13,
+            345.56,
+            470.93
+          ],
+          "text": "4xp"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            345.84,
+            451.46,
+            370.1,
+            470.93
+          ],
+          "text": "x\n."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            477.03,
+            339.86,
+            488.57
+          ],
+          "text": "2.\na. Déterminer la limite de la fonction f en 0."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            492.75,
+            324.98,
+            504.25
+          ],
+          "text": "b. Interpréter graphiquement ce résultat."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            513.51,
+            351.98,
+            532.21
+          ],
+          "text": "3.\na. Déterminer la limite de la fonction f en +∞."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            529.35,
+            495.9,
+            569.05
+          ],
+          "text": "b. Étudier le sens de variation de la fonction f sur ]0 ; +∞[.\nDresser le tableau de variations de la fonction f en y faisant figurer les limites\naux bornes de l’intervalle de définition."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.28,
+            573.27,
+            495.96,
+            605.53
+          ],
+          "text": "c. Montrer que l’équation f (x) = 2 admet une unique solution sur l’intervalle\n[1 ; +∞[ et donner une valeur approchée à 10−1 près de cette solution."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            600.23,
+            195.55,
+            631.81
+          ],
+          "text": "4. On pose I =\nZ2"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            187.2,
+            613.22,
+            232.82,
+            632.78
+          ],
+          "text": "1\nf (x)dx."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.8,
+            637.47,
+            198.26,
+            649.01
+          ],
+          "text": "a. Calculer I."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            653.19,
+            322.82,
+            664.69
+          ],
+          "text": "b. Interpréter graphiquement le résultat."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            673.95,
+            496.1,
+            692.65
+          ],
+          "text": "5. On admet que la fonction f est deux fois dérivable sur l’intervalle ]0 ; +∞[ et que :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            253.92,
+            697.82,
+            300.94,
+            729.49
+          ],
+          "text": "f \"(x) =\ne\np"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            300.96,
+            695.27,
+            340.64,
+            721.45
+          ],
+          "text": "x ¡\nx −3p"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            340.92,
+            695.27,
+            365.81,
+            721.45
+          ],
+          "text": "x +3\n¢"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            312.48,
+            714.57,
+            336.68,
+            730.37
+          ],
+          "text": "8x2p"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            336.96,
+            710.9,
+            369.74,
+            730.37
+          ],
+          "text": "x\n."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.8,
+            735.69,
+            225.68,
+            758.53
+          ],
+          "text": "a. En posant X = p"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            225.96,
+            735.69,
+            323.84,
+            758.53
+          ],
+          "text": "x, montrer que x −3p"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            150.48,
+            739.94,
+            495.96,
+            772.09
+          ],
+          "text": "x +3 > 0 pour tout réel x de l’intervalle\n]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            769.11,
+            423.26,
+            787.82
+          ],
+          "text": "b. Étudier la convexité de la fonction f sur l’intervalle ]0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            808.46,
+            495.9,
+            819.85
+          ],
+          "text": "Asie\n4\n11 juin 2025"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex4-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                375.62,
+                401.26,
+                399.25
+              ],
+              "text": "On définit la fonction g sur l’intervalle ]0 ; +∞[ par g(x) = e\np"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                401.4,
+                379.92,
+                409.1,
+                392.05
+              ],
+              "text": "x."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex4-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.8,
+                    401.31,
+                    422.78,
+                    420.02
+                  ],
+                  "text": "Montrer que g ′(x) = f (x) pour tout x de l’intervalle ]0 ; +∞[."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    417.03,
+                    465.26,
+                    435.74
+                  ],
+                  "text": "Pour tout réel x de l’intervalle ]0 ; +∞[, calculer f ′(x) et montrer que :"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    277.56,
+                    438.38,
+                    322.66,
+                    470.06
+                  ],
+                  "text": "f ′(x) =\ne\np"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    322.8,
+                    435.95,
+                    341.12,
+                    454.34
+                  ],
+                  "text": "x ¡p"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    341.28,
+                    435.95,
+                    366.17,
+                    462.01
+                  ],
+                  "text": "x −1\n¢"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    325.8,
+                    455.13,
+                    345.56,
+                    470.93
+                  ],
+                  "text": "4xp"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    345.84,
+                    451.46,
+                    370.1,
+                    470.93
+                  ],
+                  "text": "x\n."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  98.4,
+                  374.87,
+                  135.14,
+                  398.57
+                ],
+                "text": "n\nAn ,"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  138.84,
+                  374.87,
+                  472.58,
+                  397.97
+                ],
+                "text": "An\no\nforme une partition donc, d’après la formule des probabilités totales :"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  112.56,
+                  398.99,
+                  277.13,
+                  429.74
+                ],
+                "text": "pn+1 = P (An+1) = P (An ∩An+1)+P\n3"
+              },
+              {
+                "type": "code",
+                "page": 8,
+                "bbox": [
+                  277.92,
+                  398.99,
+                  326.82,
+                  429.74
+                ],
+                "text": "An ∩An+1\n ́"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  184.92,
+                  420.95,
+                  302.22,
+                  450.14
+                ],
+                "text": "= P (An)×PAn (An+1)+P\n3"
+              },
+              {
+                "type": "code",
+                "page": 8,
+                "bbox": [
+                  303.0,
+                  420.95,
+                  335.44,
+                  450.13
+                ],
+                "text": "An\n ́\n×P"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  336.48,
+                  432.93,
+                  376.95,
+                  449.48
+                ],
+                "text": "An (An+1)"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  184.92,
+                  443.63,
+                  474.74,
+                  471.5
+                ],
+                "text": "= pn ×(1−x)+\n¡\n1−pn\n¢\n× x = pn −xpn + x −xpn = (1−2x)pn + x"
+              }
+            ],
+            "text": "n\nAn ,\n\nAn\no\nforme une partition donc, d’après la formule des probabilités totales :\n\npn+1 = P (An+1) = P (An ∩An+1)+P\n3\n\nAn ∩An+1\n ́\n\n= P (An)×PAn (An+1)+P\n3\n\nAn\n ́\n×P\n\nAn (An+1)\n\n= pn ×(1−x)+\n¡\n1−pn\n¢\n× x = pn −xpn + x −xpn = (1−2x)pn + x"
+          }
+        },
+        {
+          "id": "ex4-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    112.56,
+                    477.03,
+                    339.86,
+                    488.57
+                  ],
+                  "text": "Déterminer la limite de la fonction f en 0."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      98.4,
+                      594.23,
+                      159.14,
+                      617.81
+                    ],
+                    "text": "n\nAn ,"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      162.84,
+                      594.23,
+                      496.58,
+                      617.21
+                    ],
+                    "text": "An\no\nforme une partition donc, d’après la formule des probabilités totales :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      136.56,
+                      618.23,
+                      301.13,
+                      649.09
+                    ],
+                    "text": "pn+1 = P (An+1) = P (An ∩An+1)+P\n3"
+                  },
+                  {
+                    "type": "code",
+                    "page": 7,
+                    "bbox": [
+                      301.92,
+                      618.23,
+                      350.82,
+                      649.09
+                    ],
+                    "text": "An ∩An+1\n ́"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      208.92,
+                      640.31,
+                      326.22,
+                      669.37
+                    ],
+                    "text": "= P (An)×PAn (An+1)+P\n3"
+                  },
+                  {
+                    "type": "code",
+                    "page": 7,
+                    "bbox": [
+                      327.0,
+                      640.31,
+                      359.44,
+                      669.37
+                    ],
+                    "text": "An\n ́\n×P"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      360.48,
+                      652.17,
+                      400.95,
+                      668.72
+                    ],
+                    "text": "An (An+1)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      208.92,
+                      662.99,
+                      491.44,
+                      690.74
+                    ],
+                    "text": "= pn ×0,3+\n¡\n1−pn\n¢\n×0,7 = 0,3pn +0,7−0,7pn = −0,4pn +0,7"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      112.32,
+                      689.37,
+                      510.02,
+                      721.82
+                    ],
+                    "text": "On considère la suite (un), définie pour tout entier naturel n non nul par : un = pn −0,5.\nDonc pn = un +0,5."
+                  }
+                ],
+                "text": "n\nAn ,\n\nAn\no\nforme une partition donc, d’après la formule des probabilités totales :\n\npn+1 = P (An+1) = P (An ∩An+1)+P\n3\n\nAn ∩An+1\n ́\n\n= P (An)×PAn (An+1)+P\n3\n\nAn\n ́\n×P\n\nAn (An+1)\n\n= pn ×0,3+\n¡\n1−pn\n¢\n×0,7 = 0,3pn +0,7−0,7pn = −0,4pn +0,7\n\nOn considère la suite (un), définie pour tout entier naturel n non nul par : un = pn −0,5.\nDonc pn = un +0,5."
+              }
+            },
+            {
+              "id": "ex4-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    492.75,
+                    324.98,
+                    504.25
+                  ],
+                  "text": "Interpréter graphiquement ce résultat."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      121.92,
+                      725.79,
+                      502.72,
+                      746.18
+                    ],
+                    "text": "un+1 = pn+1 −0,5 = −0,4pn +0,7−0,5 = −0,4(un +0,5)+0,2 = −0,4un −0,2+0,2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      159.84,
+                      743.73,
+                      201.74,
+                      760.94
+                    ],
+                    "text": "= −0,4un"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      136.32,
+                      760.53,
+                      259.6,
+                      779.42
+                    ],
+                    "text": "u1 = p1 −0,5 = 1−0,5 = 0,5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      136.32,
+                      779.13,
+                      510.14,
+                      798.02
+                    ],
+                    "text": "Donc la suite (un) est géométrique de raison q = −0,4 et de premier terme u1 = 0,5."
+                  },
+                  {
+                    "type": "text",
+                    "page": 7,
+                    "bbox": [
+                      85.08,
+                      809.85,
+                      510.06,
+                      819.89
+                    ],
+                    "text": "Asie - corrigé\n7\n5 septembre 2025"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      85.08,
+                      49.35,
+                      510.17,
+                      60.85
+                    ],
+                    "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+                  }
+                ],
+                "text": "un+1 = pn+1 −0,5 = −0,4pn +0,7−0,5 = −0,4(un +0,5)+0,2 = −0,4un −0,2+0,2\n\n= −0,4un\n\nu1 = p1 −0,5 = 1−0,5 = 0,5\n\nDonc la suite (un) est géométrique de raison q = −0,4 et de premier terme u1 = 0,5.\n\nAsie - corrigé\n7\n5 septembre 2025\n\nBaccalauréat spécialité sujet 1\nA. P. M. E. P."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex4-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    112.56,
+                    513.51,
+                    351.98,
+                    532.21
+                  ],
+                  "text": "Déterminer la limite de la fonction f en +∞."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    529.35,
+                    495.9,
+                    569.05
+                  ],
+                  "text": "Étudier le sens de variation de la fonction f sur ]0 ; +∞[.\nDresser le tableau de variations de la fonction f en y faisant figurer les limites\naux bornes de l’intervalle de définition."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q3-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    137.28,
+                    573.27,
+                    495.96,
+                    605.53
+                  ],
+                  "text": "Montrer que l’équation f (x) = 2 admet une unique solution sur l’intervalle\n[1 ; +∞[ et donner une valeur approchée à 10−1 près de cette solution."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  98.4,
+                  739.68,
+                  491.54,
+                  773.17
+                ],
+                "text": "0 < x < 1 donc −2 < −2x < 0 et donc −1 < 1−2x < 1."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  112.32,
+                  770.63,
+                  386.83,
+                  795.32
+                ],
+                "text": "On en déduit que lim\nn→+∞(1−2x)n−1 = 0 donc que lim\nn→+∞pn = 1"
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  382.8,
+                  774.45,
+                  390.62,
+                  787.73
+                ],
+                "text": "2."
+              },
+              {
+                "type": "text",
+                "page": 8,
+                "bbox": [
+                  85.08,
+                  809.85,
+                  510.06,
+                  819.89
+                ],
+                "text": "Asie - corrigé\n8\n5 septembre 2025"
+              }
+            ],
+            "text": "0 < x < 1 donc −2 < −2x < 0 et donc −1 < 1−2x < 1.\n\nOn en déduit que lim\nn→+∞(1−2x)n−1 = 0 donc que lim\nn→+∞pn = 1\n\n2.\n\nAsie - corrigé\n8\n5 septembre 2025"
+          }
+        },
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                600.23,
+                195.55,
+                631.81
+              ],
+              "text": "On pose I =\nZ2"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                187.2,
+                613.22,
+                232.82,
+                632.78
+              ],
+              "text": "1\nf (x)dx."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex4-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.8,
+                    637.47,
+                    198.26,
+                    649.01
+                  ],
+                  "text": "Calculer I."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    653.19,
+                    322.82,
+                    664.69
+                  ],
+                  "text": "Interpréter graphiquement le résultat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex4-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                673.95,
+                496.1,
+                692.65
+              ],
+              "text": "On admet que la fonction f est deux fois dérivable sur l’intervalle ]0 ; +∞[ et que :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                253.92,
+                697.82,
+                300.94,
+                729.49
+              ],
+              "text": "f \"(x) =\ne\np"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                300.96,
+                695.27,
+                340.64,
+                721.45
+              ],
+              "text": "x ¡\nx −3p"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                340.92,
+                695.27,
+                365.81,
+                721.45
+              ],
+              "text": "x +3\n¢"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                312.48,
+                714.57,
+                336.68,
+                730.37
+              ],
+              "text": "8x2p"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                336.96,
+                710.9,
+                369.74,
+                730.37
+              ],
+              "text": "x\n."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex4-q5-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.8,
+                    735.69,
+                    225.68,
+                    758.53
+                  ],
+                  "text": "En posant X = p"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    225.96,
+                    735.69,
+                    323.84,
+                    758.53
+                  ],
+                  "text": "x, montrer que x −3p"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    150.48,
+                    739.94,
+                    495.96,
+                    772.09
+                  ],
+                  "text": "x +3 > 0 pour tout réel x de l’intervalle\n]0 ; +∞[."
+                }
+              ]
+            },
+            {
+              "id": "ex4-q5-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    769.11,
+                    423.26,
+                    787.82
+                  ],
+                  "text": "Étudier la convexité de la fonction f sur l’intervalle ]0 ; +∞[."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    808.46,
+                    495.9,
+                    819.85
+                  ],
+                  "text": "Asie\n4\n11 juin 2025"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 137
+}

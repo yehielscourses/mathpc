@@ -1,0 +1,6883 @@
+{
+  "id": "polynesie_spe_j1_17_06_2025_dv_2",
+  "subject": "math",
+  "year": 2025,
+  "metadata": {
+    "source_pdf": "math/2025/sujets/Polynesie_spe_J1_17_06_2025_DV_2.pdf",
+    "filename": "Polynesie_spe_J1_17_06_2025_DV_2.pdf",
+    "year": 2025,
+    "title": "Baccalauréat Polynésie 17 juin 2025 /",
+    "header_text": "A. P. M. E. P.\n\n0 Baccalauréat Polynésie 17 juin 2025 /\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ\n\nSauf mention contraire, toute réponse devra être justifiée"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2025/corriges/Corrige_Polynesie_spe_J1_02_09_2025_FH.pdf"
+  },
+  "instructions": "A. P. M. E. P.\n\n0 Baccalauréat Polynésie 17 juin 2025 /\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ\n\nSauf mention contraire, toute réponse devra être justifiée",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        509.45,
+        98.45,
+        520.95,
+        155.98
+      ],
+      "text": "A. P. M. E. P."
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        172.56,
+        115.39,
+        422.78,
+        131.45
+      ],
+      "text": "0 Baccalauréat Polynésie 17 juin 2025 /"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        276.96,
+        141.17,
+        318.31,
+        156.29
+      ],
+      "text": "Sujet 1"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        156.24,
+        164.21,
+        438.98,
+        179.33
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        164.28,
+        186.51,
+        430.85,
+        198.01
+      ],
+      "text": "Sauf mention contraire, toute réponse devra être justifiée"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "1",
+      "title": "Exercice 1",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            217.2,
+            501.7,
+            229.8
+          ],
+          "text": "Exercice 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            237.62,
+            501.74,
+            276.13
+          ],
+          "text": "Une équipe américaine a cartographié pour la première fois les allergies alimentaires chez\nl’enfant aux États-Unis en 2020. L’étude, publiée dans la revue Clinical Pediatries, révèle\nune différence nette entre les zones rurales et les zones urbaines."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            281.3,
+            501.69,
+            306.25
+          ],
+          "text": "On sait qu’en 2020, 17 % de la population des États-Unis habite en zone rurale et 83 % en\nzone urbaine."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            311.42,
+            501.69,
+            349.93
+          ],
+          "text": "L’étude menée montre que parmi les enfants des États-Unis vivant en zone rurale, il y en a\n6,2 % qui sont atteints d’allergie alimentaire.\nL’étude révèle aussi que 9 % des enfants des États-Unis sont atteints d’allergie alimentaire."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            354.98,
+            380.73,
+            366.41
+          ],
+          "text": "Pour un évènement E quelconque, on note P(E) sa probabilité et"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            354.98,
+            506.06,
+            379.93
+          ],
+          "text": "E son évènement contraire.\nSauf mention contraire, les probabilités seront données sous forme exacte."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            387.99,
+            130.3,
+            399.49
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            407.66,
+            451.58,
+            419.05
+          ],
+          "text": "On interroge au hasard un enfant dans la population des États-Unis et on note :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            108.12,
+            426.11,
+            388.94,
+            438.41
+          ],
+          "text": "• R L’évènement : « l’enfant interrogé habite en zone rurale »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            108.12,
+            443.51,
+            435.38,
+            455.81
+          ],
+          "text": "•\nA L’évènement : « l’enfant interrogé est atteint d’allergie alimentaire »."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            217.2,
+            501.7,
+            229.8
+          ],
+          "text": "Exercice 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            237.62,
+            501.74,
+            276.13
+          ],
+          "text": "Une équipe américaine a cartographié pour la première fois les allergies alimentaires chez\nl’enfant aux États-Unis en 2020. L’étude, publiée dans la revue Clinical Pediatries, révèle\nune différence nette entre les zones rurales et les zones urbaines."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            281.3,
+            501.69,
+            306.25
+          ],
+          "text": "On sait qu’en 2020, 17 % de la population des États-Unis habite en zone rurale et 83 % en\nzone urbaine."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            311.42,
+            501.69,
+            349.93
+          ],
+          "text": "L’étude menée montre que parmi les enfants des États-Unis vivant en zone rurale, il y en a\n6,2 % qui sont atteints d’allergie alimentaire.\nL’étude révèle aussi que 9 % des enfants des États-Unis sont atteints d’allergie alimentaire."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            354.98,
+            380.73,
+            366.41
+          ],
+          "text": "Pour un évènement E quelconque, on note P(E) sa probabilité et"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            354.98,
+            506.06,
+            379.93
+          ],
+          "text": "E son évènement contraire.\nSauf mention contraire, les probabilités seront données sous forme exacte."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            387.99,
+            130.3,
+            399.49
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            407.66,
+            451.58,
+            419.05
+          ],
+          "text": "On interroge au hasard un enfant dans la population des États-Unis et on note :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            108.12,
+            426.11,
+            388.94,
+            438.41
+          ],
+          "text": "• R L’évènement : « l’enfant interrogé habite en zone rurale »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            108.12,
+            443.51,
+            435.38,
+            455.81
+          ],
+          "text": "•\nA L’évènement : « l’enfant interrogé est atteint d’allergie alimentaire »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            106.92,
+            475.23,
+            501.57,
+            500.29
+          ],
+          "text": "1. Traduire cette situation à l’aide d’un arbre de probabilité. Cet arbre pourra être com-\nplété par la suite."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            106.92,
+            506.19,
+            501.81,
+            531.25
+          ],
+          "text": "2.\na. Calculer la probabilité que l’enfant interrogé habite en zone rurale et soit atteint\nd’allergie alimentaire,"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            130.44,
+            535.23,
+            501.57,
+            560.29
+          ],
+          "text": "b. En déduire la probabilité que l’enfant interrogé habite en zone urbaine et soit\natteint d’allergie alimentaire."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            131.64,
+            564.27,
+            501.82,
+            589.33
+          ],
+          "text": "c. L’enfant interrogé habite en zone urbaine. Quelle est la probabilité qu’il soit at-\nteint d’allergie alimentaire? Arrondir le résultat à 10−4."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            603.03,
+            130.7,
+            614.53
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            93.6,
+            622.7,
+            501.72,
+            674.77
+          ],
+          "text": "On réalise une étude en interrogeant au hasard 100 enfants des États-Unis.\nOn admet que ce choix se ramène à des tirages successifs indépendants avec remise.\nOn note X la variable aléatoire donnant le nombre d’enfants atteints d’allergie alimentaire\ndans l’échantillon considéré."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            106.92,
+            688.59,
+            501.82,
+            713.53
+          ],
+          "text": "1. Justifier que la variable aléatoire X suit une loi binomiale dont on précisera les para-\nmètres."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            106.92,
+            719.43,
+            501.82,
+            744.49
+          ],
+          "text": "2. Quelle est la probabilité qu’au moins 10 enfants parmi les 100 interrogés soient at-\nteints d’allergie alimentaire? Arrondir le résultat à 10−4."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            49.35,
+            501.65,
+            60.85
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            89.19,
+            130.76,
+            100.69
+          ],
+          "text": "Partie C"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            108.86,
+            501.82,
+            133.81
+          ],
+          "text": "On s’intéresse à un échantillon de 20 enfants atteints d’allergie alimentaire choisis au ha-\nsard."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            138.98,
+            501.82,
+            191.05
+          ],
+          "text": "L’âge d’apparition des premiers symptômes allergiques de ces 20 enfants est modélisé par\nles variables aléatoires A1, A2,...,, A20. On admet que ces variables aléatoires sont indépen-\ndantes et suivent la même loi d’espérance 4 et de variance 2,25.\nOn considère la variable aléatoire :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            240.84,
+            200.27,
+            350.35,
+            221.06
+          ],
+          "text": "M20 = A1 + A2 +...+ A20"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            305.64,
+            208.58,
+            354.74,
+            227.41
+          ],
+          "text": "20\n."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            106.92,
+            230.91,
+            440.1,
+            244.09
+          ],
+          "text": "1. Que représente la variable aléatoire M20 dans le contexte de l’exercice?"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            106.92,
+            248.31,
+            326.66,
+            260.9
+          ],
+          "text": "2. Déterminer l’espérance et la variance de M20."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            106.92,
+            265.71,
+            354.84,
+            277.21
+          ],
+          "text": "3. Justifier, à l’aide de l’inégalité de concentration, que"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            261.48,
+            293.99,
+            360.86,
+            307.34
+          ],
+          "text": "P (2 < M20 < 6) > 0,97."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            120.84,
+            316.82,
+            355.58,
+            328.21
+          ],
+          "text": "Interpréter ce résultat dans le contexte de l’exercice."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                106.92,
+                475.23,
+                501.57,
+                500.29
+              ],
+              "text": "Traduire cette situation à l’aide d’un arbre de probabilité. Cet arbre pourra être com-\nplété par la suite."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  689.19,
+                  496.0,
+                  714.29
+                ],
+                "text": "L’expérience élémentaire consiste à choisir un candidat; il y a deux possibilités : il\nest reçu, avec une probabilité p = 0,747, ou il ne l’est pas."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  720.38,
+                  496.05,
+                  745.33
+                ],
+                "text": "On réalise 10 fois cette expérience et on suppose que les épreuves aléatoires sont\nindépendantes."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  751.46,
+                  496.17,
+                  790.01
+                ],
+                "text": "Donc la variable aléatoire X donnant le nombre de ces 10 candidats qui auront\nleur permis dès la première tentative suit la loi binomiale de paramètres n = 10 et\np = 0,747."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  808.46,
+                  495.9,
+                  819.85
+                ],
+                "text": "Polynésie\n2\n2 septembre 2025"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  77.67,
+                  496.01,
+                  89.17
+                ],
+                "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+              }
+            ],
+            "text": "L’expérience élémentaire consiste à choisir un candidat; il y a deux possibilités : il\nest reçu, avec une probabilité p = 0,747, ou il ne l’est pas.\n\nOn réalise 10 fois cette expérience et on suppose que les épreuves aléatoires sont\nindépendantes.\n\nDonc la variable aléatoire X donnant le nombre de ces 10 candidats qui auront\nleur permis dès la première tentative suit la loi binomiale de paramètres n = 10 et\np = 0,747.\n\nPolynésie\n2\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex1-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    106.92,
+                    506.19,
+                    501.81,
+                    531.25
+                  ],
+                  "text": "Calculer la probabilité que l’enfant interrogé habite en zone rurale et soit atteint\nd’allergie alimentaire,"
+                }
+              ]
+            },
+            {
+              "id": "ex1-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    130.44,
+                    535.23,
+                    501.57,
+                    560.29
+                  ],
+                  "text": "En déduire la probabilité que l’enfant interrogé habite en zone urbaine et soit\natteint d’allergie alimentaire."
+                }
+              ]
+            },
+            {
+              "id": "ex1-q2-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    131.64,
+                    564.27,
+                    501.82,
+                    589.33
+                  ],
+                  "text": "L’enfant interrogé habite en zone urbaine. Quelle est la probabilité qu’il soit at-\nteint d’allergie alimentaire? Arrondir le résultat à 10−4."
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    93.6,
+                    603.03,
+                    130.7,
+                    614.53
+                  ],
+                  "text": "Partie B"
+                },
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    93.6,
+                    622.7,
+                    501.72,
+                    674.77
+                  ],
+                  "text": "On réalise une étude en interrogeant au hasard 100 enfants des États-Unis.\nOn admet que ce choix se ramène à des tirages successifs indépendants avec remise.\nOn note X la variable aléatoire donnant le nombre d’enfants atteints d’allergie alimentaire\ndans l’échantillon considéré."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  116.92,
+                  232.95,
+                  129.17
+                ],
+                "text": "P(X ⩾6) = 1−P(X ⩽5)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.48,
+                  134.44,
+                  426.26,
+                  146.69
+                ],
+                "text": "À la calculatrice on trouve P(X ⩽5) ≈0,082 donc P(X ⩾6) ≈0,918."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.48,
+                  152.78,
+                  496.04,
+                  177.73
+                ],
+                "text": "On peut donc estimer à 91,8% le pourcentage de chances que sur 10 candidats, au\nmoins 6 obtiennent le permis dès leur première tentative."
+              }
+            ],
+            "text": "P(X ⩾6) = 1−P(X ⩽5)\n\nÀ la calculatrice on trouve P(X ⩽5) ≈0,082 donc P(X ⩾6) ≈0,918.\n\nOn peut donc estimer à 91,8% le pourcentage de chances que sur 10 candidats, au\nmoins 6 obtiennent le permis dès leur première tentative."
+          }
+        },
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                106.92,
+                688.59,
+                501.82,
+                713.53
+              ],
+              "text": "Justifier que la variable aléatoire X suit une loi binomiale dont on précisera les para-\nmètres."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  689.19,
+                  496.0,
+                  714.29
+                ],
+                "text": "L’expérience élémentaire consiste à choisir un candidat; il y a deux possibilités : il\nest reçu, avec une probabilité p = 0,747, ou il ne l’est pas."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  720.38,
+                  496.05,
+                  745.33
+                ],
+                "text": "On réalise 10 fois cette expérience et on suppose que les épreuves aléatoires sont\nindépendantes."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  751.46,
+                  496.17,
+                  790.01
+                ],
+                "text": "Donc la variable aléatoire X donnant le nombre de ces 10 candidats qui auront\nleur permis dès la première tentative suit la loi binomiale de paramètres n = 10 et\np = 0,747."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  808.46,
+                  495.9,
+                  819.85
+                ],
+                "text": "Polynésie\n2\n2 septembre 2025"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  77.67,
+                  496.01,
+                  89.17
+                ],
+                "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+              }
+            ],
+            "text": "L’expérience élémentaire consiste à choisir un candidat; il y a deux possibilités : il\nest reçu, avec une probabilité p = 0,747, ou il ne l’est pas.\n\nOn réalise 10 fois cette expérience et on suppose que les épreuves aléatoires sont\nindépendantes.\n\nDonc la variable aléatoire X donnant le nombre de ces 10 candidats qui auront\nleur permis dès la première tentative suit la loi binomiale de paramètres n = 10 et\np = 0,747.\n\nPolynésie\n2\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                106.92,
+                719.43,
+                501.82,
+                744.49
+              ],
+              "text": "Quelle est la probabilité qu’au moins 10 enfants parmi les 100 interrogés soient at-\nteints d’allergie alimentaire? Arrondir le résultat à 10−4."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                93.6,
+                49.35,
+                501.65,
+                60.85
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                93.6,
+                89.19,
+                130.76,
+                100.69
+              ],
+              "text": "Partie C"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                93.6,
+                108.86,
+                501.82,
+                133.81
+              ],
+              "text": "On s’intéresse à un échantillon de 20 enfants atteints d’allergie alimentaire choisis au ha-\nsard."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                93.6,
+                138.98,
+                501.82,
+                191.05
+              ],
+              "text": "L’âge d’apparition des premiers symptômes allergiques de ces 20 enfants est modélisé par\nles variables aléatoires A1, A2,...,, A20. On admet que ces variables aléatoires sont indépen-\ndantes et suivent la même loi d’espérance 4 et de variance 2,25.\nOn considère la variable aléatoire :"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                240.84,
+                200.27,
+                350.35,
+                221.06
+              ],
+              "text": "M20 = A1 + A2 +...+ A20"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                305.64,
+                208.58,
+                354.74,
+                227.41
+              ],
+              "text": "20\n."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  116.92,
+                  232.95,
+                  129.17
+                ],
+                "text": "P(X ⩾6) = 1−P(X ⩽5)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.48,
+                  134.44,
+                  426.26,
+                  146.69
+                ],
+                "text": "À la calculatrice on trouve P(X ⩽5) ≈0,082 donc P(X ⩾6) ≈0,918."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.48,
+                  152.78,
+                  496.04,
+                  177.73
+                ],
+                "text": "On peut donc estimer à 91,8% le pourcentage de chances que sur 10 candidats, au\nmoins 6 obtiennent le permis dès leur première tentative."
+              }
+            ],
+            "text": "P(X ⩾6) = 1−P(X ⩽5)\n\nÀ la calculatrice on trouve P(X ⩽5) ≈0,082 donc P(X ⩾6) ≈0,918.\n\nOn peut donc estimer à 91,8% le pourcentage de chances que sur 10 candidats, au\nmoins 6 obtiennent le permis dès leur première tentative."
+          }
+        },
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                106.92,
+                230.91,
+                440.1,
+                244.09
+              ],
+              "text": "Que représente la variable aléatoire M20 dans le contexte de l’exercice?"
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  689.19,
+                  496.0,
+                  714.29
+                ],
+                "text": "L’expérience élémentaire consiste à choisir un candidat; il y a deux possibilités : il\nest reçu, avec une probabilité p = 0,747, ou il ne l’est pas."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  720.38,
+                  496.05,
+                  745.33
+                ],
+                "text": "On réalise 10 fois cette expérience et on suppose que les épreuves aléatoires sont\nindépendantes."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  751.46,
+                  496.17,
+                  790.01
+                ],
+                "text": "Donc la variable aléatoire X donnant le nombre de ces 10 candidats qui auront\nleur permis dès la première tentative suit la loi binomiale de paramètres n = 10 et\np = 0,747."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  808.46,
+                  495.9,
+                  819.85
+                ],
+                "text": "Polynésie\n2\n2 septembre 2025"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  99.24,
+                  77.67,
+                  496.01,
+                  89.17
+                ],
+                "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+              }
+            ],
+            "text": "L’expérience élémentaire consiste à choisir un candidat; il y a deux possibilités : il\nest reçu, avec une probabilité p = 0,747, ou il ne l’est pas.\n\nOn réalise 10 fois cette expérience et on suppose que les épreuves aléatoires sont\nindépendantes.\n\nDonc la variable aléatoire X donnant le nombre de ces 10 candidats qui auront\nleur permis dès la première tentative suit la loi binomiale de paramètres n = 10 et\np = 0,747.\n\nPolynésie\n2\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                106.92,
+                248.31,
+                326.66,
+                260.9
+              ],
+              "text": "Déterminer l’espérance et la variance de M20."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  116.92,
+                  232.95,
+                  129.17
+                ],
+                "text": "P(X ⩾6) = 1−P(X ⩽5)"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.48,
+                  134.44,
+                  426.26,
+                  146.69
+                ],
+                "text": "À la calculatrice on trouve P(X ⩽5) ≈0,082 donc P(X ⩾6) ≈0,918."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.48,
+                  152.78,
+                  496.04,
+                  177.73
+                ],
+                "text": "On peut donc estimer à 91,8% le pourcentage de chances que sur 10 candidats, au\nmoins 6 obtiennent le permis dès leur première tentative."
+              }
+            ],
+            "text": "P(X ⩾6) = 1−P(X ⩽5)\n\nÀ la calculatrice on trouve P(X ⩽5) ≈0,082 donc P(X ⩾6) ≈0,918.\n\nOn peut donc estimer à 91,8% le pourcentage de chances que sur 10 candidats, au\nmoins 6 obtiennent le permis dès leur première tentative."
+          }
+        },
+        {
+          "id": "ex1-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                106.92,
+                265.71,
+                354.84,
+                277.21
+              ],
+              "text": "Justifier, à l’aide de l’inégalité de concentration, que"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                261.48,
+                293.99,
+                360.86,
+                307.34
+              ],
+              "text": "P (2 < M20 < 6) > 0,97."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                120.84,
+                316.82,
+                355.58,
+                328.21
+              ],
+              "text": "Interpréter ce résultat dans le contexte de l’exercice."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  174.23,
+                  474.88,
+                  193.25
+                ],
+                "text": "E(X ) = np = 10×0,747 = 7,47 et V (X ) = np\n¡\n1−p\n¢\n= 10×0,747×0,253 ≈1,890"
+              }
+            ],
+            "text": "E(X ) = np = 10×0,747 = 7,47 et V (X ) = np\n¡\n1−p\n¢\n= 10×0,747×0,253 ≈1,890"
+          }
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "Exercice 2",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            347.04,
+            501.7,
+            359.64
+          ],
+          "text": "Exercice 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            367.58,
+            298.1,
+            378.97
+          ],
+          "text": "Deux avions sont en approche d’un aéroport."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            372.23,
+            501.69,
+            435.85
+          ],
+          "text": "On munit l’espace d’un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́\ndont l’origine O est le pied de la\ntour de contrôle, et le sol est le plan P0 d’équation z = 0.\nL’unité des axes correspond à 1 km.\nOn modélise les avions par des points."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            302.64,
+            634.46,
+            318.38,
+            646.73
+          ],
+          "text": "•\n-2"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            597.61,
+            318.38,
+            609.76
+          ],
+          "text": "•\n0"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            560.75,
+            318.38,
+            573.03
+          ],
+          "text": "•\n2"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            523.9,
+            318.38,
+            536.18
+          ],
+          "text": "•\n4"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            487.05,
+            318.38,
+            499.21
+          ],
+          "text": "•\n6"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175.82,
+            570.08,
+            420.58,
+            629.45
+          ],
+          "text": "•\n-8\n•\n-6\n•\n-4\n•\n-2\n•\n0\n•\n2\n•\n4\n•\n6\n•\n-8\n•\n-6\n•\n-4\n•\n-2\n•\n0\n•\n2\n•\n4\n•\n6\n•\n8"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            443.71,
+            611.18,
+            448.89,
+            621.22
+          ],
+          "text": "x"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            321.24,
+            449.14,
+            325.94,
+            459.17
+          ],
+          "text": "z"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            392.0,
+            562.62,
+            396.7,
+            572.66
+          ],
+          "text": "y"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            181.91,
+            478.43,
+            231.42,
+            505.71
+          ],
+          "text": "dA\ndB"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            177.5,
+            455.26,
+            208.03,
+            479.47
+          ],
+          "text": "•\n•"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            209.01,
+            451.78,
+            215.38,
+            463.17
+          ],
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            170.06,
+            478.7,
+            176.54,
+            490.09
+          ],
+          "text": "B"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            671.27,
+            501.78,
+            683.53
+          ],
+          "text": "L’avion Alpha transmet à la tour sa position en A(−7 ; 1 ; 7) et sa trajectoire est dirigée par"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            690.71,
+            149.6,
+            710.21
+          ],
+          "text": "le vecteur −→\nu"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            150.6,
+            679.19,
+            156.57,
+            689.23
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            150.6,
+            685.1,
+            169.12,
+            723.61
+          ],
+          "text": "\n2\n−1\n−3"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            169.2,
+            679.19,
+            175.17,
+            689.23
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            169.2,
+            697.19,
+            177.74,
+            710.17
+          ],
+          "text": "."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            724.7,
+            501.69,
+            749.65
+          ],
+          "text": "L’avion Bêta transmet une trajectoire définie par la droite dB passant par le point B dont\nune représentation paramétrique est :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Polynésie\n2\n17 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            49.35,
+            501.65,
+            60.85
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            223.56,
+            93.59,
+            231.89,
+            112.63
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            223.56,
+            120.59,
+            231.89,
+            130.63
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            237.12,
+            98.99,
+            371.68,
+            138.41
+          ],
+          "text": "x\n=\n−11+5t\ny\n=\n−5+ t\nz\n=\n11−4t\noù t décrit R"
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            347.04,
+            501.7,
+            359.64
+          ],
+          "text": "Exercice 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            367.58,
+            298.1,
+            378.97
+          ],
+          "text": "Deux avions sont en approche d’un aéroport."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            372.23,
+            501.69,
+            435.85
+          ],
+          "text": "On munit l’espace d’un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́\ndont l’origine O est le pied de la\ntour de contrôle, et le sol est le plan P0 d’équation z = 0.\nL’unité des axes correspond à 1 km.\nOn modélise les avions par des points."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            302.64,
+            634.46,
+            318.38,
+            646.73
+          ],
+          "text": "•\n-2"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            597.61,
+            318.38,
+            609.76
+          ],
+          "text": "•\n0"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            560.75,
+            318.38,
+            573.03
+          ],
+          "text": "•\n2"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            523.9,
+            318.38,
+            536.18
+          ],
+          "text": "•\n4"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            306.24,
+            487.05,
+            318.38,
+            499.21
+          ],
+          "text": "•\n6"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            175.82,
+            570.08,
+            420.58,
+            629.45
+          ],
+          "text": "•\n-8\n•\n-6\n•\n-4\n•\n-2\n•\n0\n•\n2\n•\n4\n•\n6\n•\n-8\n•\n-6\n•\n-4\n•\n-2\n•\n0\n•\n2\n•\n4\n•\n6\n•\n8"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            443.71,
+            611.18,
+            448.89,
+            621.22
+          ],
+          "text": "x"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            321.24,
+            449.14,
+            325.94,
+            459.17
+          ],
+          "text": "z"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            392.0,
+            562.62,
+            396.7,
+            572.66
+          ],
+          "text": "y"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            181.91,
+            478.43,
+            231.42,
+            505.71
+          ],
+          "text": "dA\ndB"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            177.5,
+            455.26,
+            208.03,
+            479.47
+          ],
+          "text": "•\n•"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            209.01,
+            451.78,
+            215.38,
+            463.17
+          ],
+          "text": "A"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            170.06,
+            478.7,
+            176.54,
+            490.09
+          ],
+          "text": "B"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            671.27,
+            501.78,
+            683.53
+          ],
+          "text": "L’avion Alpha transmet à la tour sa position en A(−7 ; 1 ; 7) et sa trajectoire est dirigée par"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            690.71,
+            149.6,
+            710.21
+          ],
+          "text": "le vecteur −→\nu"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            150.6,
+            679.19,
+            156.57,
+            689.23
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            150.6,
+            685.1,
+            169.12,
+            723.61
+          ],
+          "text": "\n2\n−1\n−3"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            169.2,
+            679.19,
+            175.17,
+            689.23
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            169.2,
+            697.19,
+            177.74,
+            710.17
+          ],
+          "text": "."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            724.7,
+            501.69,
+            749.65
+          ],
+          "text": "L’avion Bêta transmet une trajectoire définie par la droite dB passant par le point B dont\nune représentation paramétrique est :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Polynésie\n2\n17 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            49.35,
+            501.65,
+            60.85
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            223.56,
+            93.59,
+            231.89,
+            112.63
+          ],
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            223.56,
+            120.59,
+            231.89,
+            130.63
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            237.12,
+            98.99,
+            371.68,
+            138.41
+          ],
+          "text": "x\n=\n−11+5t\ny\n=\n−5+ t\nz\n=\n11−4t\noù t décrit R"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            106.92,
+            151.35,
+            501.64,
+            176.41
+          ],
+          "text": "1. S’il ne dévie pas de sa trajectoire, déterminer les coordonnées du point S en lequel\nl’avion Bêta touchera le sol."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            106.92,
+            180.75,
+            501.69,
+            220.57
+          ],
+          "text": "2.\na. Déterminer une représentation paramétrique de la droite dA caractérisant la\ntrajectoire de l’avion Alpha.\nb. Les deux avions peuvent-ils entrer en collision?"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            106.92,
+            224.15,
+            501.82,
+            266.41
+          ],
+          "text": "3.\na. Démontrer que l’avion Alpha passe par la position E(−3 ; −1 ; 1).\nb. Justifier qu’une équation cartésienne du plan PE passant par E et perpendicu-\nlaire à la droite dA est :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            282.0,
+            281.51,
+            364.46,
+            293.81
+          ],
+          "text": "2x −y −3z +8 = 0."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            130.44,
+            301.07,
+            501.69,
+            355.09
+          ],
+          "text": "c. Vérifier que le point F(−1 ; −3 ; 3) est le point d’intersection du plan PE et de la\ndroite dB.\nd. Calculer la valeur exacte de la distance EF, puis vérifier que cela correspond à\nune distance de 3 464 m, à 1 m près."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            106.92,
+            359.43,
+            501.82,
+            412.81
+          ],
+          "text": "4. La réglementation aérienne stipule que deux avions en approche doivent être à tout\ninstant à au moins 3 milles nautiques l’un de l’autre (1 mille nautique vaut 1 852 m).\nSi les avions Alpha et Bêta sont respectivement en E et F au même instant, leur dis-\ntance de sécurité est-elle respectée?"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                106.92,
+                151.35,
+                501.64,
+                176.41
+              ],
+              "text": "S’il ne dévie pas de sa trajectoire, déterminer les coordonnées du point S en lequel\nl’avion Bêta touchera le sol."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  112.56,
+                  266.2,
+                  458.66,
+                  279.5
+                ],
+                "text": "On résout l’équation différentielle (E1) avec la condition initiale y(0) = 50."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  140.88,
+                  283.6,
+                  474.93,
+                  309.41
+                ],
+                "text": "• L’équation différentielle y = ay a pour solutions les fonctions y vérifiant\ny(x) = C eax où C est un réel quelconque."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  150.48,
+                  314.68,
+                  496.05,
+                  340.49
+                ],
+                "text": "Donc l’équation différentielle y = 0,05y a pour solutions les fonctions y véri-\nfiant y(x) = C e0,05x où C est un réel quelconque."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  140.88,
+                  344.54,
+                  451.58,
+                  357.02
+                ],
+                "text": "• On cherche une solution particulière constante k à l’équation (E1)."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  150.48,
+                  361.24,
+                  321.5,
+                  373.49
+                ],
+                "text": "On a donc 0 = 0,05k −0,5 donc k = 10."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  140.88,
+                  377.54,
+                  463.39,
+                  402.53
+                ],
+                "text": "• Les solutions de l’équation (E1) sont donc les fonctions y définies par\ny(x) = C e−0,05x +10 où C ∈R."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  140.88,
+                  405.76,
+                  428.78,
+                  418.01
+                ],
+                "text": "• On cherche la solution vérifiant la condition initiale y(0) = 50."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  150.48,
+                  419.32,
+                  318.74,
+                  435.53
+                ],
+                "text": "On a donc C e0 +10 = 50 donc C = 40."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  126.48,
+                  440.68,
+                  496.05,
+                  466.37
+                ],
+                "text": "La solution de l’équation différentielle (E1) vérifiant y(0) = 50 est la fonction y dé-\nfinie par y(x) = 40e0,05x +10."
+              }
+            ],
+            "text": "On résout l’équation différentielle (E1) avec la condition initiale y(0) = 50.\n\n• L’équation différentielle y = ay a pour solutions les fonctions y vérifiant\ny(x) = C eax où C est un réel quelconque.\n\nDonc l’équation différentielle y = 0,05y a pour solutions les fonctions y véri-\nfiant y(x) = C e0,05x où C est un réel quelconque.\n\n• On cherche une solution particulière constante k à l’équation (E1).\n\nOn a donc 0 = 0,05k −0,5 donc k = 10.\n\n• Les solutions de l’équation (E1) sont donc les fonctions y définies par\ny(x) = C e−0,05x +10 où C ∈R.\n\n• On cherche la solution vérifiant la condition initiale y(0) = 50.\n\nOn a donc C e0 +10 = 50 donc C = 40.\n\nLa solution de l’équation différentielle (E1) vérifiant y(0) = 50 est la fonction y dé-\nfinie par y(x) = 40e0,05x +10."
+          }
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    106.92,
+                    180.75,
+                    501.69,
+                    220.57
+                  ],
+                  "text": "Les deux avions peuvent-ils entrer en collision?"
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  112.56,
+                  470.31,
+                  495.86,
+                  481.81
+                ],
+                "text": "On compare les résultats du tableau avec ceux que l’on obtiendrait avec ce modèle."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  182.16,
+                  502.46,
+                  211.32,
+                  513.85
+                ],
+                "text": "Année"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  266.28,
+                  502.46,
+                  287.44,
+                  513.85
+                ],
+                "text": "2000"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  323.52,
+                  502.46,
+                  344.68,
+                  513.85
+                ],
+                "text": "2005"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  380.88,
+                  502.46,
+                  402.04,
+                  513.85
+                ],
+                "text": "2010"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  438.12,
+                  502.46,
+                  459.28,
+                  513.85
+                ],
+                "text": "2015"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  151.32,
+                  516.38,
+                  241.98,
+                  527.77
+                ],
+                "text": "Nombre d’individus"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  271.56,
+                  516.38,
+                  282.16,
+                  527.77
+                ],
+                "text": "50"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  328.92,
+                  516.38,
+                  339.52,
+                  527.77
+                ],
+                "text": "64"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  386.16,
+                  516.38,
+                  396.76,
+                  527.77
+                ],
+                "text": "80"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  440.76,
+                  516.38,
+                  456.64,
+                  527.77
+                ],
+                "text": "100"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  193.92,
+                  531.69,
+                  199.1,
+                  541.73
+                ],
+                "text": "x"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  274.2,
+                  530.3,
+                  279.52,
+                  541.69
+                ],
+                "text": "0"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  331.56,
+                  530.3,
+                  336.88,
+                  541.69
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  386.16,
+                  530.3,
+                  396.76,
+                  541.69
+                ],
+                "text": "10"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  443.4,
+                  530.3,
+                  454.0,
+                  541.69
+                ],
+                "text": "15"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  187.68,
+                  544.34,
+                  206.43,
+                  555.77
+                ],
+                "text": "y(x)"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  271.56,
+                  544.34,
+                  282.16,
+                  555.73
+                ],
+                "text": "50"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  322.2,
+                  544.34,
+                  346.0,
+                  555.73
+                ],
+                "text": "61,36"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  379.44,
+                  544.34,
+                  403.24,
+                  555.73
+                ],
+                "text": "75,95"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  436.8,
+                  544.34,
+                  460.6,
+                  555.73
+                ],
+                "text": "94,68"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  99.24,
+                  576.6,
+                  191.44,
+                  589.2
+                ],
+                "text": "Partie B. Modèle 2"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  99.24,
+                  602.3,
+                  496.06,
+                  628.34
+                ],
+                "text": "Dans cette partie, la direction de la réserve fait l’hypothèse que la fonction cherchée sa-\ntisfait l’équation différentielle suivante : y′ = 0,05y\n¡\n1−0,00125y\n¢\n(E2)."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  99.24,
+                  630.74,
+                  379.24,
+                  649.61
+                ],
+                "text": "On note f la fonction définie sur [0 ; +∞[ par : f (x) =\n800"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  342.96,
+                  638.18,
+                  403.7,
+                  657.01
+                ],
+                "text": "1+15e−0,05x ,"
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  99.24,
+                  657.31,
+                  363.26,
+                  669.61
+                ],
+                "text": "et C sa courbe représentative dans un repère orthonormé."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  99.24,
+                  681.74,
+                  423.02,
+                  693.13
+                ],
+                "text": "À l’aide d’un logiciel de calcul formel, on a obtenu les résultats suivants."
+              },
+              {
+                "type": "text",
+                "page": 4,
+                "bbox": [
+                  99.24,
+                  808.46,
+                  495.9,
+                  819.85
+                ],
+                "text": "Polynésie\n4\n2 septembre 2025"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  99.24,
+                  77.67,
+                  496.01,
+                  89.17
+                ],
+                "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  123.24,
+                  121.34,
+                  173.97,
+                  132.73
+                ],
+                "text": "Instruction"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  359.64,
+                  121.34,
+                  396.69,
+                  132.73
+                ],
+                "text": "Résultat"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  105.6,
+                  144.86,
+                  110.92,
+                  156.25
+                ],
+                "text": "1"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  124.32,
+                  137.42,
+                  194.2,
+                  156.29
+                ],
+                "text": "f (x) :=\n800"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  157.92,
+                  150.73,
+                  213.81,
+                  163.69
+                ],
+                "text": "1+15e−0,05x"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  333.12,
+                  137.42,
+                  400.24,
+                  156.29
+                ],
+                "text": "f (x) =\n800"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  363.96,
+                  150.73,
+                  419.85,
+                  163.69
+                ],
+                "text": "1+15e−0,05x"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  105.6,
+                  178.1,
+                  110.92,
+                  189.49
+                ],
+                "text": "2"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  124.32,
+                  175.69,
+                  224.19,
+                  189.53
+                ],
+                "text": "f ′(x) := Dérivée (f (x))"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  325.56,
+                  168.25,
+                  416.37,
+                  189.53
+                ],
+                "text": "f ′(x) =\n600e−0,05x"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  359.16,
+                  180.47,
+                  427.75,
+                  199.45
+                ],
+                "text": "¡\n1+15e−0,05x¢2"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  105.6,
+                  213.38,
+                  110.92,
+                  224.77
+                ],
+                "text": "3"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  124.32,
+                  210.97,
+                  233.67,
+                  224.81
+                ],
+                "text": "f ′′(x) := Dérivée ( f ′(x) )"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  291.6,
+                  203.53,
+                  381.93,
+                  224.81
+                ],
+                "text": "f ′′(x) =\n30e−0,05x"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  327.48,
+                  205.79,
+                  463.37,
+                  234.73
+                ],
+                "text": "¡\n1+15e−0,05x¢3\n¡\n15e−0,05x −1\n¢"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  105.6,
+                  242.9,
+                  110.92,
+                  254.29
+                ],
+                "text": "4"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  123.24,
+                  238.12,
+                  254.19,
+                  254.29
+                ],
+                "text": "Résoudre ( 15e−0,05x −1 ⩾0 )"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  350.04,
+                  242.88,
+                  406.35,
+                  254.33
+                ],
+                "text": "x ⩽20ln(15)"
+              }
+            ],
+            "text": "On compare les résultats du tableau avec ceux que l’on obtiendrait avec ce modèle.\n\nAnnée\n\n2000\n\n2005\n\n2010\n\n2015\n\nNombre d’individus\n\n50\n\n64\n\n80\n\n100\n\nx\n\n0\n\n5\n\n10\n\n15\n\ny(x)\n\n50\n\n61,36\n\n75,95\n\n94,68\n\nPartie B. Modèle 2\n\nDans cette partie, la direction de la réserve fait l’hypothèse que la fonction cherchée sa-\ntisfait l’équation différentielle suivante : y′ = 0,05y\n¡\n1−0,00125y\n¢\n(E2).\n\nOn note f la fonction définie sur [0 ; +∞[ par : f (x) =\n800\n\n1+15e−0,05x ,\n\net C sa courbe représentative dans un repère orthonormé.\n\nÀ l’aide d’un logiciel de calcul formel, on a obtenu les résultats suivants.\n\nPolynésie\n4\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P.\n\nInstruction\n\nRésultat\n\n1\n\nf (x) :=\n800\n\n1+15e−0,05x\n\nf (x) =\n800\n\n1+15e−0,05x\n\n2\n\nf ′(x) := Dérivée (f (x))\n\nf ′(x) =\n600e−0,05x\n\n¡\n1+15e−0,05x¢2\n\n3\n\nf ′′(x) := Dérivée ( f ′(x) )\n\nf ′′(x) =\n30e−0,05x\n\n¡\n1+15e−0,05x¢3\n¡\n15e−0,05x −1\n¢\n\n4\n\nRésoudre ( 15e−0,05x −1 ⩾0 )\n\nx ⩽20ln(15)"
+          }
+        },
+        {
+          "id": "ex2-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    106.92,
+                    224.15,
+                    501.82,
+                    266.41
+                  ],
+                  "text": "Justifier qu’une équation cartésienne du plan PE passant par E et perpendicu-\nlaire à la droite dA est :"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    282.0,
+                    281.51,
+                    364.46,
+                    293.81
+                  ],
+                  "text": "2x −y −3z +8 = 0."
+                }
+              ]
+            },
+            {
+              "id": "ex2-q3-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    130.44,
+                    301.07,
+                    501.69,
+                    355.09
+                  ],
+                  "text": "Calculer la valeur exacte de la distance EF, puis vérifier que cela correspond à\nune distance de 3 464 m, à 1 m près."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.56,
+                  445.82,
+                  496.05,
+                  520.25
+                ],
+                "text": "lim\nx→+∞−0,05x = −∞et\nlim\nX →−∞eX = 0 donc lim\nx→+∞e−0,05x = 0"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  522.14,
+                  403.72,
+                  546.41
+                ],
+                "text": "On en déduit que lim\nx→+∞1+15e−0,05x = 1 et que lim\nx→+∞\n800"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  367.44,
+                  528.76,
+                  454.82,
+                  548.41
+                ],
+                "text": "1+15e−0,05x = 800."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  548.71,
+                  496.05,
+                  566.45
+                ],
+                "text": "Donc lim\nx→+∞f (x) = 800, ce qui prouve que la courbe C admet la droite d’équation"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  127.08,
+                  564.4,
+                  336.86,
+                  576.65
+                ],
+                "text": "y = 800 comme asymptote horizontale en +∞."
+              }
+            ],
+            "text": "lim\nx→+∞−0,05x = −∞et\nlim\nX →−∞eX = 0 donc lim\nx→+∞e−0,05x = 0\n\nOn en déduit que lim\nx→+∞1+15e−0,05x = 1 et que lim\nx→+∞\n800\n\n1+15e−0,05x = 800.\n\nDonc lim\nx→+∞f (x) = 800, ce qui prouve que la courbe C admet la droite d’équation\n\ny = 800 comme asymptote horizontale en +∞."
+          }
+        },
+        {
+          "id": "ex2-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                106.92,
+                359.43,
+                501.82,
+                412.81
+              ],
+              "text": "La réglementation aérienne stipule que deux avions en approche doivent être à tout\ninstant à au moins 3 milles nautiques l’un de l’autre (1 mille nautique vaut 1 852 m).\nSi les avions Alpha et Bêta sont respectivement en E et F au même instant, leur dis-\ntance de sécurité est-elle respectée?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Exercice 3",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            426.24,
+            501.7,
+            438.84
+          ],
+          "text": "Exercice 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            445.22,
+            449.18,
+            471.85
+          ],
+          "text": "On munit le plan d’un repère orthonormé.\nPour tout entier naturel n, on considère la fonction fn définie sur [0 ; +∞[ par :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            202.2,
+            482.85,
+            394.22,
+            498.41
+          ],
+          "text": "f0(x) = e−x\net, pour n ⩾1, fn(x) = xne−x."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            502.63,
+            456.26,
+            516.61
+          ],
+          "text": "Pour tout entier naturel n, on note Cn la courbe représentative de la fonction fn."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            521.42,
+            260.78,
+            532.85
+          ],
+          "text": "Les parties A et B sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            539.31,
+            293.86,
+            552.49
+          ],
+          "text": "Partie A : Étude des fonctions fn pour n ⩾1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            557.4,
+            261.62,
+            568.85
+          ],
+          "text": "On considère un entier naturel n ⩾1."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            426.24,
+            501.7,
+            438.84
+          ],
+          "text": "Exercice 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            445.22,
+            449.18,
+            471.85
+          ],
+          "text": "On munit le plan d’un repère orthonormé.\nPour tout entier naturel n, on considère la fonction fn définie sur [0 ; +∞[ par :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            202.2,
+            482.85,
+            394.22,
+            498.41
+          ],
+          "text": "f0(x) = e−x\net, pour n ⩾1, fn(x) = xne−x."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            502.63,
+            456.26,
+            516.61
+          ],
+          "text": "Pour tout entier naturel n, on note Cn la courbe représentative de la fonction fn."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            521.42,
+            260.78,
+            532.85
+          ],
+          "text": "Les parties A et B sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            539.31,
+            293.86,
+            552.49
+          ],
+          "text": "Partie A : Étude des fonctions fn pour n ⩾1"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            557.4,
+            261.62,
+            568.85
+          ],
+          "text": "On considère un entier naturel n ⩾1."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            106.92,
+            577.91,
+            392.18,
+            591.85
+          ],
+          "text": "1.\na. On admet que la fonction fn est dérivable sur [0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            144.84,
+            594.24,
+            275.3,
+            605.69
+          ],
+          "text": "Montrer que pour tout x ⩾0,"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            272.4,
+            620.37,
+            375.26,
+            636.89
+          ],
+          "text": "f ′\nn(x) = (n −x)xn−1e−x."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            130.44,
+            642.75,
+            366.14,
+            654.25
+          ],
+          "text": "b. Justifier tous les éléments du tableau ci-dessous :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            227.53,
+            669.12,
+            419.81,
+            695.62
+          ],
+          "text": "x\n0\nn\n+∞\nf ′\nn(x)\n+\n0\n−"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            255.41,
+            745.22,
+            419.47,
+            756.61
+          ],
+          "text": "0\n0"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            326.99,
+            693.29,
+            336.73,
+            707.39
+          ],
+          "text": "¡ n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            332.63,
+            693.29,
+            347.05,
+            715.4
+          ],
+          "text": "e\n¢n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            234.13,
+            722.28,
+            242.55,
+            733.4
+          ],
+          "text": "fn"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Polynésie\n3\n17 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            49.35,
+            501.65,
+            60.85
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            81.83,
+            435.02,
+            101.81
+          ],
+          "text": "2. Justifier par le calcul que le point A\n¡\n1 ; e−1¢\nappartient à la courbe Cn."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            114.23,
+            247.26,
+            138.61
+          ],
+          "text": "Partie B : Étude des intégrales\nZ1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            238.68,
+            127.11,
+            338.5,
+            146.78
+          ],
+          "text": "0\nfn(x)dx pour n ⩾0"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            150.38,
+            501.72,
+            175.37
+          ],
+          "text": "Dans cette partie, on étudie les fonctions fn sur [0;1] et on considère la suite (In) définie\npour tout entier naturel n par :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            227.16,
+            181.31,
+            261.07,
+            206.93
+          ],
+          "text": "In =\nZ1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            252.72,
+            181.31,
+            323.59,
+            213.86
+          ],
+          "text": "0\nfn(x)dx =\nZ1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            315.24,
+            189.86,
+            368.42,
+            213.86
+          ],
+          "text": "0\nxne−x dx."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            228.91,
+            489.98,
+            242.89
+          ],
+          "text": "1. Sur le graphique en ANNEXE, on a représenté les courbes C0,C1,C2,C10 et C100."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            131.04,
+            247.11,
+            342.86,
+            259.73
+          ],
+          "text": "a. Donner une interprétation graphique de In."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            130.44,
+            262.59,
+            501.72,
+            288.77
+          ],
+          "text": "b. Par lecture de ce graphique, quelle conjecture peut-on émettre sur la limite de\nla suite (In)?"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            293.55,
+            172.34,
+            306.14
+          ],
+          "text": "2. Calculer I0."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            310.95,
+            252.62,
+            322.49
+          ],
+          "text": "3.\na. Soit n un entier naturel."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            144.84,
+            325.67,
+            306.14,
+            337.97
+          ],
+          "text": "Démontrer que pour tout x ∈[0 ; 1],"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            290.64,
+            351.0,
+            355.94,
+            366.89
+          ],
+          "text": "0 ⩽xn+1 ⩽xn."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            130.44,
+            377.31,
+            361.34,
+            388.85
+          ],
+          "text": "b. En déduire que pour tout entier naturel n, on a :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            292.32,
+            406.44,
+            354.14,
+            419.03
+          ],
+          "text": "0 ⩽In+1 ⩽In."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            428.31,
+            501.58,
+            453.41
+          ],
+          "text": "4. Démontrer que la suite (In) est convergente, vers une limite positive ou nulle que l’on\nnotera l."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            459.27,
+            501.2,
+            484.33
+          ],
+          "text": "5. En utilisant une intégration par parties, démontrer que pour tout entier naturel n\non a :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            266.88,
+            496.1,
+            352.24,
+            515.93
+          ],
+          "text": "In+1 = (n +1)In −1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            347.04,
+            503.42,
+            356.06,
+            522.37
+          ],
+          "text": "e."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            527.03,
+            493.94,
+            539.33
+          ],
+          "text": "6.\na. Démontrer que si l> 0, l’égalité de la question 5 conduit à une contradiction."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            130.44,
+            542.51,
+            397.7,
+            554.81
+          ],
+          "text": "b. Démontrer que l= 0. On pourra utiliser la question 6. a."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            568.7,
+            453.5,
+            593.65
+          ],
+          "text": "On donne ci-dessous le script de la fonction mystere, écrite en langage Python.\nOn a importé la constante e."
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            125.52,
+            610.02,
+            211.77,
+            620.93
+          ],
+          "text": "def mystere(n):"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.04,
+            623.58,
+            200.13,
+            634.49
+          ],
+          "text": "I = 1 - 1/e"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.04,
+            637.14,
+            177.21,
+            648.05
+          ],
+          "text": "L = [I]"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            137.04,
+            650.7,
+            240.33,
+            661.61
+          ],
+          "text": "for i in range(n):"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            159.96,
+            664.26,
+            268.77,
+            675.17
+          ],
+          "text": "I = (i + 1)*I - 1/e"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            159.96,
+            677.82,
+            223.29,
+            688.73
+          ],
+          "text": "L.append(I)"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            131.28,
+            691.38,
+            177.09,
+            702.29
+          ],
+          "text": "return L"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            106.92,
+            723.39,
+            385.38,
+            735.17
+          ],
+          "text": "7. Que renvoie mystere(100) dans le contexte de l’exercice?"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Polynésie\n4\n17 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            49.35,
+            501.65,
+            60.85
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    106.92,
+                    577.91,
+                    392.18,
+                    591.85
+                  ],
+                  "text": "On admet que la fonction fn est dérivable sur [0 ; +∞[."
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    144.84,
+                    594.24,
+                    275.3,
+                    605.69
+                  ],
+                  "text": "Montrer que pour tout x ⩾0,"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    272.4,
+                    620.37,
+                    375.26,
+                    636.89
+                  ],
+                  "text": "f ′\nn(x) = (n −x)xn−1e−x."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      112.56,
+                      593.68,
+                      411.38,
+                      619.45
+                    ],
+                    "text": "D’après le tableau de variations de f , on voit que f (2) = 0.\nOn complète le tableau :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      231.84,
+                      643.53,
+                      237.02,
+                      653.57
+                    ],
+                    "text": "x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      258.96,
+                      641.32,
+                      423.89,
+                      653.55
+                    ],
+                    "text": "2\n3\nβ\n+∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      320.04,
+                      663.4,
+                      356.44,
+                      675.61
+                    ],
+                    "text": "ln(6)−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      225.84,
+                      685.94,
+                      244.59,
+                      697.37
+                    ],
+                    "text": "f (x)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      374.16,
+                      685.94,
+                      379.48,
+                      697.33
+                    ],
+                    "text": "0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      258.96,
+                      706.84,
+                      423.89,
+                      719.05
+                    ],
+                    "text": "0\n−∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      731.56,
+                      495.96,
+                      757.35
+                    ],
+                    "text": "Donc l’équation f (x) = 0 admet exactement deux solutions sur l’intervalle\n[2 ; +∞[ que l’on notera α = 2 et β ∈\n£\n3 ;+∞\n£"
+                  }
+                ],
+                "text": "D’après le tableau de variations de f , on voit que f (2) = 0.\nOn complète le tableau :\n\nx\n\n2\n3\nβ\n+∞\n\nln(6)−1\n\nf (x)\n\n0\n\n0\n−∞\n\nDonc l’équation f (x) = 0 admet exactement deux solutions sur l’intervalle\n[2 ; +∞[ que l’on notera α = 2 et β ∈\n£\n3 ;+∞\n£"
+              }
+            },
+            {
+              "id": "ex3-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    130.44,
+                    642.75,
+                    366.14,
+                    654.25
+                  ],
+                  "text": "Justifier tous les éléments du tableau ci-dessous :"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    227.53,
+                    669.12,
+                    419.81,
+                    695.62
+                  ],
+                  "text": "x\n0\nn\n+∞\nf ′\nn(x)\n+\n0\n−"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    255.41,
+                    745.22,
+                    419.47,
+                    756.61
+                  ],
+                  "text": "0\n0"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    326.99,
+                    693.29,
+                    336.73,
+                    707.39
+                  ],
+                  "text": "¡ n"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    332.63,
+                    693.29,
+                    347.05,
+                    715.4
+                  ],
+                  "text": "e\n¢n"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    234.13,
+                    722.28,
+                    242.55,
+                    733.4
+                  ],
+                  "text": "fn"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    93.6,
+                    780.14,
+                    501.54,
+                    791.53
+                  ],
+                  "text": "Polynésie\n3\n17 juin 2025"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    93.6,
+                    49.35,
+                    501.65,
+                    60.85
+                  ],
+                  "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      136.08,
+                      760.24,
+                      232.82,
+                      772.47
+                    ],
+                    "text": "On a vu que α = 2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      778.58,
+                      348.98,
+                      789.97
+                    ],
+                    "text": "À la calculatrice, on trouve successivement :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      99.24,
+                      808.46,
+                      495.9,
+                      819.85
+                    ],
+                    "text": "Polynésie\n8\n2 septembre 2025"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      99.24,
+                      77.67,
+                      496.01,
+                      89.17
+                    ],
+                    "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      110.15,
+                      308.42,
+                      129.17
+                    ],
+                    "text": "• f (5) < 0 < f (6) donc β ∈\n£\n5 ;6\n¤\n;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      125.63,
+                      341.42,
+                      144.53
+                    ],
+                    "text": "• f (5,1) < 0 < f (5;2) donc β ∈\n£\n5,1 ;5,2\n¤\n;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      140.99,
+                      362.66,
+                      159.89
+                    ],
+                    "text": "• f (5,16) < 0 < f (5;17) donc β ∈\n£\n5,16 ;5,17\n¤\n;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      156.35,
+                      382.82,
+                      175.25
+                    ],
+                    "text": "• f (5,164) < 0 < f (5;165) donc β ∈\n£\n5,164 ;5,165\n¤\n."
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      150.48,
+                      177.14,
+                      379.58,
+                      192.51
+                    ],
+                    "text": "Donc 5,164 une valeur approchée à 10−3 près de β."
+                  }
+                ],
+                "text": "On a vu que α = 2.\n\nÀ la calculatrice, on trouve successivement :\n\nPolynésie\n8\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P.\n\n• f (5) < 0 < f (6) donc β ∈\n£\n5 ;6\n¤\n;\n\n• f (5,1) < 0 < f (5;2) donc β ∈\n£\n5,1 ;5,2\n¤\n;\n\n• f (5,16) < 0 < f (5;17) donc β ∈\n£\n5,16 ;5,17\n¤\n;\n\n• f (5,164) < 0 < f (5;165) donc β ∈\n£\n5,164 ;5,165\n¤\n.\n\nDonc 5,164 une valeur approchée à 10−3 près de β."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                81.83,
+                435.02,
+                101.81
+              ],
+              "text": "Justifier par le calcul que le point A\n¡\n1 ; e−1¢\nappartient à la courbe Cn."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                93.6,
+                114.23,
+                247.26,
+                138.61
+              ],
+              "text": "Partie B : Étude des intégrales\nZ1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                238.68,
+                127.11,
+                338.5,
+                146.78
+              ],
+              "text": "0\nfn(x)dx pour n ⩾0"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                93.6,
+                150.38,
+                501.72,
+                175.37
+              ],
+              "text": "Dans cette partie, on étudie les fonctions fn sur [0;1] et on considère la suite (In) définie\npour tout entier naturel n par :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                227.16,
+                181.31,
+                261.07,
+                206.93
+              ],
+              "text": "In =\nZ1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                252.72,
+                181.31,
+                323.59,
+                213.86
+              ],
+              "text": "0\nfn(x)dx =\nZ1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                315.24,
+                189.86,
+                368.42,
+                213.86
+              ],
+              "text": "0\nxne−x dx."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  112.56,
+                  196.35,
+                  282.26,
+                  208.97
+                ],
+                "text": "On note lla limite de la suite (un)."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  127.56,
+                  213.16,
+                  319.12,
+                  225.41
+                ],
+                "text": "f (x) = g(x)−x donc g(x) = x ⇐⇒f (x) = 0"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  230.68,
+                  496.0,
+                  256.49
+                ],
+                "text": "Pour tout n, on a g (un) = un+1 donc, par passage à la limite on a g(l) = l, ce qui\néquivaut à f (l) = 0."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  261.76,
+                  337.94,
+                  275.09
+                ],
+                "text": "u0 = 5 et la suite (un) est croissante donc l⩾5."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  279.28,
+                  496.08,
+                  305.07
+                ],
+                "text": "l⩾5 et lvérifie f (l) = 0; d’après les questions précédentes, on peut en déduire\nque l= β."
+              }
+            ],
+            "text": "On note lla limite de la suite (un).\n\nf (x) = g(x)−x donc g(x) = x ⇐⇒f (x) = 0\n\nPour tout n, on a g (un) = un+1 donc, par passage à la limite on a g(l) = l, ce qui\néquivaut à f (l) = 0.\n\nu0 = 5 et la suite (un) est croissante donc l⩾5.\n\nl⩾5 et lvérifie f (l) = 0; d’après les questions précédentes, on peut en déduire\nque l= β."
+          }
+        },
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                228.91,
+                489.98,
+                242.89
+              ],
+              "text": "Sur le graphique en ANNEXE, on a représenté les courbes C0,C1,C2,C10 et C100."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex3-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    131.04,
+                    247.11,
+                    342.86,
+                    259.73
+                  ],
+                  "text": "Donner une interprétation graphique de In."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      112.56,
+                      593.68,
+                      411.38,
+                      619.45
+                    ],
+                    "text": "D’après le tableau de variations de f , on voit que f (2) = 0.\nOn complète le tableau :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      231.84,
+                      643.53,
+                      237.02,
+                      653.57
+                    ],
+                    "text": "x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      258.96,
+                      641.32,
+                      423.89,
+                      653.55
+                    ],
+                    "text": "2\n3\nβ\n+∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      320.04,
+                      663.4,
+                      356.44,
+                      675.61
+                    ],
+                    "text": "ln(6)−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      225.84,
+                      685.94,
+                      244.59,
+                      697.37
+                    ],
+                    "text": "f (x)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      374.16,
+                      685.94,
+                      379.48,
+                      697.33
+                    ],
+                    "text": "0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      258.96,
+                      706.84,
+                      423.89,
+                      719.05
+                    ],
+                    "text": "0\n−∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      731.56,
+                      495.96,
+                      757.35
+                    ],
+                    "text": "Donc l’équation f (x) = 0 admet exactement deux solutions sur l’intervalle\n[2 ; +∞[ que l’on notera α = 2 et β ∈\n£\n3 ;+∞\n£"
+                  }
+                ],
+                "text": "D’après le tableau de variations de f , on voit que f (2) = 0.\nOn complète le tableau :\n\nx\n\n2\n3\nβ\n+∞\n\nln(6)−1\n\nf (x)\n\n0\n\n0\n−∞\n\nDonc l’équation f (x) = 0 admet exactement deux solutions sur l’intervalle\n[2 ; +∞[ que l’on notera α = 2 et β ∈\n£\n3 ;+∞\n£"
+              }
+            },
+            {
+              "id": "ex3-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    130.44,
+                    262.59,
+                    501.72,
+                    288.77
+                  ],
+                  "text": "Par lecture de ce graphique, quelle conjecture peut-on émettre sur la limite de\nla suite (In)?"
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      136.08,
+                      760.24,
+                      232.82,
+                      772.47
+                    ],
+                    "text": "On a vu que α = 2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      150.48,
+                      778.58,
+                      348.98,
+                      789.97
+                    ],
+                    "text": "À la calculatrice, on trouve successivement :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 8,
+                    "bbox": [
+                      99.24,
+                      808.46,
+                      495.9,
+                      819.85
+                    ],
+                    "text": "Polynésie\n8\n2 septembre 2025"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      99.24,
+                      77.67,
+                      496.01,
+                      89.17
+                    ],
+                    "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      110.15,
+                      308.42,
+                      129.17
+                    ],
+                    "text": "• f (5) < 0 < f (6) donc β ∈\n£\n5 ;6\n¤\n;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      125.63,
+                      341.42,
+                      144.53
+                    ],
+                    "text": "• f (5,1) < 0 < f (5;2) donc β ∈\n£\n5,1 ;5,2\n¤\n;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      140.99,
+                      362.66,
+                      159.89
+                    ],
+                    "text": "• f (5,16) < 0 < f (5;17) donc β ∈\n£\n5,16 ;5,17\n¤\n;"
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      161.28,
+                      156.35,
+                      382.82,
+                      175.25
+                    ],
+                    "text": "• f (5,164) < 0 < f (5;165) donc β ∈\n£\n5,164 ;5,165\n¤\n."
+                  },
+                  {
+                    "type": "text",
+                    "page": 9,
+                    "bbox": [
+                      150.48,
+                      177.14,
+                      379.58,
+                      192.51
+                    ],
+                    "text": "Donc 5,164 une valeur approchée à 10−3 près de β."
+                  }
+                ],
+                "text": "On a vu que α = 2.\n\nÀ la calculatrice, on trouve successivement :\n\nPolynésie\n8\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P.\n\n• f (5) < 0 < f (6) donc β ∈\n£\n5 ;6\n¤\n;\n\n• f (5,1) < 0 < f (5;2) donc β ∈\n£\n5,1 ;5,2\n¤\n;\n\n• f (5,16) < 0 < f (5;17) donc β ∈\n£\n5,16 ;5,17\n¤\n;\n\n• f (5,164) < 0 < f (5;165) donc β ∈\n£\n5,164 ;5,165\n¤\n.\n\nDonc 5,164 une valeur approchée à 10−3 près de β."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                293.55,
+                172.34,
+                306.14
+              ],
+              "text": "Calculer I0."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  112.56,
+                  196.35,
+                  282.26,
+                  208.97
+                ],
+                "text": "On note lla limite de la suite (un)."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  127.56,
+                  213.16,
+                  319.12,
+                  225.41
+                ],
+                "text": "f (x) = g(x)−x donc g(x) = x ⇐⇒f (x) = 0"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  230.68,
+                  496.0,
+                  256.49
+                ],
+                "text": "Pour tout n, on a g (un) = un+1 donc, par passage à la limite on a g(l) = l, ce qui\néquivaut à f (l) = 0."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  261.76,
+                  337.94,
+                  275.09
+                ],
+                "text": "u0 = 5 et la suite (un) est croissante donc l⩾5."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  279.28,
+                  496.08,
+                  305.07
+                ],
+                "text": "l⩾5 et lvérifie f (l) = 0; d’après les questions précédentes, on peut en déduire\nque l= β."
+              }
+            ],
+            "text": "On note lla limite de la suite (un).\n\nf (x) = g(x)−x donc g(x) = x ⇐⇒f (x) = 0\n\nPour tout n, on a g (un) = un+1 donc, par passage à la limite on a g(l) = l, ce qui\néquivaut à f (l) = 0.\n\nu0 = 5 et la suite (un) est croissante donc l⩾5.\n\nl⩾5 et lvérifie f (l) = 0; d’après les questions précédentes, on peut en déduire\nque l= β."
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    106.92,
+                    310.95,
+                    252.62,
+                    322.49
+                  ],
+                  "text": "Soit n un entier naturel."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    144.84,
+                    325.67,
+                    306.14,
+                    337.97
+                  ],
+                  "text": "Démontrer que pour tout x ∈[0 ; 1],"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    290.64,
+                    351.0,
+                    355.94,
+                    366.89
+                  ],
+                  "text": "0 ⩽xn+1 ⩽xn."
+                }
+              ]
+            },
+            {
+              "id": "ex3-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    130.44,
+                    377.31,
+                    361.34,
+                    388.85
+                  ],
+                  "text": "En déduire que pour tout entier naturel n, on a :"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    292.32,
+                    406.44,
+                    354.14,
+                    419.03
+                  ],
+                  "text": "0 ⩽In+1 ⩽In."
+                }
+              ]
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  346.23,
+                  496.08,
+                  371.57
+                ],
+                "text": "On a ensuite créé la fonction mystere(n) donnée ci-dessous et exécuté\nmystere(10000), ce qui a renvoyé 1."
+              },
+              {
+                "type": "code",
+                "page": 7,
+                "bbox": [
+                  132.84,
+                  392.82,
+                  219.09,
+                  403.73
+                ],
+                "text": "def mystere(n):"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  144.36,
+                  406.38,
+                  213.33,
+                  417.29
+                ],
+                "text": "L = suite(n)"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  144.36,
+                  419.94,
+                  173.01,
+                  430.85
+                ],
+                "text": "c = 1"
+              },
+              {
+                "type": "code",
+                "page": 7,
+                "bbox": [
+                  144.36,
+                  433.5,
+                  270.33,
+                  444.41
+                ],
+                "text": "for i in range(n - 1):"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  155.76,
+                  445.48,
+                  266.13,
+                  457.97
+                ],
+                "text": "if L[i] > L[i + 1]:"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  167.28,
+                  460.62,
+                  195.81,
+                  471.53
+                ],
+                "text": "c = 0"
+              },
+              {
+                "type": "code",
+                "page": 7,
+                "bbox": [
+                  144.36,
+                  474.18,
+                  190.17,
+                  485.09
+                ],
+                "text": "return c"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  505.22,
+                  496.62,
+                  544.91
+                ],
+                "text": "La fonction mystere renvoie 0 s’il existe un indice i pour lequel L[i] > L[i+1],\nc’est-à-dire un > un+1. Comme mystere(10000) renvoie 1, cela veut dire que pour\ntout i ⩽9999, on a : ui ⩽ui+1."
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  549.86,
+                  454.22,
+                  562.37
+                ],
+                "text": "Cela ne contredit pas la conjecture faite sur la croissance de la suite (un)."
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  99.24,
+                  581.68,
+                  353.69,
+                  596.88
+                ],
+                "text": "Partie B : Étude de la convergence de la suite ( un )"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  99.24,
+                  600.59,
+                  426.74,
+                  619.61
+                ],
+                "text": "On considère la fonction g définie sur [2 ; +∞[ par : g(x) = 2+ln\n¡\nx2 −3\n¢\n."
+              }
+            ],
+            "text": "On a ensuite créé la fonction mystere(n) donnée ci-dessous et exécuté\nmystere(10000), ce qui a renvoyé 1.\n\ndef mystere(n):\n\nL = suite(n)\n\nc = 1\n\nfor i in range(n - 1):\n\nif L[i] > L[i + 1]:\n\nc = 0\n\nreturn c\n\nLa fonction mystere renvoie 0 s’il existe un indice i pour lequel L[i] > L[i+1],\nc’est-à-dire un > un+1. Comme mystere(10000) renvoie 1, cela veut dire que pour\ntout i ⩽9999, on a : ui ⩽ui+1.\n\nCela ne contredit pas la conjecture faite sur la croissance de la suite (un).\n\nPartie B : Étude de la convergence de la suite ( un )\n\nOn considère la fonction g définie sur [2 ; +∞[ par : g(x) = 2+ln\n¡\nx2 −3\n¢\n."
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                428.31,
+                501.58,
+                453.41
+              ],
+              "text": "Démontrer que la suite (In) est convergente, vers une limite positive ou nulle que l’on\nnotera l."
+            }
+          ]
+        },
+        {
+          "id": "ex3-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                459.27,
+                501.2,
+                484.33
+              ],
+              "text": "En utilisant une intégration par parties, démontrer que pour tout entier naturel n\non a :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                266.88,
+                496.1,
+                352.24,
+                515.93
+              ],
+              "text": "In+1 = (n +1)In −1"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                347.04,
+                503.42,
+                356.06,
+                522.37
+              ],
+              "text": "e."
+            }
+          ]
+        },
+        {
+          "id": "ex3-q6",
+          "number": "6",
+          "label": "6.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q6-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    106.92,
+                    527.03,
+                    493.94,
+                    539.33
+                  ],
+                  "text": "Démontrer que si l> 0, l’égalité de la question 5 conduit à une contradiction."
+                }
+              ]
+            },
+            {
+              "id": "ex3-q6-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    130.44,
+                    542.51,
+                    397.7,
+                    554.81
+                  ],
+                  "text": "Démontrer que l= 0. On pourra utiliser la question 6. a."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    93.6,
+                    568.7,
+                    453.5,
+                    593.65
+                  ],
+                  "text": "On donne ci-dessous le script de la fonction mystere, écrite en langage Python.\nOn a importé la constante e."
+                },
+                {
+                  "type": "code",
+                  "page": 4,
+                  "bbox": [
+                    125.52,
+                    610.02,
+                    211.77,
+                    620.93
+                  ],
+                  "text": "def mystere(n):"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    137.04,
+                    623.58,
+                    200.13,
+                    634.49
+                  ],
+                  "text": "I = 1 - 1/e"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    137.04,
+                    637.14,
+                    177.21,
+                    648.05
+                  ],
+                  "text": "L = [I]"
+                },
+                {
+                  "type": "code",
+                  "page": 4,
+                  "bbox": [
+                    137.04,
+                    650.7,
+                    240.33,
+                    661.61
+                  ],
+                  "text": "for i in range(n):"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    159.96,
+                    664.26,
+                    268.77,
+                    675.17
+                  ],
+                  "text": "I = (i + 1)*I - 1/e"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    159.96,
+                    677.82,
+                    223.29,
+                    688.73
+                  ],
+                  "text": "L.append(I)"
+                },
+                {
+                  "type": "code",
+                  "page": 4,
+                  "bbox": [
+                    131.28,
+                    691.38,
+                    177.09,
+                    702.29
+                  ],
+                  "text": "return L"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex3-q7",
+          "number": "7",
+          "label": "7.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                106.92,
+                723.39,
+                385.38,
+                735.17
+              ],
+              "text": "Que renvoie mystere(100) dans le contexte de l’exercice?"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                93.6,
+                780.14,
+                501.54,
+                791.53
+              ],
+              "text": "Polynésie\n4\n17 juin 2025"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                93.6,
+                49.35,
+                501.65,
+                60.85
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "Exercice 4",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            88.32,
+            501.7,
+            100.92
+          ],
+          "text": "Exercice 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            110.25,
+            472.58,
+            147.41
+          ],
+          "text": "Pour chacune des affirmations suivantes, indiquer si elle est vraie ou fausse.\nChaque réponse doit être justifiée. Une réponse non justifiée ne rapporte aucun point.\nDans cet exercice, les questions sont indépendantes les unes des autres."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            88.32,
+            501.7,
+            100.92
+          ],
+          "text": "Exercice 4\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            110.25,
+            472.58,
+            147.41
+          ],
+          "text": "Pour chacune des affirmations suivantes, indiquer si elle est vraie ou fausse.\nChaque réponse doit être justifiée. Une réponse non justifiée ne rapporte aucun point.\nDans cet exercice, les questions sont indépendantes les unes des autres."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            161.19,
+            294.74,
+            172.69
+          ],
+          "text": "1. On considère l’équation différentielle :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            273.6,
+            184.46,
+            323.68,
+            203.21
+          ],
+          "text": "(E)\ny′ = 1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            318.36,
+            190.91,
+            348.86,
+            210.77
+          ],
+          "text": "2 y +4."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            120.84,
+            218.18,
+            456.62,
+            230.69
+          ],
+          "text": "Affirmation 1 : Les solutions de (E) sont les fonctions f définies sur R par :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            247.68,
+            244.55,
+            292.83,
+            259.73
+          ],
+          "text": "f (x) = ke\n1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            289.92,
+            242.87,
+            375.98,
+            259.73
+          ],
+          "text": "2 x −8,\navec k ∈R."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            270.15,
+            378.74,
+            281.65
+          ],
+          "text": "2. Dans une classe de terminale, il y a 18 filles et 14 garçons."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            120.84,
+            285.62,
+            498.14,
+            297.01
+          ],
+          "text": "On constitue une équipe de volley-ball en choisissant au hasard 3 filles et 3 garçons."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            120.84,
+            303.99,
+            435.98,
+            315.49
+          ],
+          "text": "Affirmation 2 : Il y a 297 024 possibilités pour former une telle équipe."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            321.39,
+            368.06,
+            334.01
+          ],
+          "text": "3. Soit (vn) la suite définie pour tout entier naturel n par :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            275.64,
+            344.49,
+            323.96,
+            363.05
+          ],
+          "text": "vn =\nn"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            299.16,
+            350.54,
+            347.06,
+            369.41
+          ],
+          "text": "2+cos(n)."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            120.84,
+            375.35,
+            325.22,
+            388.73
+          ],
+          "text": "Affirmation 3 : La suite (vn) diverge vers +∞."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            384.83,
+            506.7,
+            420.37
+          ],
+          "text": "4. Dans l’espace rapporté à un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́\n, on considère les points\nA(1; 1; 2), B(5 ; −1 ; 8) et C(2; 1; 3)."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            120.84,
+            416.39,
+            416.3,
+            435.85
+          ],
+          "text": "Affirmation 4 : −−→\nAB ·−−→\nAC = 10 et une mesure de l’angle \nBAC est 30°."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            106.92,
+            440.87,
+            501.72,
+            466.69
+          ],
+          "text": "5. On considère une fonction h définie sur ]0 ; +∞] dont la dérivée seconde est définie\nsur ]0 ; +∞] par :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            269.76,
+            481.41,
+            352.7,
+            495.77
+          ],
+          "text": "h′′(x) = x lnx −3x."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            120.84,
+            498.83,
+            371.3,
+            517.73
+          ],
+          "text": "Affirmation 5 : La fonction h est convexe sur\n£\ne3 ; +∞\n£\n."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Polynésie\n5\n17 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            93.6,
+            49.35,
+            501.65,
+            60.85
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex4-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                161.19,
+                294.74,
+                172.69
+              ],
+              "text": "On considère l’équation différentielle :"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                273.6,
+                184.46,
+                323.68,
+                203.21
+              ],
+              "text": "(E)\ny′ = 1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                318.36,
+                190.91,
+                348.86,
+                210.77
+              ],
+              "text": "2 y +4."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                120.84,
+                218.18,
+                456.62,
+                230.69
+              ],
+              "text": "Affirmation 1 : Les solutions de (E) sont les fonctions f définies sur R par :"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                247.68,
+                244.55,
+                292.83,
+                259.73
+              ],
+              "text": "f (x) = ke\n1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                289.92,
+                242.87,
+                375.98,
+                259.73
+              ],
+              "text": "2 x −8,\navec k ∈R."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  112.56,
+                  377.2,
+                  425.78,
+                  389.45
+                ],
+                "text": "On considère la fonction f définie sur ]0 ; +∞[ par : f (x) = x ln(x)."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  388.91,
+                  210.31,
+                  413.29
+                ],
+                "text": "Affirmation 1 :\nZe"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  201.24,
+                  389.68,
+                  282.88,
+                  421.46
+                ],
+                "text": "1\nf (x)dx = e2 +1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  267.36,
+                  409.34,
+                  272.68,
+                  420.73
+                ],
+                "text": "4"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  417.11,
+                  190.87,
+                  441.61
+                ],
+                "text": "On calcule\nZe"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  181.8,
+                  417.11,
+                  250.87,
+                  449.66
+                ],
+                "text": "1\nf (x) dx =\nZe"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  241.8,
+                  430.22,
+                  471.26,
+                  449.66
+                ],
+                "text": "1\nx ln(x) dx en faisant une intégration par parties :"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  447.23,
+                  139.97,
+                  460.37
+                ],
+                "text": "Zb"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  131.52,
+                  447.23,
+                  287.21,
+                  479.81
+                ],
+                "text": "a\nu′(x)v(x) dx =\n£\nu(x)v(x)\n¤b\na −\nZb"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  457.33,
+                  348.62,
+                  501.07
+                ],
+                "text": "a\nu(x)v′(x) dx.\n\n\n\n"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  509.15,
+                  134.81,
+                  525.19
+                ],
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  139.8,
+                  481.35,
+                  281.71,
+                  501.89
+                ],
+                "text": "u′(x) = x\n=⇒\nu(x) = x2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  274.32,
+                  498.02,
+                  279.64,
+                  509.41
+                ],
+                "text": "2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  143.28,
+                  509.3,
+                  277.36,
+                  528.05
+                ],
+                "text": "v(x) = ln(x) =⇒v′(x) = 1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  525.57,
+                  276.98,
+                  546.26
+                ],
+                "text": "x\nZe"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  131.4,
+                  532.79,
+                  213.67,
+                  565.82
+                ],
+                "text": "1\nx ln(x) dx =\n·x2"
+              },
+              {
+                "type": "code",
+                "page": 9,
+                "bbox": [
+                  206.16,
+                  532.79,
+                  257.47,
+                  565.09
+                ],
+                "text": "2 ×ln(x)\n ̧e"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  252.72,
+                  533.27,
+                  281.83,
+                  566.66
+                ],
+                "text": "1\n−\nZe"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  272.76,
+                  557.19,
+                  276.79,
+                  565.82
+                ],
+                "text": "1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  284.76,
+                  537.15,
+                  294.67,
+                  550.37
+                ],
+                "text": "x2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  287.16,
+                  538.94,
+                  313.12,
+                  565.09
+                ],
+                "text": "2 × 1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  307.68,
+                  532.79,
+                  355.99,
+                  565.13
+                ],
+                "text": "x dx =\n·x2"
+              },
+              {
+                "type": "code",
+                "page": 9,
+                "bbox": [
+                  348.6,
+                  532.79,
+                  399.79,
+                  565.09
+                ],
+                "text": "2 ×ln(x)\n ̧e"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  395.04,
+                  533.27,
+                  424.15,
+                  566.66
+                ],
+                "text": "1\n−\nZe"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  415.08,
+                  557.19,
+                  419.11,
+                  565.82
+                ],
+                "text": "1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  427.08,
+                  540.33,
+                  432.26,
+                  550.37
+                ],
+                "text": "x"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  427.2,
+                  546.26,
+                  447.26,
+                  565.09
+                ],
+                "text": "2 dx"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  187.92,
+                  563.39,
+                  213.67,
+                  586.2
+                ],
+                "text": "=\n·x2"
+              },
+              {
+                "type": "code",
+                "page": 9,
+                "bbox": [
+                  206.16,
+                  563.39,
+                  257.47,
+                  595.81
+                ],
+                "text": "2 ×ln(x)\n ̧e"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  252.72,
+                  563.39,
+                  284.47,
+                  597.38
+                ],
+                "text": "1\n−\n·x2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  276.96,
+                  584.42,
+                  282.28,
+                  595.81
+                ],
+                "text": "4"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  286.08,
+                  563.39,
+                  296.11,
+                  574.46
+                ],
+                "text": " ̧e"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  291.36,
+                  562.46,
+                  324.31,
+                  597.38
+                ],
+                "text": "1\n=\n· e2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  316.8,
+                  567.75,
+                  378.55,
+                  595.81
+                ],
+                "text": "2 ×ln(e)−12"
+              },
+              {
+                "type": "code",
+                "page": 9,
+                "bbox": [
+                  371.52,
+                  562.46,
+                  443.47,
+                  595.81
+                ],
+                "text": "2 ×ln(1)\n ̧\n−\n· e2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  435.96,
+                  567.75,
+                  465.55,
+                  595.81
+                ],
+                "text": "4 −12"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  458.52,
+                  584.42,
+                  463.84,
+                  595.81
+                ],
+                "text": "4"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  467.4,
+                  563.39,
+                  472.7,
+                  573.43
+                ],
+                "text": " ̧"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  187.92,
+                  597.87,
+                  208.51,
+                  618.37
+                ],
+                "text": "= e2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  201.0,
+                  597.87,
+                  246.79,
+                  625.93
+                ],
+                "text": "2 −0−e2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  239.16,
+                  599.66,
+                  264.88,
+                  625.93
+                ],
+                "text": "4 + 1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  259.56,
+                  597.87,
+                  288.43,
+                  625.93
+                ],
+                "text": "4 = e2"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  280.92,
+                  599.66,
+                  306.52,
+                  625.93
+                ],
+                "text": "4 + 1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  301.2,
+                  594.88,
+                  345.88,
+                  625.93
+                ],
+                "text": "4 = e2 +1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  330.24,
+                  614.54,
+                  495.89,
+                  638.41
+                ],
+                "text": "4\nAffirmation 1 vraie"
+              }
+            ],
+            "text": "On considère la fonction f définie sur ]0 ; +∞[ par : f (x) = x ln(x).\n\nAffirmation 1 :\nZe\n\n1\nf (x)dx = e2 +1\n\n4\n\nOn calcule\nZe\n\n1\nf (x) dx =\nZe\n\n1\nx ln(x) dx en faisant une intégration par parties :\n\nZb\n\na\nu′(x)v(x) dx =\n£\nu(x)v(x)\n¤b\na −\nZb\n\na\nu(x)v′(x) dx.\n\n\n\n\n\n\n\n\n\nu′(x) = x\n=⇒\nu(x) = x2\n\n2\n\nv(x) = ln(x) =⇒v′(x) = 1\n\nx\nZe\n\n1\nx ln(x) dx =\n·x2\n\n2 ×ln(x)\n ̧e\n\n1\n−\nZe\n\n1\n\nx2\n\n2 × 1\n\nx dx =\n·x2\n\n2 ×ln(x)\n ̧e\n\n1\n−\nZe\n\n1\n\nx\n\n2 dx\n\n=\n·x2\n\n2 ×ln(x)\n ̧e\n\n1\n−\n·x2\n\n4\n\n ̧e\n\n1\n=\n· e2\n\n2 ×ln(e)−12\n\n2 ×ln(1)\n ̧\n−\n· e2\n\n4 −12\n\n4\n\n ̧\n\n= e2\n\n2 −0−e2\n\n4 + 1\n\n4 = e2\n\n4 + 1\n\n4 = e2 +1\n\n4\nAffirmation 1 vraie"
+          }
+        },
+        {
+          "id": "ex4-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                270.15,
+                378.74,
+                281.65
+              ],
+              "text": "Dans une classe de terminale, il y a 18 filles et 14 garçons."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                120.84,
+                285.62,
+                498.14,
+                297.01
+              ],
+              "text": "On constitue une équipe de volley-ball en choisissant au hasard 3 filles et 3 garçons."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                120.84,
+                303.99,
+                435.98,
+                315.49
+              ],
+              "text": "Affirmation 2 : Il y a 297 024 possibilités pour former une telle équipe."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  112.56,
+                  642.27,
+                  390.74,
+                  653.81
+                ],
+                "text": "Soient n et k deux entiers naturels non nuls tels que k ⩽n."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  666.64,
+                  211.71,
+                  678.89
+                ],
+                "text": "Affirmation 2 : n ×"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  213.0,
+                  650.99,
+                  239.92,
+                  686.45
+                ],
+                "text": "Ã\nn −1\nk −1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  239.88,
+                  650.99,
+                  244.83,
+                  661.03
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  246.72,
+                  666.64,
+                  270.63,
+                  678.89
+                ],
+                "text": "= k ×"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  271.92,
+                  650.99,
+                  283.04,
+                  686.45
+                ],
+                "text": "Ã\nn\nk"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  283.56,
+                  650.99,
+                  288.51,
+                  661.03
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  126.48,
+                  693.57,
+                  265.99,
+                  711.05
+                ],
+                "text": "On va utiliser les propriétés : k"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  258.72,
+                  692.18,
+                  300.52,
+                  718.49
+                ],
+                "text": "k ! =\n1"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  281.88,
+                  698.8,
+                  401.06,
+                  718.49
+                ],
+                "text": "(k −1)! et n ! = n ×(n −1)!."
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  140.88,
+                  736.7,
+                  144.98,
+                  748.09
+                ],
+                "text": "•"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  150.48,
+                  720.11,
+                  161.6,
+                  755.57
+                ],
+                "text": "Ã\nn\nk"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  162.24,
+                  720.11,
+                  167.19,
+                  730.15
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  168.96,
+                  729.38,
+                  210.99,
+                  745.92
+                ],
+                "text": "=\nn !"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  179.28,
+                  736.7,
+                  258.78,
+                  755.57
+                ],
+                "text": "k !×(n −k)! donc"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  150.48,
+                  771.04,
+                  165.39,
+                  783.29
+                ],
+                "text": "k ×"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  166.68,
+                  755.27,
+                  177.8,
+                  790.73
+                ],
+                "text": "Ã\nn\nk"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  178.32,
+                  755.27,
+                  183.27,
+                  765.31
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  185.16,
+                  764.42,
+                  243.27,
+                  783.29
+                ],
+                "text": "= k ×\nn !"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  211.56,
+                  763.6,
+                  317.79,
+                  790.73
+                ],
+                "text": "k !×(n −k)! =\nk ×n !"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  277.92,
+                  764.42,
+                  387.03,
+                  790.73
+                ],
+                "text": "k !×(n −k)! =\nn !"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  344.28,
+                  778.48,
+                  419.55,
+                  790.73
+                ],
+                "text": "(k −1)!×(n −k)!"
+              },
+              {
+                "type": "text",
+                "page": 9,
+                "bbox": [
+                  99.24,
+                  808.46,
+                  495.9,
+                  819.85
+                ],
+                "text": "Polynésie\n9\n2 septembre 2025"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  99.24,
+                  77.67,
+                  496.01,
+                  89.17
+                ],
+                "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  140.88,
+                  124.58,
+                  144.98,
+                  135.97
+                ],
+                "text": "•"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  150.48,
+                  108.11,
+                  177.4,
+                  143.57
+                ],
+                "text": "Ã\nn −1\nk −1"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  177.36,
+                  108.11,
+                  182.31,
+                  118.15
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  184.2,
+                  116.44,
+                  270.51,
+                  133.8
+                ],
+                "text": "=\n(n −1)!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  194.52,
+                  116.44,
+                  396.63,
+                  143.65
+                ],
+                "text": "(k −1)!×((n −1)−(k −1))! =\n(n −1)!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  327.6,
+                  131.32,
+                  433.11,
+                  143.57
+                ],
+                "text": "(k −1)!×(n −1−k +1)!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  184.2,
+                  147.16,
+                  248.31,
+                  164.52
+                ],
+                "text": "=\n(n −1)!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  194.52,
+                  155.3,
+                  296.22,
+                  174.29
+                ],
+                "text": "(k −1)!×(n −k)! donc"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  150.48,
+                  186.16,
+                  165.87,
+                  198.41
+                ],
+                "text": "n ×"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  167.16,
+                  170.39,
+                  194.08,
+                  205.85
+                ],
+                "text": "Ã\nn −1\nk −1"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  194.04,
+                  170.39,
+                  198.99,
+                  180.43
+                ],
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  200.88,
+                  178.72,
+                  281.55,
+                  198.41
+                ],
+                "text": "= n ×\n(n −1)!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  227.76,
+                  178.72,
+                  378.51,
+                  205.85
+                ],
+                "text": "(k −1)!×(n −k)! =\nn ×(n −1)!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  316.32,
+                  179.54,
+                  455.07,
+                  205.85
+                ],
+                "text": "(k −1)!×(n −k)! ==\nn !"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  412.2,
+                  193.6,
+                  487.47,
+                  205.85
+                ],
+                "text": "(k −1)!×(n −k)!"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  407.88,
+                  217.35,
+                  495.89,
+                  228.85
+                ],
+                "text": "Affirmation 2 vraie"
+              }
+            ],
+            "text": "Soient n et k deux entiers naturels non nuls tels que k ⩽n.\n\nAffirmation 2 : n ×\n\nÃ\nn −1\nk −1\n\n!\n\n= k ×\n\nÃ\nn\nk\n\n!\n\nOn va utiliser les propriétés : k\n\nk ! =\n1\n\n(k −1)! et n ! = n ×(n −1)!.\n\n•\n\nÃ\nn\nk\n\n!\n\n=\nn !\n\nk !×(n −k)! donc\n\nk ×\n\nÃ\nn\nk\n\n!\n\n= k ×\nn !\n\nk !×(n −k)! =\nk ×n !\n\nk !×(n −k)! =\nn !\n\n(k −1)!×(n −k)!\n\nPolynésie\n9\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P.\n\n•\n\nÃ\nn −1\nk −1\n\n!\n\n=\n(n −1)!\n\n(k −1)!×((n −1)−(k −1))! =\n(n −1)!\n\n(k −1)!×(n −1−k +1)!\n\n=\n(n −1)!\n\n(k −1)!×(n −k)! donc\n\nn ×\n\nÃ\nn −1\nk −1\n\n!\n\n= n ×\n(n −1)!\n\n(k −1)!×(n −k)! =\nn ×(n −1)!\n\n(k −1)!×(n −k)! ==\nn !\n\n(k −1)!×(n −k)!\n\nAffirmation 2 vraie"
+          }
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                321.39,
+                368.06,
+                334.01
+              ],
+              "text": "Soit (vn) la suite définie pour tout entier naturel n par :"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                275.64,
+                344.49,
+                323.96,
+                363.05
+              ],
+              "text": "vn =\nn"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                299.16,
+                350.54,
+                347.06,
+                369.41
+              ],
+              "text": "2+cos(n)."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                120.84,
+                375.35,
+                325.22,
+                388.73
+              ],
+              "text": "Affirmation 3 : La suite (vn) diverge vers +∞."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  112.56,
+                  232.83,
+                  496.05,
+                  244.33
+                ],
+                "text": "Pour les trois affirmations suivantes, on considère que l’espace est muni d’un re-"
+              },
+              {
+                "type": "code",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  237.47,
+                  272.66,
+                  259.49
+                ],
+                "text": "père orthonormé\n3\nO ; −→ı , −→, −→k\n ́\n."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  288.38,
+                  344.9,
+                  299.81
+                ],
+                "text": "Soit d la droite de représentation paramétrique :"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  356.76,
+                  268.31,
+                  365.09,
+                  287.47
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  356.76,
+                  295.43,
+                  365.09,
+                  305.47
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  370.32,
+                  273.88,
+                  470.78,
+                  313.25
+                ],
+                "text": "x\n=\nt +1\ny\n=\n2t +1\nz\n=\n−t\n,\nt ∈R."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  330.02,
+                  347.66,
+                  345.41
+                ],
+                "text": "Soit d′ la droite de représentation paramétrique :"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  359.52,
+                  314.03,
+                  367.85,
+                  333.07
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  359.52,
+                  341.15,
+                  367.85,
+                  351.19
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  373.08,
+                  315.52,
+                  480.86,
+                  358.85
+                ],
+                "text": "x\n=\n2t′ −1\ny\n=\n−t′ +2\nz\n=\nt′ +1\n,\nt′ ∈R."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  369.04,
+                  387.98,
+                  381.29
+                ],
+                "text": "Soit P le plan d’équation cartésienne : 2x + y −2z +18 = 0."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  386.68,
+                  499.34,
+                  398.89
+                ],
+                "text": "Soit A le point de coordonnées (−1 ; −3 ; 2) et B le point de coordonnées (−5 ; −5 ; 6)."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  405.02,
+                  495.93,
+                  429.97
+                ],
+                "text": "On appelle plan médiateur du segment [AB] le plan passant par le milieu du seg-\nment [AB] et orthogonal à la droite (AB)."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  441.87,
+                  351.74,
+                  453.41
+                ],
+                "text": "Affirmation 3 : Le point A appartient à la droite d."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  127.2,
+                  471.64,
+                  342.62,
+                  483.89
+                ],
+                "text": "A ∈d si et seulement s’il existe un réel t tel que :"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  344.88,
+                  452.39,
+                  353.21,
+                  471.55
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  344.88,
+                  479.51,
+                  353.21,
+                  489.55
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  358.2,
+                  457.96,
+                  413.2,
+                  497.33
+                ],
+                "text": "−1 = t +1\n−3 = 2t +1\n2 = −t"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  501.52,
+                  471.62,
+                  513.77
+                ],
+                "text": "Le réel t = −2 vérifie les trois égalités donc le point A appartient à la droite d."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  407.88,
+                  519.87,
+                  495.89,
+                  531.37
+                ],
+                "text": "Affirmation 3 vraie"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  539.42,
+                  342.98,
+                  554.81
+                ],
+                "text": "Affirmation 4 : Les droites d et d′ sont sécantes."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  567.74,
+                  369.48,
+                  583.13
+                ],
+                "text": "d et d′ sont sécantes s’il existe un couple (t ,t′) tel que"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  371.76,
+                  551.63,
+                  380.09,
+                  570.79
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  371.76,
+                  578.75,
+                  380.09,
+                  588.79
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  553.24,
+                  457.36,
+                  616.39
+                ],
+                "text": "t +1\n= 2t′ −1\n2t +1 = −t′ +2\n−t\n=\nt′ +1\n\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  624.47,
+                  134.81,
+                  634.51
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  139.8,
+                  598.84,
+                  240.55,
+                  642.17
+                ],
+                "text": "t +1\n= 2t′ −1\n2t +1 = −t′ +2\n−t\n=\nt′ +1\n⇐⇒"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  244.2,
+                  597.35,
+                  252.53,
+                  616.39
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  244.2,
+                  624.47,
+                  252.53,
+                  634.51
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  257.52,
+                  598.84,
+                  360.16,
+                  642.17
+                ],
+                "text": "t\n= 2t′ −2\n2(2t′ −2)+1 = −t′ +2\n−(2t′ −2)\n=\nt′ +1"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  128.4,
+                  666.16,
+                  146.95,
+                  676.2
+                ],
+                "text": "⇐⇒"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  150.6,
+                  647.03,
+                  158.93,
+                  666.07
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  150.6,
+                  674.15,
+                  158.93,
+                  684.19
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  163.92,
+                  648.52,
+                  282.55,
+                  691.85
+                ],
+                "text": "t\n= 2t′ −2\n4t′ −4+1 = −t′ +2\n−2t′ +2\n=\nt′ +1\n⇐⇒"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  286.2,
+                  647.03,
+                  294.53,
+                  666.07
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  286.2,
+                  674.15,
+                  294.53,
+                  684.19
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  299.52,
+                  648.52,
+                  385.99,
+                  691.85
+                ],
+                "text": "t\n= 2t′ −2\n5t′ =\n5\n1\n=\n3t′\n⇐⇒"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  389.64,
+                  640.91,
+                  397.97,
+                  666.07
+                ],
+                "text": "\n\n\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  389.64,
+                  674.15,
+                  397.97,
+                  690.19
+                ],
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  403.2,
+                  644.44,
+                  455.8,
+                  684.97
+                ],
+                "text": "t\n= 2t′ −2\nt′ =\n1\n1"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  404.16,
+                  678.61,
+                  455.36,
+                  699.85
+                ],
+                "text": "3 =\nt′"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  697.82,
+                  466.1,
+                  713.21
+                ],
+                "text": "Le système n’a pas de solution donc les droites d et d′ ne sont pas sécantes."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  402.0,
+                  719.19,
+                  496.01,
+                  730.69
+                ],
+                "text": "Affirmation 4 fausse"
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  742.71,
+                  416.78,
+                  754.25
+                ],
+                "text": "Affirmation 5 : Le plan P est le plan médiateur du segment [AB]."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  126.48,
+                  760.34,
+                  496.02,
+                  785.33
+                ],
+                "text": "Le plan médiateur du segment [AB] est l’ensemble des points M de coordonnées\n(x , y ,z) tels que MA = MB, ce qui équivaut à MA2 = MB2."
+              },
+              {
+                "type": "text",
+                "page": 10,
+                "bbox": [
+                  99.24,
+                  808.46,
+                  495.9,
+                  819.85
+                ],
+                "text": "Polynésie\n10\n2 septembre 2025"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  99.24,
+                  77.67,
+                  496.01,
+                  89.17
+                ],
+                "text": "Baccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P."
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  126.48,
+                  111.04,
+                  275.11,
+                  127.73
+                ],
+                "text": "MA2 = (x +1)2 +(y +3)2 +(z −2)2"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  148.68,
+                  128.68,
+                  318.16,
+                  145.37
+                ],
+                "text": "= x2 +2x +1+ y2 +6y +9+ z2 −4z +4"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  148.68,
+                  146.32,
+                  292.96,
+                  163.13
+                ],
+                "text": "= x2 +2x + y2 +6y + z2 −4z +14"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  126.48,
+                  164.92,
+                  275.23,
+                  181.73
+                ],
+                "text": "MB2 = (x +5)2 +(y +5)2 +(z −6)2"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  148.8,
+                  182.56,
+                  350.08,
+                  199.37
+                ],
+                "text": "= x2 +10x +25+ y2 +10y +25+ z2 −12z +36"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  148.8,
+                  200.2,
+                  309.04,
+                  217.01
+                ],
+                "text": "= x2 +10x + y2 +10y + z2 −12z +86"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  126.48,
+                  218.92,
+                  501.64,
+                  235.61
+                ],
+                "text": "MA2 = MB2 ⇐⇒x2 +2x + y2 +6y + z2 −4z +14 = x2 +10x + y2 +10y + z2 −12z +86"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  182.04,
+                  233.27,
+                  434.32,
+                  252.17
+                ],
+                "text": "⇐⇒−8x −4y +8z −72 = 0 ⇐⇒−4\n¡\n2x + y −2z +18\n¢\n= 0"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  182.04,
+                  256.48,
+                  289.36,
+                  268.73
+                ],
+                "text": "⇐⇒2x + y −2z +18 = 0"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  126.48,
+                  273.86,
+                  487.94,
+                  285.29
+                ],
+                "text": "On retrouve l’équation du plan P donc P est le plan médiateur du segment [AB]."
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  407.88,
+                  291.27,
+                  495.89,
+                  302.77
+                ],
+                "text": "Affirmation 5 vraie"
+              },
+              {
+                "type": "text",
+                "page": 11,
+                "bbox": [
+                  99.24,
+                  808.46,
+                  495.9,
+                  819.85
+                ],
+                "text": "Polynésie\n11\n2 septembre 2025"
+              }
+            ],
+            "text": "Pour les trois affirmations suivantes, on considère que l’espace est muni d’un re-\n\npère orthonormé\n3\nO ; −→ı , −→, −→k\n ́\n.\n\nSoit d la droite de représentation paramétrique :\n\n\n\n\n\n\nx\n=\nt +1\ny\n=\n2t +1\nz\n=\n−t\n,\nt ∈R.\n\nSoit d′ la droite de représentation paramétrique :\n\n\n\n\n\n\nx\n=\n2t′ −1\ny\n=\n−t′ +2\nz\n=\nt′ +1\n,\nt′ ∈R.\n\nSoit P le plan d’équation cartésienne : 2x + y −2z +18 = 0.\n\nSoit A le point de coordonnées (−1 ; −3 ; 2) et B le point de coordonnées (−5 ; −5 ; 6).\n\nOn appelle plan médiateur du segment [AB] le plan passant par le milieu du seg-\nment [AB] et orthogonal à la droite (AB).\n\nAffirmation 3 : Le point A appartient à la droite d.\n\nA ∈d si et seulement s’il existe un réel t tel que :\n\n\n\n\n\n\n−1 = t +1\n−3 = 2t +1\n2 = −t\n\nLe réel t = −2 vérifie les trois égalités donc le point A appartient à la droite d.\n\nAffirmation 3 vraie\n\nAffirmation 4 : Les droites d et d′ sont sécantes.\n\nd et d′ sont sécantes s’il existe un couple (t ,t′) tel que\n\n\n\n\n\n\nt +1\n= 2t′ −1\n2t +1 = −t′ +2\n−t\n=\nt′ +1\n\n\n\n\n\nt +1\n= 2t′ −1\n2t +1 = −t′ +2\n−t\n=\nt′ +1\n⇐⇒\n\n\n\n\n\n\nt\n= 2t′ −2\n2(2t′ −2)+1 = −t′ +2\n−(2t′ −2)\n=\nt′ +1\n\n⇐⇒\n\n\n\n\n\n\nt\n= 2t′ −2\n4t′ −4+1 = −t′ +2\n−2t′ +2\n=\nt′ +1\n⇐⇒\n\n\n\n\n\n\nt\n= 2t′ −2\n5t′ =\n5\n1\n=\n3t′\n⇐⇒\n\n\n\n\n\n\n\n\n\n\nt\n= 2t′ −2\nt′ =\n1\n1\n\n3 =\nt′\n\nLe système n’a pas de solution donc les droites d et d′ ne sont pas sécantes.\n\nAffirmation 4 fausse\n\nAffirmation 5 : Le plan P est le plan médiateur du segment [AB].\n\nLe plan médiateur du segment [AB] est l’ensemble des points M de coordonnées\n(x , y ,z) tels que MA = MB, ce qui équivaut à MA2 = MB2.\n\nPolynésie\n10\n2 septembre 2025\n\nBaccalauréat spécialité sujet 1 - corrigé\nA. P. M. E. P.\n\nMA2 = (x +1)2 +(y +3)2 +(z −2)2\n\n= x2 +2x +1+ y2 +6y +9+ z2 −4z +4\n\n= x2 +2x + y2 +6y + z2 −4z +14\n\nMB2 = (x +5)2 +(y +5)2 +(z −6)2\n\n= x2 +10x +25+ y2 +10y +25+ z2 −12z +36\n\n= x2 +10x + y2 +10y + z2 −12z +86\n\nMA2 = MB2 ⇐⇒x2 +2x + y2 +6y + z2 −4z +14 = x2 +10x + y2 +10y + z2 −12z +86\n\n⇐⇒−8x −4y +8z −72 = 0 ⇐⇒−4\n¡\n2x + y −2z +18\n¢\n= 0\n\n⇐⇒2x + y −2z +18 = 0\n\nOn retrouve l’équation du plan P donc P est le plan médiateur du segment [AB].\n\nAffirmation 5 vraie\n\nPolynésie\n11\n2 septembre 2025"
+          }
+        },
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                384.83,
+                506.7,
+                420.37
+              ],
+              "text": "Dans l’espace rapporté à un repère orthonormé\n3\nO ; −→ı , −→, −→k\n ́\n, on considère les points\nA(1; 1; 2), B(5 ; −1 ; 8) et C(2; 1; 3)."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                120.84,
+                416.39,
+                416.3,
+                435.85
+              ],
+              "text": "Affirmation 4 : −−→\nAB ·−−→\nAC = 10 et une mesure de l’angle \nBAC est 30°."
+            }
+          ]
+        },
+        {
+          "id": "ex4-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                106.92,
+                440.87,
+                501.72,
+                466.69
+              ],
+              "text": "On considère une fonction h définie sur ]0 ; +∞] dont la dérivée seconde est définie\nsur ]0 ; +∞] par :"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                269.76,
+                481.41,
+                352.7,
+                495.77
+              ],
+              "text": "h′′(x) = x lnx −3x."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                120.84,
+                498.83,
+                371.3,
+                517.73
+              ],
+              "text": "Affirmation 5 : La fonction h est convexe sur\n£\ne3 ; +∞\n£\n."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                93.6,
+                780.14,
+                501.54,
+                791.53
+              ],
+              "text": "Polynésie\n5\n17 juin 2025"
+            },
+            {
+              "type": "text",
+              "page": 6,
+              "bbox": [
+                93.6,
+                49.35,
+                501.65,
+                60.85
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "exercice 3",
+      "points": null,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            246.6,
+            88.32,
+            348.64,
+            100.92
+          ],
+          "text": "ANNEXE : exercice 3"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            148.68,
+            462.26,
+            453.16,
+            486.01
+          ],
+          "text": "0\n0,1\n0,2\n0,3\n0,4\n0,5\n0,6\n0,7\n0,8\n0,9\n1,0\n0"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            433.22,
+            154.0,
+            444.61
+          ],
+          "text": "0,1"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            404.9,
+            154.0,
+            416.29
+          ],
+          "text": "0,2"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            376.46,
+            154.0,
+            387.85
+          ],
+          "text": "0,3"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            348.14,
+            154.0,
+            359.53
+          ],
+          "text": "0,4"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            319.82,
+            154.0,
+            331.21
+          ],
+          "text": "0,5"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            291.5,
+            154.0,
+            302.89
+          ],
+          "text": "0,6"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            263.06,
+            154.0,
+            274.45
+          ],
+          "text": "0,7"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            234.74,
+            154.0,
+            246.13
+          ],
+          "text": "0,8"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            206.42,
+            154.0,
+            217.81
+          ],
+          "text": "0,9"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            140.76,
+            178.1,
+            154.0,
+            189.49
+          ],
+          "text": "1,0"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            369.32,
+            318.04,
+            381.39,
+            331.43
+          ],
+          "text": "C0"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            369.32,
+            352.17,
+            381.39,
+            365.57
+          ],
+          "text": "C1"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            369.32,
+            374.85,
+            381.39,
+            388.24
+          ],
+          "text": "C2"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            367.28,
+            434.26,
+            383.43,
+            447.65
+          ],
+          "text": "C10"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            413.55,
+            445.6,
+            433.78,
+            458.99
+          ],
+          "text": "C100"
+        },
+        {
+          "type": "text",
+          "page": 6,
+          "bbox": [
+            93.6,
+            780.14,
+            501.54,
+            791.53
+          ],
+          "text": "Polynésie\n6\n17 juin 2025"
+        }
+      ],
+      "questions": []
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 159
+}

@@ -1,0 +1,5272 @@
+{
+  "id": "etranger_spe_j1_12_06_2025_dv",
+  "subject": "math",
+  "year": 2025,
+  "metadata": {
+    "source_pdf": "math/2025/sujets/Etranger_spe_J1_12_06_2025_DV.pdf",
+    "filename": "Etranger_spe_J1_12_06_2025_DV.pdf",
+    "year": 2025,
+    "title": "Baccalauréat Centres étrangers 12 juin 2025 /",
+    "header_text": "A. P. M. E. P.\n\n0 Baccalauréat Centres étrangers 12 juin 2025 /\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2025/corriges/Corrige__centre_etranger_J1_12_06_2025_VT.pdf"
+  },
+  "instructions": "A. P. M. E. P.\n\n0 Baccalauréat Centres étrangers 12 juin 2025 /\n\nSujet 1\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        506.57,
+        126.65,
+        518.07,
+        184.3
+      ],
+      "text": "A. P. M. E. P."
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        149.04,
+        30.07,
+        449.06,
+        46.13
+      ],
+      "text": "0 Baccalauréat Centres étrangers 12 juin 2025 /"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        278.28,
+        55.97,
+        319.75,
+        71.09
+      ],
+      "text": "Sujet 1"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        157.68,
+        78.89,
+        440.42,
+        94.01
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "1",
+      "title": "Exercice 1",
+      "points": 6.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            131.33,
+            498.96,
+            146.45
+          ],
+          "text": "Exercice 1\n6 points"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": null,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            160.29,
+            344.1,
+            170.32
+          ],
+          "text": "Cet exercice est constitué de trois parties indépendantes"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            178.34,
+            498.82,
+            216.85
+          ],
+          "text": "Un magasin est équipé de caisses automatiques en libre-service où le client scanne lui-\nmême ses articles. Le logiciel d’une caisse déclenche régulièrement des demandes de vé-\nrification. Un employé du magasin effectue alors un contrôle."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            233.88,
+            139.56,
+            246.48
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            255.62,
+            193.2,
+            267.01
+          ],
+          "text": "Le contrôle peut être"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            280.12,
+            498.9,
+            305.89
+          ],
+          "text": "• soit « total » : l’employé du magasin scanne alors à nouveau l’ensemble des articles\ndu client;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            316.12,
+            498.9,
+            341.89
+          ],
+          "text": "• soit «partiel» : l’employé choisit alors un ou plusieurs articles du client pour vérifier\nqu’ils ont bien été scannés."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            355.82,
+            498.9,
+            407.89
+          ],
+          "text": "Si un contrôle est déclenché, il s’agit une fois sur dix d’un contrôle total.\nLorsqu’un contrôle total est déclenché, une erreur du client est détectée dans 30 % des\ncas.\nLorsqu’un contrôle partiel est effectué, dans 85% des cas, il n’y a pas d’erreur."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            415.94,
+            337.22,
+            440.89
+          ],
+          "text": "Un contrôle est déclenché à une caisse automatique.\nOn considère les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            454.0,
+            301.94,
+            466.24
+          ],
+          "text": "• T : « Le contrôle est un contrôle total »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            476.44,
+            334.7,
+            488.68
+          ],
+          "text": "• E : « Une erreur est détectée lors du contrôle »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            502.58,
+            145.05,
+            513.97
+          ],
+          "text": "On notera"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            147.24,
+            502.58,
+            165.69,
+            514.0
+          ],
+          "text": "T et"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            168.0,
+            502.58,
+            341.18,
+            514.0
+          ],
+          "text": "E les évènements contraires de T et E."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            160.29,
+            344.1,
+            170.32
+          ],
+          "text": "Cet exercice est constitué de trois parties indépendantes"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            178.34,
+            498.82,
+            216.85
+          ],
+          "text": "Un magasin est équipé de caisses automatiques en libre-service où le client scanne lui-\nmême ses articles. Le logiciel d’une caisse déclenche régulièrement des demandes de vé-\nrification. Un employé du magasin effectue alors un contrôle."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            233.88,
+            139.56,
+            246.48
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            255.62,
+            193.2,
+            267.01
+          ],
+          "text": "Le contrôle peut être"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            280.12,
+            498.9,
+            305.89
+          ],
+          "text": "• soit « total » : l’employé du magasin scanne alors à nouveau l’ensemble des articles\ndu client;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            316.12,
+            498.9,
+            341.89
+          ],
+          "text": "• soit «partiel» : l’employé choisit alors un ou plusieurs articles du client pour vérifier\nqu’ils ont bien été scannés."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            355.82,
+            498.9,
+            407.89
+          ],
+          "text": "Si un contrôle est déclenché, il s’agit une fois sur dix d’un contrôle total.\nLorsqu’un contrôle total est déclenché, une erreur du client est détectée dans 30 % des\ncas.\nLorsqu’un contrôle partiel est effectué, dans 85% des cas, il n’y a pas d’erreur."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            415.94,
+            337.22,
+            440.89
+          ],
+          "text": "Un contrôle est déclenché à une caisse automatique.\nOn considère les évènements suivants :"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            454.0,
+            301.94,
+            466.24
+          ],
+          "text": "• T : « Le contrôle est un contrôle total »;"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            113.76,
+            476.44,
+            334.7,
+            488.68
+          ],
+          "text": "• E : « Une erreur est détectée lors du contrôle »."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            502.58,
+            145.05,
+            513.97
+          ],
+          "text": "On notera"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            147.24,
+            502.58,
+            165.69,
+            514.0
+          ],
+          "text": "T et"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            168.0,
+            502.58,
+            341.18,
+            514.0
+          ],
+          "text": "E les évènements contraires de T et E."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            523.46,
+            459.65,
+            549.39
+          ],
+          "text": "1. Construire un arbre pondéré représentant la situation puis déterminer P\n3"
+        },
+        {
+          "type": "code",
+          "page": 1,
+          "bbox": [
+            459.6,
+            523.46,
+            491.06,
+            549.39
+          ],
+          "text": "T ∩E\n ́\n."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            557.19,
+            435.98,
+            568.69
+          ],
+          "text": "2. Calculer la probabilité qu’une erreur soit détectée lors d’un contrôle."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            579.63,
+            498.93,
+            604.72
+          ],
+          "text": "3. Déterminer la probabilité qu’un contrôle total ait été effectué, sachant qu’une er-\nreur a été détectée. On donnera la valeur arrondie au centième."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            621.84,
+            139.99,
+            634.44
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            643.58,
+            498.9,
+            709.21
+          ],
+          "text": "Sur une journée donnée, une caisse automatique déclenche 15 contrôles. La probabilité\nqu’un contrôle mette en évidence une erreur est p = 0,165. La détection d’une erreur lors\nd’un contrôle est indépendante des autres contrôles.\nOn note X la variable aléatoire égale au nombre d’erreurs détectées lors des contrôles de\ncette journée."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            728.91,
+            499.06,
+            753.97
+          ],
+          "text": "1. On admet que la variable aléatoire X suit une loi binomiale. Préciser ses para-\nmètres."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            764.91,
+            498.95,
+            790.0
+          ],
+          "text": "2. Déterminer la probabilité qu’exactement 5 erreurs soient détectées. On donnera la\nvaleur arrondie au centième."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            77.67,
+            498.89,
+            89.17
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            117.63,
+            498.93,
+            142.72
+          ],
+          "text": "3. Déterminer la probabilité qu’au moins une erreur soit détectée. On donnera la va-\nleur arrondie au centième."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            153.51,
+            498.96,
+            192.13
+          ],
+          "text": "4. On souhaite modifier le nombre de contrôles déclenchés par la caisse de manière\nà ce que la probabilité qu’au moins une erreur soit détectée chaque jour soit supé-\nrieure à 99%."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            198.62,
+            498.91,
+            223.57
+          ],
+          "text": "Déterminer le nombre de contrôles que doit déclencher la caisse chaque jour pour\nque cette contrainte soit respectée."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            240.72,
+            140.06,
+            253.32
+          ],
+          "text": "Partie C"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            262.46,
+            502.17,
+            328.09
+          ],
+          "text": "Le magasin comporte trois caisses automatiques identiques qui, lors d’une journée, ont\nchacune déclenché 20 contrôles. On note X1, X2 et X3 les variables aléatoires associant à\nchacune des caisses le nombre d’erreurs détectées lors de cette journée.\nOn admet que les variables aléatoires X1, X2 et X3 sont indépendantes entre elles et suivent\nchacune une loi binomiale B(20 ; 0,165)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            347.43,
+            498.94,
+            373.58
+          ],
+          "text": "1. Déterminer les valeurs exactes de l’espérance et de la variance de la variable aléa-\ntoire X1."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            382.6,
+            366.38,
+            395.9
+          ],
+          "text": "2. On définit la variable aléatoire S par S = X1 + X2 + X3."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            400.6,
+            326.3,
+            412.84
+          ],
+          "text": "Justifier que E(S) = 9,9 et que V (S) = 8,2665."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            419.42,
+            389.18,
+            430.84
+          ],
+          "text": "Pour cette question, on utilisera 10 comme valeur de E(S)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            126.48,
+            437.3,
+            498.84,
+            475.81
+          ],
+          "text": "À l’aide de l’inégalité de Bienaymé-Tchebychev, montrer que la probabilité que le\nnombre total d’erreurs sur la journée soit strictement compris entre 6 et 14 est su-\npérieure à 0,48."
+        }
+      ],
+      "questions": [
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                523.46,
+                459.65,
+                549.39
+              ],
+              "text": "Construire un arbre pondéré représentant la situation puis déterminer P\n3"
+            },
+            {
+              "type": "code",
+              "page": 1,
+              "bbox": [
+                459.6,
+                523.46,
+                491.06,
+                549.39
+              ],
+              "text": "T ∩E\n ́\n."
+            }
+          ]
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                557.19,
+                435.98,
+                568.69
+              ],
+              "text": "Calculer la probabilité qu’une erreur soit détectée lors d’un contrôle."
+            }
+          ]
+        },
+        {
+          "id": "exe-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                579.63,
+                498.93,
+                604.72
+              ],
+              "text": "Déterminer la probabilité qu’un contrôle total ait été effectué, sachant qu’une er-\nreur a été détectée. On donnera la valeur arrondie au centième."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                621.84,
+                139.99,
+                634.44
+              ],
+              "text": "Partie B"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                643.58,
+                498.9,
+                709.21
+              ],
+              "text": "Sur une journée donnée, une caisse automatique déclenche 15 contrôles. La probabilité\nqu’un contrôle mette en évidence une erreur est p = 0,165. La détection d’une erreur lors\nd’un contrôle est indépendante des autres contrôles.\nOn note X la variable aléatoire égale au nombre d’erreurs détectées lors des contrôles de\ncette journée."
+            }
+          ]
+        },
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                728.91,
+                499.06,
+                753.97
+              ],
+              "text": "On admet que la variable aléatoire X suit une loi binomiale. Préciser ses para-\nmètres."
+            }
+          ]
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                764.91,
+                498.95,
+                790.0
+              ],
+              "text": "Déterminer la probabilité qu’exactement 5 erreurs soient détectées. On donnera la\nvaleur arrondie au centième."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                77.67,
+                498.89,
+                89.17
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            }
+          ]
+        },
+        {
+          "id": "exe-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                117.63,
+                498.93,
+                142.72
+              ],
+              "text": "Déterminer la probabilité qu’au moins une erreur soit détectée. On donnera la va-\nleur arrondie au centième."
+            }
+          ]
+        },
+        {
+          "id": "exe-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                153.51,
+                498.96,
+                192.13
+              ],
+              "text": "On souhaite modifier le nombre de contrôles déclenchés par la caisse de manière\nà ce que la probabilité qu’au moins une erreur soit détectée chaque jour soit supé-\nrieure à 99%."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                198.62,
+                498.91,
+                223.57
+              ],
+              "text": "Déterminer le nombre de contrôles que doit déclencher la caisse chaque jour pour\nque cette contrainte soit respectée."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                240.72,
+                140.06,
+                253.32
+              ],
+              "text": "Partie C"
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                262.46,
+                502.17,
+                328.09
+              ],
+              "text": "Le magasin comporte trois caisses automatiques identiques qui, lors d’une journée, ont\nchacune déclenché 20 contrôles. On note X1, X2 et X3 les variables aléatoires associant à\nchacune des caisses le nombre d’erreurs détectées lors de cette journée.\nOn admet que les variables aléatoires X1, X2 et X3 sont indépendantes entre elles et suivent\nchacune une loi binomiale B(20 ; 0,165)."
+            }
+          ]
+        },
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                347.43,
+                498.94,
+                373.58
+              ],
+              "text": "Déterminer les valeurs exactes de l’espérance et de la variance de la variable aléa-\ntoire X1."
+            }
+          ]
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                382.6,
+                366.38,
+                395.9
+              ],
+              "text": "On définit la variable aléatoire S par S = X1 + X2 + X3."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                400.6,
+                326.3,
+                412.84
+              ],
+              "text": "Justifier que E(S) = 9,9 et que V (S) = 8,2665."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                419.42,
+                389.18,
+                430.84
+              ],
+              "text": "Pour cette question, on utilisera 10 comme valeur de E(S)."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                126.48,
+                437.3,
+                498.84,
+                475.81
+              ],
+              "text": "À l’aide de l’inégalité de Bienaymé-Tchebychev, montrer que la probabilité que le\nnombre total d’erreurs sur la journée soit strictement compris entre 6 et 14 est su-\npérieure à 0,48."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "Exercice 2",
+      "points": 4.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            519.29,
+            498.97,
+            534.41
+          ],
+          "text": "Exercice 2 — QCM\n4 points"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": null,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            548.25,
+            498.98,
+            682.93
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiple. Pour chaque question, une seule des\nquatre réponses proposées est exacte. Le candidat indiquera sur sa copie le numéro de la\nquestion et la réponse choisie. Aucune justification n’est demandée. Une réponse fausse,\nune réponse multiple ou l’absence de réponse à une question ne rapporte ni n’enlève de\npoint.\nLes quatre questions sont indépendantes.\nPour chaque question, une seule réponse correcte. Aucune justification n’est demandée.\nDans tout l’exercice, on considère que l’espace est muni d’un repère orthonormé\n3\nO ; −→ı , −→, −→\nk\n ́\n.\nOn considère :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            695.68,
+            279.87,
+            707.89
+          ],
+          "text": "• les points A(−3 ; 1 ; 4) et B(1; 5; 2)"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            718.03,
+            363.76,
+            730.36
+          ],
+          "text": "• le plan P d’équation cartésienne 4x +4y −2z +3 = 0"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            759.64,
+            368.74,
+            771.88
+          ],
+          "text": "• la droite (d) dont une représentation paramétrique est"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            370.44,
+            734.66,
+            378.77,
+            775.71
+          ],
+          "text": "\n\n\n"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            370.44,
+            767.9,
+            378.77,
+            799.83
+          ],
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            384.0,
+            742.72,
+            448.26,
+            754.96
+          ],
+          "text": "x\n=\n−6+3t"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            384.36,
+            760.36,
+            429.52,
+            772.6
+          ],
+          "text": "y\n=\n1"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            384.0,
+            777.88,
+            448.26,
+            790.12
+          ],
+          "text": "z\n=\n9−5t"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            456.72,
+            759.38,
+            500.06,
+            771.88
+          ],
+          "text": ", où t ∈R."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            808.46,
+            498.66,
+            819.85
+          ],
+          "text": "Centres étrangers\n2\n12 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            77.67,
+            498.89,
+            89.17
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            548.25,
+            498.98,
+            682.93
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiple. Pour chaque question, une seule des\nquatre réponses proposées est exacte. Le candidat indiquera sur sa copie le numéro de la\nquestion et la réponse choisie. Aucune justification n’est demandée. Une réponse fausse,\nune réponse multiple ou l’absence de réponse à une question ne rapporte ni n’enlève de\npoint.\nLes quatre questions sont indépendantes.\nPour chaque question, une seule réponse correcte. Aucune justification n’est demandée.\nDans tout l’exercice, on considère que l’espace est muni d’un repère orthonormé\n3\nO ; −→ı , −→, −→\nk\n ́\n.\nOn considère :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            695.68,
+            279.87,
+            707.89
+          ],
+          "text": "• les points A(−3 ; 1 ; 4) et B(1; 5; 2)"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            718.03,
+            363.76,
+            730.36
+          ],
+          "text": "• le plan P d’équation cartésienne 4x +4y −2z +3 = 0"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            113.76,
+            759.64,
+            368.74,
+            771.88
+          ],
+          "text": "• la droite (d) dont une représentation paramétrique est"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            370.44,
+            734.66,
+            378.77,
+            775.71
+          ],
+          "text": "\n\n\n"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            370.44,
+            767.9,
+            378.77,
+            799.83
+          ],
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            384.0,
+            742.72,
+            448.26,
+            754.96
+          ],
+          "text": "x\n=\n−6+3t"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            384.36,
+            760.36,
+            429.52,
+            772.6
+          ],
+          "text": "y\n=\n1"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            384.0,
+            777.88,
+            448.26,
+            790.12
+          ],
+          "text": "z\n=\n9−5t"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            456.72,
+            759.38,
+            500.06,
+            771.88
+          ],
+          "text": ", où t ∈R."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            808.46,
+            498.66,
+            819.85
+          ],
+          "text": "Centres étrangers\n2\n12 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            77.67,
+            498.89,
+            89.17
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            117.63,
+            251.66,
+            129.16
+          ],
+          "text": "1. Les droites (AB) et (d) sont :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.8,
+            139.71,
+            291.38,
+            151.21
+          ],
+          "text": "a. sécantes non perpendiculaires."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            156.87,
+            229.7,
+            168.37
+          ],
+          "text": "b. perpendiculaires."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            137.28,
+            173.91,
+            225.86,
+            185.41
+          ],
+          "text": "c. non coplanaires."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            191.07,
+            196.34,
+            202.57
+          ],
+          "text": "d. parallèles."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            213.15,
+            209.18,
+            224.65
+          ],
+          "text": "2. La droite (AB) est :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.8,
+            234.55,
+            255.02,
+            246.85
+          ],
+          "text": "a. incluse dans le plan P ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            251.59,
+            295.58,
+            263.89
+          ],
+          "text": "b. strictement parallèle au plan P ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            137.28,
+            268.75,
+            325.46,
+            281.05
+          ],
+          "text": "c. sécante et non orthogonale au plan P ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            285.91,
+            257.3,
+            298.21
+          ],
+          "text": "d. orthogonale au plan P ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            308.08,
+            422.18,
+            320.32
+          ],
+          "text": "3. On considère le plan P’ d’équation cartésienne 2x + y +6z +5 = 0."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            322.82,
+            234.5,
+            338.17
+          ],
+          "text": "Les plans P et P ′ sont :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.8,
+            348.75,
+            297.02,
+            360.25
+          ],
+          "text": "a. sécants et non perpendiculaires."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            365.91,
+            229.7,
+            377.41
+          ],
+          "text": "b. perpendiculaires."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            137.28,
+            382.95,
+            201.5,
+            394.45
+          ],
+          "text": "c. confondus."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            400.11,
+            250.94,
+            411.61
+          ],
+          "text": "d. strictement parallèles."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            421.34,
+            496.22,
+            449.43
+          ],
+          "text": "4. On considère le point C(0 ; 1 ; −1). La valeur de l’angle \nBAC arrondie au degré est :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.8,
+            444.39,
+            164.55,
+            455.89
+          ],
+          "text": "a. 90°"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            461.43,
+            164.55,
+            472.93
+          ],
+          "text": "b. 51°"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            137.28,
+            478.59,
+            164.55,
+            490.09
+          ],
+          "text": "c. 39°"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            495.75,
+            159.27,
+            507.25
+          ],
+          "text": "d. 0°"
+        }
+      ],
+      "questions": [
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                117.63,
+                251.66,
+                129.16
+              ],
+              "text": "Les droites (AB) et (d) sont :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.8,
+                    139.71,
+                    291.38,
+                    151.21
+                  ],
+                  "text": "sécantes non perpendiculaires."
+                }
+              ]
+            },
+            {
+              "id": "exe-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    156.87,
+                    229.7,
+                    168.37
+                  ],
+                  "text": "perpendiculaires."
+                }
+              ]
+            },
+            {
+              "id": "exe-q1-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    137.28,
+                    173.91,
+                    225.86,
+                    185.41
+                  ],
+                  "text": "non coplanaires."
+                }
+              ]
+            },
+            {
+              "id": "exe-q1-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    191.07,
+                    196.34,
+                    202.57
+                  ],
+                  "text": "parallèles."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                213.15,
+                209.18,
+                224.65
+              ],
+              "text": "La droite (AB) est :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.8,
+                    234.55,
+                    255.02,
+                    246.85
+                  ],
+                  "text": "incluse dans le plan P ."
+                }
+              ]
+            },
+            {
+              "id": "exe-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    251.59,
+                    295.58,
+                    263.89
+                  ],
+                  "text": "strictement parallèle au plan P ."
+                }
+              ]
+            },
+            {
+              "id": "exe-q2-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    137.28,
+                    268.75,
+                    325.46,
+                    281.05
+                  ],
+                  "text": "sécante et non orthogonale au plan P ."
+                }
+              ]
+            },
+            {
+              "id": "exe-q2-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    285.91,
+                    257.3,
+                    298.21
+                  ],
+                  "text": "orthogonale au plan P ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                308.08,
+                422.18,
+                320.32
+              ],
+              "text": "On considère le plan P’ d’équation cartésienne 2x + y +6z +5 = 0."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                322.82,
+                234.5,
+                338.17
+              ],
+              "text": "Les plans P et P ′ sont :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.8,
+                    348.75,
+                    297.02,
+                    360.25
+                  ],
+                  "text": "sécants et non perpendiculaires."
+                }
+              ]
+            },
+            {
+              "id": "exe-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    365.91,
+                    229.7,
+                    377.41
+                  ],
+                  "text": "perpendiculaires."
+                }
+              ]
+            },
+            {
+              "id": "exe-q3-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    137.28,
+                    382.95,
+                    201.5,
+                    394.45
+                  ],
+                  "text": "confondus."
+                }
+              ]
+            },
+            {
+              "id": "exe-q3-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    400.11,
+                    250.94,
+                    411.61
+                  ],
+                  "text": "strictement parallèles."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                421.34,
+                496.22,
+                449.43
+              ],
+              "text": "On considère le point C(0 ; 1 ; −1). La valeur de l’angle \nBAC arrondie au degré est :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.8,
+                    444.39,
+                    164.55,
+                    455.89
+                  ],
+                  "text": "90°"
+                }
+              ]
+            },
+            {
+              "id": "exe-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    461.43,
+                    164.55,
+                    472.93
+                  ],
+                  "text": "51°"
+                }
+              ]
+            },
+            {
+              "id": "exe-q4-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    137.28,
+                    478.59,
+                    164.55,
+                    490.09
+                  ],
+                  "text": "39°"
+                }
+              ]
+            },
+            {
+              "id": "exe-q4-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    495.75,
+                    159.27,
+                    507.25
+                  ],
+                  "text": "0°"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Exercice 3",
+      "points": 6.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            549.29,
+            498.97,
+            564.41
+          ],
+          "text": "Exercice 3\n6 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            576.24,
+            139.56,
+            588.84
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            597.16,
+            388.02,
+            609.4
+          ],
+          "text": "On considère la fonction f définie sur l’intervalle ]−1 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            251.4,
+            619.83,
+            346.15,
+            640.36
+          ],
+          "text": "f (x) = 4ln(x +1)−x2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            636.5,
+            403.34,
+            662.32
+          ],
+          "text": "25\nOn admet que la fonction f est dérivable sur l’intervalle ]−1 ; +∞[."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            549.29,
+            498.97,
+            564.41
+          ],
+          "text": "Exercice 3\n6 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            576.24,
+            139.56,
+            588.84
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            597.16,
+            388.02,
+            609.4
+          ],
+          "text": "On considère la fonction f définie sur l’intervalle ]−1 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            251.4,
+            619.83,
+            346.15,
+            640.36
+          ],
+          "text": "f (x) = 4ln(x +1)−x2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            636.5,
+            403.34,
+            662.32
+          ],
+          "text": "25\nOn admet que la fonction f est dérivable sur l’intervalle ]−1 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            679.96,
+            323.06,
+            692.2
+          ],
+          "text": "1. Déterminer la limite de la fonction f en −1."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            702.04,
+            437.42,
+            714.28
+          ],
+          "text": "2. Montrer que, pour tout x appartenant à l’intervalle ]−1 ; +∞[ , on a :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            264.24,
+            723.03,
+            360.19,
+            743.68
+          ],
+          "text": "f ′(x) = 100−2x −2x2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            309.96,
+            738.88,
+            348.75,
+            751.12
+          ],
+          "text": "25(x +1)"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            764.2,
+            498.84,
+            790.0
+          ],
+          "text": "3. Étudier les variations de la fonction f sur l’intervalle ]−1 ; +∞[ puis en déduire que\nla fonction f est strictement croissante sur l’intervalle [2; 6,5]."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            808.46,
+            498.66,
+            819.85
+          ],
+          "text": "Centres étrangers\n3\n12 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            77.67,
+            498.89,
+            89.17
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            116.92,
+            470.3,
+            129.16
+          ],
+          "text": "4. On considère h la fonction définie sur l’intervalle [2; 6,5] par h(x) = f (x)−x."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            134.78,
+            407.78,
+            146.2
+          ],
+          "text": "On donne ci-dessous le tableau de variations de la fonction h :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            168.25,
+            155.47,
+            468.68,
+            169.03
+          ],
+          "text": "x\n2\nm ≈2,364\n6,5"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            161.17,
+            191.27,
+            181.0,
+            202.7
+          ],
+          "text": "h(x)"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            187.04,
+            210.26,
+            206.04,
+            221.68
+          ],
+          "text": "h(2)"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            303.88,
+            170.99,
+            350.0,
+            183.23
+          ],
+          "text": "M ≈2,265"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            440.44,
+            210.14,
+            468.43,
+            221.56
+          ],
+          "text": "h(6,5)"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            238.84,
+            451.7,
+            251.09
+          ],
+          "text": "Montrer que l’équation h(x) = 0 admet une unique solution α ∈[2 ; 6,5]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            260.19,
+            376.82,
+            271.69
+          ],
+          "text": "5. On considère le script suivant, écrit en langage Python :"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            246.12,
+            285.99,
+            337.32,
+            297.49
+          ],
+          "text": "from math import *"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            246.12,
+            321.27,
+            283.1,
+            332.77
+          ],
+          "text": "def f(x) :"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            265.32,
+            338.91,
+            388.36,
+            350.41
+          ],
+          "text": "return 4*log(1+x)-(x**2)/25"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            246.12,
+            374.07,
+            312.74,
+            385.57
+          ],
+          "text": "def bornes(n) :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            265.32,
+            391.82,
+            316.41,
+            403.21
+          ],
+          "text": "p = 1/10**n"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            265.32,
+            409.46,
+            285.76,
+            420.85
+          ],
+          "text": "x = 6"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            265.32,
+            426.87,
+            337.58,
+            438.37
+          ],
+          "text": "while f(x)-x > 0 :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            284.52,
+            444.62,
+            320.86,
+            456.01
+          ],
+          "text": "x = x + p"
+        },
+        {
+          "type": "code",
+          "page": 4,
+          "bbox": [
+            265.32,
+            462.15,
+            329.31,
+            473.65
+          ],
+          "text": "return (x-p, x)"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            486.14,
+            285.02,
+            497.53
+          ],
+          "text": "On rappelle qu’en langage Python :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.76,
+            507.88,
+            341.06,
+            520.12
+          ],
+          "text": "• la commande log(x) renvoie la valeur lnx ;"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            137.76,
+            522.51,
+            344.06,
+            535.69
+          ],
+          "text": "• la commande c∗∗d renvoie la valeur de cd."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.8,
+            546.75,
+            413.3,
+            572.89
+          ],
+          "text": "a. Donner les valeurs renvoyées par la commande bornes(2).\nOn donnera les valeurs arrondies au centième."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            136.08,
+            576.99,
+            387.74,
+            588.49
+          ],
+          "text": "b. Interpréter ces valeurs dans le contexte de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            604.68,
+            139.99,
+            617.28
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            627.81,
+            495.51,
+            652.49
+          ],
+          "text": "Dans cette partie, on pourra utiliser les résultats obtenus dans la partie A.\nOn considère la suite (un) définie par u0 = 2, et, pour tout entier naturel n, un+1 = f (un)"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            659.55,
+            373.22,
+            671.08
+          ],
+          "text": "1. Montrer par récurrence que pour tout n entier naturel,"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            266.88,
+            689.44,
+            358.34,
+            702.83
+          ],
+          "text": "2 ⩽un ⩽un+1 < 6,5."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            710.79,
+            374.9,
+            723.41
+          ],
+          "text": "2. En déduire que la suite (un) converge vers une limite l."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            730.6,
+            504.28,
+            756.37
+          ],
+          "text": "3. On rappelle que le réel α, défini dans la partie A, est la solution de l’équation h(x) = 0\nsur l’intervalle [2; 6,5]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            761.32,
+            209.66,
+            773.57
+          ],
+          "text": "Justifier que l= α."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            808.46,
+            498.66,
+            819.85
+          ],
+          "text": "Centres étrangers\n4\n12 juin 2025"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            77.67,
+            498.89,
+            89.17
+          ],
+          "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                679.96,
+                323.06,
+                692.2
+              ],
+              "text": "Déterminer la limite de la fonction f en −1."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  89.19,
+                  474.02,
+                  107.24
+                ],
+                "text": "Pour tout entier naturel n, on pose Pn, l’affirmation : « 2 ⩽un ⩽un+1 ⩽6,5. »."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  107.31,
+                  305.06,
+                  127.69
+                ],
+                "text": "Initialisation : On a, d’une part : u0 = 2,"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  126.81,
+                  308.56,
+                  145.69
+                ],
+                "text": "Et, d’autre part : u1 = f (u0) = f (2) ≈4,23"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  143.4,
+                  232.0,
+                  155.99
+                ],
+                "text": "Donc 2 ⩽u0 ⩽u1 ⩽6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  162.93,
+                  290.66,
+                  180.13
+                ],
+                "text": "Pour n = 0, l’affirmation P0 est vraie."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  179.43,
+                  448.58,
+                  192.65
+                ],
+                "text": "Hérédité : Soit n naturel , tel que l’affirmation Pn est vraie, c’est-à-dire :"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  197.52,
+                  231.74,
+                  215.48
+                ],
+                "text": "« 2 ⩽un ⩽un+1 ⩽6,5 »."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  216.93,
+                  430.1,
+                  233.48
+                ],
+                "text": "On veut montrer que cela implique que l’affirmation Pn+1 est vraie."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  233.64,
+                  348.16,
+                  251.6
+                ],
+                "text": "Par hypothèse de récurrence 2 ⩽un ⩽un+1 ⩽6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  253.05,
+                  450.74,
+                  263.09
+                ],
+                "text": "Or la fonction f est strictement croissante sur l’intervalle [2 ; 6,5] donc :"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  127.56,
+                  269.64,
+                  273.51,
+                  287.6
+                ],
+                "text": "f (2) ⩽f (un) ⩽f (un+1) ⩽f (6,5)"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  289.05,
+                  301.6,
+                  306.25
+                ],
+                "text": "or f (2) ≈4,23 > 2 et f (6,5) ≈6,37 < 6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  305.76,
+                  378.16,
+                  323.72
+                ],
+                "text": "donc, par définition de la suite u, 2 ⩽un+1 ⩽un+2 ⩽6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  325.17,
+                  217.27,
+                  341.72
+                ],
+                "text": "c’est l’inégalité Pn+1"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  341.67,
+                  496.1,
+                  382.01
+                ],
+                "text": "Conclusion : L’affirmation est vraie au rang 0, et, pour tout rang naturel non nul,\nsa véracité est héréditaire, donc, en vertu du principe de démonstration par récur-\nrence, on peut vérifier l’inégalité Pn pour tout entier naturel n."
+              }
+            ],
+            "text": "Pour tout entier naturel n, on pose Pn, l’affirmation : « 2 ⩽un ⩽un+1 ⩽6,5. ».\n\nInitialisation : On a, d’une part : u0 = 2,\n\nEt, d’autre part : u1 = f (u0) = f (2) ≈4,23\n\nDonc 2 ⩽u0 ⩽u1 ⩽6,5\n\nPour n = 0, l’affirmation P0 est vraie.\n\nHérédité : Soit n naturel , tel que l’affirmation Pn est vraie, c’est-à-dire :\n\n« 2 ⩽un ⩽un+1 ⩽6,5 ».\n\nOn veut montrer que cela implique que l’affirmation Pn+1 est vraie.\n\nPar hypothèse de récurrence 2 ⩽un ⩽un+1 ⩽6,5\n\nOr la fonction f est strictement croissante sur l’intervalle [2 ; 6,5] donc :\n\nf (2) ⩽f (un) ⩽f (un+1) ⩽f (6,5)\n\nor f (2) ≈4,23 > 2 et f (6,5) ≈6,37 < 6,5\n\ndonc, par définition de la suite u, 2 ⩽un+1 ⩽un+2 ⩽6,5\n\nc’est l’inégalité Pn+1\n\nConclusion : L’affirmation est vraie au rang 0, et, pour tout rang naturel non nul,\nsa véracité est héréditaire, donc, en vertu du principe de démonstration par récur-\nrence, on peut vérifier l’inégalité Pn pour tout entier naturel n."
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                702.04,
+                437.42,
+                714.28
+              ],
+              "text": "Montrer que, pour tout x appartenant à l’intervalle ]−1 ; +∞[ , on a :"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                264.24,
+                723.03,
+                360.19,
+                743.68
+              ],
+              "text": "f ′(x) = 100−2x −2x2"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                309.96,
+                738.88,
+                348.75,
+                751.12
+              ],
+              "text": "25(x +1)"
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  391.35,
+                  395.18,
+                  409.4
+                ],
+                "text": "Pour tout entier n , un ⩽un+1 donc la suite u est croissante,"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  409.44,
+                  412.22,
+                  422.03
+                ],
+                "text": "de plus pour tout entier n, un ⩽6,5 donc la suite u est majorée,"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  428.85,
+                  496.14,
+                  452.45
+                ],
+                "text": "or tout suite croissante et majorée est convergente, donc la suite (un) converge vers\nune limite ltelle que l⩽6,5."
+              }
+            ],
+            "text": "Pour tout entier n , un ⩽un+1 donc la suite u est croissante,\n\nde plus pour tout entier n, un ⩽6,5 donc la suite u est majorée,\n\nor tout suite croissante et majorée est convergente, donc la suite (un) converge vers\nune limite ltelle que l⩽6,5."
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                764.2,
+                498.84,
+                790.0
+              ],
+              "text": "Étudier les variations de la fonction f sur l’intervalle ]−1 ; +∞[ puis en déduire que\nla fonction f est strictement croissante sur l’intervalle [2; 6,5]."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                99.24,
+                808.46,
+                498.66,
+                819.85
+              ],
+              "text": "Centres étrangers\n3\n12 juin 2025"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                99.24,
+                77.67,
+                498.89,
+                89.17
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  462.66,
+                  496.14,
+                  509.29
+                ],
+                "text": "La suite u est une suite convergente vers une limite lde la forme un+1 = f (un) avec\nf fonction continue. D’après le théorème du point fixe, la limite lest solution de\nl’équation f (x) = x ou h(x) = 0"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  510.09,
+                  496.08,
+                  540.85
+                ],
+                "text": "On sait de plus que cette limite appartient à l’intervalle [2 ; 6,5] et que sur cette\nintervalle l’équation h(x) = 0 admet une unique solution α on a donc l= α."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  539.34,
+                  495.93,
+                  572.41
+                ],
+                "text": "On rappelle que le réel α, défini dans la partie A, est la solution de l’équation\nh(x) = 0 sur l’intervalle [2 ; 6,5]."
+              }
+            ],
+            "text": "La suite u est une suite convergente vers une limite lde la forme un+1 = f (un) avec\nf fonction continue. D’après le théorème du point fixe, la limite lest solution de\nl’équation f (x) = x ou h(x) = 0\n\nOn sait de plus que cette limite appartient à l’intervalle [2 ; 6,5] et que sur cette\nintervalle l’équation h(x) = 0 admet une unique solution α on a donc l= α.\n\nOn rappelle que le réel α, défini dans la partie A, est la solution de l’équation\nh(x) = 0 sur l’intervalle [2 ; 6,5]."
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                116.92,
+                470.3,
+                129.16
+              ],
+              "text": "On considère h la fonction définie sur l’intervalle [2; 6,5] par h(x) = f (x)−x."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                134.78,
+                407.78,
+                146.2
+              ],
+              "text": "On donne ci-dessous le tableau de variations de la fonction h :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                168.25,
+                155.47,
+                468.68,
+                169.03
+              ],
+              "text": "x\n2\nm ≈2,364\n6,5"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                161.17,
+                191.27,
+                181.0,
+                202.7
+              ],
+              "text": "h(x)"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                187.04,
+                210.26,
+                206.04,
+                221.68
+              ],
+              "text": "h(2)"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                303.88,
+                170.99,
+                350.0,
+                183.23
+              ],
+              "text": "M ≈2,265"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                440.44,
+                210.14,
+                468.43,
+                221.56
+              ],
+              "text": "h(6,5)"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                238.84,
+                451.7,
+                251.09
+              ],
+              "text": "Montrer que l’équation h(x) = 0 admet une unique solution α ∈[2 ; 6,5]."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  112.56,
+                  439.8,
+                  265.39,
+                  466.45
+                ],
+                "text": "h(2) = f (2)−2 = 4ln(2+1)−22"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  255.72,
+                  449.25,
+                  315.86,
+                  474.01
+                ],
+                "text": "25 −2 ≈2,23."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  469.77,
+                  496.02,
+                  500.53
+                ],
+                "text": "Sur l’intervalle [2 ; m] la fonction h est strictement croissante, or h(2) > 0 donc sur\n[2 ; m], h(x) > 0 et l’équation h(x) = 0 n’admet pas de solution sur cet intervalle."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  501.45,
+                  482.18,
+                  511.49
+                ],
+                "text": "Sur l’intervalle [m ; 6,5], la fonction h est strictement décroissante et continue."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  519.45,
+                  223.48,
+                  536.65
+                ],
+                "text": "h(m) = M ≈2,265 > 0"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  533.28,
+                  257.71,
+                  559.93
+                ],
+                "text": "et h(6,5) = 4ln(6,5+1)−6,52"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  243.6,
+                  542.73,
+                  337.96,
+                  567.49
+                ],
+                "text": "25 −6,5 ≈−0,13 < 0"
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  563.25,
+                  496.02,
+                  607.58
+                ],
+                "text": "0 est donc une valeur intermédiaire entre h(m) et h(6,5), d’après le théorème des\nvaleurs intermédiaires appliqué aux fonctions strictement monotone, l’équation\nh(x) = 0 admet une unique solution α sur l’intervalle [m ; 6,5]."
+              },
+              {
+                "type": "text",
+                "page": 5,
+                "bbox": [
+                  126.48,
+                  606.06,
+                  502.94,
+                  625.58
+                ],
+                "text": "Finalement, l’équation h(x) = 0 admet une unique solution α sur l’intervalle [2 ; 6,5]."
+              }
+            ],
+            "text": "h(2) = f (2)−2 = 4ln(2+1)−22\n\n25 −2 ≈2,23.\n\nSur l’intervalle [2 ; m] la fonction h est strictement croissante, or h(2) > 0 donc sur\n[2 ; m], h(x) > 0 et l’équation h(x) = 0 n’admet pas de solution sur cet intervalle.\n\nSur l’intervalle [m ; 6,5], la fonction h est strictement décroissante et continue.\n\nh(m) = M ≈2,265 > 0\n\net h(6,5) = 4ln(6,5+1)−6,52\n\n25 −6,5 ≈−0,13 < 0\n\n0 est donc une valeur intermédiaire entre h(m) et h(6,5), d’après le théorème des\nvaleurs intermédiaires appliqué aux fonctions strictement monotone, l’équation\nh(x) = 0 admet une unique solution α sur l’intervalle [m ; 6,5].\n\nFinalement, l’équation h(x) = 0 admet une unique solution α sur l’intervalle [2 ; 6,5]."
+          }
+        },
+        {
+          "id": "ex3-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                260.19,
+                376.82,
+                271.69
+              ],
+              "text": "On considère le script suivant, écrit en langage Python :"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                246.12,
+                285.99,
+                337.32,
+                297.49
+              ],
+              "text": "from math import *"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                246.12,
+                321.27,
+                283.1,
+                332.77
+              ],
+              "text": "def f(x) :"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                265.32,
+                338.91,
+                388.36,
+                350.41
+              ],
+              "text": "return 4*log(1+x)-(x**2)/25"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                246.12,
+                374.07,
+                312.74,
+                385.57
+              ],
+              "text": "def bornes(n) :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                265.32,
+                391.82,
+                316.41,
+                403.21
+              ],
+              "text": "p = 1/10**n"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                265.32,
+                409.46,
+                285.76,
+                420.85
+              ],
+              "text": "x = 6"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                265.32,
+                426.87,
+                337.58,
+                438.37
+              ],
+              "text": "while f(x)-x > 0 :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                284.52,
+                444.62,
+                320.86,
+                456.01
+              ],
+              "text": "x = x + p"
+            },
+            {
+              "type": "code",
+              "page": 4,
+              "bbox": [
+                265.32,
+                462.15,
+                329.31,
+                473.65
+              ],
+              "text": "return (x-p, x)"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                486.14,
+                285.02,
+                497.53
+              ],
+              "text": "On rappelle qu’en langage Python :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                137.76,
+                507.88,
+                341.06,
+                520.12
+              ],
+              "text": "• la commande log(x) renvoie la valeur lnx ;"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                137.76,
+                522.51,
+                344.06,
+                535.69
+              ],
+              "text": "• la commande c∗∗d renvoie la valeur de cd."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex3-q5-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.8,
+                    546.75,
+                    413.3,
+                    572.89
+                  ],
+                  "text": "Donner les valeurs renvoyées par la commande bornes(2).\nOn donnera les valeurs arrondies au centième."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      112.56,
+                      629.43,
+                      495.96,
+                      654.53
+                    ],
+                    "text": "Avec la calculatrice on trouve que les valeurs renvoyées par la commande\nbornes (2) sont : (6.36, 6.37)"
+                  }
+                ],
+                "text": "Avec la calculatrice on trouve que les valeurs renvoyées par la commande\nbornes (2) sont : (6.36, 6.37)"
+              }
+            },
+            {
+              "id": "ex3-q5-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    136.08,
+                    576.99,
+                    387.74,
+                    588.49
+                  ],
+                  "text": "Interpréter ces valeurs dans le contexte de l’exercice."
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    604.68,
+                    139.99,
+                    617.28
+                  ],
+                  "text": "Partie B"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    627.81,
+                    495.51,
+                    652.49
+                  ],
+                  "text": "Dans cette partie, on pourra utiliser les résultats obtenus dans la partie A.\nOn considère la suite (un) définie par u0 = 2, et, pour tout entier naturel n, un+1 = f (un)"
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      136.08,
+                      659.7,
+                      474.62,
+                      679.22
+                    ],
+                    "text": "Dans le contexte de l’exercice, un encadrement de α est 6,36 < α < 6,37."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      99.24,
+                      691.95,
+                      141.29,
+                      703.45
+                    ],
+                    "text": "Partie B :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      99.24,
+                      767.37,
+                      495.9,
+                      777.41
+                    ],
+                    "text": "Centres étranger\n5\n12 juin 2025"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      99.24,
+                      49.35,
+                      496.01,
+                      60.85
+                    ],
+                    "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+                  }
+                ],
+                "text": "Dans le contexte de l’exercice, un encadrement de α est 6,36 < α < 6,37.\n\nPartie B :\n\nCentres étranger\n5\n12 juin 2025\n\nBaccalauréat spécialité sujet 1\nA. P. M. E. P."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                659.55,
+                373.22,
+                671.08
+              ],
+              "text": "Montrer par récurrence que pour tout n entier naturel,"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                266.88,
+                689.44,
+                358.34,
+                702.83
+              ],
+              "text": "2 ⩽un ⩽un+1 < 6,5."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  89.19,
+                  474.02,
+                  107.24
+                ],
+                "text": "Pour tout entier naturel n, on pose Pn, l’affirmation : « 2 ⩽un ⩽un+1 ⩽6,5. »."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  107.31,
+                  305.06,
+                  127.69
+                ],
+                "text": "Initialisation : On a, d’une part : u0 = 2,"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  126.81,
+                  308.56,
+                  145.69
+                ],
+                "text": "Et, d’autre part : u1 = f (u0) = f (2) ≈4,23"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  143.4,
+                  232.0,
+                  155.99
+                ],
+                "text": "Donc 2 ⩽u0 ⩽u1 ⩽6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  162.93,
+                  290.66,
+                  180.13
+                ],
+                "text": "Pour n = 0, l’affirmation P0 est vraie."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  179.43,
+                  448.58,
+                  192.65
+                ],
+                "text": "Hérédité : Soit n naturel , tel que l’affirmation Pn est vraie, c’est-à-dire :"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  197.52,
+                  231.74,
+                  215.48
+                ],
+                "text": "« 2 ⩽un ⩽un+1 ⩽6,5 »."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  216.93,
+                  430.1,
+                  233.48
+                ],
+                "text": "On veut montrer que cela implique que l’affirmation Pn+1 est vraie."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  233.64,
+                  348.16,
+                  251.6
+                ],
+                "text": "Par hypothèse de récurrence 2 ⩽un ⩽un+1 ⩽6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  253.05,
+                  450.74,
+                  263.09
+                ],
+                "text": "Or la fonction f est strictement croissante sur l’intervalle [2 ; 6,5] donc :"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  127.56,
+                  269.64,
+                  273.51,
+                  287.6
+                ],
+                "text": "f (2) ⩽f (un) ⩽f (un+1) ⩽f (6,5)"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  289.05,
+                  301.6,
+                  306.25
+                ],
+                "text": "or f (2) ≈4,23 > 2 et f (6,5) ≈6,37 < 6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  305.76,
+                  378.16,
+                  323.72
+                ],
+                "text": "donc, par définition de la suite u, 2 ⩽un+1 ⩽un+2 ⩽6,5"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  325.17,
+                  217.27,
+                  341.72
+                ],
+                "text": "c’est l’inégalité Pn+1"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  341.67,
+                  496.1,
+                  382.01
+                ],
+                "text": "Conclusion : L’affirmation est vraie au rang 0, et, pour tout rang naturel non nul,\nsa véracité est héréditaire, donc, en vertu du principe de démonstration par récur-\nrence, on peut vérifier l’inégalité Pn pour tout entier naturel n."
+              }
+            ],
+            "text": "Pour tout entier naturel n, on pose Pn, l’affirmation : « 2 ⩽un ⩽un+1 ⩽6,5. ».\n\nInitialisation : On a, d’une part : u0 = 2,\n\nEt, d’autre part : u1 = f (u0) = f (2) ≈4,23\n\nDonc 2 ⩽u0 ⩽u1 ⩽6,5\n\nPour n = 0, l’affirmation P0 est vraie.\n\nHérédité : Soit n naturel , tel que l’affirmation Pn est vraie, c’est-à-dire :\n\n« 2 ⩽un ⩽un+1 ⩽6,5 ».\n\nOn veut montrer que cela implique que l’affirmation Pn+1 est vraie.\n\nPar hypothèse de récurrence 2 ⩽un ⩽un+1 ⩽6,5\n\nOr la fonction f est strictement croissante sur l’intervalle [2 ; 6,5] donc :\n\nf (2) ⩽f (un) ⩽f (un+1) ⩽f (6,5)\n\nor f (2) ≈4,23 > 2 et f (6,5) ≈6,37 < 6,5\n\ndonc, par définition de la suite u, 2 ⩽un+1 ⩽un+2 ⩽6,5\n\nc’est l’inégalité Pn+1\n\nConclusion : L’affirmation est vraie au rang 0, et, pour tout rang naturel non nul,\nsa véracité est héréditaire, donc, en vertu du principe de démonstration par récur-\nrence, on peut vérifier l’inégalité Pn pour tout entier naturel n."
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                710.79,
+                374.9,
+                723.41
+              ],
+              "text": "En déduire que la suite (un) converge vers une limite l."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  391.35,
+                  395.18,
+                  409.4
+                ],
+                "text": "Pour tout entier n , un ⩽un+1 donc la suite u est croissante,"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  409.44,
+                  412.22,
+                  422.03
+                ],
+                "text": "de plus pour tout entier n, un ⩽6,5 donc la suite u est majorée,"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  428.85,
+                  496.14,
+                  452.45
+                ],
+                "text": "or tout suite croissante et majorée est convergente, donc la suite (un) converge vers\nune limite ltelle que l⩽6,5."
+              }
+            ],
+            "text": "Pour tout entier n , un ⩽un+1 donc la suite u est croissante,\n\nde plus pour tout entier n, un ⩽6,5 donc la suite u est majorée,\n\nor tout suite croissante et majorée est convergente, donc la suite (un) converge vers\nune limite ltelle que l⩽6,5."
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                730.6,
+                504.28,
+                756.37
+              ],
+              "text": "On rappelle que le réel α, défini dans la partie A, est la solution de l’équation h(x) = 0\nsur l’intervalle [2; 6,5]."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                761.32,
+                209.66,
+                773.57
+              ],
+              "text": "Justifier que l= α."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                99.24,
+                808.46,
+                498.66,
+                819.85
+              ],
+              "text": "Centres étrangers\n4\n12 juin 2025"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                99.24,
+                77.67,
+                498.89,
+                89.17
+              ],
+              "text": "Baccalauréat spécialité sujet 1\nA. P. M. E. P."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  112.56,
+                  462.66,
+                  496.14,
+                  509.29
+                ],
+                "text": "La suite u est une suite convergente vers une limite lde la forme un+1 = f (un) avec\nf fonction continue. D’après le théorème du point fixe, la limite lest solution de\nl’équation f (x) = x ou h(x) = 0"
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  510.09,
+                  496.08,
+                  540.85
+                ],
+                "text": "On sait de plus que cette limite appartient à l’intervalle [2 ; 6,5] et que sur cette\nintervalle l’équation h(x) = 0 admet une unique solution α on a donc l= α."
+              },
+              {
+                "type": "text",
+                "page": 6,
+                "bbox": [
+                  126.48,
+                  539.34,
+                  495.93,
+                  572.41
+                ],
+                "text": "On rappelle que le réel α, défini dans la partie A, est la solution de l’équation\nh(x) = 0 sur l’intervalle [2 ; 6,5]."
+              }
+            ],
+            "text": "La suite u est une suite convergente vers une limite lde la forme un+1 = f (un) avec\nf fonction continue. D’après le théorème du point fixe, la limite lest solution de\nl’équation f (x) = x ou h(x) = 0\n\nOn sait de plus que cette limite appartient à l’intervalle [2 ; 6,5] et que sur cette\nintervalle l’équation h(x) = 0 admet une unique solution α on a donc l= α.\n\nOn rappelle que le réel α, défini dans la partie A, est la solution de l’équation\nh(x) = 0 sur l’intervalle [2 ; 6,5]."
+          }
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "Exercice 4",
+      "points": 4.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            114.77,
+            498.97,
+            129.89
+          ],
+          "text": "Exercice 4\n4 points"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            141.72,
+            139.56,
+            154.32
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            163.46,
+            268.2,
+            174.85
+          ],
+          "text": "On considère l’équation différentielle"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            244.2,
+            184.7,
+            344.68,
+            204.62
+          ],
+          "text": "(E1) :\ny′ +0,48y =\n1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            334.08,
+            192.14,
+            353.9,
+            210.97
+          ],
+          "text": "250,"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            211.84,
+            423.86,
+            224.08
+          ],
+          "text": "où y est une fonction de la variable t appartenant à l’intervalle [0 ; +∞[."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            114.77,
+            498.97,
+            129.89
+          ],
+          "text": "Exercice 4\n4 points"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            141.72,
+            139.56,
+            154.32
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            163.46,
+            268.2,
+            174.85
+          ],
+          "text": "On considère l’équation différentielle"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            244.2,
+            184.7,
+            344.68,
+            204.62
+          ],
+          "text": "(E1) :\ny′ +0,48y =\n1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            334.08,
+            192.14,
+            353.9,
+            210.97
+          ],
+          "text": "250,"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            211.84,
+            423.86,
+            224.08
+          ],
+          "text": "où y est une fonction de la variable t appartenant à l’intervalle [0 ; +∞[."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            230.9,
+            489.76,
+            249.76
+          ],
+          "text": "1. On considère la fonction constante h définie sur l’intervalle [0 ; +∞[ par h(t) =\n1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            479.04,
+            238.34,
+            498.86,
+            257.17
+          ],
+          "text": "120."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            126.48,
+            258.14,
+            443.3,
+            270.62
+          ],
+          "text": "Montrer que la fonction h est solution de l’équation différentielle (E1)."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            274.6,
+            492.26,
+            290.8
+          ],
+          "text": "2. Donner la forme générale des solutions de l’équation différentielle y′ +0,48y = 0."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            300.51,
+            434.78,
+            313.1
+          ],
+          "text": "3. En déduire l’ensemble des solutions de l’équation différentielle (E1)."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            328.56,
+            139.99,
+            341.16
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            350.3,
+            498.93,
+            457.58
+          ],
+          "text": "On s’intéresse à présent à l’évolution d’une population de bactéries dans un milieu de\nculture.\nÀ un instant t = 0, on introduit une population initiale de 30 000 bactéries dans le milieu.\nOn note p(t) la quantité de bactéries, exprimée en millier d’individus, présente dans le\nmilieu après un temps t, exprimé en heure.\nOn a donc p(0) = 30.\nOn admet que la fonction p définie sur l’intervalle [0 ; +∞[ est dérivable, strictement\npositive sur cet intervalle et qu’elle est solution de l’équation différentielle (E2) :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            251.52,
+            466.46,
+            283.72,
+            485.2
+          ],
+          "text": "p′ =\n1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            273.12,
+            472.96,
+            346.71,
+            492.76
+          ],
+          "text": "250 p ×(120−p)"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            493.6,
+            498.93,
+            505.84
+          ],
+          "text": "Soit y la fonction strictement positive sur l’intervalle [0 ; +∞[ telle que, pour tout t ap-"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            504.5,
+            313.6,
+            523.36
+          ],
+          "text": "partenant à l’intervalle [0 ; +∞[ , on a p(t) =\n1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            302.64,
+            511.94,
+            323.78,
+            530.8
+          ],
+          "text": "y(t)."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            543.03,
+            498.81,
+            555.62
+          ],
+          "text": "1. Montrer que si p est solution de l’équation différentielle (E2), alors y est solution"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            126.48,
+            553.34,
+            350.92,
+            573.14
+          ],
+          "text": "de l’équation différentielle (E1) :\ny′ +0,48y =\n1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            340.2,
+            560.66,
+            360.02,
+            579.61
+          ],
+          "text": "250."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            584.31,
+            498.82,
+            595.84
+          ],
+          "text": "2. On admet réciproquement que, si y est une solution strictement positive de l’équa-"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            126.48,
+            594.62,
+            279.4,
+            614.42
+          ],
+          "text": "tion différentielle (E1), alors p = 1"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            274.32,
+            601.94,
+            480.98,
+            620.92
+          ],
+          "text": "y est solution de l’équation différentielle (E2)."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            126.48,
+            623.44,
+            426.14,
+            635.68
+          ],
+          "text": "Montrer que, pour tout t appartenant à l’intervalle [0 ; +∞[ , on a :"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            206.88,
+            649.34,
+            271.48,
+            668.2
+          ],
+          "text": "p(t) =\n120"
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            237.48,
+            656.78,
+            418.7,
+            675.64
+          ],
+          "text": "1+K e−0,48t avecK une constante réelle."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            681.03,
+            392.42,
+            692.56
+          ],
+          "text": "3. En utilisant la condition initiale, déterminer la valeur de K ."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            702.27,
+            498.62,
+            719.57
+          ],
+          "text": "4. Déterminer lim\nt→+∞p(t). En donner une interprétation dans le contexte de l’exercice."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            112.56,
+            725.91,
+            510.69,
+            750.97
+          ],
+          "text": "5. Déterminer le temps nécessaire pour que la population de bactéries dépasse 60 000 in-\ndividus."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            126.48,
+            758.25,
+            498.9,
+            781.84
+          ],
+          "text": "On donnera le résultat sous la forme d’une valeur arrondie exprimée en heures et\nminutes."
+        },
+        {
+          "type": "text",
+          "page": 5,
+          "bbox": [
+            99.24,
+            808.46,
+            498.66,
+            819.85
+          ],
+          "text": "Centres étrangers\n5\n12 juin 2025"
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex4-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                230.9,
+                489.76,
+                249.76
+              ],
+              "text": "On considère la fonction constante h définie sur l’intervalle [0 ; +∞[ par h(t) =\n1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                479.04,
+                238.34,
+                498.86,
+                257.17
+              ],
+              "text": "120."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                126.48,
+                258.14,
+                443.3,
+                270.62
+              ],
+              "text": "Montrer que la fonction h est solution de l’équation différentielle (E1)."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  207.75,
+                  405.14,
+                  220.37
+                ],
+                "text": "Supposons que p est solution de l’équation différentielle (E2),"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  223.89,
+                  207.76,
+                  248.53
+                ],
+                "text": "On a donc p′ =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  197.04,
+                  231.33,
+                  270.63,
+                  248.81
+                ],
+                "text": "250 p ×(120−p)"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  252.57,
+                  165.04,
+                  277.22
+                ],
+                "text": "Or p = 1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  159.96,
+                  250.8,
+                  217.28,
+                  277.49
+                ],
+                "text": "y et p′ = −y′"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.96,
+                  266.16,
+                  214.63,
+                  277.49
+                ],
+                "text": "y2"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  329.49,
+                  148.64,
+                  339.53
+                ],
+                "text": "D’où"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  152.28,
+                  281.88,
+                  167.96,
+                  300.86
+                ],
+                "text": "−y′"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  155.52,
+                  283.65,
+                  192.4,
+                  312.61
+                ],
+                "text": "y2 =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  181.68,
+                  283.65,
+                  205.84,
+                  308.57
+                ],
+                "text": "250\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  200.64,
+                  276.11,
+                  254.56,
+                  315.73
+                ],
+                "text": "y ×\nμ\n120−1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  249.48,
+                  298.53,
+                  254.18,
+                  308.57
+                ],
+                "text": "y"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  256.2,
+                  276.11,
+                  342.64,
+                  308.17
+                ],
+                "text": "¶\n=⇒−y′ = y2 ×\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  328.92,
+                  283.65,
+                  400.6,
+                  315.73
+                ],
+                "text": "250y × 120y −1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  379.56,
+                  298.53,
+                  384.26,
+                  308.57
+                ],
+                "text": "y"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  262.56,
+                  311.73,
+                  321.88,
+                  336.25
+                ],
+                "text": "⇐⇒−y′ =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  311.16,
+                  319.05,
+                  382.35,
+                  343.69
+                ],
+                "text": "250 ×(120y −1)"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  262.56,
+                  337.29,
+                  357.52,
+                  361.94
+                ],
+                "text": "⇐⇒−y′ = 0,48y −1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  346.92,
+                  352.17,
+                  362.8,
+                  362.21
+                ],
+                "text": "250"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  262.56,
+                  362.97,
+                  350.32,
+                  387.49
+                ],
+                "text": "⇐⇒y′ +0,48y =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  339.72,
+                  377.85,
+                  355.6,
+                  387.89
+                ],
+                "text": "250"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  401.88,
+                  329.49,
+                  404.54,
+                  339.53
+                ],
+                "text": "."
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  390.09,
+                  430.84,
+                  414.62
+                ],
+                "text": "Donc y est solution de l’équation différentielle (E1) : y′ +0,48y =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  420.24,
+                  397.41,
+                  440.06,
+                  415.01
+                ],
+                "text": "250."
+              }
+            ],
+            "text": "Supposons que p est solution de l’équation différentielle (E2),\n\nOn a donc p′ =\n1\n\n250 p ×(120−p)\n\nOr p = 1\n\ny et p′ = −y′\n\ny2\n\nD’où\n\n−y′\n\ny2 =\n1\n\n250\n1\n\ny ×\nμ\n120−1\n\ny\n\n¶\n=⇒−y′ = y2 ×\n1\n\n250y × 120y −1\n\ny\n\n⇐⇒−y′ =\n1\n\n250 ×(120y −1)\n\n⇐⇒−y′ = 0,48y −1\n\n250\n\n⇐⇒y′ +0,48y =\n1\n\n250\n\n.\n\nDonc y est solution de l’équation différentielle (E1) : y′ +0,48y =\n1\n\n250."
+          }
+        },
+        {
+          "id": "ex4-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                274.6,
+                492.26,
+                290.8
+              ],
+              "text": "Donner la forme générale des solutions de l’équation différentielle y′ +0,48y = 0."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  421.65,
+                  290.44,
+                  446.3
+                ],
+                "text": "y est de la forme y(t) = Ce−0,48t + 1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  279.72,
+                  426.62,
+                  348.26,
+                  446.57
+                ],
+                "text": "120 avec C ∈R."
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  448.77,
+                  215.92,
+                  473.42
+                ],
+                "text": "on a donc p(t) =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.84,
+                  463.65,
+                  222.27,
+                  473.69
+                ],
+                "text": "y(t)"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  194.04,
+                  476.85,
+                  237.28,
+                  501.37
+                ],
+                "text": "=\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  203.88,
+                  490.16,
+                  259.75,
+                  510.01
+                ],
+                "text": "Ce−0,48t +\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  251.64,
+                  481.7,
+                  315.88,
+                  505.97
+                ],
+                "text": "120\navec C ∈R"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  194.04,
+                  507.33,
+                  245.92,
+                  531.97
+                ],
+                "text": "=\n120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.24,
+                  512.3,
+                  322.72,
+                  539.41
+                ],
+                "text": "120Ce−0,48t +1 avec C ∈R"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  194.04,
+                  533.01,
+                  238.24,
+                  557.65
+                ],
+                "text": "=\n120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.24,
+                  537.98,
+                  398.55,
+                  565.09
+                ],
+                "text": "K e−0,48t +1 avec K ∈R en posant K = 120C"
+              }
+            ],
+            "text": "y est de la forme y(t) = Ce−0,48t + 1\n\n120 avec C ∈R.\n\non a donc p(t) =\n1\n\ny(t)\n\n=\n1\n\nCe−0,48t +\n1\n\n120\navec C ∈R\n\n=\n120\n\n120Ce−0,48t +1 avec C ∈R\n\n=\n120\n\nK e−0,48t +1 avec K ∈R en posant K = 120C"
+          }
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                300.51,
+                434.78,
+                313.1
+              ],
+              "text": "En déduire l’ensemble des solutions de l’équation différentielle (E1)."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                99.24,
+                328.56,
+                139.99,
+                341.16
+              ],
+              "text": "Partie B"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                99.24,
+                350.3,
+                498.93,
+                457.58
+              ],
+              "text": "On s’intéresse à présent à l’évolution d’une population de bactéries dans un milieu de\nculture.\nÀ un instant t = 0, on introduit une population initiale de 30 000 bactéries dans le milieu.\nOn note p(t) la quantité de bactéries, exprimée en millier d’individus, présente dans le\nmilieu après un temps t, exprimé en heure.\nOn a donc p(0) = 30.\nOn admet que la fonction p définie sur l’intervalle [0 ; +∞[ est dérivable, strictement\npositive sur cet intervalle et qu’elle est solution de l’équation différentielle (E2) :"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                251.52,
+                466.46,
+                283.72,
+                485.2
+              ],
+              "text": "p′ =\n1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                273.12,
+                472.96,
+                346.71,
+                492.76
+              ],
+              "text": "250 p ×(120−p)"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                99.24,
+                493.6,
+                498.93,
+                505.84
+              ],
+              "text": "Soit y la fonction strictement positive sur l’intervalle [0 ; +∞[ telle que, pour tout t ap-"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                99.24,
+                504.5,
+                313.6,
+                523.36
+              ],
+              "text": "partenant à l’intervalle [0 ; +∞[ , on a p(t) =\n1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                302.64,
+                511.94,
+                323.78,
+                530.8
+              ],
+              "text": "y(t)."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  564.69,
+                  274.12,
+                  589.34
+                ],
+                "text": "On sait que p(0) = 30 donc\n120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  249.72,
+                  572.13,
+                  308.18,
+                  596.77
+                ],
+                "text": "K e0 +1 = 30,"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  591.81,
+                  168.76,
+                  609.29
+                ],
+                "text": "donc 120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  155.52,
+                  591.81,
+                  265.48,
+                  623.89
+                ],
+                "text": "30 = K +1 d’où K = 120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  252.24,
+                  599.25,
+                  300.86,
+                  623.89
+                ],
+                "text": "30 −1 = 3."
+              }
+            ],
+            "text": "On sait que p(0) = 30 donc\n120\n\nK e0 +1 = 30,\n\ndonc 120\n\n30 = K +1 d’où K = 120\n\n30 −1 = 3."
+          }
+        },
+        {
+          "id": "ex4-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                543.03,
+                498.81,
+                555.62
+              ],
+              "text": "Montrer que si p est solution de l’équation différentielle (E2), alors y est solution"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                126.48,
+                553.34,
+                350.92,
+                573.14
+              ],
+              "text": "de l’équation différentielle (E1) :\ny′ +0,48y =\n1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                340.2,
+                560.66,
+                360.02,
+                579.61
+              ],
+              "text": "250."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  207.75,
+                  405.14,
+                  220.37
+                ],
+                "text": "Supposons que p est solution de l’équation différentielle (E2),"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  223.89,
+                  207.76,
+                  248.53
+                ],
+                "text": "On a donc p′ =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  197.04,
+                  231.33,
+                  270.63,
+                  248.81
+                ],
+                "text": "250 p ×(120−p)"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  252.57,
+                  165.04,
+                  277.22
+                ],
+                "text": "Or p = 1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  159.96,
+                  250.8,
+                  217.28,
+                  277.49
+                ],
+                "text": "y et p′ = −y′"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.96,
+                  266.16,
+                  214.63,
+                  277.49
+                ],
+                "text": "y2"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  329.49,
+                  148.64,
+                  339.53
+                ],
+                "text": "D’où"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  152.28,
+                  281.88,
+                  167.96,
+                  300.86
+                ],
+                "text": "−y′"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  155.52,
+                  283.65,
+                  192.4,
+                  312.61
+                ],
+                "text": "y2 =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  181.68,
+                  283.65,
+                  205.84,
+                  308.57
+                ],
+                "text": "250\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  200.64,
+                  276.11,
+                  254.56,
+                  315.73
+                ],
+                "text": "y ×\nμ\n120−1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  249.48,
+                  298.53,
+                  254.18,
+                  308.57
+                ],
+                "text": "y"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  256.2,
+                  276.11,
+                  342.64,
+                  308.17
+                ],
+                "text": "¶\n=⇒−y′ = y2 ×\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  328.92,
+                  283.65,
+                  400.6,
+                  315.73
+                ],
+                "text": "250y × 120y −1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  379.56,
+                  298.53,
+                  384.26,
+                  308.57
+                ],
+                "text": "y"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  262.56,
+                  311.73,
+                  321.88,
+                  336.25
+                ],
+                "text": "⇐⇒−y′ =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  311.16,
+                  319.05,
+                  382.35,
+                  343.69
+                ],
+                "text": "250 ×(120y −1)"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  262.56,
+                  337.29,
+                  357.52,
+                  361.94
+                ],
+                "text": "⇐⇒−y′ = 0,48y −1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  346.92,
+                  352.17,
+                  362.8,
+                  362.21
+                ],
+                "text": "250"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  262.56,
+                  362.97,
+                  350.32,
+                  387.49
+                ],
+                "text": "⇐⇒y′ +0,48y =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  339.72,
+                  377.85,
+                  355.6,
+                  387.89
+                ],
+                "text": "250"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  401.88,
+                  329.49,
+                  404.54,
+                  339.53
+                ],
+                "text": "."
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  390.09,
+                  430.84,
+                  414.62
+                ],
+                "text": "Donc y est solution de l’équation différentielle (E1) : y′ +0,48y =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  420.24,
+                  397.41,
+                  440.06,
+                  415.01
+                ],
+                "text": "250."
+              }
+            ],
+            "text": "Supposons que p est solution de l’équation différentielle (E2),\n\nOn a donc p′ =\n1\n\n250 p ×(120−p)\n\nOr p = 1\n\ny et p′ = −y′\n\ny2\n\nD’où\n\n−y′\n\ny2 =\n1\n\n250\n1\n\ny ×\nμ\n120−1\n\ny\n\n¶\n=⇒−y′ = y2 ×\n1\n\n250y × 120y −1\n\ny\n\n⇐⇒−y′ =\n1\n\n250 ×(120y −1)\n\n⇐⇒−y′ = 0,48y −1\n\n250\n\n⇐⇒y′ +0,48y =\n1\n\n250\n\n.\n\nDonc y est solution de l’équation différentielle (E1) : y′ +0,48y =\n1\n\n250."
+          }
+        },
+        {
+          "id": "ex4-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                584.31,
+                498.82,
+                595.84
+              ],
+              "text": "On admet réciproquement que, si y est une solution strictement positive de l’équa-"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                126.48,
+                594.62,
+                279.4,
+                614.42
+              ],
+              "text": "tion différentielle (E1), alors p = 1"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                274.32,
+                601.94,
+                480.98,
+                620.92
+              ],
+              "text": "y est solution de l’équation différentielle (E2)."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                126.48,
+                623.44,
+                426.14,
+                635.68
+              ],
+              "text": "Montrer que, pour tout t appartenant à l’intervalle [0 ; +∞[ , on a :"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                206.88,
+                649.34,
+                271.48,
+                668.2
+              ],
+              "text": "p(t) =\n120"
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                237.48,
+                656.78,
+                418.7,
+                675.64
+              ],
+              "text": "1+K e−0,48t avecK une constante réelle."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  421.65,
+                  290.44,
+                  446.3
+                ],
+                "text": "y est de la forme y(t) = Ce−0,48t + 1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  279.72,
+                  426.62,
+                  348.26,
+                  446.57
+                ],
+                "text": "120 avec C ∈R."
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  448.77,
+                  215.92,
+                  473.42
+                ],
+                "text": "on a donc p(t) =\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.84,
+                  463.65,
+                  222.27,
+                  473.69
+                ],
+                "text": "y(t)"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  194.04,
+                  476.85,
+                  237.28,
+                  501.37
+                ],
+                "text": "=\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  203.88,
+                  490.16,
+                  259.75,
+                  510.01
+                ],
+                "text": "Ce−0,48t +\n1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  251.64,
+                  481.7,
+                  315.88,
+                  505.97
+                ],
+                "text": "120\navec C ∈R"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  194.04,
+                  507.33,
+                  245.92,
+                  531.97
+                ],
+                "text": "=\n120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.24,
+                  512.3,
+                  322.72,
+                  539.41
+                ],
+                "text": "120Ce−0,48t +1 avec C ∈R"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  194.04,
+                  533.01,
+                  238.24,
+                  557.65
+                ],
+                "text": "=\n120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  204.24,
+                  537.98,
+                  398.55,
+                  565.09
+                ],
+                "text": "K e−0,48t +1 avec K ∈R en posant K = 120C"
+              }
+            ],
+            "text": "y est de la forme y(t) = Ce−0,48t + 1\n\n120 avec C ∈R.\n\non a donc p(t) =\n1\n\ny(t)\n\n=\n1\n\nCe−0,48t +\n1\n\n120\navec C ∈R\n\n=\n120\n\n120Ce−0,48t +1 avec C ∈R\n\n=\n120\n\nK e−0,48t +1 avec K ∈R en posant K = 120C"
+          }
+        },
+        {
+          "id": "ex4-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                681.03,
+                392.42,
+                692.56
+              ],
+              "text": "En utilisant la condition initiale, déterminer la valeur de K ."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  564.69,
+                  274.12,
+                  589.34
+                ],
+                "text": "On sait que p(0) = 30 donc\n120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  249.72,
+                  572.13,
+                  308.18,
+                  596.77
+                ],
+                "text": "K e0 +1 = 30,"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  591.81,
+                  168.76,
+                  609.29
+                ],
+                "text": "donc 120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  155.52,
+                  591.81,
+                  265.48,
+                  623.89
+                ],
+                "text": "30 = K +1 d’où K = 120"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  252.24,
+                  599.25,
+                  300.86,
+                  623.89
+                ],
+                "text": "30 −1 = 3."
+              }
+            ],
+            "text": "On sait que p(0) = 30 donc\n120\n\nK e0 +1 = 30,\n\ndonc 120\n\n30 = K +1 d’où K = 120\n\n30 −1 = 3."
+          }
+        },
+        {
+          "id": "ex4-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                702.27,
+                498.62,
+                719.57
+              ],
+              "text": "Déterminer lim\nt→+∞p(t). En donner une interprétation dans le contexte de l’exercice."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  112.56,
+                  637.23,
+                  182.9,
+                  648.77
+                ],
+                "text": "On sait que :"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  185.16,
+                  617.27,
+                  193.49,
+                  636.43
+                ],
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  185.16,
+                  644.39,
+                  193.49,
+                  654.43
+                ],
+                "text": ""
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  193.56,
+                  628.17,
+                  279.05,
+                  649.4
+                ],
+                "text": "lim\nt→+∞−0,48t = −∞"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  193.8,
+                  635.24,
+                  473.18,
+                  668.84
+                ],
+                "text": "lim\nX →−∞eX = 0\ndonc, par composition, lim\nt→+∞e−0,48t = 0."
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  666.08,
+                  350.68,
+                  690.8
+                ],
+                "text": "Donc, par produit et somme, lim\nt→+∞1+3e−0,48t = 1"
+              },
+              {
+                "type": "text",
+                "page": 7,
+                "bbox": [
+                  126.48,
+                  689.97,
+                  324.26,
+                  711.2
+                ],
+                "text": "et finalement par quotient, lim\nt→+∞p(t) = 120."
+              }
+            ],
+            "text": "On sait que :\n\n\n\n\n\n\nlim\nt→+∞−0,48t = −∞\n\nlim\nX →−∞eX = 0\ndonc, par composition, lim\nt→+∞e−0,48t = 0.\n\nDonc, par produit et somme, lim\nt→+∞1+3e−0,48t = 1\n\net finalement par quotient, lim\nt→+∞p(t) = 120."
+          }
+        },
+        {
+          "id": "ex4-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                112.56,
+                725.91,
+                510.69,
+                750.97
+              ],
+              "text": "Déterminer le temps nécessaire pour que la population de bactéries dépasse 60 000 in-\ndividus."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                126.48,
+                758.25,
+                498.9,
+                781.84
+              ],
+              "text": "On donnera le résultat sous la forme d’une valeur arrondie exprimée en heures et\nminutes."
+            },
+            {
+              "type": "text",
+              "page": 5,
+              "bbox": [
+                99.24,
+                808.46,
+                498.66,
+                819.85
+              ],
+              "text": "Centres étrangers\n5\n12 juin 2025"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 147
+}

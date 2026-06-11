@@ -1,0 +1,6333 @@
+{
+  "id": "bac_spe_amerique_nord_j2_dv_28_mars_2023",
+  "subject": "math",
+  "year": 2023,
+  "metadata": {
+    "source_pdf": "math/2023/sujets/Bac_spe_Amerique_Nord_J2_DV_28_mars_2023.pdf",
+    "filename": "Bac_spe_Amerique_Nord_J2_DV_28_mars_2023.pdf",
+    "year": 2023,
+    "title": "Baccalauréat Amérique du Nord 28 mars 2023",
+    "header_text": "; Baccalauréat Amérique du Nord 28 mars 2023 <\n\nSujet 2\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+  },
+  "corrige": {
+    "available": true,
+    "source_pdf": "math/2023/corriges/Corrige_Bac_spe_Amerique_Nord_J2_28_mars_2023_FH.pdf"
+  },
+  "instructions": "; Baccalauréat Amérique du Nord 28 mars 2023 <\n\nSujet 2\n\nÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ",
+  "instructions_blocks": [
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        141.36,
+        85.57,
+        453.95,
+        101.32
+      ],
+      "text": "; Baccalauréat Amérique du Nord 28 mars 2023 <"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        276.96,
+        111.29,
+        318.31,
+        126.28
+      ],
+      "text": "Sujet 2"
+    },
+    {
+      "type": "text",
+      "page": 1,
+      "bbox": [
+        156.24,
+        134.21,
+        438.98,
+        149.2
+      ],
+      "text": "ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ"
+    }
+  ],
+  "exercises": [
+    {
+      "number": "1",
+      "title": "EXERCICE 1",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            173.91,
+            495.88,
+            185.31
+          ],
+          "text": "EXERCICE 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            192.36,
+            139.56,
+            204.85
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            212.78,
+            496.1,
+            251.32
+          ],
+          "text": "Le plan est muni d’un repère orthogonal.\nOn considère une fonction f définie et dérivable sur R. On note f ′ sa fonction dérivée.\nOn donne ci-dessous la courbe représentative de la fonction dérivée f ′."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            151.2,
+            355.53,
+            412.99,
+            364.82
+          ],
+          "text": "0\n1\n2\n−1\n−2\n−3\n−4\n−5\n−6\n−7"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            341.28,
+            344.67,
+            345.31,
+            353.3
+          ],
+          "text": "0"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            372.33,
+            345.43,
+            381.62
+          ],
+          "text": "−1"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            400.65,
+            345.43,
+            409.94
+          ],
+          "text": "−2"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            428.97,
+            345.43,
+            438.26
+          ],
+          "text": "−3"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            457.41,
+            345.43,
+            466.7
+          ],
+          "text": "−4"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            485.73,
+            345.43,
+            495.02
+          ],
+          "text": "−5"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            514.05,
+            345.43,
+            523.34
+          ],
+          "text": "−6"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            542.37,
+            345.43,
+            551.66
+          ],
+          "text": "−7"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            341.28,
+            316.35,
+            345.31,
+            324.98
+          ],
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            341.28,
+            287.91,
+            345.31,
+            296.54
+          ],
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            591.74,
+            496.18,
+            616.72
+          ],
+          "text": "Dans cette partie, les résultats seront obtenus par lecture graphique de la courbe repré-\nsentative de la fonction dérivée f ′. Aucune justification n’est demandée."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.48,
+            173.91,
+            495.88,
+            185.31
+          ],
+          "text": "EXERCICE 1\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            192.36,
+            139.56,
+            204.85
+          ],
+          "text": "Partie A"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            212.78,
+            496.1,
+            251.32
+          ],
+          "text": "Le plan est muni d’un repère orthogonal.\nOn considère une fonction f définie et dérivable sur R. On note f ′ sa fonction dérivée.\nOn donne ci-dessous la courbe représentative de la fonction dérivée f ′."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            151.2,
+            355.53,
+            412.99,
+            364.82
+          ],
+          "text": "0\n1\n2\n−1\n−2\n−3\n−4\n−5\n−6\n−7"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            341.28,
+            344.67,
+            345.31,
+            353.3
+          ],
+          "text": "0"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            372.33,
+            345.43,
+            381.62
+          ],
+          "text": "−1"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            400.65,
+            345.43,
+            409.94
+          ],
+          "text": "−2"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            428.97,
+            345.43,
+            438.26
+          ],
+          "text": "−3"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            457.41,
+            345.43,
+            466.7
+          ],
+          "text": "−4"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            485.73,
+            345.43,
+            495.02
+          ],
+          "text": "−5"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            514.05,
+            345.43,
+            523.34
+          ],
+          "text": "−6"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            335.88,
+            542.37,
+            345.43,
+            551.66
+          ],
+          "text": "−7"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            341.28,
+            316.35,
+            345.31,
+            324.98
+          ],
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            341.28,
+            287.91,
+            345.31,
+            296.54
+          ],
+          "text": "2"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            591.74,
+            496.18,
+            616.72
+          ],
+          "text": "Dans cette partie, les résultats seront obtenus par lecture graphique de la courbe repré-\nsentative de la fonction dérivée f ′. Aucune justification n’est demandée."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            629.18,
+            496.06,
+            655.21
+          ],
+          "text": "1. Donner le sens de variation de la fonction f sur R. On utilisera des valeurs appro-\nchées si besoin."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            660.99,
+            437.9,
+            672.52
+          ],
+          "text": "2. Donner les intervalles sur lesquels la fonction f semble être convexe."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            685.08,
+            139.99,
+            697.57
+          ],
+          "text": "Partie B"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            704.3,
+            377.58,
+            716.8
+          ],
+          "text": "On admet que la fonction f de la partie A est définie sur R par"
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            248.88,
+            724.19,
+            347.54,
+            747.82
+          ],
+          "text": "f (x) =\n¡\nx2 −5x +6\n¢\nex."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            99.24,
+            752.71,
+            405.14,
+            765.04
+          ],
+          "text": "On note C la courbe représentative de la fonction f dans un repère."
+        },
+        {
+          "type": "text",
+          "page": 1,
+          "bbox": [
+            112.56,
+            777.71,
+            351.98,
+            790.0
+          ],
+          "text": "1.\na. Déterminer la limite de la fonction f en +∞."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            49.35,
+            496.01,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 2\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            88.43,
+            351.98,
+            100.72
+          ],
+          "text": "b. Déterminer la limite de la fonction f en −∞."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            101.87,
+            387.74,
+            125.02
+          ],
+          "text": "2. Montrer que, pour tout réel x, on a f ′(x) =\n¡\nx2 −3x +1\n¢\nex."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            123.99,
+            341.18,
+            135.52
+          ],
+          "text": "3. En déduire le sens de variation de la fonction f ."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            140.59,
+            495.84,
+            166.45
+          ],
+          "text": "4. Déterminer l’équation réduite de la tangente (T ) à la courbe C au point d’abscisse\n0."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            170.42,
+            496.08,
+            199.36
+          ],
+          "text": "On admet que la fonction f est deux fois dérivable sur R. On note f ′′ la fonction dérivée\nseconde de la fonction f . On admet que, pour tout réel x, on a f ′′(x) = (x +1)(x −2)ex."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            206.18,
+            341.66,
+            218.68
+          ],
+          "text": "5.\na. Étudier la convexité de la fonction f sur R."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            221.87,
+            495.98,
+            234.16
+          ],
+          "text": "b. Montrer que, pour tout x appartenant à l’intervalle [−1 ; 2], on a f (x) ⩽x +6."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                629.18,
+                496.06,
+                655.21
+              ],
+              "text": "Donner le sens de variation de la fonction f sur R. On utilisera des valeurs appro-\nchées si besoin."
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                112.56,
+                660.99,
+                437.9,
+                672.52
+              ],
+              "text": "Donner les intervalles sur lesquels la fonction f semble être convexe."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                685.08,
+                139.99,
+                697.57
+              ],
+              "text": "Partie B"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                704.3,
+                377.58,
+                716.8
+              ],
+              "text": "On admet que la fonction f de la partie A est définie sur R par"
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                248.88,
+                724.19,
+                347.54,
+                747.82
+              ],
+              "text": "f (x) =\n¡\nx2 −5x +6\n¢\nex."
+            },
+            {
+              "type": "text",
+              "page": 1,
+              "bbox": [
+                99.24,
+                752.71,
+                405.14,
+                765.04
+              ],
+              "text": "On note C la courbe représentative de la fonction f dans un repère."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  146.78,
+                  479.96,
+                  181.45
+                ],
+                "text": "La fonction f est dérivable sur R et :\nf ′(x) = (2x −5)ex +\n¡\nx2 −5x +6\n¢\n×ex =\n¡\n2x −5+ x2 −5x +6\n¢\nex =\n¡\nx2 −3x +1\n¢\nex"
+              }
+            ],
+            "text": "La fonction f est dérivable sur R et :\nf ′(x) = (2x −5)ex +\n¡\nx2 −5x +6\n¢\n×ex =\n¡\n2x −5+ x2 −5x +6\n¢\nex =\n¡\nx2 −3x +1\n¢\nex"
+          }
+        },
+        {
+          "id": "ex1-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex1-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 1,
+                  "bbox": [
+                    112.56,
+                    777.71,
+                    351.98,
+                    790.0
+                  ],
+                  "text": "Déterminer la limite de la fonction f en +∞."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    99.24,
+                    49.35,
+                    496.01,
+                    60.75
+                  ],
+                  "text": "Baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      112.56,
+                      686.07,
+                      362.3,
+                      723.56
+                    ],
+                    "text": "On détermine la limite de la fonction f en +∞.\nlim\nx→+∞\n¡\nx2 −5x +6\n¢\n= lim\nx→+∞x2 = +∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      156.84,
+                      715.31,
+                      221.93,
+                      740.12
+                    ],
+                    "text": "lim\nx→+∞ex = +∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      319.68,
+                      694.55,
+                      326.9,
+                      704.59
+                    ],
+                    "text": ")"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      330.6,
+                      703.55,
+                      471.29,
+                      733.4
+                    ],
+                    "text": "=⇒\nlim\nx→+∞\n¡\nx2 −5x +6\n¢\nex = +∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      150.48,
+                      735.26,
+                      250.49,
+                      757.64
+                    ],
+                    "text": "donc lim\nx→+∞f (x) = +∞"
+                  }
+                ],
+                "text": "On détermine la limite de la fonction f en +∞.\nlim\nx→+∞\n¡\nx2 −5x +6\n¢\n= lim\nx→+∞x2 = +∞\n\nlim\nx→+∞ex = +∞\n\n)\n\n=⇒\nlim\nx→+∞\n¡\nx2 −5x +6\n¢\nex = +∞\n\ndonc lim\nx→+∞f (x) = +∞"
+              }
+            },
+            {
+              "id": "ex1-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    88.43,
+                    351.98,
+                    100.72
+                  ],
+                  "text": "Déterminer la limite de la fonction f en −∞."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      136.08,
+                      752.79,
+                      362.3,
+                      771.49
+                    ],
+                    "text": "On détermine la limite de la fonction f en −∞."
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      150.48,
+                      759.59,
+                      270.64,
+                      791.66
+                    ],
+                    "text": "Pour x ̸= 0, f (x) = x2\nμ\n1−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      265.2,
+                      765.74,
+                      291.28,
+                      799.22
+                    ],
+                    "text": "x + 6"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      283.56,
+                      779.55,
+                      293.47,
+                      792.05
+                    ],
+                    "text": "x2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      295.08,
+                      759.59,
+                      370.48,
+                      791.65
+                    ],
+                    "text": "¶\nex = x2ex\nμ\n1−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      365.04,
+                      765.74,
+                      391.12,
+                      799.22
+                    ],
+                    "text": "x + 6"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      383.4,
+                      779.55,
+                      393.31,
+                      792.05
+                    ],
+                    "text": "x2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 1,
+                    "bbox": [
+                      395.04,
+                      759.59,
+                      399.53,
+                      769.63
+                    ],
+                    "text": "¶"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      99.24,
+                      49.35,
+                      496.01,
+                      60.85
+                    ],
+                    "text": "Corrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      156.84,
+                      85.55,
+                      220.36,
+                      110.24
+                    ],
+                    "text": "lim\nx→−∞x2ex = 0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      156.84,
+                      109.94,
+                      182.13,
+                      132.2
+                    ],
+                    "text": "lim\nx→−∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      183.24,
+                      96.47,
+                      209.8,
+                      128.54
+                    ],
+                    "text": "μ\n1−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      204.36,
+                      102.62,
+                      230.44,
+                      136.09
+                    ],
+                    "text": "x + 6"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      222.72,
+                      116.43,
+                      232.63,
+                      128.93
+                    ],
+                    "text": "x2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      234.24,
+                      96.47,
+                      255.04,
+                      128.53
+                    ],
+                    "text": "¶\n= 1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      260.04,
+                      81.59,
+                      268.37,
+                      100.75
+                    ],
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      260.04,
+                      88.07,
+                      366.64,
+                      123.92
+                    ],
+                    "text": "=⇒\nlim\nx→−∞x2ex\nμ\n1−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      361.2,
+                      94.22,
+                      387.28,
+                      127.69
+                    ],
+                    "text": "x + 6"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      379.56,
+                      108.15,
+                      389.47,
+                      120.53
+                    ],
+                    "text": "x2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      391.08,
+                      88.07,
+                      411.88,
+                      120.25
+                    ],
+                    "text": "¶\n= 0"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      150.48,
+                      129.62,
+                      238.36,
+                      151.88
+                    ],
+                    "text": "donc lim\nx→−∞f (x) = 0"
+                  }
+                ],
+                "text": "On détermine la limite de la fonction f en −∞.\n\nPour x ̸= 0, f (x) = x2\nμ\n1−5\n\nx + 6\n\nx2\n\n¶\nex = x2ex\nμ\n1−5\n\nx + 6\n\nx2\n\n¶\n\nCorrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P.\n\nlim\nx→−∞x2ex = 0\n\nlim\nx→−∞\n\nμ\n1−5\n\nx + 6\n\nx2\n\n¶\n= 1\n\n\n\n\n=⇒\nlim\nx→−∞x2ex\nμ\n1−5\n\nx + 6\n\nx2\n\n¶\n= 0\n\ndonc lim\nx→−∞f (x) = 0"
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex1-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                101.87,
+                387.74,
+                125.02
+              ],
+              "text": "Montrer que, pour tout réel x, on a f ′(x) =\n¡\nx2 −3x +1\n¢\nex."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  146.78,
+                  479.96,
+                  181.45
+                ],
+                "text": "La fonction f est dérivable sur R et :\nf ′(x) = (2x −5)ex +\n¡\nx2 −5x +6\n¢\n×ex =\n¡\n2x −5+ x2 −5x +6\n¢\nex =\n¡\nx2 −3x +1\n¢\nex"
+              }
+            ],
+            "text": "La fonction f est dérivable sur R et :\nf ′(x) = (2x −5)ex +\n¡\nx2 −5x +6\n¢\n×ex =\n¡\n2x −5+ x2 −5x +6\n¢\nex =\n¡\nx2 −3x +1\n¢\nex"
+          }
+        },
+        {
+          "id": "ex1-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                123.99,
+                341.18,
+                135.52
+              ],
+              "text": "En déduire le sens de variation de la fonction f ."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  178.8,
+                  489.14,
+                  212.65
+                ],
+                "text": "Pour déterminer le sens de variation de la fonction f , on étudie le signe de f ′(x).\nPour tout x, ex > 0 donc f ′(x) est du signe de x2 −3x +1."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  126.48,
+                  201.95,
+                  318.8,
+                  234.49
+                ],
+                "text": "∆= (−3)2 −4×1×1 = 5 > 0; x′ = −(−3)−\np"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  318.96,
+                  208.46,
+                  324.28,
+                  219.85
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  288.84,
+                  201.95,
+                  361.16,
+                  241.93
+                ],
+                "text": "2×1\n= 3−\np"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  361.2,
+                  208.46,
+                  366.52,
+                  219.85
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  349.44,
+                  201.95,
+                  427.52,
+                  234.73
+                ],
+                "text": "2\net x′′ = 3+\np"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  427.68,
+                  208.46,
+                  433.0,
+                  219.85
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  415.92,
+                  223.34,
+                  421.24,
+                  234.73
+                ],
+                "text": "2"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  152.64,
+                  255.21,
+                  157.82,
+                  265.25
+                ],
+                "text": "x"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  189.36,
+                  246.6,
+                  300.58,
+                  272.41
+                ],
+                "text": "−∞\n3−\np"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  300.48,
+                  251.43,
+                  304.51,
+                  260.06
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  292.56,
+                  246.6,
+                  400.3,
+                  268.46
+                ],
+                "text": "2\n3+\np"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  400.2,
+                  251.43,
+                  404.23,
+                  260.06
+                ],
+                "text": "5"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  392.28,
+                  255.83,
+                  499.49,
+                  272.42
+                ],
+                "text": "2\n+∞"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  132.12,
+                  272.64,
+                  178.96,
+                  293.17
+                ],
+                "text": "x2 −3x +1"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  241.08,
+                  276.59,
+                  248.31,
+                  293.17
+                ],
+                "text": "+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  290.88,
+                  274.58,
+                  347.67,
+                  293.17
+                ],
+                "text": "0\n−"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  390.6,
+                  274.58,
+                  446.91,
+                  293.17
+                ],
+                "text": "0\n+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  150.36,
+                  294.6,
+                  159.57,
+                  306.73
+                ],
+                "text": "ex"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  241.08,
+                  297.35,
+                  248.31,
+                  313.93
+                ],
+                "text": "+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  340.44,
+                  297.35,
+                  347.67,
+                  313.93
+                ],
+                "text": "+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  439.68,
+                  297.35,
+                  446.91,
+                  313.93
+                ],
+                "text": "+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  145.2,
+                  315.72,
+                  166.71,
+                  332.24
+                ],
+                "text": "f ′(x)"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  241.08,
+                  317.99,
+                  248.31,
+                  334.57
+                ],
+                "text": "+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  290.88,
+                  315.98,
+                  347.67,
+                  334.57
+                ],
+                "text": "0\n−"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  390.6,
+                  315.98,
+                  446.91,
+                  334.57
+                ],
+                "text": "0\n+"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  153.12,
+                  338.13,
+                  156.28,
+                  348.17
+                ],
+                "text": "f"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  222.0,
+                  336.74,
+                  268.2,
+                  348.13
+                ],
+                "text": "croissante"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  315.72,
+                  336.74,
+                  373.08,
+                  348.13
+                ],
+                "text": "décroissante"
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  420.6,
+                  336.74,
+                  466.8,
+                  348.13
+                ],
+                "text": "croissante"
+              }
+            ],
+            "text": "Pour déterminer le sens de variation de la fonction f , on étudie le signe de f ′(x).\nPour tout x, ex > 0 donc f ′(x) est du signe de x2 −3x +1.\n\n∆= (−3)2 −4×1×1 = 5 > 0; x′ = −(−3)−\np\n\n5\n\n2×1\n= 3−\np\n\n5\n\n2\net x′′ = 3+\np\n\n5\n\n2\n\nx\n\n−∞\n3−\np\n\n5\n\n2\n3+\np\n\n5\n\n2\n+∞\n\nx2 −3x +1\n\n+\n\n0\n−\n\n0\n+\n\nex\n\n+\n\n+\n\n+\n\nf ′(x)\n\n+\n\n0\n−\n\n0\n+\n\nf\n\ncroissante\n\ndécroissante\n\ncroissante"
+          }
+        },
+        {
+          "id": "ex1-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                140.59,
+                495.84,
+                166.45
+              ],
+              "text": "Déterminer l’équation réduite de la tangente (T ) à la courbe C au point d’abscisse\n0."
+            },
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                99.24,
+                170.42,
+                496.08,
+                199.36
+              ],
+              "text": "On admet que la fonction f est deux fois dérivable sur R. On note f ′′ la fonction dérivée\nseconde de la fonction f . On admet que, pour tout réel x, on a f ′′(x) = (x +1)(x −2)ex."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  112.56,
+                  359.59,
+                  474.38,
+                  437.42
+                ],
+                "text": "La tangente (T ) à la courbe C au point d’abscisse 0 a pour équation réduite :\ny = f ′(0)(x −0)+ f (0).\n• f (x) =\n¡\nx2 −5x +6\n¢\nex donc f (0) = 6e0 = 6\n• f ′(x) =\n¡\nx2 −3x +1\n¢\nex donc f ′(0) = 1e0 = 1\nT a pour équation réduite y = 1(x −0)+6 soit y = x +6."
+              },
+              {
+                "type": "text",
+                "page": 2,
+                "bbox": [
+                  99.24,
+                  432.5,
+                  496.08,
+                  468.62
+                ],
+                "text": "On admet que la fonction f est deux fois dérivable sur R. On note f ′′ la fonction dérivée\nseconde de la fonction f . On admet que, pour tout réel x, on a f ′′(x) = (x +1)(x −2)ex."
+              }
+            ],
+            "text": "La tangente (T ) à la courbe C au point d’abscisse 0 a pour équation réduite :\ny = f ′(0)(x −0)+ f (0).\n• f (x) =\n¡\nx2 −5x +6\n¢\nex donc f (0) = 6e0 = 6\n• f ′(x) =\n¡\nx2 −3x +1\n¢\nex donc f ′(0) = 1e0 = 1\nT a pour équation réduite y = 1(x −0)+6 soit y = x +6.\n\nOn admet que la fonction f est deux fois dérivable sur R. On note f ′′ la fonction dérivée\nseconde de la fonction f . On admet que, pour tout réel x, on a f ′′(x) = (x +1)(x −2)ex."
+          }
+        },
+        {
+          "id": "ex1-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex1-q5-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    206.18,
+                    341.66,
+                    218.68
+                  ],
+                  "text": "Étudier la convexité de la fonction f sur R."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      112.56,
+                      466.58,
+                      489.5,
+                      483.92
+                    ],
+                    "text": "Pour étudier la convexité de la fonction f sur R, on étudie le signe de f ′′(x)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      174.0,
+                      496.29,
+                      179.18,
+                      506.33
+                    ],
+                    "text": "x"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      199.56,
+                      494.9,
+                      482.21,
+                      513.49
+                    ],
+                    "text": "−∞\n−1\n2\n+∞"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      166.32,
+                      515.54,
+                      187.36,
+                      534.13
+                    ],
+                    "text": "x +1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      251.28,
+                      517.55,
+                      258.51,
+                      534.13
+                    ],
+                    "text": "−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      296.16,
+                      515.54,
+                      347.67,
+                      534.13
+                    ],
+                    "text": "0\n+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      422.4,
+                      517.55,
+                      429.63,
+                      534.13
+                    ],
+                    "text": "+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      166.32,
+                      536.3,
+                      187.36,
+                      554.89
+                    ],
+                    "text": "x −2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      251.28,
+                      538.31,
+                      258.51,
+                      554.89
+                    ],
+                    "text": "−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      340.44,
+                      538.31,
+                      347.67,
+                      554.89
+                    ],
+                    "text": "−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      381.72,
+                      536.3,
+                      429.63,
+                      554.89
+                    ],
+                    "text": "0\n+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      171.6,
+                      556.32,
+                      180.81,
+                      568.45
+                    ],
+                    "text": "ex"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      251.28,
+                      559.07,
+                      258.51,
+                      575.65
+                    ],
+                    "text": "+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      340.44,
+                      559.07,
+                      347.67,
+                      575.65
+                    ],
+                    "text": "+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      422.4,
+                      559.07,
+                      429.63,
+                      575.65
+                    ],
+                    "text": "+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      165.48,
+                      577.44,
+                      189.15,
+                      593.96
+                    ],
+                    "text": "f ′′(x)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      251.28,
+                      579.71,
+                      258.51,
+                      596.29
+                    ],
+                    "text": "+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      296.16,
+                      577.7,
+                      347.67,
+                      596.29
+                    ],
+                    "text": "0\n−"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      381.72,
+                      577.7,
+                      429.63,
+                      596.29
+                    ],
+                    "text": "0\n+"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      174.48,
+                      599.85,
+                      177.64,
+                      609.89
+                    ],
+                    "text": "f"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      236.76,
+                      598.46,
+                      273.96,
+                      609.85
+                    ],
+                    "text": "convexe"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      325.8,
+                      598.46,
+                      363.12,
+                      609.85
+                    ],
+                    "text": "concave"
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      407.76,
+                      598.46,
+                      444.96,
+                      609.85
+                    ],
+                    "text": "convexe"
+                  }
+                ],
+                "text": "Pour étudier la convexité de la fonction f sur R, on étudie le signe de f ′′(x).\n\nx\n\n−∞\n−1\n2\n+∞\n\nx +1\n\n−\n\n0\n+\n\n+\n\nx −2\n\n−\n\n−\n\n0\n+\n\nex\n\n+\n\n+\n\n+\n\nf ′′(x)\n\n+\n\n0\n−\n\n0\n+\n\nf\n\nconvexe\n\nconcave\n\nconvexe"
+              }
+            },
+            {
+              "id": "ex1-q5-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    221.87,
+                    495.98,
+                    234.16
+                  ],
+                  "text": "Montrer que, pour tout x appartenant à l’intervalle [−1 ; 2], on a f (x) ⩽x +6."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      136.08,
+                      621.67,
+                      496.02,
+                      654.74
+                    ],
+                    "text": "Sur [−1 ; 2], la fonction f est concave donc la courbe C est en dessous de ses\ntangentes, et en particulier en dessous de la tangente T car 0 ∈[−1 ; 2]."
+                  },
+                  {
+                    "type": "text",
+                    "page": 2,
+                    "bbox": [
+                      150.48,
+                      651.6,
+                      465.86,
+                      670.22
+                    ],
+                    "text": "Donc, pour tout x appartenant à l’intervalle [−1 ; 2], on a f (x) ⩽x +6."
+                  }
+                ],
+                "text": "Sur [−1 ; 2], la fonction f est concave donc la courbe C est en dessous de ses\ntangentes, et en particulier en dessous de la tangente T car 0 ∈[−1 ; 2].\n\nDonc, pour tout x appartenant à l’intervalle [−1 ; 2], on a f (x) ⩽x +6."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "EXERCICE 2",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            253.83,
+            495.88,
+            265.23
+          ],
+          "text": "EXERCICE 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            273.5,
+            495.94,
+            312.01
+          ],
+          "text": "On étudie un groupe de 3 000 sportifs qui pratiquent soit l’athlétisme dans le club A, soit\nle basketball dans le club B.\nEn 2023, le club A compte 1 700 membres et le club B en compte 1 300."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            317.18,
+            496.06,
+            369.13
+          ],
+          "text": "On décide de modéliser le nombre de membres du club A et du club B respectivement\npar deux suites (an) et (bn), où n désigne le rang de l’année à partir de 2023.\nL’année 2023 correspond au rang 0. On a alors a0 = 1700 et b0 = 1300.\nPour notre étude, on fait les hypothèses suivantes :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.0,
+            375.14,
+            347.54,
+            386.53
+          ],
+          "text": "— durant l’étude, aucun sportif ne quitte le groupe;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.0,
+            392.54,
+            490.22,
+            403.93
+          ],
+          "text": "— chaque année, 15% des sportifs du club A quittent ce club et adhèrent au club B;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.0,
+            409.94,
+            490.1,
+            421.36
+          ],
+          "text": "— chaque année, 10% des sportifs du club B quittent ce club et adhèrent au club A."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.48,
+            253.83,
+            495.88,
+            265.23
+          ],
+          "text": "EXERCICE 2\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            273.5,
+            495.94,
+            312.01
+          ],
+          "text": "On étudie un groupe de 3 000 sportifs qui pratiquent soit l’athlétisme dans le club A, soit\nle basketball dans le club B.\nEn 2023, le club A compte 1 700 membres et le club B en compte 1 300."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            317.18,
+            496.06,
+            369.13
+          ],
+          "text": "On décide de modéliser le nombre de membres du club A et du club B respectivement\npar deux suites (an) et (bn), où n désigne le rang de l’année à partir de 2023.\nL’année 2023 correspond au rang 0. On a alors a0 = 1700 et b0 = 1300.\nPour notre étude, on fait les hypothèses suivantes :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.0,
+            375.14,
+            347.54,
+            386.53
+          ],
+          "text": "— durant l’étude, aucun sportif ne quitte le groupe;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.0,
+            392.54,
+            490.22,
+            403.93
+          ],
+          "text": "— chaque année, 15% des sportifs du club A quittent ce club et adhèrent au club B;"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            111.0,
+            409.94,
+            490.1,
+            421.36
+          ],
+          "text": "— chaque année, 10% des sportifs du club B quittent ce club et adhèrent au club A."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            438.99,
+            391.11,
+            450.49
+          ],
+          "text": "1. Calculer les nombres de membres de chaque club en 2024."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            456.39,
+            419.66,
+            469.57
+          ],
+          "text": "2. Pour tout entier naturel n, déterminer une relation liant an et bn."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            473.79,
+            496.06,
+            513.41
+          ],
+          "text": "3. Montrer que la suite (an) vérifie la relation suivante pour tout entier naturel n, on\na :\nan+1 = 0,75an +300."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            522.75,
+            436.94,
+            534.28
+          ],
+          "text": "4.\na. Démontrer par récurrence que pour tout entier naturel n, on a :"
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            265.2,
+            547.44,
+            381.15,
+            560.03
+          ],
+          "text": "1200 ⩽an+1 ⩽an ⩽1700."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.09,
+            573.75,
+            321.03,
+            586.37
+          ],
+          "text": "b. En déduire que la suite (an) converge."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.57,
+            590.39,
+            440.06,
+            603.77
+          ],
+          "text": "5. Soit (vn) la suite définie pour tout entier naturel n par vn = an −1200."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.8,
+            608.55,
+            353.78,
+            621.17
+          ],
+          "text": "a. Démontrer que la suite (vn) est géométrique."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            624.03,
+            286.1,
+            637.21
+          ],
+          "text": "b. Exprimer vn en fonction de n."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            137.28,
+            634.67,
+            450.02,
+            652.01
+          ],
+          "text": "c. En déduire que pour tout entier naturel n,an = 500×0,75n +1200."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            656.79,
+            314.3,
+            669.41
+          ],
+          "text": "6.\na. Déterminer la limite de la suite (an)."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            136.08,
+            672.27,
+            496.06,
+            697.33
+          ],
+          "text": "b. Interpréter le résultat de la question précédente dans le contexte de l’exer-\ncice."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            112.56,
+            703.23,
+            496.1,
+            741.85
+          ],
+          "text": "7.\na. Recopier et compléter le programme Python ci-dessous afin qu’il renvoie la\nplus petite valeur de n à partir de laquelle le nombre de membres du club A\nest strictement inférieur à 1 280."
+        },
+        {
+          "type": "text",
+          "page": 2,
+          "bbox": [
+            99.24,
+            808.46,
+            495.9,
+            819.85
+          ],
+          "text": "Amérique du Nord\n2\n28 mars 2023"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            49.35,
+            496.01,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 2\nA. P. M. E. P."
+        },
+        {
+          "type": "code",
+          "page": 3,
+          "bbox": [
+            285.72,
+            87.75,
+            361.0,
+            180.61
+          ],
+          "text": "def\nseuil() :\nn = 0\nA = 1 700\nwhile ... :\nn=n+1\nA = ...\nreturn..."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            191.91,
+            446.06,
+            203.41
+          ],
+          "text": "b. Déterminer la valeur renvoyée lorsqu’on appelle la fonction seuil."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex2-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                438.99,
+                391.11,
+                450.49
+              ],
+              "text": "Calculer les nombres de membres de chaque club en 2024."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  143.19,
+                  201.14,
+                  154.69
+                ],
+                "text": "D’après le texte :"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  140.88,
+                  157.1,
+                  207.16,
+                  184.69
+                ],
+                "text": "• a1 = a0 −15"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  193.92,
+                  157.1,
+                  246.16,
+                  184.7
+                ],
+                "text": "100 a0 + 10"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  232.92,
+                  164.42,
+                  378.76,
+                  184.7
+                ],
+                "text": "100b0 = 1700−255+130 = 1575"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  140.88,
+                  181.58,
+                  206.68,
+                  209.3
+                ],
+                "text": "• b1 = b0 −10"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  193.44,
+                  181.58,
+                  245.44,
+                  209.3
+                ],
+                "text": "100b0 + 15"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  232.2,
+                  189.02,
+                  378.28,
+                  209.3
+                ],
+                "text": "100 a0 = 1300−130+255 = 1425"
+              }
+            ],
+            "text": "D’après le texte :\n\n• a1 = a0 −15\n\n100 a0 + 10\n\n100b0 = 1700−255+130 = 1575\n\n• b1 = b0 −10\n\n100b0 + 15\n\n100 a0 = 1300−130+255 = 1425"
+          }
+        },
+        {
+          "id": "ex2-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                456.39,
+                419.66,
+                469.57
+              ],
+              "text": "Pour tout entier naturel n, déterminer une relation liant an et bn."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  208.71,
+                  496.1,
+                  242.65
+                ],
+                "text": "Comme on suppose que durant l’étude, aucun sportif ne quitte le groupe, on a,\npour tout entier naturel n, an +bn = 3000."
+              }
+            ],
+            "text": "Comme on suppose que durant l’étude, aucun sportif ne quitte le groupe, on a,\npour tout entier naturel n, an +bn = 3000."
+          }
+        },
+        {
+          "id": "ex2-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.56,
+                473.79,
+                496.06,
+                513.41
+              ],
+              "text": "Montrer que la suite (an) vérifie la relation suivante pour tout entier naturel n, on\na :\nan+1 = 0,75an +300."
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  236.18,
+                  296.08,
+                  263.77
+                ],
+                "text": "D’après le texte, on a : an+1 = an −15"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  282.84,
+                  236.18,
+                  336.16,
+                  263.77
+                ],
+                "text": "100 an + 10"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  322.8,
+                  243.5,
+                  354.26,
+                  262.45
+                ],
+                "text": "100bn."
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.48,
+                  261.5,
+                  356.42,
+                  281.77
+                ],
+                "text": "Or an +bn = 3000 donc bn = 3000−an. On a alors :"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  126.72,
+                  272.78,
+                  194.92,
+                  300.49
+                ],
+                "text": "an+1 = an −15"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  181.56,
+                  272.78,
+                  234.88,
+                  300.49
+                ],
+                "text": "100 an + 10"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  221.64,
+                  272.78,
+                  338.08,
+                  300.49
+                ],
+                "text": "100 (3000−an) = an −15"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  324.84,
+                  272.78,
+                  378.04,
+                  300.49
+                ],
+                "text": "100 an + 10"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  364.8,
+                  272.78,
+                  438.64,
+                  306.25
+                ],
+                "text": "100 ×3000−10"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  425.28,
+                  281.61,
+                  453.38,
+                  299.09
+                ],
+                "text": "100 an"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  149.64,
+                  295.46,
+                  194.92,
+                  323.05
+                ],
+                "text": "= an −25"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  181.56,
+                  295.46,
+                  261.88,
+                  323.05
+                ],
+                "text": "100 an +300 = 75"
+              },
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  248.64,
+                  302.78,
+                  370.48,
+                  323.05
+                ],
+                "text": "100 an +300 = 0,75an +300"
+              }
+            ],
+            "text": "D’après le texte, on a : an+1 = an −15\n\n100 an + 10\n\n100bn.\n\nOr an +bn = 3000 donc bn = 3000−an. On a alors :\n\nan+1 = an −15\n\n100 an + 10\n\n100 (3000−an) = an −15\n\n100 an + 10\n\n100 ×3000−10\n\n100 an\n\n= an −25\n\n100 an +300 = 75\n\n100 an +300 = 0,75an +300"
+          }
+        },
+        {
+          "id": "ex2-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    522.75,
+                    436.94,
+                    534.28
+                  ],
+                  "text": "Démontrer par récurrence que pour tout entier naturel n, on a :"
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    265.2,
+                    547.44,
+                    381.15,
+                    560.03
+                  ],
+                  "text": "1200 ⩽an+1 ⩽an ⩽1700."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      112.56,
+                      322.47,
+                      347.18,
+                      340.52
+                    ],
+                    "text": "Soit la propriété : 1200 ⩽an+1 ⩽an ⩽1700."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      161.28,
+                      343.71,
+                      231.4,
+                      355.21
+                    ],
+                    "text": "• Initialisation"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      171.12,
+                      359.28,
+                      402.16,
+                      379.57
+                    ],
+                    "text": "a0 = 1700 et a1 = 1575 donc 1200 ⩽a1 ⩽a0 ⩽1700"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      374.78,
+                      342.5,
+                      393.37
+                    ],
+                    "text": "Donc la propriété est vraie pour n = 0."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      161.28,
+                      390.03,
+                      211.85,
+                      401.53
+                    ],
+                    "text": "• Hérédité"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      405.6,
+                      495.86,
+                      430.57
+                    ],
+                    "text": "On suppose la propriété vraie au rang n, soit 1200 ⩽an+1 ⩽an ⩽1700;\nc’est l’hypothèse de récurrence."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      434.64,
+                      461.32,
+                      507.5
+                    ],
+                    "text": "1200 ⩽an+1 ⩽an ⩽1700\n⇐⇒0,75×1200 ⩽0,75× an+1 ⩽0,75× an ⩽0,75×1700\n⇐⇒900 ⩽0,75× an+1 ⩽0,75× an ⩽1275\n⇐⇒900+300 ⩽0,75× an+1 +300 ⩽0,75× an +300 ⩽1275+300\n⇐⇒1200 ⩽an+2 ⩽an+1 ⩽1575"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      504.36,
+                      395.66,
+                      522.32
+                    ],
+                    "text": "Or 1575 ⩽1700 donc 1200 ⩽an+2 ⩽an+1 ⩽1700."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      519.86,
+                      465.26,
+                      538.46
+                    ],
+                    "text": "La propriété est donc vraie au rang n +1 donc elle est héréditaire."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      161.28,
+                      535.11,
+                      224.2,
+                      546.61
+                    ],
+                    "text": "• Conclusion"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      170.88,
+                      550.68,
+                      496.05,
+                      589.25
+                    ],
+                    "text": "La propriété est vraie au rang 0 et elle est héréditaire pour tout n ⩾0;\ndonc d’après le principe de récurrence, la propriété est vraie pour tout\nn ⩾0."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      150.48,
+                      599.05,
+                      442.22,
+                      617.0
+                    ],
+                    "text": "On a donc démontré que, pour tout n, 1200 ⩽an+1 ⩽an ⩽1700."
+                  }
+                ],
+                "text": "Soit la propriété : 1200 ⩽an+1 ⩽an ⩽1700.\n\n• Initialisation\n\na0 = 1700 et a1 = 1575 donc 1200 ⩽a1 ⩽a0 ⩽1700\n\nDonc la propriété est vraie pour n = 0.\n\n• Hérédité\n\nOn suppose la propriété vraie au rang n, soit 1200 ⩽an+1 ⩽an ⩽1700;\nc’est l’hypothèse de récurrence.\n\n1200 ⩽an+1 ⩽an ⩽1700\n⇐⇒0,75×1200 ⩽0,75× an+1 ⩽0,75× an ⩽0,75×1700\n⇐⇒900 ⩽0,75× an+1 ⩽0,75× an ⩽1275\n⇐⇒900+300 ⩽0,75× an+1 +300 ⩽0,75× an +300 ⩽1275+300\n⇐⇒1200 ⩽an+2 ⩽an+1 ⩽1575\n\nOr 1575 ⩽1700 donc 1200 ⩽an+2 ⩽an+1 ⩽1700.\n\nLa propriété est donc vraie au rang n +1 donc elle est héréditaire.\n\n• Conclusion\n\nLa propriété est vraie au rang 0 et elle est héréditaire pour tout n ⩾0;\ndonc d’après le principe de récurrence, la propriété est vraie pour tout\nn ⩾0.\n\nOn a donc démontré que, pour tout n, 1200 ⩽an+1 ⩽an ⩽1700."
+              }
+            },
+            {
+              "id": "ex2-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.09,
+                    573.75,
+                    321.03,
+                    586.37
+                  ],
+                  "text": "En déduire que la suite (an) converge."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      136.08,
+                      614.31,
+                      332.42,
+                      626.93
+                    ],
+                    "text": "Étude de la convergence de la suite (an)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      161.28,
+                      634.58,
+                      448.1,
+                      654.26
+                    ],
+                    "text": "• Pour tout n ∈N, an+1 ⩽an donc la suite (an) est décroissante."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      161.28,
+                      650.06,
+                      430.22,
+                      669.74
+                    ],
+                    "text": "• Pour tout n ∈N, 1200 ⩽an donc la suite (an) est minorée."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      150.48,
+                      672.26,
+                      496.05,
+                      697.21
+                    ],
+                    "text": "La suite (an)n∈N est décroissante et minorée donc, d’après le théorème de la\nconvergence monotone, elle est convergente."
+                  }
+                ],
+                "text": "Étude de la convergence de la suite (an).\n\n• Pour tout n ∈N, an+1 ⩽an donc la suite (an) est décroissante.\n\n• Pour tout n ∈N, 1200 ⩽an donc la suite (an) est minorée.\n\nLa suite (an)n∈N est décroissante et minorée donc, d’après le théorème de la\nconvergence monotone, elle est convergente."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 2,
+              "bbox": [
+                112.57,
+                590.39,
+                440.06,
+                603.77
+              ],
+              "text": "Soit (vn) la suite définie pour tout entier naturel n par vn = an −1200."
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "ex2-q5-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.8,
+                    608.55,
+                    353.78,
+                    621.17
+                  ],
+                  "text": "Démontrer que la suite (vn) est géométrique."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      136.8,
+                      720.39,
+                      442.6,
+                      769.82
+                    ],
+                    "text": "vn+1 = an+1 −1200 = 0,75an +300−1200 = 0,75(vn +1200) −900\n= 0,75vn +900−900 = 0,75vn\nv0 = a0 −1200 = 1700−1200 = 500"
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      150.48,
+                      765.02,
+                      496.05,
+                      797.18
+                    ],
+                    "text": "Donc (vn) est la suite géométrique de premier terme v0 = 500 et de raison\nq = 0,75."
+                  },
+                  {
+                    "type": "text",
+                    "page": 3,
+                    "bbox": [
+                      99.24,
+                      808.46,
+                      495.9,
+                      819.85
+                    ],
+                    "text": "Amérique du Nord\n3\n28 mars 2023"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      99.24,
+                      49.35,
+                      496.01,
+                      60.85
+                    ],
+                    "text": "Corrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                  }
+                ],
+                "text": "vn+1 = an+1 −1200 = 0,75an +300−1200 = 0,75(vn +1200) −900\n= 0,75vn +900−900 = 0,75vn\nv0 = a0 −1200 = 1700−1200 = 500\n\nDonc (vn) est la suite géométrique de premier terme v0 = 500 et de raison\nq = 0,75.\n\nAmérique du Nord\n3\n28 mars 2023\n\nCorrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+              }
+            },
+            {
+              "id": "ex2-q5-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    624.03,
+                    286.1,
+                    637.21
+                  ],
+                  "text": "Exprimer vn en fonction de n."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      87.35,
+                      436.22,
+                      109.57
+                    ],
+                    "text": "On en déduit que, pour tout n, on a : vn = v0 × qn = 500×0,75n."
+                  }
+                ],
+                "text": "On en déduit que, pour tout n, on a : vn = v0 × qn = 500×0,75n."
+              }
+            },
+            {
+              "id": "ex2-q5-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    137.28,
+                    634.67,
+                    450.02,
+                    652.01
+                  ],
+                  "text": "En déduire que pour tout entier naturel n,an = 500×0,75n +1200."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      137.28,
+                      102.83,
+                      467.78,
+                      125.05
+                    ],
+                    "text": "On sait que, pour tout n, an = vn +1200, donc an = 500×0,75n +1200."
+                  }
+                ],
+                "text": "On sait que, pour tout n, an = vn +1200, donc an = 500×0,75n +1200."
+              }
+            }
+          ],
+          "answer": {
+            "available": true,
+            "content": [
+              {
+                "type": "text",
+                "page": 3,
+                "bbox": [
+                  112.56,
+                  703.11,
+                  473.78,
+                  723.5
+                ],
+                "text": "Soit (vn) la suite définie pour tout n par vn = an −1200; donc an = vn +1200."
+              }
+            ],
+            "text": "Soit (vn) la suite définie pour tout n par vn = an −1200; donc an = vn +1200."
+          }
+        },
+        {
+          "id": "ex2-q6",
+          "number": "6",
+          "label": "6.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q6-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    656.79,
+                    314.3,
+                    669.41
+                  ],
+                  "text": "Déterminer la limite de la suite (an)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      112.56,
+                      119.75,
+                      496.05,
+                      144.44
+                    ],
+                    "text": "−1 < 0,75 < 1 donc lim\nn→+∞0,75n = 0; on en déduit que lim\nn→+∞500×0,75n = 0 et"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      137.78,
+                      269.78,
+                      160.04
+                    ],
+                    "text": "donc que lim\nn→+∞an = 1200."
+                  }
+                ],
+                "text": "−1 < 0,75 < 1 donc lim\nn→+∞0,75n = 0; on en déduit que lim\nn→+∞500×0,75n = 0 et\n\ndonc que lim\nn→+∞an = 1200."
+              }
+            },
+            {
+              "id": "ex2-q6-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    136.08,
+                    672.27,
+                    496.06,
+                    697.33
+                  ],
+                  "text": "Interpréter le résultat de la question précédente dans le contexte de l’exer-\ncice."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      155.19,
+                      496.08,
+                      201.01
+                    ],
+                    "text": "On peut donc dire qu’à long terme, le nombre de sportifs dans le club A va\ntendre vers 1 200, et donc que le nombre de sportifs dans le club B va tendre\nvers 3000−1200 = 1800."
+                  }
+                ],
+                "text": "On peut donc dire qu’à long terme, le nombre de sportifs dans le club A va\ntendre vers 1 200, et donc que le nombre de sportifs dans le club B va tendre\nvers 3000−1200 = 1800."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex2-q7",
+          "number": "7",
+          "label": "7.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex2-q7-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    112.56,
+                    703.23,
+                    496.1,
+                    741.85
+                  ],
+                  "text": "Recopier et compléter le programme Python ci-dessous afin qu’il renvoie la\nplus petite valeur de n à partir de laquelle le nombre de membres du club A\nest strictement inférieur à 1 280."
+                },
+                {
+                  "type": "text",
+                  "page": 2,
+                  "bbox": [
+                    99.24,
+                    808.46,
+                    495.9,
+                    819.85
+                  ],
+                  "text": "Amérique du Nord\n2\n28 mars 2023"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    99.24,
+                    49.35,
+                    496.01,
+                    60.75
+                  ],
+                  "text": "Baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                },
+                {
+                  "type": "code",
+                  "page": 3,
+                  "bbox": [
+                    285.72,
+                    87.75,
+                    361.0,
+                    180.61
+                  ],
+                  "text": "def\nseuil() :\nn = 0\nA = 1 700\nwhile ... :\nn=n+1\nA = ...\nreturn..."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      112.56,
+                      199.71,
+                      496.08,
+                      238.33
+                    ],
+                    "text": "On complète le programme Python ci-dessous afin qu’il renvoie la plus petite\nvaleur de n à partir de laquelle le nombre de membres du club A est stricte-\nment inférieur à 1 280."
+                  },
+                  {
+                    "type": "code",
+                    "page": 4,
+                    "bbox": [
+                      264.36,
+                      250.95,
+                      382.12,
+                      343.81
+                    ],
+                    "text": "def\nseuil() :\nn = 0\nA = 1 700\nwhile A>=1280 :\nn=n+1\nA = 0.75*A + 300\nreturn n"
+                  }
+                ],
+                "text": "On complète le programme Python ci-dessous afin qu’il renvoie la plus petite\nvaleur de n à partir de laquelle le nombre de membres du club A est stricte-\nment inférieur à 1 280.\n\ndef\nseuil() :\nn = 0\nA = 1 700\nwhile A>=1280 :\nn=n+1\nA = 0.75*A + 300\nreturn n"
+              }
+            },
+            {
+              "id": "ex2-q7-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    191.91,
+                    446.06,
+                    203.41
+                  ],
+                  "text": "Déterminer la valeur renvoyée lorsqu’on appelle la fonction seuil."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      358.47,
+                      496.02,
+                      392.42
+                    ],
+                    "text": "La valeur renvoyée lorsqu’on appelle la fonction seuil est la plus petite valeur\nde n telle que an < 1280. On résout cette inéquation."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.72,
+                      385.67,
+                      434.8,
+                      407.89
+                    ],
+                    "text": "an < 1280 ⇐⇒500×0,75n +1200 < 1280 ⇐⇒500×0,75n < 80"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      199.32,
+                      397.1,
+                      271.24,
+                      423.02
+                    ],
+                    "text": "⇐⇒0,75n < 80"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      257.88,
+                      403.68,
+                      502.95,
+                      430.45
+                    ],
+                    "text": "500 ⇐⇒ln(0,75n) < ln(0,16) ⇐⇒n ln(0,75) < ln(0,16)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      199.32,
+                      420.5,
+                      273.16,
+                      446.42
+                    ],
+                    "text": "⇐⇒n > ln(0,16"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      240.48,
+                      435.26,
+                      274.95,
+                      446.65
+                    ],
+                    "text": "ln(0,75)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      447.14,
+                      198.28,
+                      465.97
+                    ],
+                    "text": "Or ln(0,16"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      165.48,
+                      452.74,
+                      487.58,
+                      480.61
+                    ],
+                    "text": "ln(0,75) ≈6,38 donc la valeur de n renvoyée par la fonction seuil est 7."
+                  }
+                ],
+                "text": "La valeur renvoyée lorsqu’on appelle la fonction seuil est la plus petite valeur\nde n telle que an < 1280. On résout cette inéquation.\n\nan < 1280 ⇐⇒500×0,75n +1200 < 1280 ⇐⇒500×0,75n < 80\n\n⇐⇒0,75n < 80\n\n500 ⇐⇒ln(0,75n) < ln(0,16) ⇐⇒n ln(0,75) < ln(0,16)\n\n⇐⇒n > ln(0,16\n\nln(0,75)\n\nOr ln(0,16\n\nln(0,75) ≈6,38 donc la valeur de n renvoyée par la fonction seuil est 7."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "EXERCICE 3",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            211.23,
+            495.88,
+            222.63
+          ],
+          "text": "EXERCICE 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            230.9,
+            468.3,
+            242.29
+          ],
+          "text": "Dans l’espace muni d’un repère orthonormé d’unité 1 cm, on considère les points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            153.12,
+            255.47,
+            441.98,
+            267.73
+          ],
+          "text": "D(3 ; 1 ; 5),\nE(3 ; −2 ; −1),\nF(−1 ; 2 ; 1),\nG(3 ; 2 ; −3)."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            211.23,
+            495.88,
+            222.63
+          ],
+          "text": "EXERCICE 3\n5 points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            230.9,
+            468.3,
+            242.29
+          ],
+          "text": "Dans l’espace muni d’un repère orthonormé d’unité 1 cm, on considère les points"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            153.12,
+            255.47,
+            441.98,
+            267.73
+          ],
+          "text": "D(3 ; 1 ; 5),\nE(3 ; −2 ; −1),\nF(−1 ; 2 ; 1),\nG(3 ; 2 ; −3)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            282.59,
+            380.9,
+            302.05
+          ],
+          "text": "1.\na. Déterminer les coordonnées des vecteurs −→\nEF et −→\nFG."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            306.03,
+            379.34,
+            317.53
+          ],
+          "text": "b. Justifier que les points E,F et G ne sont pas alignés."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            323.31,
+            435.14,
+            334.81
+          ],
+          "text": "2.\na. Déterminer une représentation paramétrique de la droite (FG)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            338.03,
+            373.46,
+            350.29
+          ],
+          "text": "b. On appelle H le point de coordonnées (2 ; 2 ; −2)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            150.48,
+            354.38,
+            432.02,
+            365.77
+          ],
+          "text": "Vérifier que H est le projeté orthogonal de E sur la droite (FG) ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            137.28,
+            368.07,
+            390.38,
+            381.25
+          ],
+          "text": "c. Montrer que l’aire du triangle EFG est égale à 12 cm2."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            399.14,
+            275.12,
+            411.76
+          ],
+          "text": "3.\na. Démontrer que le vecteur ⃗n"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            276.72,
+            388.28,
+            282.69,
+            406.55
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            276.72,
+            386.66,
+            288.04,
+            425.17
+          ],
+          "text": "\n2\n1\n2"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            288.0,
+            388.28,
+            293.97,
+            406.55
+          ],
+          "text": ""
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            288.0,
+            400.34,
+            462.74,
+            424.67
+          ],
+          "text": "est un vecteur normal au plan (EFG)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            428.19,
+            391.82,
+            439.69
+          ],
+          "text": "b. Déterminer une équation cartésienne du plan (EFG) ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            137.28,
+            443.67,
+            495.96,
+            468.73
+          ],
+          "text": "c. Déterminer une représentation paramétrique de la droite (d) passant par le\npoint D et orthogonale au plan (EFG) ."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            472.71,
+            425.18,
+            484.21
+          ],
+          "text": "d. On note K le projeté orthogonal du point D sur le plan (EFG)."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            150.48,
+            488.3,
+            475.58,
+            499.69
+          ],
+          "text": "À l’aide des questions précédentes, calculer les coordonnées du point K."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            505.47,
+            348.62,
+            517.0
+          ],
+          "text": "4.\na. Vérifier que la distance DK est égale à 5 cm."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            136.08,
+            520.95,
+            336.38,
+            532.45
+          ],
+          "text": "b. En déduire le volume du tétraèdre DEFG."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ex3-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q1-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    112.56,
+                    282.59,
+                    380.9,
+                    302.05
+                  ],
+                  "text": "Déterminer les coordonnées des vecteurs −→\nEF et −→\nFG."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      112.56,
+                      562.79,
+                      304.5,
+                      586.57
+                    ],
+                    "text": "Le vecteur −→\nEF a pour coordonnées"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      306.84,
+                      548.39,
+                      312.81,
+                      558.43
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      306.84,
+                      554.3,
+                      347.43,
+                      600.02
+                    ],
+                    "text": "\n−1−3\n2−(−2)\n1−(−1)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      347.64,
+                      548.39,
+                      353.61,
+                      558.43
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      347.64,
+                      566.39,
+                      362.67,
+                      586.57
+                    ],
+                    "text": "="
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      364.56,
+                      548.39,
+                      370.53,
+                      558.43
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      364.56,
+                      554.3,
+                      383.08,
+                      592.81
+                    ],
+                    "text": "\n−4\n4\n2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      383.04,
+                      548.39,
+                      389.01,
+                      558.43
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      383.04,
+                      566.39,
+                      389.01,
+                      576.43
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      606.35,
+                      305.82,
+                      630.14
+                    ],
+                    "text": "Le vecteur −→\nFG a pour coordonnées"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      308.16,
+                      591.95,
+                      314.13,
+                      601.99
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      308.16,
+                      597.86,
+                      348.75,
+                      643.57
+                    ],
+                    "text": "\n3−(−1)\n2−2\n−3−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      348.84,
+                      591.95,
+                      354.81,
+                      601.99
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      348.84,
+                      609.95,
+                      363.99,
+                      630.14
+                    ],
+                    "text": "="
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      365.76,
+                      591.95,
+                      371.73,
+                      601.99
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      365.76,
+                      597.86,
+                      384.28,
+                      643.58
+                    ],
+                    "text": "\n4\n0\n−4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      384.36,
+                      591.95,
+                      390.33,
+                      601.99
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      384.36,
+                      609.95,
+                      390.33,
+                      619.99
+                    ],
+                    "text": ""
+                  }
+                ],
+                "text": "Le vecteur −→\nEF a pour coordonnées\n\n\n\n\n−1−3\n2−(−2)\n1−(−1)\n\n\n\n=\n\n\n\n\n−4\n4\n2\n\n\n\n\n\nLe vecteur −→\nFG a pour coordonnées\n\n\n\n\n3−(−1)\n2−2\n−3−1\n\n\n\n=\n\n\n\n\n4\n0\n−4\n\n\n\n"
+              }
+            },
+            {
+              "id": "ex3-q1-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    306.03,
+                    379.34,
+                    317.53
+                  ],
+                  "text": "Justifier que les points E,F et G ne sont pas alignés."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      638.04,
+                      496.14,
+                      668.05
+                    ],
+                    "text": "−4 × (−1) = 4 et 4 × (−1) = −4 ̸= 0 donc les vecteurs −→\nEF et −−→\nFG ne sont pas\ncolinéaires; on en déduit que les points E, F et G ne sont pas alignés."
+                  }
+                ],
+                "text": "−4 × (−1) = 4 et 4 × (−1) = −4 ̸= 0 donc les vecteurs −→\nEF et −−→\nFG ne sont pas\ncolinéaires; on en déduit que les points E, F et G ne sont pas alignés."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q2-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    112.56,
+                    323.31,
+                    435.14,
+                    334.81
+                  ],
+                  "text": "Déterminer une représentation paramétrique de la droite (FG)."
+                }
+              ]
+            },
+            {
+              "id": "ex3-q2-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    338.03,
+                    373.46,
+                    350.29
+                  ],
+                  "text": "On appelle H le point de coordonnées (2 ; 2 ; −2)."
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    150.48,
+                    354.38,
+                    432.02,
+                    365.77
+                  ],
+                  "text": "Vérifier que H est le projeté orthogonal de E sur la droite (FG) ."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      136.08,
+                      703.46,
+                      389.8,
+                      763.7
+                    ],
+                    "text": "On appelle H le point de coordonnées (2 ; 2 ; −2)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      150.48,
+                      760.58,
+                      495.96,
+                      793.94
+                    ],
+                    "text": "H est le projeté orthogonal de E sur la droite (FG) si H appartient à la droite\n(FG) et si les vecteurs −−→\nEH et −−→\nFG sont orthogonaux."
+                  },
+                  {
+                    "type": "text",
+                    "page": 4,
+                    "bbox": [
+                      99.24,
+                      808.46,
+                      495.9,
+                      819.85
+                    ],
+                    "text": "Amérique du Nord\n4\n28 mars 2023"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      99.24,
+                      49.35,
+                      496.01,
+                      60.85
+                    ],
+                    "text": "Corrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      89.3,
+                      495.06,
+                      100.73
+                    ],
+                    "text": "• Le point H appartient à la droite (FG) si on peut trouver une valeur de t"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      170.88,
+                      115.7,
+                      214.58,
+                      127.09
+                    ],
+                    "text": "telle que :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      216.84,
+                      95.75,
+                      225.17,
+                      114.91
+                    ],
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      216.84,
+                      122.87,
+                      225.17,
+                      132.91
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      230.4,
+                      102.14,
+                      351.96,
+                      149.41
+                    ],
+                    "text": "xH = −1+4t\nyH =\n2\nzH =\n1−4t\nc’est-à-dire"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      354.24,
+                      95.75,
+                      362.57,
+                      114.91
+                    ],
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      354.24,
+                      122.87,
+                      362.57,
+                      132.91
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      367.56,
+                      102.14,
+                      428.58,
+                      147.73
+                    ],
+                    "text": "2 = −1+4t\n2 =\n2\n−2 =\n1−4t"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      170.88,
+                      142.94,
+                      236.68,
+                      168.85
+                    ],
+                    "text": "La valeur t = 3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      231.36,
+                      150.26,
+                      474.86,
+                      169.09
+                    ],
+                    "text": "4 convient donc le point H appartient à la droite (FG)."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      178.43,
+                      327.18,
+                      202.09
+                    ],
+                    "text": "• Le vecteur −→\nEH a pour coordonnées"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      329.52,
+                      163.91,
+                      335.49,
+                      173.95
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      329.52,
+                      169.82,
+                      377.31,
+                      215.53
+                    ],
+                    "text": "\n2−3\n2−(−2)\n−2−(−1)"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      377.52,
+                      163.91,
+                      383.49,
+                      173.95
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      377.52,
+                      182.03,
+                      392.55,
+                      202.09
+                    ],
+                    "text": "="
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      394.44,
+                      163.91,
+                      400.41,
+                      173.95
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      394.44,
+                      169.82,
+                      412.96,
+                      215.53
+                    ],
+                    "text": "\n−1\n4\n−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      412.92,
+                      163.91,
+                      418.89,
+                      173.95
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      412.92,
+                      178.43,
+                      495.93,
+                      202.09
+                    ],
+                    "text": "et −−→\nFG a pour co-"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      170.88,
+                      225.14,
+                      219.3,
+                      236.53
+                    ],
+                    "text": "ordonnées"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      221.52,
+                      205.55,
+                      227.49,
+                      215.59
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      221.52,
+                      211.46,
+                      240.04,
+                      257.17
+                    ],
+                    "text": "\n4\n0\n−4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      240.12,
+                      205.55,
+                      246.09,
+                      215.59
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      240.12,
+                      223.67,
+                      246.09,
+                      233.71
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      170.88,
+                      251.75,
+                      429.8,
+                      275.42
+                    ],
+                    "text": "−−→\nEH ·−−→\nFG = (−1)×4+4×0+(−1)×(−4) = 0 donc −−→\nEH ⊥−−→\nFG"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      277.22,
+                      467.06,
+                      288.61
+                    ],
+                    "text": "Le point H est donc le projeté orthogonal du point E sur la droite (FG)."
+                  }
+                ],
+                "text": "On appelle H le point de coordonnées (2 ; 2 ; −2).\n\nH est le projeté orthogonal de E sur la droite (FG) si H appartient à la droite\n(FG) et si les vecteurs −−→\nEH et −−→\nFG sont orthogonaux.\n\nAmérique du Nord\n4\n28 mars 2023\n\nCorrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P.\n\n• Le point H appartient à la droite (FG) si on peut trouver une valeur de t\n\ntelle que :\n\n\n\n\n\n\nxH = −1+4t\nyH =\n2\nzH =\n1−4t\nc’est-à-dire\n\n\n\n\n\n\n2 = −1+4t\n2 =\n2\n−2 =\n1−4t\n\nLa valeur t = 3\n\n4 convient donc le point H appartient à la droite (FG).\n\n• Le vecteur −→\nEH a pour coordonnées\n\n\n\n\n2−3\n2−(−2)\n−2−(−1)\n\n\n\n=\n\n\n\n\n−1\n4\n−1\n\n\n\net −−→\nFG a pour co-\n\nordonnées\n\n\n\n\n4\n0\n−4\n\n\n\n\n\n−−→\nEH ·−−→\nFG = (−1)×4+4×0+(−1)×(−4) = 0 donc −−→\nEH ⊥−−→\nFG\n\nLe point H est donc le projeté orthogonal du point E sur la droite (FG)."
+              }
+            },
+            {
+              "id": "ex3-q2-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    137.28,
+                    368.07,
+                    390.38,
+                    381.25
+                  ],
+                  "text": "Montrer que l’aire du triangle EFG est égale à 12 cm2."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      137.28,
+                      292.23,
+                      495.94,
+                      317.29
+                    ],
+                    "text": "D’après les questions précédentes, [EH] est la hauteur du triangle EFG cor-\nrespondant à la base [FG]; donc l’aire du triangle EFG vaut, en cm2 :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      318.38,
+                      210.29,
+                      344.42
+                    ],
+                    "text": "A = EH×FG"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      189.0,
+                      325.82,
+                      214.1,
+                      344.65
+                    ],
+                    "text": "2\n."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      359.15,
+                      187.16,
+                      382.82
+                    ],
+                    "text": "• −−→\nEH"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      190.08,
+                      344.63,
+                      196.05,
+                      354.67
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      190.08,
+                      350.54,
+                      208.48,
+                      396.26
+                    ],
+                    "text": "\n−1\n4\n−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      208.56,
+                      344.63,
+                      214.53,
+                      354.67
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      208.56,
+                      354.95,
+                      277.16,
+                      382.82
+                    ],
+                    "text": "donc EH =\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      277.08,
+                      357.23,
+                      374.24,
+                      382.81
+                    ],
+                    "text": "(−1)2 +42 +(−1)2 =\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      374.28,
+                      357.11,
+                      409.52,
+                      382.81
+                    ],
+                    "text": "18 = 3\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      409.56,
+                      364.22,
+                      414.88,
+                      375.61
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      402.36,
+                      186.2,
+                      426.02
+                    ],
+                    "text": "• −−→\nFG"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      189.12,
+                      387.95,
+                      195.09,
+                      397.99
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      189.12,
+                      393.86,
+                      207.64,
+                      439.46
+                    ],
+                    "text": "\n4\n0\n−4"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      207.6,
+                      387.95,
+                      213.57,
+                      397.99
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      207.6,
+                      398.15,
+                      275.36,
+                      426.02
+                    ],
+                    "text": "donc FG =\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      275.28,
+                      400.43,
+                      358.16,
+                      426.01
+                    ],
+                    "text": "42 +02 +(−4)2 =\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      358.2,
+                      400.43,
+                      393.44,
+                      426.01
+                    ],
+                    "text": "32 = 4\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      393.48,
+                      407.42,
+                      398.8,
+                      418.81
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      435.95,
+                      344.96,
+                      468.5
+                    ],
+                    "text": "Donc l’aire du triangle est en cm2 : A = 3\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      345.0,
+                      435.95,
+                      373.88,
+                      461.05
+                    ],
+                    "text": "2×4\np"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      373.92,
+                      442.46,
+                      379.24,
+                      453.85
+                    ],
+                    "text": "2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      352.68,
+                      449.9,
+                      404.66,
+                      468.73
+                    ],
+                    "text": "2\n= 12."
+                  }
+                ],
+                "text": "D’après les questions précédentes, [EH] est la hauteur du triangle EFG cor-\nrespondant à la base [FG]; donc l’aire du triangle EFG vaut, en cm2 :\n\nA = EH×FG\n\n2\n.\n\n• −−→\nEH\n\n\n\n\n−1\n4\n−1\n\n\n\ndonc EH =\np\n\n(−1)2 +42 +(−1)2 =\np\n\n18 = 3\np\n\n2\n\n• −−→\nFG\n\n\n\n\n4\n0\n−4\n\n\n\ndonc FG =\np\n\n42 +02 +(−4)2 =\np\n\n32 = 4\np\n\n2\n\nDonc l’aire du triangle est en cm2 : A = 3\np\n\n2×4\np\n\n2\n\n2\n= 12."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q3-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    112.56,
+                    399.14,
+                    275.12,
+                    411.76
+                  ],
+                  "text": "Démontrer que le vecteur ⃗n"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    276.72,
+                    388.28,
+                    282.69,
+                    406.55
+                  ],
+                  "text": ""
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    276.72,
+                    386.66,
+                    288.04,
+                    425.17
+                  ],
+                  "text": "\n2\n1\n2"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    288.0,
+                    388.28,
+                    293.97,
+                    406.55
+                  ],
+                  "text": ""
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    288.0,
+                    400.34,
+                    462.74,
+                    424.67
+                  ],
+                  "text": "est un vecteur normal au plan (EFG)."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      112.56,
+                      483.5,
+                      205.64,
+                      496.13
+                    ],
+                    "text": "Le vecteur ⃗n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      207.24,
+                      465.11,
+                      213.21,
+                      475.15
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      207.24,
+                      471.02,
+                      218.56,
+                      509.53
+                    ],
+                    "text": "\n2\n1\n2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      218.52,
+                      465.11,
+                      224.49,
+                      475.15
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      218.52,
+                      479.63,
+                      496.04,
+                      503.29
+                    ],
+                    "text": "est un vecteur normal au plan (EFG) s’il est orthogonal à −→\nEF"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      509.39,
+                      186.86,
+                      533.05
+                    ],
+                    "text": "et à −−→\nFG."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      529.67,
+                      385.88,
+                      553.45
+                    ],
+                    "text": "• −→\nn ·−→\nEF = 2×(−4)+1×4+2×2 = 0 donc −→\nn ⊥−→\nEF"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      161.28,
+                      544.91,
+                      388.4,
+                      568.57
+                    ],
+                    "text": "• −→\nn ·−−→\nFG = 2×4+1×0+2×(−4) = 0 donc −→\nn ⊥−−→\nFG"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      581.06,
+                      205.76,
+                      593.69
+                    ],
+                    "text": "Le vecteur ⃗n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      207.48,
+                      562.67,
+                      213.45,
+                      572.71
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      207.48,
+                      568.58,
+                      218.68,
+                      606.97
+                    ],
+                    "text": "\n2\n1\n2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      218.76,
+                      562.67,
+                      224.73,
+                      572.71
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      218.76,
+                      580.67,
+                      418.7,
+                      593.65
+                    ],
+                    "text": "est donc un vecteur normal au plan (EFG)."
+                  }
+                ],
+                "text": "Le vecteur ⃗n\n\n\n\n\n2\n1\n2\n\n\n\nest un vecteur normal au plan (EFG) s’il est orthogonal à −→\nEF\n\net à −−→\nFG.\n\n• −→\nn ·−→\nEF = 2×(−4)+1×4+2×2 = 0 donc −→\nn ⊥−→\nEF\n\n• −→\nn ·−−→\nFG = 2×4+1×0+2×(−4) = 0 donc −→\nn ⊥−−→\nFG\n\nLe vecteur ⃗n\n\n\n\n\n2\n1\n2\n\n\n\nest donc un vecteur normal au plan (EFG)."
+              }
+            },
+            {
+              "id": "ex3-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    428.19,
+                    391.82,
+                    439.69
+                  ],
+                  "text": "Déterminer une équation cartésienne du plan (EFG) ."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      136.08,
+                      624.26,
+                      156.68,
+                      636.89
+                    ],
+                    "text": "⃗n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      158.28,
+                      605.87,
+                      164.25,
+                      615.91
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      158.28,
+                      611.78,
+                      169.6,
+                      650.29
+                    ],
+                    "text": "\n2\n1\n2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      169.56,
+                      605.87,
+                      175.53,
+                      615.91
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      169.56,
+                      623.99,
+                      496.05,
+                      636.85
+                    ],
+                    "text": "est un vecteur normal au plan (EFG), donc le plan (EFG) a une équation"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      651.5,
+                      420.86,
+                      670.09
+                    ],
+                    "text": "de la forme 2x + y +2z +d = 0 où d est un réel à déterminer."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      666.98,
+                      430.8,
+                      699.14
+                    ],
+                    "text": "F est un point de (EFG) donc 2xF + yF +2zF +d = 0 c’est-à-dire\n2×(−1)+2+2×1+d = 0 ce qui donne d = −2."
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      695.9,
+                      397.1,
+                      714.49
+                    ],
+                    "text": "Le plan (EFG) a donc pour équation 2x + y +2z −2 = 0."
+                  }
+                ],
+                "text": "⃗n\n\n\n\n\n2\n1\n2\n\n\n\nest un vecteur normal au plan (EFG), donc le plan (EFG) a une équation\n\nde la forme 2x + y +2z +d = 0 où d est un réel à déterminer.\n\nF est un point de (EFG) donc 2xF + yF +2zF +d = 0 c’est-à-dire\n2×(−1)+2+2×1+d = 0 ce qui donne d = −2.\n\nLe plan (EFG) a donc pour équation 2x + y +2z −2 = 0."
+              }
+            },
+            {
+              "id": "ex3-q3-c",
+              "number": "c",
+              "label": "c.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    137.28,
+                    443.67,
+                    495.96,
+                    468.73
+                  ],
+                  "text": "Déterminer une représentation paramétrique de la droite (d) passant par le\npoint D et orthogonale au plan (EFG) ."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      137.28,
+                      711.03,
+                      496.05,
+                      765.67
+                    ],
+                    "text": "La droite (d) passant par le point D et orthogonale au plan (EFG) a pour vec-\nteur directeur tout vecteur normal au plan (EFG) donc en particulier le vec-\nteur −→\nn . Elle a donc pour représentation paramétrique;\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      150.48,
+                      773.63,
+                      158.81,
+                      783.67
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      164.04,
+                      754.29,
+                      316.08,
+                      800.29
+                    ],
+                    "text": "x = xD + x⃗nt\ny = yD + y⃗nt\nt ∈R\nz = zD + z⃗nt\nc’est-à-dire"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      318.36,
+                      746.51,
+                      326.69,
+                      765.67
+                    ],
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      318.36,
+                      773.63,
+                      326.69,
+                      783.67
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      331.92,
+                      752.9,
+                      411.28,
+                      798.62
+                    ],
+                    "text": "x = 3+2t\ny = 1+ t\nt ∈R\nz = 5+2t"
+                  },
+                  {
+                    "type": "text",
+                    "page": 5,
+                    "bbox": [
+                      99.24,
+                      808.46,
+                      495.9,
+                      819.85
+                    ],
+                    "text": "Amérique du Nord\n5\n28 mars 2023"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      99.24,
+                      49.35,
+                      496.01,
+                      60.85
+                    ],
+                    "text": "Corrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                  }
+                ],
+                "text": "La droite (d) passant par le point D et orthogonale au plan (EFG) a pour vec-\nteur directeur tout vecteur normal au plan (EFG) donc en particulier le vec-\nteur −→\nn . Elle a donc pour représentation paramétrique;\n\n\n\n\n\nx = xD + x⃗nt\ny = yD + y⃗nt\nt ∈R\nz = zD + z⃗nt\nc’est-à-dire\n\n\n\n\n\n\nx = 3+2t\ny = 1+ t\nt ∈R\nz = 5+2t\n\nAmérique du Nord\n5\n28 mars 2023\n\nCorrigé du baccalauréat spécialité sujet 2\nA. P. M. E. P."
+              }
+            },
+            {
+              "id": "ex3-q3-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    472.71,
+                    425.18,
+                    484.21
+                  ],
+                  "text": "On note K le projeté orthogonal du point D sur le plan (EFG)."
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    150.48,
+                    488.3,
+                    475.58,
+                    499.69
+                  ],
+                  "text": "À l’aide des questions précédentes, calculer les coordonnées du point K."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      136.08,
+                      89.19,
+                      496.05,
+                      114.29
+                    ],
+                    "text": "On note K le projeté orthogonal du point D sur le plan (EFG). Le point K ap-\npartient donc à la droite (d) et au plan (EFG) donc ses coordonnées sont so-"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      136.1,
+                      240.5,
+                      147.49
+                    ],
+                    "text": "lutions du système :"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      242.76,
+                      107.03,
+                      251.09,
+                      135.19
+                    ],
+                    "text": "\n\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      242.76,
+                      143.27,
+                      251.09,
+                      162.31
+                    ],
+                    "text": "\n\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      115.7,
+                      416.25,
+                      189.37
+                    ],
+                    "text": "x = 3+2t\ny = 1+ t\nz = 5+2t\n2x + y +2z −2 = 0\nOn a donc t tel que 2(3+2t)+(1+ t)+2(5+2t)−2 = 0, soit"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      180.74,
+                      466.24,
+                      206.65
+                    ],
+                    "text": "6+4t +1+t +10+4t −2 = 0 ou encore 9t +15 = 0; ce qui donne t = −15"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      458.28,
+                      180.74,
+                      492.16,
+                      214.21
+                    ],
+                    "text": "9 = −5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      486.84,
+                      188.06,
+                      496.1,
+                      207.01
+                    ],
+                    "text": "3."
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      199.91,
+                      315.16,
+                      233.65
+                    ],
+                    "text": "On a donc : xK = 3 + 2t = 3 + 2\nμ\n−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      309.84,
+                      220.94,
+                      315.16,
+                      232.33
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      316.44,
+                      199.91,
+                      348.28,
+                      231.97
+                    ],
+                    "text": "¶\n= −1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      342.96,
+                      199.91,
+                      449.56,
+                      233.65
+                    ],
+                    "text": "3, yK = 1 + t = 1 +\nμ\n−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      444.24,
+                      220.94,
+                      449.56,
+                      232.33
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      450.84,
+                      199.91,
+                      482.68,
+                      231.97
+                    ],
+                    "text": "¶\n= −2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      477.36,
+                      213.38,
+                      496.05,
+                      232.33
+                    ],
+                    "text": "3 et"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.72,
+                      224.99,
+                      248.2,
+                      258.85
+                    ],
+                    "text": "zK = 5+2t = 5+2\nμ\n−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      242.88,
+                      246.02,
+                      248.2,
+                      257.41
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      249.36,
+                      224.99,
+                      271.36,
+                      257.17
+                    ],
+                    "text": "¶\n= 5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      266.04,
+                      246.02,
+                      271.36,
+                      257.41
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      251.99,
+                      334.6,
+                      284.17
+                    ],
+                    "text": "Donc le point K a pour coordonnées\nμ\n−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      329.28,
+                      258.14,
+                      359.44,
+                      284.41
+                    ],
+                    "text": "3 , −2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      354.12,
+                      258.14,
+                      374.32,
+                      284.41
+                    ],
+                    "text": "3 , 5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      369.0,
+                      273.02,
+                      374.32,
+                      284.41
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      375.48,
+                      251.99,
+                      382.7,
+                      276.97
+                    ],
+                    "text": "¶\n."
+                  }
+                ],
+                "text": "On note K le projeté orthogonal du point D sur le plan (EFG). Le point K ap-\npartient donc à la droite (d) et au plan (EFG) donc ses coordonnées sont so-\n\nlutions du système :\n\n\n\n\n\n\n\n\n\n\n\n\nx = 3+2t\ny = 1+ t\nz = 5+2t\n2x + y +2z −2 = 0\nOn a donc t tel que 2(3+2t)+(1+ t)+2(5+2t)−2 = 0, soit\n\n6+4t +1+t +10+4t −2 = 0 ou encore 9t +15 = 0; ce qui donne t = −15\n\n9 = −5\n\n3.\n\nOn a donc : xK = 3 + 2t = 3 + 2\nμ\n−5\n\n3\n\n¶\n= −1\n\n3, yK = 1 + t = 1 +\nμ\n−5\n\n3\n\n¶\n= −2\n\n3 et\n\nzK = 5+2t = 5+2\nμ\n−5\n\n3\n\n¶\n= 5\n\n3\n\nDonc le point K a pour coordonnées\nμ\n−1\n\n3 , −2\n\n3 , 5\n\n3\n\n¶\n."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        },
+        {
+          "id": "ex3-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [],
+          "subquestions": [
+            {
+              "id": "ex3-q4-a",
+              "number": "a",
+              "label": "a.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    112.56,
+                    505.47,
+                    348.62,
+                    517.0
+                  ],
+                  "text": "Vérifier que la distance DK est égale à 5 cm."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      112.56,
+                      282.23,
+                      198.64,
+                      314.41
+                    ],
+                    "text": "DK2 =\nμ\n−1"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      193.32,
+                      282.23,
+                      252.16,
+                      321.85
+                    ],
+                    "text": "3 −3\n¶2\n+\nμ\n−2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      246.84,
+                      282.23,
+                      298.48,
+                      321.85
+                    ],
+                    "text": "3 −1\n¶2\n+\nμ5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      293.16,
+                      282.23,
+                      358.36,
+                      321.85
+                    ],
+                    "text": "3 −5\n¶2\n=\nμ\n−10"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      350.4,
+                      303.26,
+                      355.72,
+                      314.65
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      359.64,
+                      282.23,
+                      396.76,
+                      314.42
+                    ],
+                    "text": "¶2\n+\nμ\n−5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      391.44,
+                      303.26,
+                      396.76,
+                      314.65
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      397.92,
+                      282.23,
+                      440.32,
+                      314.42
+                    ],
+                    "text": "¶2\n+\nμ\n−10"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      432.36,
+                      303.26,
+                      437.68,
+                      314.65
+                    ],
+                    "text": "3"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      441.6,
+                      282.23,
+                      450.07,
+                      294.86
+                    ],
+                    "text": "¶2"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      171.36,
+                      319.7,
+                      197.44,
+                      345.62
+                    ],
+                    "text": "= 100"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      186.96,
+                      319.7,
+                      220.48,
+                      353.17
+                    ],
+                    "text": "9 + 25"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      212.52,
+                      319.7,
+                      248.68,
+                      353.17
+                    ],
+                    "text": "9 + 100"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      238.08,
+                      319.7,
+                      277.96,
+                      345.97
+                    ],
+                    "text": "9\n= 225"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      267.36,
+                      327.02,
+                      300.76,
+                      345.97
+                    ],
+                    "text": "9\n= 25"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      345.02,
+                      318.14,
+                      356.41
+                    ],
+                    "text": "Donc la distance DK est égale à 5 cm."
+                  }
+                ],
+                "text": "DK2 =\nμ\n−1\n\n3 −3\n¶2\n+\nμ\n−2\n\n3 −1\n¶2\n+\nμ5\n\n3 −5\n¶2\n=\nμ\n−10\n\n3\n\n¶2\n+\nμ\n−5\n\n3\n\n¶2\n+\nμ\n−10\n\n3\n\n¶2\n\n= 100\n\n9 + 25\n\n9 + 100\n\n9\n= 225\n\n9\n= 25\n\nDonc la distance DK est égale à 5 cm."
+              }
+            },
+            {
+              "id": "ex3-q4-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    136.08,
+                    520.95,
+                    336.38,
+                    532.45
+                  ],
+                  "text": "En déduire le volume du tétraèdre DEFG."
+                }
+              ],
+              "answer": {
+                "available": true,
+                "content": [
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      136.08,
+                      357.62,
+                      510.3,
+                      376.33
+                    ],
+                    "text": "Le volume du tétraèdre DEFG est donné par la formule : aire de la base×hauteur"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      452.64,
+                      364.94,
+                      513.98,
+                      383.89
+                    ],
+                    "text": "3\n."
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      382.94,
+                      496.05,
+                      407.89
+                    ],
+                    "text": "Une base du tétraèdre est le triangle EFG d’aire 12, et la hauteur relative à\ncette base est [DK] de longueur 5."
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      150.48,
+                      408.62,
+                      396.76,
+                      427.33
+                    ],
+                    "text": "Le volume du tétraèdre DEFG est donc, en cm3 : 12×5"
+                  },
+                  {
+                    "type": "text",
+                    "page": 6,
+                    "bbox": [
+                      381.24,
+                      415.94,
+                      422.18,
+                      434.89
+                    ],
+                    "text": "3\n= 20."
+                  }
+                ],
+                "text": "Le volume du tétraèdre DEFG est donné par la formule : aire de la base×hauteur\n\n3\n.\n\nUne base du tétraèdre est le triangle EFG d’aire 12, et la hauteur relative à\ncette base est [DK] de longueur 5.\n\nLe volume du tétraèdre DEFG est donc, en cm3 : 12×5\n\n3\n= 20."
+              }
+            }
+          ],
+          "answer": {
+            "available": false,
+            "content": [],
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "EXERCICE 4",
+      "points": 5.0,
+      "subtitle": null,
+      "preamble": [],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.48,
+            552.27,
+            495.88,
+            563.67
+          ],
+          "text": "EXERCICE 4\n5 points"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "number": "e",
+      "title": "exercice e",
+      "points": null,
+      "subtitle": null,
+      "preamble": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            573.33,
+            496.05,
+            664.6
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiple.\nPour chaque question, une seule des quatre réponses proposées est exacte.\nLe candidat indiquera sur sa copie le numéro de la question et la réponse choisie.\nAucune justification n’est demandée.\nUne réponse fausse, une réponse multiple ou l’absence de réponse à une question ne rap-\nporte ni n’enlève de point.\nLes cinq questions sont indépendantes."
+        }
+      ],
+      "content_blocks": [
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            573.33,
+            496.05,
+            664.6
+          ],
+          "text": "Cet exercice est un questionnaire à choix multiple.\nPour chaque question, une seule des quatre réponses proposées est exacte.\nLe candidat indiquera sur sa copie le numéro de la question et la réponse choisie.\nAucune justification n’est demandée.\nUne réponse fausse, une réponse multiple ou l’absence de réponse à une question ne rap-\nporte ni n’enlève de point.\nLes cinq questions sont indépendantes."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            112.56,
+            677.63,
+            405.42,
+            689.92
+          ],
+          "text": "1. On considère la fonction f définie sur l’intervalle ]1 ; +∞[ par"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            269.04,
+            700.34,
+            347.54,
+            719.2
+          ],
+          "text": "f (x) = 0,05−lnx"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            329.76,
+            707.78,
+            354.62,
+            726.64
+          ],
+          "text": "x −1."
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            126.48,
+            735.83,
+            326.54,
+            748.12
+          ],
+          "text": "La limite de la fonction f en +∞est égale à :"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            132.48,
+            762.11,
+            428.08,
+            774.37
+          ],
+          "text": "a. +∞\nb. 0,05\nc. −∞\nd. 0"
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "bbox": [
+            99.24,
+            808.46,
+            495.9,
+            819.85
+          ],
+          "text": "Amérique du Nord\n3\n28 mars 2023"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            49.35,
+            496.01,
+            60.75
+          ],
+          "text": "Baccalauréat spécialité sujet 2\nA. P. M. E. P."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            88.43,
+            443.06,
+            100.72
+          ],
+          "text": "2. On considère une fonction h continue sur l’intervalle [−2;4] telle que :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            226.92,
+            117.47,
+            395.54,
+            129.76
+          ],
+          "text": "h(−1) = 0,\nh(1) = 4,\nh(3) = −1."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            140.3,
+            226.82,
+            151.69
+          ],
+          "text": "On peut affirmer que :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            164.99,
+            482.78,
+            231.49
+          ],
+          "text": "a. la fonction h est croissante sur l’intervalle [−1 ; 1].\nb. la fonction h est positive sur l’intervalle [−1 ; 1].\nc. il existe au moins un nombre réel a dans l’intervalle [1 ; 3] tel que h(a) = 1.\nd. l’équation h(x) = 1 admet exactement deux solutions dans l’intervalle\n[−2 ; 4]."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            245.31,
+            469.56,
+            257.93
+          ],
+          "text": "3. On considère deux suites (un) et (vn) à termes strictement positifs telles que"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            260.03,
+            302.54,
+            277.73
+          ],
+          "text": "lim\nn→+∞un = +∞et (vn) converge vers 0 ."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            278.42,
+            226.82,
+            289.81
+          ],
+          "text": "On peut affirmer que :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            303.32,
+            191.23,
+            321.58
+          ],
+          "text": "a. la suite\n3\n1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            184.92,
+            313.2,
+            192.52,
+            321.49
+          ],
+          "text": "vn"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            194.64,
+            303.32,
+            380.32,
+            321.58
+          ],
+          "text": " ́\nconverge.\nb. la suite\n3\nvn"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            372.36,
+            313.2,
+            380.68,
+            321.49
+          ],
+          "text": "un"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            382.8,
+            303.32,
+            432.86,
+            321.58
+          ],
+          "text": " ́\nconverge."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            316.55,
+            420.05,
+            338.81
+          ],
+          "text": "c. la suite (un) est croissante.\nd.\nlim\nn→+∞(−un)n = −∞"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            349.39,
+            351.02,
+            361.69
+          ],
+          "text": "4. Pour participer à un jeu, un joueur doit payer 4 (."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            365.78,
+            318.14,
+            377.17
+          ],
+          "text": "Il lance ensuite un dé équilibré à six faces :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            135.0,
+            386.11,
+            287.9,
+            398.41
+          ],
+          "text": "— s’il obtient 1, il remporte 12 (;"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            135.0,
+            401.59,
+            345.5,
+            413.89
+          ],
+          "text": "— s’il obtient un nombre pair, il remporte 3(;"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            135.0,
+            417.98,
+            268.46,
+            429.37
+          ],
+          "text": "— sinon, il ne remporte rien."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            439.22,
+            233.18,
+            450.61
+          ],
+          "text": "En moyenne, le joueur :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            464.11,
+            385.82,
+            489.85
+          ],
+          "text": "a. gagne 3,50 (\nb. perd 3 (.\nc. perd 1,50 (\nd. perd 0,50 (."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            112.56,
+            502.99,
+            438.74,
+            515.32
+          ],
+          "text": "5. On considère la variable aléatoire X suivant la loi binomiale B(3 ; p)."
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            126.48,
+            516.02,
+            241.96,
+            534.76
+          ],
+          "text": "On sait que P(X = 0) =\n1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            231.24,
+            523.34,
+            353.66,
+            542.17
+          ],
+          "text": "125. On peut affirmer que :"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            555.38,
+            169.36,
+            574.12
+          ],
+          "text": "a. p = 1"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            164.04,
+            555.38,
+            397.24,
+            581.53
+          ],
+          "text": "5\nb. P(X = 1) = 124"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            381.36,
+            570.14,
+            397.24,
+            581.53
+          ],
+          "text": "125"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            132.48,
+            581.06,
+            168.76,
+            599.92
+          ],
+          "text": "c. p = 4"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            163.44,
+            581.06,
+            386.68,
+            607.33
+          ],
+          "text": "5\nd. P(X = 1) = 4"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            381.36,
+            595.94,
+            386.68,
+            607.33
+          ],
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "page": 4,
+          "bbox": [
+            99.24,
+            808.46,
+            495.9,
+            819.85
+          ],
+          "text": "Amérique du Nord\n4\n28 mars 2023"
+        }
+      ],
+      "questions": [
+        {
+          "id": "exe-q1",
+          "number": "1",
+          "label": "1.",
+          "content": [
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                112.56,
+                677.63,
+                405.42,
+                689.92
+              ],
+              "text": "On considère la fonction f définie sur l’intervalle ]1 ; +∞[ par"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                269.04,
+                700.34,
+                347.54,
+                719.2
+              ],
+              "text": "f (x) = 0,05−lnx"
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                329.76,
+                707.78,
+                354.62,
+                726.64
+              ],
+              "text": "x −1."
+            },
+            {
+              "type": "text",
+              "page": 3,
+              "bbox": [
+                126.48,
+                735.83,
+                326.54,
+                748.12
+              ],
+              "text": "La limite de la fonction f en +∞est égale à :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q1-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    132.48,
+                    762.11,
+                    428.08,
+                    774.37
+                  ],
+                  "text": "0"
+                },
+                {
+                  "type": "text",
+                  "page": 3,
+                  "bbox": [
+                    99.24,
+                    808.46,
+                    495.9,
+                    819.85
+                  ],
+                  "text": "Amérique du Nord\n3\n28 mars 2023"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    49.35,
+                    496.01,
+                    60.75
+                  ],
+                  "text": "Baccalauréat spécialité sujet 2\nA. P. M. E. P."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q2",
+          "number": "2",
+          "label": "2.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                88.43,
+                443.06,
+                100.72
+              ],
+              "text": "On considère une fonction h continue sur l’intervalle [−2;4] telle que :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                226.92,
+                117.47,
+                395.54,
+                129.76
+              ],
+              "text": "h(−1) = 0,\nh(1) = 4,\nh(3) = −1."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                140.3,
+                226.82,
+                151.69
+              ],
+              "text": "On peut affirmer que :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q2-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    132.48,
+                    164.99,
+                    482.78,
+                    231.49
+                  ],
+                  "text": "l’équation h(x) = 1 admet exactement deux solutions dans l’intervalle\n[−2 ; 4]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q3",
+          "number": "3",
+          "label": "3.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                245.31,
+                469.56,
+                257.93
+              ],
+              "text": "On considère deux suites (un) et (vn) à termes strictement positifs telles que"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                260.03,
+                302.54,
+                277.73
+              ],
+              "text": "lim\nn→+∞un = +∞et (vn) converge vers 0 ."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                278.42,
+                226.82,
+                289.81
+              ],
+              "text": "On peut affirmer que :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q3-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    194.64,
+                    303.32,
+                    380.32,
+                    321.58
+                  ],
+                  "text": "la suite\n3\nvn"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    372.36,
+                    313.2,
+                    380.68,
+                    321.49
+                  ],
+                  "text": "un"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    382.8,
+                    303.32,
+                    432.86,
+                    321.58
+                  ],
+                  "text": " ́\nconverge."
+                }
+              ]
+            },
+            {
+              "id": "exe-q3-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    132.48,
+                    316.55,
+                    420.05,
+                    338.81
+                  ],
+                  "text": "lim\nn→+∞(−un)n = −∞"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q4",
+          "number": "4",
+          "label": "4.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                349.39,
+                351.02,
+                361.69
+              ],
+              "text": "Pour participer à un jeu, un joueur doit payer 4 (."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                365.78,
+                318.14,
+                377.17
+              ],
+              "text": "Il lance ensuite un dé équilibré à six faces :"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                135.0,
+                386.11,
+                287.9,
+                398.41
+              ],
+              "text": "— s’il obtient 1, il remporte 12 (;"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                135.0,
+                401.59,
+                345.5,
+                413.89
+              ],
+              "text": "— s’il obtient un nombre pair, il remporte 3(;"
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                135.0,
+                417.98,
+                268.46,
+                429.37
+              ],
+              "text": "— sinon, il ne remporte rien."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                439.22,
+                233.18,
+                450.61
+              ],
+              "text": "En moyenne, le joueur :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q4-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    132.48,
+                    464.11,
+                    385.82,
+                    489.85
+                  ],
+                  "text": "perd 0,50 (."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "exe-q5",
+          "number": "5",
+          "label": "5.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                112.56,
+                502.99,
+                438.74,
+                515.32
+              ],
+              "text": "On considère la variable aléatoire X suivant la loi binomiale B(3 ; p)."
+            },
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                126.48,
+                516.02,
+                241.96,
+                534.76
+              ],
+              "text": "On sait que P(X = 0) =\n1"
+            }
+          ]
+        },
+        {
+          "id": "exe-q125",
+          "number": "125",
+          "label": "125.",
+          "content": [
+            {
+              "type": "text",
+              "page": 4,
+              "bbox": [
+                231.24,
+                523.34,
+                353.66,
+                542.17
+              ],
+              "text": "On peut affirmer que :"
+            }
+          ],
+          "subquestions": [
+            {
+              "id": "exe-q125-b",
+              "number": "b",
+              "label": "b.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    164.04,
+                    555.38,
+                    397.24,
+                    581.53
+                  ],
+                  "text": "P(X = 1) = 124"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    381.36,
+                    570.14,
+                    397.24,
+                    581.53
+                  ],
+                  "text": "125"
+                }
+              ]
+            },
+            {
+              "id": "exe-q125-d",
+              "number": "d",
+              "label": "d.",
+              "content": [
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    163.44,
+                    581.06,
+                    386.68,
+                    607.33
+                  ],
+                  "text": "P(X = 1) = 4"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    381.36,
+                    595.94,
+                    386.68,
+                    607.33
+                  ],
+                  "text": "5"
+                },
+                {
+                  "type": "text",
+                  "page": 4,
+                  "bbox": [
+                    99.24,
+                    808.46,
+                    495.9,
+                    819.85
+                  ],
+                  "text": "Amérique du Nord\n4\n28 mars 2023"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scan_only": false,
+  "raw_block_count": 115
+}
