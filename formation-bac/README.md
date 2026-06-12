@@ -4,6 +4,10 @@ Guide de révision express pour le baccalauréat **spécialité Mathématiques**
 
 ## Utilisation
 
+En ligne : [yehielscourses.github.io/mathpc](https://yehielscourses.github.io/mathpc/)
+
+En local :
+
 1. Ouvrir `index.html` dans un navigateur (Chrome ou Firefox recommandé).
 2. Attendre le chargement des formules (MathJax).
 3. **Imprimer en PDF** : `Ctrl+P` → « Enregistrer au format PDF » → cocher **Graphiques d'arrière-plan**.

@@ -2,7 +2,7 @@
 
 Annales du bac (spé mathématiques et spé physique-chimie), sessions 2021–2025.
 
-- `formation-bac/` — guide HTML imprimable (révision express spé maths & PC, adapté profil cognitif)
+- `formation-bac/` — guide HTML imprimable (révision express spé maths & PC, adapté profil cognitif), publié sur [GitHub Pages](https://yehielscourses.github.io/mathpc/)
 
 - `math/` — sujets et corrigés (source : APMEP)
 - `physique-chimie/` — sujets et corrigés (source : sujetdebac.fr)
