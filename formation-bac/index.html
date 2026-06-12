@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formation Bac — Spé Maths &amp; Spé Physique-Chimie</title>
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['\\(', '\\)'], ['$', '$']],
+        displayMath: [['\\[', '\\]'], ['$$', '$$']],
+        packages: {'[+]': ['mhchem', 'physics']}
+      },
+      loader: { load: ['[tex]/mhchem', '[tex]/physics'] },
+      startup: { typeset: false }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+  <style>
+    :root {
+      --bleu: #1a5fb4;
+      --bleu-clair: #e8f0fa;
+      --vert: #2ec27e;
+      --vert-clair: #e6f7ef;
+      --orange: #e5a50a;
+      --orange-clair: #fef6e4;
+      --rouge: #c01c28;
+      --rouge-clair: #fce8ea;
+      --violet: #613583;
+      --violet-clair: #f0eaf5;
+      --gris: #5e5c64;
+      --gris-clair: #f6f5f4;
+      --texte: #241f31;
+      --bordure: #deddda;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-size: 11pt;
+      line-height: 1.55;
+      color: var(--texte);
+      max-width: 210mm;
+      margin: 0 auto;
+      padding: 12mm 14mm;
+      background: #fff;
+    }
+
+    h1 { font-size: 22pt; color: var(--bleu); margin: 0 0 0.3em; line-height: 1.2; }
+    h2 {
+      font-size: 15pt; color: var(--bleu);
+      border-bottom: 3px solid var(--bleu);
+      padding-bottom: 0.25em;
+      margin: 1.8em 0 0.8em;
+      page-break-after: avoid;
+    }
+    h3 { font-size: 12pt; color: var(--violet); margin: 1.2em 0 0.5em; page-break-after: avoid; }
+    h4 { font-size: 11pt; color: var(--gris); margin: 1em 0 0.4em; }
+
+    p { margin: 0.5em 0; }
+
+    .cover {
+      text-align: center;
+      padding: 2em 1em 3em;
+      border: 3px solid var(--bleu);
+      border-radius: 12px;
+      margin-bottom: 2em;
+      background: linear-gradient(180deg, var(--bleu-clair) 0%, #fff 100%);
+    }
+    .cover .sous-titre { font-size: 13pt; color: var(--gris); margin-top: 0.5em; }
+    .cover .badge {
+      display: inline-block;
+      background: var(--orange);
+      color: #fff;
+      padding: 0.3em 1em;
+      border-radius: 20px;
+      font-weight: 600;
+      margin-top: 1em;
+      font-size: 10pt;
+    }
+
+    .toc { background: var(--gris-clair); padding: 1em 1.5em; border-radius: 8px; margin: 1.5em 0; }
+    .toc ol { margin: 0.5em 0; padding-left: 1.4em; }
+    .toc li { margin: 0.3em 0; }
+    .toc a { color: var(--bleu); text-decoration: none; }
+
+    .bloc {
+      border-radius: 8px;
+      padding: 0.9em 1.1em;
+      margin: 1em 0;
+      page-break-inside: avoid;
+    }
+    .bloc-force { background: var(--vert-clair); border-left: 5px solid var(--vert); }
+    .bloc-attention { background: var(--orange-clair); border-left: 5px solid var(--orange); }
+    .bloc-memoire { background: var(--violet-clair); border-left: 5px solid var(--violet); }
+    .bloc-danger { background: var(--rouge-clair); border-left: 5px solid var(--rouge); }
+    .bloc-methode { background: var(--bleu-clair); border-left: 5px solid var(--bleu); }
+    .bloc-titre { font-weight: 700; margin-bottom: 0.4em; font-size: 10.5pt; text-transform: uppercase; letter-spacing: 0.03em; }
+
+    .etapes { counter-reset: etape; list-style: none; padding: 0; margin: 0.8em 0; }
+    .etapes li {
+      counter-increment: etape;
+      padding: 0.6em 0.6em 0.6em 3em;
+      margin: 0.5em 0;
+      background: #fff;
+      border: 1px solid var(--bordure);
+      border-radius: 8px;
+      position: relative;
+      page-break-inside: avoid;
+    }
+    .etapes li::before {
+      content: counter(etape);
+      position: absolute;
+      left: 0.7em;
+      top: 0.55em;
+      width: 1.6em;
+      height: 1.6em;
+      background: var(--bleu);
+      color: #fff;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 1.6em;
+      font-weight: 700;
+      font-size: 10pt;
+    }
+
+    .fiche-formule {
+      background: #fff;
+      border: 2px solid var(--bleu);
+      border-radius: 10px;
+      padding: 1em;
+      margin: 1em 0;
+      text-align: center;
+      page-break-inside: avoid;
+    }
+    .fiche-formule .titre-fiche {
+      font-size: 9pt;
+      text-transform: uppercase;
+      color: var(--gris);
+      letter-spacing: 0.05em;
+      margin-bottom: 0.5em;
+    }
+
+    .grille-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1em; margin: 1em 0; }
+    .grille-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.8em; margin: 1em 0; }
+
+    .carte {
+      border: 1px solid var(--bordure);
+      border-radius: 8px;
+      padding: 0.8em;
+      background: #fff;
+      page-break-inside: avoid;
+    }
+    .carte .numero {
+      display: inline-block;
+      background: var(--violet);
+      color: #fff;
+      width: 1.8em;
+      height: 1.8em;
+      line-height: 1.8em;
+      text-align: center;
+      border-radius: 50%;
+      font-weight: 700;
+      margin-bottom: 0.4em;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1em 0;
+      font-size: 10pt;
+      page-break-inside: avoid;
+    }
+    th, td { border: 1px solid var(--bordure); padding: 0.45em 0.6em; text-align: left; }
+    th { background: var(--bleu-clair); color: var(--bleu); font-weight: 600; }
+
+    .svg-box {
+      background: #fff;
+      border: 1px solid var(--bordure);
+      border-radius: 8px;
+      padding: 0.8em;
+      margin: 1em 0;
+      text-align: center;
+      page-break-inside: avoid;
+    }
+    .svg-box figcaption {
+      font-size: 9.5pt;
+      color: var(--gris);
+      margin-top: 0.5em;
+      font-style: italic;
+    }
+
+    .exemple {
+      background: var(--gris-clair);
+      border-radius: 8px;
+      padding: 1em;
+      margin: 1em 0;
+      page-break-inside: avoid;
+    }
+    .exemple-titre { font-weight: 700; color: var(--vert); margin-bottom: 0.5em; }
+
+    .checklist { list-style: none; padding: 0; }
+    .checklist li {
+      padding: 0.35em 0 0.35em 1.8em;
+      position: relative;
+      border-bottom: 1px dotted var(--bordure);
+    }
+    .checklist li::before {
+      content: '☐';
+      position: absolute;
+      left: 0;
+      font-size: 14pt;
+      line-height: 1;
+    }
+
+    .tag {
+      display: inline-block;
+      font-size: 8.5pt;
+      padding: 0.15em 0.5em;
+      border-radius: 4px;
+      font-weight: 600;
+      margin-right: 0.3em;
+    }
+    .tag-maths { background: var(--bleu-clair); color: var(--bleu); }
+    .tag-pc { background: var(--vert-clair); color: #1a7a4c; }
+    .tag-prio { background: var(--orange-clair); color: #9a6f00; }
+
+    .session-box {
+      border: 2px dashed var(--orange);
+      border-radius: 10px;
+      padding: 1em;
+      margin: 1.5em 0;
+      page-break-inside: avoid;
+    }
+    .session-box h4 { color: var(--orange); margin-top: 0; }
+
+    code, .mono { font-family: 'Consolas', 'Courier New', monospace; font-size: 9.5pt; background: #eee; padding: 0.1em 0.35em; border-radius: 3px; }
+
+    .page-break { page-break-before: always; }
+
+    @media print {
+      body { padding: 0; max-width: none; font-size: 10.5pt; }
+      .no-print { display: none !important; }
+      a { color: inherit; text-decoration: none; }
+      h2 { page-break-before: always; }
+      h2:first-of-type { page-break-before: avoid; }
+      .cover { page-break-after: always; }
+      @page { size: A4; margin: 15mm; }
+    }
+
+    @media screen {
+      .print-hint {
+        position: fixed; bottom: 0; left: 0; right: 0;
+        background: var(--bleu); color: #fff;
+        text-align: center; padding: 0.6em;
+        font-size: 10pt; z-index: 100;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="print-hint no-print">
+  Pour obtenir le PDF : Ctrl+P (ou Cmd+P) → « Enregistrer au format PDF » — Cochez « Graphiques d'arrière-plan »
+</div>
+
+<!-- ═══════════════════ PAGE DE GARDE ═══════════════════ -->
+<header class="cover" id="top">
+  <h1>Formation express Bac</h1>
+  <p class="sous-titre">Spécialité Mathématiques &amp; Spécialité Physique-Chimie</p>
+  <p class="sous-titre">Guide visuel adapté à ton profil cognitif</p>
+  <span class="badge">Mode survie — limiter les dégâts</span>
+  <p style="margin-top:1.5em; font-size:10pt; color:var(--gris);">
+    Candidat libre · Programme ciblé · Annales 2021–2025
+  </p>
+</header>
+
+<!-- ═══════════════════ SOMMAIRE ═══════════════════ -->
+<nav class="toc">
+  <strong>Sommaire</strong>
+  <ol>
+    <li><a href="#profil">Comment ce guide est fait pour toi</a></li>
+    <li><a href="#plan">Plan sur 4 jours</a></li>
+    <li><a href="#maths-probas">Maths — Probabilités &amp; loi binomiale</a></li>
+    <li><a href="#maths-geo">Maths — Géométrie dans l'espace</a></li>
+    <li><a href="#maths-fonctions">Maths — Fonctions (ln, IPP, équ. diff.)</a></li>
+    <li><a href="#maths-suites">Maths — Suites &amp; Python</a></li>
+    <li><a href="#maths-jourj">Maths — Stratégie jour J</a></li>
+    <li><a href="#pc-ph">PC — pH, acide-base &amp; titrages</a></li>
+    <li><a href="#pc-meca">PC — Mécanique (Newton &amp; énergie)</a></li>
+    <li><a href="#pc-orga">PC — Synthèse organique</a></li>
+    <li><a href="#pc-ondes">PC — Ondes, optique &amp; circuit RC</a></li>
+    <li><a href="#pc-jourj">PC — Stratégie jour J</a></li>
+    <li><a href="#fiches">Fiches formules à découper</a></li>
+    <li><a href="#checklist">Checklist examen</a></li>
+  </ol>
+</nav>
+
+<!-- ═══════════════════ PROFIL ADAPTÉ ═══════════════════ -->
+<section id="profil">
+  <h2>1. Comment ce guide est fait pour toi</h2>
+
+  <p>Ce document est construit à partir de ton <strong>bilan neuropsychologique</strong> (WAIS IV, 2022). L'objectif n'est pas de tout apprendre par cœur, mais d'utiliser <strong>tes forces</strong> pour compenser tes fragilités.</p>
+
+  <div class="grille-2">
+    <div class="bloc bloc-force">
+      <div class="bloc-titre">✅ Tes forces — on s'appuie dessus</div>
+      <ul>
+        <li><strong>Raisonnement visuel</strong> (IRP = 126) : schémas, arbres, figures → privilégiés partout</li>
+        <li><strong>Logique &amp; déduction</strong> (Matrices au-dessus de la moyenne) : suivre une recette étape par étape</li>
+        <li><strong>Calcul arithmétique</strong> (subtest Arithmétique élevé) : les calculs numériques, tu peux les faire si la méthode est claire</li>
+        <li><strong>Organisation par catégories</strong> (fluences verbales) : chaque chapitre est un « thème » séparé</li>
+        <li><strong>Planification</strong> (test des priorités réussi) : plans jour par jour fournis</li>
+      </ul>
+    </div>
+    <div class="bloc bloc-attention">
+      <div class="bloc-titre">⚠️ Tes fragilités — on les contourne</div>
+      <ul>
+        <li><strong>Vitesse de traitement faible</strong> → Prends ton temps. Précision &gt; rapidité.</li>
+        <li><strong>Mémoire</strong> (rappel difficile) → Peu de formules par page, fiches visuelles à découper</li>
+        <li><strong>Attention aux distracteurs</strong> → Sessions de <strong>25 min max</strong>, puis pause 5 min</li>
+        <li><strong>Impulsivité</strong> → Toujours écrire la <strong>formule avant</strong> le calcul</li>
+        <li><strong>Fatigue</strong> → Alterner maths / PC, ne pas tout faire d'un coup</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">📐 Règles d'or de ce guide</div>
+    <ol class="etapes">
+      <li><strong>Une notion = un schéma + une formule + un exemple.</strong> Ne passe à la suivante que quand tu peux refaire le schéma de mémoire (sans le texte).</li>
+      <li><strong>Ne lis pas, fais.</strong> Recopie les arbres, trace les figures, calcule sur une feuille à côté.</li>
+      <li><strong>25 minutes par bloc</strong>, puis pause. Mets un minuteur.</li>
+      <li><strong>Au bac : rien ne reste vide.</strong> Même une formule seule rapporte des points.</li>
+    </ol>
+  </div>
+</section>
+
+<!-- ═══════════════════ PLAN 4 JOURS ═══════════════════ -->
+<section id="plan">
+  <h2>2. Plan sur 4 jours</h2>
+
+  <table>
+    <thead>
+      <tr><th>Jour</th><th>Matin (25+25 min)</th><th>Après-midi (25+25 min)</th><th>Soir (15 min)</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>J1</strong></td>
+        <td>§3 Probabilités — lire + refaire l'arbre</td>
+        <td>§3 Exemple complet + fiche binomiale</td>
+        <td>Relire fiches probas</td>
+      </tr>
+      <tr>
+        <td><strong>J2</strong></td>
+        <td>§4 Géométrie espace</td>
+        <td>§5 Fonctions (ln + IPP)</td>
+        <td>Fiches formules maths</td>
+      </tr>
+      <tr>
+        <td><strong>J3</strong></td>
+        <td>§8 pH &amp; titrages</td>
+        <td>§9 Mécanique + §10 Synthèse</td>
+        <td>Fiches formules PC</td>
+      </tr>
+      <tr>
+        <td><strong>J4</strong></td>
+        <td>§11 Ondes/RC + stratégies §7 et §12</td>
+        <td>§13 Fiches à découper + §14 Checklist</td>
+        <td>Dormir tôt</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════ MATHS PROBAS ═══════════════════ -->
+<section id="maths-probas" class="page-break">
+  <h2>3. Maths — Probabilités &amp; loi binomiale <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 1</span></h2>
+
+  <p>L'exercice 1 du bac tombe <strong>à chaque session</strong> depuis 2022. C'est ton meilleur investissement.</p>
+
+  <h3>3.1 Vocabulaire (schéma mental)</h3>
+  <div class="svg-box">
+    <svg viewBox="0 0 520 200" width="100%" style="max-width:520px" aria-label="Schéma expérience aléatoire">
+      <rect x="10" y="30" width="500" height="150" rx="12" fill="#e8f0fa" stroke="#1a5fb4" stroke-width="2"/>
+      <text x="260" y="58" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a5fb4">UNIVERS Ω — toutes les issues possibles</text>
+      <circle cx="100" cy="120" r="35" fill="#2ec27e" opacity="0.7"/>
+      <text x="100" y="125" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">A</text>
+      <circle cx="260" cy="120" r="35" fill="#e5a50a" opacity="0.7"/>
+      <text x="260" y="125" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">B</text>
+      <circle cx="420" cy="120" r="35" fill="#c01c28" opacity="0.7"/>
+      <text x="420" y="125" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">Ā</text>
+      <text x="100" y="170" text-anchor="middle" font-size="11" fill="#5e5c64">événement A</text>
+      <text x="260" y="170" text-anchor="middle" font-size="11" fill="#5e5c64">événement B</text>
+      <text x="420" y="170" text-anchor="middle" font-size="11" fill="#5e5c64">« pas A »</text>
+    </svg>
+    <figcaption>Chaque événement est une « zone » de l'univers. Les probabilités sont des nombres entre 0 et 1.</figcaption>
+  </div>
+
+  <div class="grille-3">
+    <div class="carte"><span class="numero">P</span><br>\(P(A)\) = chance que A arrive. Entre 0 et 1.</div>
+    <div class="carte"><span class="numero">∩</span><br>\(A \cap B\) = A <strong>et</strong> B en même temps</div>
+    <div class="carte"><span class="numero">∪</span><br>\(A \cup B\) = A <strong>ou</strong> B (l'un ou l'autre ou les deux)</div>
+  </div>
+
+  <h3>3.2 L'arbre pondéré — ta recette visuelle</h3>
+
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">Recette en 4 étapes (à refaire à chaque exercice)</div>
+    <ol class="etapes">
+      <li>Lire l'énoncé et identifier les <strong>étapes</strong> (ex. : « on tire un groupe sanguin », puis « on teste »)</li>
+      <li>Tracer l'arbre : <strong>une branche par issue</strong>, avec la probabilité sur chaque branche</li>
+      <li>Vérifier : les probabilités d'un <strong>même niveau</strong> doivent faire <strong>1</strong></li>
+      <li>Pour une issue complète (chemin de la racine à une feuille) : <strong>multiplier</strong> les probabilités le long du chemin</li>
+    </ol>
+  </div>
+
+  <div class="svg-box">
+    <svg viewBox="0 0 480 280" width="100%" style="max-width:480px" aria-label="Arbre pondéré exemple groupes sanguins">
+      <text x="20" y="25" font-size="13" font-weight="bold" fill="#1a5fb4">Exemple type bac : 2 étapes</text>
+      <!-- niveau 1 -->
+      <circle cx="40" cy="140" r="6" fill="#1a5fb4"/>
+      <line x1="46" y1="130" x2="140" y2="70" stroke="#333" stroke-width="2"/>
+      <line x1="46" y1="150" x2="140" y2="210" stroke="#333" stroke-width="2"/>
+      <rect x="145" y="52" width="50" height="36" rx="6" fill="#2ec27e" opacity="0.3" stroke="#2ec27e"/>
+      <text x="170" y="75" text-anchor="middle" font-size="12" font-weight="bold">A</text>
+      <text x="115" y="88" text-anchor="middle" font-size="11" fill="#c01c28" font-weight="bold">0,4</text>
+      <rect x="145" y="192" width="50" height="36" rx="6" fill="#e5a50a" opacity="0.3" stroke="#e5a50a"/>
+      <text x="170" y="215" text-anchor="middle" font-size="12" font-weight="bold">B</text>
+      <text x="115" y="178" text-anchor="middle" font-size="11" fill="#c01c28" font-weight="bold">0,6</text>
+      <!-- niveau 2 depuis A -->
+      <line x1="195" y1="70" x2="280" y2="40" stroke="#333" stroke-width="1.5"/>
+      <line x1="195" y1="70" x2="280" y2="100" stroke="#333" stroke-width="1.5"/>
+      <text x="240" y="35" font-size="10" fill="#c01c28">0,8</text>
+      <text x="240" y="108" font-size="10" fill="#c01c28">0,2</text>
+      <rect x="285" y="22" width="70" height="30" rx="4" fill="#e8f0fa" stroke="#1a5fb4"/>
+      <text x="320" y="42" text-anchor="middle" font-size="10">Test +</text>
+      <rect x="285" y="82" width="70" height="30" rx="4" fill="#e8f0fa" stroke="#1a5fb4"/>
+      <text x="320" y="102" text-anchor="middle" font-size="10">Test −</text>
+      <!-- niveau 2 depuis B -->
+      <line x1="195" y1="210" x2="280" y2="180" stroke="#333" stroke-width="1.5"/>
+      <line x1="195" y1="210" x2="280" y2="240" stroke="#333" stroke-width="1.5"/>
+      <text x="240" y="175" font-size="10" fill="#c01c28">0,5</text>
+      <text x="240" y="248" font-size="10" fill="#c01c28">0,5</text>
+      <rect x="285" y="162" width="70" height="30" rx="4" fill="#e8f0fa" stroke="#1a5fb4"/>
+      <text x="320" y="182" text-anchor="middle" font-size="10">Test +</text>
+      <rect x="285" y="222" width="70" height="30" rx="4" fill="#e8f0fa" stroke="#1a5fb4"/>
+      <text x="320" y="242" text-anchor="middle" font-size="10">Test −</text>
+      <!-- résultat -->
+      <text x="400" y="50" font-size="10" fill="#5e5c64">P = 0,4×0,8</text>
+      <text x="400" y="65" font-size="10" fill="#5e5c64">= 0,32</text>
+      <text x="400" y="100" font-size="10" fill="#5e5c64">P = 0,4×0,2</text>
+      <text x="400" y="115" font-size="10" fill="#5e5c64">= 0,08</text>
+    </svg>
+    <figcaption>Le long d'un chemin complet : on MULTIPLIE. Pour « A et Test+ » : \(0{,}4 \times 0{,}8 = 0{,}32\)</figcaption>
+  </div>
+
+  <h3>3.3 Formules indispensables</h3>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Probabilité conditionnelle</div>
+    \[ P(B|A) = \frac{P(A \cap B)}{P(A)} \]
+    <p style="font-size:10pt; color:var(--gris);">« Probabilité de B <em>sachant que</em> A est arrivé »</p>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Formule des probabilités totales (2 chemins)</div>
+    \[ P(B) = P(A)\cdot P(B|A) + P(\bar{A})\cdot P(B|\bar{A}) \]
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Loi binomiale — \(X \sim \mathcal{B}(n,\, p)\)</div>
+    \[ P(X = k) = \binom{n}{k}\, p^k\, (1-p)^{n-k} \]
+    \[ E(X) = np \qquad V(X) = np(1-p) \]
+    <p style="font-size:10pt; color:var(--gris);">\(n\) = nombre de répétitions · \(p\) = probabilité de succès à chaque épreuve · \(k\) = nombre de succès cherché</p>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Bienaymé-Tchebychev (depuis 2024)</div>
+    \[ P(|X - E(X)| \geq a) \leq \frac{V(X)}{a^2} \]
+    <p style="font-size:10pt; color:var(--gris);">Souvent en dernière question : encadrer une probabilité sans calcul exact</p>
+  </div>
+
+  <h3>3.4 Comment reconnaître une binomiale ?</h3>
+  <div class="bloc bloc-memoire">
+    <div class="bloc-titre">🧠 Test en 3 cases (coche mentalement)</div>
+    <ul class="checklist">
+      <li>On répète <strong>la même épreuve</strong> \(n\) fois ?</li>
+      <li>Chaque épreuve a 2 issues : <strong>succès / échec</strong> ?</li>
+      <li>La probabilité \(p\) de succès est <strong>la même</strong> à chaque fois ?</li>
+    </ul>
+    <p>→ Si les 3 cases sont cochées : c'est une binomiale. Écris \(X \sim \mathcal{B}(n, p)\) et applique la formule.</p>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — type bac 2025</div>
+    <p><strong>Énoncé :</strong> On teste 10 personnes. Chaque test est positif avec probabilité \(p = 0{,}3\), indépendamment. Soit \(X\) le nombre de tests positifs.</p>
+    <ol class="etapes">
+      <li>Identifier : \(n = 10\), \(p = 0{,}3\) → \(X \sim \mathcal{B}(10;\, 0{,}3)\)</li>
+      <li>\(E(X) = 10 \times 0{,}3 = 3\)</li>
+      <li>\(V(X) = 10 \times 0{,}3 \times 0{,}7 = 2{,}1\)</li>
+      <li>\(P(X = 4) = \binom{10}{4}(0{,}3)^4(0{,}7)^6\) → utiliser la calculatrice (menu Proba / nCr)</li>
+    </ol>
+  </div>
+
+  <div class="bloc bloc-danger">
+    <div class="bloc-titre">Pièges fréquents</div>
+    <ul>
+      <li>Oublier de <strong>multiplier</strong> sur un chemin d'arbre (tu additionnes seulement à la fin pour des chemins <em>différents</em>)</li>
+      <li>Confondre \(P(A|B)\) et \(P(B|A)\)</li>
+      <li>Ne pas écrire \(X \sim \mathcal{B}(n,p)\) avant de calculer → le correcteur enlève des points</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ═══════════════════ MATHS GÉO ═══════════════════ -->
+<section id="maths-geo" class="page-break">
+  <h2>4. Maths — Géométrie dans l'espace <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 2</span></h2>
+
+  <p>Depuis 2024, cet exercice est souvent en <strong>Vrai / Faux</strong>. Ton profil visuel est un atout : trace toujours un petit schéma 3D, même grossier.</p>
+
+  <h3>4.1 Repère et vecteurs</h3>
+
+  <div class="svg-box">
+    <svg viewBox="0 0 400 260" width="100%" style="max-width:400px" aria-label="Repère orthonormé 3D">
+      <line x1="60" y1="220" x2="340" y2="220" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+      <line x1="60" y1="220" x2="60" y2="40" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+      <line x1="60" y1="220" x2="160" y2="160" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+      <text x="345" y="225" font-size="14" fill="#1a5fb4" font-weight="bold">x</text>
+      <text x="50" y="35" font-size="14" fill="#2ec27e" font-weight="bold">z</text>
+      <text x="165" y="155" font-size="14" fill="#c01c28" font-weight="bold">y</text>
+      <defs>
+        <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#333"/></marker>
+      </defs>
+      <circle cx="200" cy="140" r="4" fill="#613583"/>
+      <text x="210" y="135" font-size="12" fill="#613583">A(xₐ,yₐ,zₐ)</text>
+      <line x1="200" y1="140" x2="280" y2="100" stroke="#e5a50a" stroke-width="2"/>
+      <text x="285" y="95" font-size="11" fill="#e5a50a" font-weight="bold">u⃗(α,β,γ)</text>
+    </svg>
+    <figcaption>Un point \(A(x_A, y_A, z_A)\) et un vecteur \(\vec{u}(\alpha, \beta, \gamma)\)</figcaption>
+  </div>
+
+  <div class="grille-2">
+    <div class="fiche-formule">
+      <div class="titre-fiche">Produit scalaire</div>
+      \[ \vec{u} \cdot \vec{v} = x x' + y y' + z z' \]
+      \[ \vec{u} \cdot \vec{v} = 0 \iff \vec{u} \perp \vec{v} \]
+    </div>
+    <div class="fiche-formule">
+      <div class="titre-fiche">Norme d'un vecteur</div>
+      \[ \|\vec{u}\| = \sqrt{x^2 + y^2 + z^2} \]
+    </div>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Équation cartésienne d'un plan</div>
+    \[ ax + by + cz + d = 0 \]
+    <p style="font-size:10pt;">Le vecteur \(\vec{n}(a,b,c)\) est un <strong>vecteur normal</strong> au plan (perpendiculaire)</p>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Représentation paramétrique d'une droite</div>
+    \[ \begin{cases} x = x_A + \alpha t \\ y = y_A + \beta t \\ z = z_A + \gamma t \end{cases} \quad , \quad t \in \mathbb{R} \]
+    <p style="font-size:10pt;">\((x_A, y_A, z_A)\) = un point de la droite · \((\alpha,\beta,\gamma)\) = vecteur directeur</p>
+  </div>
+
+  <h3>4.2 Stratégie Vrai / Faux</h3>
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">Méthode anti-impulsivité (adaptée à ton profil)</div>
+    <ol class="etapes">
+      <li><strong>Ne coche pas tout de suite.</strong> Lis les 4 propositions d'abord.</li>
+      <li>Pour chaque proposition : <strong>trace un schéma</strong> ou prends un <strong>exemple numérique simple</strong> (ex. : \(\vec{u}(1,0,0)\), \(\vec{v}(0,1,0)\))</li>
+      <li>Si tu n'es pas sûr → cherche un <strong>contre-exemple</strong> (une seule suffit pour dire FAUX)</li>
+      <li>Écris 2 lignes de justification, même courtes : « \(\vec{u}\cdot\vec{v} = 1\times0+0\times1+0\times0 = 0\) donc orthogonaux → VRAI »</li>
+    </ol>
+  </div>
+
+  <table>
+    <thead><tr><th>Affirmation type</th><th>Que faire ?</th></tr></thead>
+    <tbody>
+      <tr><td>« Les droites sont parallèles »</td><td>Comparer les vecteurs directeurs : colinéaires ?</td></tr>
+      <tr><td>« Le point appartient au plan »</td><td>Substituer les coordonnées dans \(ax+by+cz+d\), vérifier si = 0</td></tr>
+      <tr><td>« Les droites sont perpendiculaires »</td><td>Produit scalaire des vecteurs directeurs = 0 ?</td></tr>
+      <tr><td>« Les droites sont coplanaires »</td><td>Même plan ? Vecteurs directeurs + vecteur joignant les points : dépendants ?</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════ MATHS FONCTIONS ═══════════════════ -->
+<section id="maths-fonctions" class="page-break">
+  <h2>5. Maths — Fonctions (ln, IPP, équations différentielles) <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 3</span></h2>
+
+  <p>Tu n'as pas besoin de tout maîtriser. Vise les <strong>premières questions</strong> : limites, dérivée, formule de l'aire.</p>
+
+  <h3>5.1 La fonction ln — fiches visuelles</h3>
+
+  <div class="svg-box">
+    <svg viewBox="0 0 400 200" width="100%" style="max-width:400px" aria-label="Courbe du logarithme népérien">
+      <line x1="50" y1="170" x2="380" y2="170" stroke="#333" stroke-width="1"/>
+      <line x1="80" y1="20" x2="80" y2="170" stroke="#333" stroke-width="1"/>
+      <path d="M 90 165 Q 150 160 200 120 T 360 30" fill="none" stroke="#1a5fb4" stroke-width="3"/>
+      <text x="365" y="25" font-size="13" fill="#1a5fb4" font-weight="bold">ln</text>
+      <line x1="80" y1="100" x2="250" y2="100" stroke="#c01c28" stroke-width="1" stroke-dasharray="4"/>
+      <text x="55" y="105" font-size="11" fill="#c01c28">y=0</text>
+      <line x1="220" y1="20" x2="220" y2="170" stroke="#2ec27e" stroke-width="1" stroke-dasharray="4"/>
+      <text x="225" y="185" font-size="11" fill="#2ec27e">x=1</text>
+      <text x="30" y="50" font-size="10" fill="#5e5c64">→ +∞ quand x→0⁺</text>
+      <text x="280" y="50" font-size="10" fill="#5e5c64">→ +∞ lentement</text>
+    </svg>
+    <figcaption>\(\ln(x)\) n'existe que pour \(x > 0\). \(\ln(1) = 0\). La courbe est croissante.</figcaption>
+  </div>
+
+  <div class="grille-2">
+    <div class="fiche-formule">
+      <div class="titre-fiche">Dérivée</div>
+      \[ (\ln x)' = \frac{1}{x} \quad \text{pour } x > 0 \]
+    </div>
+    <div class="fiche-formule">
+      <div class="titre-fiche">Primitive</div>
+      \[ \int \frac{1}{x}\, dx = \ln|x| + C \]
+    </div>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Propriétés algébriques du ln</div>
+    \[ \ln(ab) = \ln a + \ln b \qquad \ln\left(\frac{a}{b}\right) = \ln a - \ln b \qquad \ln(a^n) = n\ln a \]
+  </div>
+
+  <h3>5.2 Intégration par parties (IPP)</h3>
+
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">Formule IPP — à recopier telle quelle sur la copie</div>
+    <div class="fiche-formule">
+      \[ \int_a^b u(t)\, v'(t)\, dt = \Big[ u(t)\, v(t) \Big]_a^b - \int_a^b u'(t)\, v(t)\, dt \]
+    </div>
+    <p><strong>Choix classique au bac :</strong> \(u(t) = t\) ou \(\ln(t)\) · \(v'(t) = e^t\) ou \(1\) ou un polynôme</p>
+  </div>
+
+  <h3>5.3 Équations différentielles du 1er ordre</h3>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Type : \(y' = ay \) (sans second membre)</div>
+    \[ y(t) = k\, e^{at} \quad , \quad k \in \mathbb{R} \]
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Type : \(y' = ay + b \) (avec second membre)</div>
+    \[ y(t) = -\frac{b}{a} + k\, e^{at} \]
+    <p style="font-size:10pt;">Étapes : (1) solution générale (2) si condition initiale \(y(0) = y_0\), trouver \(k\)</p>
+  </div>
+
+  <div class="bloc bloc-attention">
+    <div class="bloc-titre">Si tu bloques sur l'exo fonctions</div>
+    <p>Écris quand même : la dérivée, les limites « \(\lim_{x\to0^+} \ln x = -\infty\) », la formule IPP. Même sans finir le calcul, tu grattes 1 à 2 points.</p>
+  </div>
+</section>
+
+<!-- ═══════════════════ MATHS SUITES ═══════════════════ -->
+<section id="maths-suites">
+  <h2>6. Maths — Suites &amp; Python <span class="tag tag-maths">MATHS</span></h2>
+
+  <h3>6.1 Suites essentielles</h3>
+
+  <table>
+    <thead><tr><th>Type</th><th>Définition</th><th>Formule clé</th></tr></thead>
+    <tbody>
+      <tr><td>Arithmétique</td><td>\(u_{n+1} = u_n + r\)</td><td>\(u_n = u_0 + nr\)</td></tr>
+      <tr><td>Géométrique</td><td>\(u_{n+1} = q \cdot u_n\)</td><td>\(u_n = u_0 \cdot q^n\)</td></tr>
+      <tr><td>Récurrence</td><td>\(u_{n+1} = f(u_n)\)</td><td>Raisonner par récurrence en 3 temps (init, hérédité, conc.)</td></tr>
+    </tbody>
+  </table>
+
+  <h3>6.2 Raisonnement par récurrence — schéma</h3>
+  <div class="grille-3">
+    <div class="carte"><span class="numero">1</span><strong>Initialisation</strong><br>Vérifier que la propriété est vraie pour \(n = 0\) (ou \(n = 1\))</div>
+    <div class="carte"><span class="numero">2</span><strong>Hérédité</strong><br>Supposer vrai au rang \(n\), montrer au rang \(n+1\)</div>
+    <div class="carte"><span class="numero">3</span><strong>Conclusion</strong><br>« Par récurrence, la propriété est vraie pour tout \(n\) »</div>
+  </div>
+
+  <h3>6.3 Python — lecture minimale</h3>
+  <div class="bloc bloc-memoire">
+    <div class="bloc-titre">Tu n'as pas besoin de programmer — seulement de LIRE</div>
+    <pre style="background:#241f31; color:#fff; padding:1em; border-radius:8px; font-size:9.5pt; overflow-x:auto;">
+u = 1          # valeur initiale
+for n in range(5):
+    print(u)   # affiche u avant mise à jour
+    u = 2*u + 1  # formule de récurrence
+    </pre>
+    <p>Lis ligne par ligne : « au tour 0, u vaut 1, on affiche 1, puis u devient 3… »</p>
+  </div>
+</section>
+
+<!-- ═══════════════════ MATHS JOUR J ═══════════════════ -->
+<section id="maths-jourj" class="page-break">
+  <h2>7. Maths — Stratégie jour J <span class="tag tag-maths">MATHS</span></h2>
+
+  <table>
+    <thead><tr><th>Temps</th><th>Action</th></tr></thead>
+    <tbody>
+      <tr><td>0–10 min</td><td>Lire les <strong>4 exercices</strong>. Repérer l'exo probas.</td></tr>
+      <tr><td>10–70 min</td><td><strong>Exercice 1 Probas</strong> — arbre + binomiale. Ton objectif principal.</td></tr>
+      <tr><td>70–110 min</td><td><strong>Géométrie</strong> (Vrai/Faux) — répondre à TOUT</td></tr>
+      <tr><td>110–180 min</td><td>Exo fonctions ou suites — <strong>premières questions seulement</strong></td></tr>
+      <tr><td>180–240 min</td><td>Revenir sur les questions laissées · vérifier les calculs</td></tr>
+    </tbody>
+  </table>
+
+  <div class="bloc bloc-force">
+    <div class="bloc-titre">Rappel pour ton profil</div>
+    <p>Tu es <strong>plus lent que la moyenne</strong> — c'est normal et ce n'est pas un handicap si tu es <strong>précis</strong>. Ne compare pas ta vitesse aux autres candidats. Vise une copie <em>propre et partielle</em> plutôt qu'une copie <em>complète et bâclée</em>.</p>
+  </div>
+</section>
+
+<!-- ═══════════════════ PC pH ═══════════════════ -->
+<section id="pc-ph" class="page-break">
+  <h2>8. PC — pH, acide-base &amp; titrages <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 1</span></h2>
+
+  <p>Le chapitre le plus fréquent du bac PC (≈ 95 % des sessions). Beaucoup de questions sont <strong>mécaniques</strong> : appliquer une formule.</p>
+
+  <h3>8.1 Échelle de pH — visuel</h3>
+  <div class="svg-box">
+    <svg viewBox="0 0 500 80" width="100%" style="max-width:500px" aria-label="Échelle de pH">
+      <defs>
+        <linearGradient id="phgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:#c01c28"/>
+          <stop offset="50%" style="stop-color:#2ec27e"/>
+          <stop offset="100%" style="stop-color:#1a5fb4"/>
+        </linearGradient>
+      </defs>
+      <rect x="30" y="25" width="440" height="30" rx="6" fill="url(#phgrad)"/>
+      <text x="30" y="70" font-size="11" fill="#c01c28">0 acide</text>
+      <text x="240" y="70" text-anchor="middle" font-size="11" fill="#333">7 neutre</text>
+      <text x="460" y="70" text-anchor="end" font-size="11" fill="#1a5fb4">14 basique</text>
+      <text x="30" y="18" font-size="10" fill="#5e5c64">pH = 1 → [H₃O⁺] = 10⁻¹ mol/L</text>
+    </svg>
+    <figcaption>Plus le pH est bas, plus c'est acide. Plus le pH est haut, plus c'est basique.</figcaption>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Formule du pH</div>
+    \[ \mathrm{pH} = -\log_{10}\bigl[\mathrm{H_3O^+}\bigr] \]
+    <p style="font-size:10pt;">Attention : \(\log\) en base 10, pas le ln ! Sur la calculatrice : bouton <code>log</code></p>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Acide faible — relation de Henderson-Hasselbalch</div>
+    \[ \mathrm{pH} = \mathrm{p}K_a + \log\frac{[\mathrm{A^-}]}{[\mathrm{AH}]} \]
+    <p style="font-size:10pt;">À la <strong>demi-équivalence</strong> : \(\mathrm{pH} = \mathrm{p}K_a\) (lecture directe sur la courbe)</p>
+  </div>
+
+  <h3>8.2 Titrage pH-métrique</h3>
+
+  <div class="svg-box">
+    <svg viewBox="0 0 400 220" width="100%" style="max-width:400px" aria-label="Courbe de titrage">
+      <line x1="60" y1="190" x2="360" y2="190" stroke="#333" stroke-width="1.5"/>
+      <line x1="60" y1="30" x2="60" y2="190" stroke="#333" stroke-width="1.5"/>
+      <text x="200" y="215" text-anchor="middle" font-size="12" fill="#333">Volume de titrant (mL)</text>
+      <text x="25" y="110" text-anchor="middle" font-size="12" fill="#333" transform="rotate(-90,25,110)">pH</text>
+      <path d="M 70 170 Q 120 165 180 160 Q 220 155 240 80 Q 250 40 280 30 Q 320 28 350 30" fill="none" stroke="#1a5fb4" stroke-width="2.5"/>
+      <line x1="240" y1="30" x2="240" y2="190" stroke="#c01c28" stroke-width="1.5" stroke-dasharray="5"/>
+      <text x="245" y="50" font-size="11" fill="#c01c28" font-weight="bold">Équivalence</text>
+      <text x="245" y="205" font-size="11" fill="#c01c28">Véq</text>
+      <circle cx="160" cy="158" r="5" fill="#e5a50a"/>
+      <text x="100" y="145" font-size="10" fill="#e5a50a">demi-éq : pH = pKa</text>
+    </svg>
+    <figcaption>À l'équivalence : \(C_a V_a = C_b V_b\) (pour un acide monoprotique + base monoprotique)</figcaption>
+  </div>
+
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">Recette titrage (à suivre sur la copie)</div>
+    <ol class="etapes">
+      <li>Écrire l'<strong>équation chimique</strong> de la réaction support (ex. : \(\mathrm{AH + HO^- \rightarrow A^- + H_2O}\))</li>
+      <li>Identifier ce qu'on cherche : \(C_a\), \(C_b\), ou \(V_{eq}\)</li>
+      <li>À l'équivalence : <strong>quantités de matière égales</strong> → \(n_{acid} = n_{base}\)</li>
+      <li>Écrire \(C_a V_a = C_b V_b\) · isoler l'inconnue · calculer</li>
+      <li>Encadrer le résultat avec <strong>unité</strong> (mol/L)</li>
+    </ol>
+  </div>
+
+  <h3>8.3 Titrage conductimétrique</h3>
+  <div class="fiche-formule">
+    <div class="titre-fiche">Loi de Kohlrausch</div>
+    \[ \sigma = \sum_i \lambda_i \cdot [X_i] \]
+    <p style="font-size:10pt;">\(\sigma\) = conductivité · \(\lambda_i\) = conductivité ionique molaire · \([X_i]\) = concentration ionique</p>
+  </div>
+  <p>Sur la courbe \(\sigma = f(V)\) : chercher un <strong>cassure / changement de pente</strong> → équivalence.</p>
+</section>
+
+<!-- ═══════════════════ PC MÉCA ═══════════════════ -->
+<section id="pc-meca" class="page-break">
+  <h2>9. PC — Mécanique (Newton &amp; énergie) <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 2</span></h2>
+
+  <h3>9.1 Bilan des forces — schéma systématique</h3>
+
+  <div class="svg-box">
+    <svg viewBox="0 0 350 200" width="100%" style="max-width:350px" aria-label="Diagramme des forces">
+      <circle cx="175" cy="100" r="30" fill="#e8f0fa" stroke="#1a5fb4" stroke-width="2"/>
+      <text x="175" y="105" text-anchor="middle" font-size="13" font-weight="bold">m</text>
+      <line x1="175" y1="70" x2="175" y2="25" stroke="#c01c28" stroke-width="2" marker-end="url(#arr)"/>
+      <text x="190" y="40" font-size="12" fill="#c01c28" font-weight="bold">P⃗ = mg</text>
+      <line x1="205" y1="100" x2="280" y2="100" stroke="#2ec27e" stroke-width="2" marker-end="url(#arr)"/>
+      <text x="285" y="105" font-size="12" fill="#2ec27e" font-weight="bold">F⃗</text>
+      <line x1="145" y1="100" x2="70" y2="100" stroke="#e5a50a" stroke-width="2" marker-end="url(#arr)"/>
+      <text x="40" y="105" font-size="12" fill="#e5a50a" font-weight="bold">f⃗ frott.</text>
+      <line x1="175" y1="130" x2="175" y2="175" stroke="#613583" stroke-width="2" marker-end="url(#arr)"/>
+      <text x="190" y="165" font-size="11" fill="#613583" font-weight="bold">R⃗ réaction</text>
+      <defs><marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#333"/></marker></defs>
+    </svg>
+    <figcaption>Toujours commencer par un schéma des forces sur le système étudié</figcaption>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">2e loi de Newton</div>
+    \[ \sum \vec{F} = m\, \vec{a} \]
+    <p style="font-size:10pt;">Projeter sur chaque axe (x horizontal, z vertical) · Résoudre le système</p>
+  </div>
+
+  <div class="grille-2">
+    <div class="fiche-formule">
+      <div class="titre-fiche">Énergie cinétique</div>
+      \[ E_c = \frac{1}{2} m v^2 \quad \text{en joules (J)} \]
+    </div>
+    <div class="fiche-formule">
+      <div class="titre-fiche">Énergie potentielle (pesanteur)</div>
+      \[ E_p = m g h \quad \text{en joules (J)} \]
+    </div>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Énergie mécanique (sans frottements)</div>
+    \[ E_m = E_c + E_p = \text{constante} \]
+    \[ \frac{1}{2}mv_A^2 + mgh_A = \frac{1}{2}mv_B^2 + mgh_B \]
+  </div>
+
+  <h3>9.2 Projectile — équations horaires</h3>
+  <div class="fiche-formule">
+    \[ x(t) = v_0 \cos\alpha \cdot t \qquad z(t) = -\frac{1}{2}gt^2 + v_0\sin\alpha \cdot t + z_0 \]
+  </div>
+
+  <div class="bloc bloc-attention">
+    <div class="bloc-titre">Conversions à ne pas oublier (piège classique)</div>
+    <table>
+      <tr><td>km/h → m/s</td><td>diviser par 3,6</td></tr>
+      <tr><td>g = 9,81 m/s²</td><td>toujours en SI</td></tr>
+      <tr><td>km → m</td><td>× 1000</td></tr>
+      <tr><td>cm² → m²</td><td>× 10⁻⁴</td></tr>
+    </table>
+  </div>
+</section>
+
+<!-- ═══════════════════ PC ORGA ═══════════════════ -->
+<section id="pc-orga" class="page-break">
+  <h2>10. PC — Synthèse organique <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 3</span></h2>
+
+  <h3>10.1 Groupes fonctionnels — tableau visuel</h3>
+
+  <table>
+    <thead><tr><th>Groupe</th><th>Formule</th><th>Nom en -ol, -al, -one…</th></tr></thead>
+    <tbody>
+      <tr><td>Alcool</td><td>\(\mathrm{-OH}\)</td><td>éthan<strong>ol</strong>, propan<strong>ol</strong></td></tr>
+      <tr><td>Aldéhyde</td><td>\(\mathrm{-CHO}\)</td><td>éthan<strong>al</strong></td></tr>
+      <tr><td>Cétone</td><td>\(\mathrm{-CO-}\)</td><td>propan<strong>one</strong></td></tr>
+      <tr><td>Acide carboxylique</td><td>\(\mathrm{-COOH}\)</td><td>acide éthanoïque</td></tr>
+      <tr><td>Ester</td><td>\(\mathrm{-COO-}\)</td><td>éthanoate de…</td></tr>
+    </tbody>
+  </table>
+
+  <h3>10.2 Rendement</h3>
+  <div class="fiche-formule">
+    \[ \eta = \frac{m_{\text{obtenue}}}{m_{\text{théorique}}} \times 100 \quad \text{en %} \]
+  </div>
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">Trouver \(m_{\text{théorique}}\)</div>
+    <ol class="etapes">
+      <li>Écrire l'équation chimique <strong>équilibrée</strong></li>
+      <li>Identifier le <strong>réactif limitant</strong> (celui qui s'épuise en premier)</li>
+      <li>Calculer \(n = \frac{m}{M}\) du réactif limitant</li>
+      <li>Utiliser les coefficients stœchiométriques pour trouver \(m_{\text{théorique}}\) du produit</li>
+    </ol>
+  </div>
+
+  <h3>10.3 Spectroscopie IR — repères visuels</h3>
+  <div class="grille-2">
+    <div class="carte">
+      <strong>Bande large ~3300 cm⁻¹</strong><br>
+      Liaison O−H (alcool, acide carboxylique)
+    </div>
+    <div class="carte">
+      <strong>Pic fin intense ~1700 cm⁻¹</strong><br>
+      C=O (aldéhyde, cétone, acide, ester)
+    </div>
+  </div>
+
+  <h3>10.4 Réaction type : estérification</h3>
+  <div class="fiche-formule">
+    \[ \mathrm{RCOOH + R'OH \rightleftharpoons RCOOR' + H_2O} \]
+    <p style="font-size:10pt;">Acide + alcool → ester + eau · Réaction lente, souvent catalysée (H⁺), chauffage à reflux</p>
+  </div>
+</section>
+
+<!-- ═══════════════════ PC ONDES ═══════════════════ -->
+<section id="pc-ondes" class="page-break">
+  <h2>11. PC — Ondes, optique &amp; circuit RC <span class="tag tag-pc">PC</span></h2>
+
+  <h3>11.1 Diffraction &amp; interférences</h3>
+
+  <div class="grille-2">
+    <div class="fiche-formule">
+      <div class="titre-fiche">Diffraction (fente unique)</div>
+      \[ \theta = \frac{\lambda}{a} \]
+      <p style="font-size:10pt;">\(\lambda\) = longueur d'onde · \(a\) = largeur de la fente</p>
+    </div>
+    <div class="fiche-formule">
+      <div class="titre-fiche">Interférences (2 fentes)</div>
+      \[ i = \frac{\lambda D}{b} \]
+      <p style="font-size:10pt;">\(i\) = interfrange · \(D\) = distance écran · \(b\) = distance entre fentes</p>
+    </div>
+  </div>
+
+  <div class="bloc bloc-attention">
+    <div class="bloc-titre">Ne pas mélanger</div>
+    <p><strong>1 fente</strong> → diffraction · <strong>2 fentes ou 2 sources</strong> → interférences. Lis bien l'énoncé.</p>
+  </div>
+
+  <h3>11.2 Circuit RC</h3>
+
+  <div class="svg-box">
+    <svg viewBox="0 0 320 140" width="100%" style="max-width:320px" aria-label="Circuit RC série">
+      <rect x="30" y="50" width="60" height="40" rx="4" fill="#e8f0fa" stroke="#1a5fb4" stroke-width="2"/>
+      <text x="60" y="75" text-anchor="middle" font-size="14" font-weight="bold">R</text>
+      <line x1="90" y1="70" x2="130" y2="70" stroke="#333" stroke-width="2"/>
+      <line x1="130" y1="55" x2="130" y2="85" stroke="#333" stroke-width="2"/>
+      <line x1="135" y1="55" x2="135" y2="85" stroke="#333" stroke-width="2"/>
+      <text x="145" y="75" font-size="14" font-weight="bold">C</text>
+      <line x1="135" y1="70" x2="200" y2="70" stroke="#333" stroke-width="2"/>
+      <line x1="200" y1="70" x2="200" y2="100" stroke="#333" stroke-width="2"/>
+      <line x1="200" y1="100" x2="30" y2="100" stroke="#333" stroke-width="2"/>
+      <line x1="30" y1="100" x2="30" y2="70" stroke="#333" stroke-width="2"/>
+      <text x="215" y="65" font-size="12" fill="#c01c28">u_C</text>
+      <circle cx="25" cy="85" r="8" fill="none" stroke="#333" stroke-width="2"/>
+      <text x="18" y="110" font-size="11">E</text>
+    </svg>
+    <figcaption>Circuit RC : résistance + condensateur en série</figcaption>
+  </div>
+
+  <div class="fiche-formule">
+    <div class="titre-fiche">Charge du condensateur</div>
+    \[ u_C(t) = E\left(1 - e^{-t/\tau}\right) \quad , \quad \tau = RC \]
+    <p style="font-size:10pt;">À \(t = \tau\) : \(u_C\) atteint 63 % de \(E\) · À \(t = 3\tau\) : ≈ 95 % de \(E\)</p>
+  </div>
+
+  <h3>11.3 Radioactivité (montée en 2025)</h3>
+  <div class="fiche-formule">
+    \[ N(t) = N_0 \cdot e^{-\lambda t} \qquad t_{1/2} = \frac{\ln 2}{\lambda} \]
+    <p style="font-size:10pt;">La formule est souvent <strong>donnée dans le sujet</strong> — lis bien l'énoncé</p>
+  </div>
+
+  <h3>11.4 Cinétique chimique</h3>
+  <div class="fiche-formule">
+    <div class="titre-fiche">Vitesse de disparition d'un réactif</div>
+    \[ v = -\frac{d[\mathrm{X}]}{dt} \]
+    <p style="font-size:10pt;">Sur un graphique \([\mathrm{X}] = f(t)\) : la vitesse à un instant = valeur absolue de la <strong>tangente</strong></p>
+  </div>
+  <div class="fiche-formule">
+    <div class="titre-fiche">Demi-vie (ordre 1)</div>
+    \[ t_{1/2} = \frac{\ln 2}{k} \qquad [\mathrm{X}](t) = [\mathrm{X}]_0 \cdot e^{-kt} \]
+  </div>
+
+  <h3>11.5 Mécanique des fluides — Bernoulli (hausse 2025)</h3>
+  <div class="fiche-formule">
+    \[ P + \frac{1}{2}\rho v^2 + \rho g h = \text{constante} \qquad S_1 v_1 = S_2 v_2 \]
+    <p style="font-size:10pt;">Écoulement incompressible · régime permanent · même filet de courant</p>
+  </div>
+  <div class="bloc bloc-attention">
+    <div class="bloc-titre">Effet Venturi (schéma mental)</div>
+    <p>Rétrécissement de section → vitesse <strong>augmente</strong> → pression <strong>diminue</strong>. Trace une canalisation qui se rétrécit au milieu.</p>
+  </div>
+</section>
+
+<!-- ═══════════════════ PC JOUR J ═══════════════════ -->
+<section id="pc-jourj" class="page-break">
+  <h2>12. PC — Stratégie jour J <span class="tag tag-pc">PC</span></h2>
+
+  <table>
+    <thead><tr><th>Temps</th><th>Action</th></tr></thead>
+    <tbody>
+      <tr><td>0–10 min</td><td>Lire les <strong>3 exercices</strong>. Repérer chimie / physique.</td></tr>
+      <tr><td>10–90 min</td><td>Commencer par l'exercice <strong>chimie</strong> (titrage, synthèse) — recette mécanique</td></tr>
+      <tr><td>90–160 min</td><td>Exercice <strong>physique</strong> — schéma des forces + formules</td></tr>
+      <tr><td>160–210 min</td><td>3e exercice + relecture</td></tr>
+    </tbody>
+  </table>
+
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">Structure de CHAQUE réponse PC</div>
+    <ol class="etapes">
+      <li><strong>Données</strong> : recopier les valeurs de l'énoncé dans un tableau</li>
+      <li><strong>Formule littérale</strong> : l'écrire avant tout calcul</li>
+      <li><strong>Application numérique</strong> : avec unités à chaque étape</li>
+      <li><strong>Résultat encadré</strong> + commentaire (ordre de grandeur)</li>
+    </ol>
+  </div>
+</section>
+
+<!-- ═══════════════════ FICHES DÉCOUPABLES ═══════════════════ -->
+<section id="fiches" class="page-break">
+  <h2>13. Fiches formules à découper</h2>
+
+  <p style="font-size:10pt; color:var(--gris);">Découpe ces fiches et colle-les au mur. Une fiche = une catégorie (comme ta stratégie de fluences verbales). Regarde-les 2 min matin et soir.</p>
+
+  <div class="grille-2">
+    <div class="fiche-formule" style="border-color:var(--bleu);">
+      <div class="titre-fiche" style="color:var(--bleu);">📘 MATHS — Probas</div>
+      \(P(A\cap B) = P(A) \cdot P(B|A)\)<br><br>
+      \(P(X=k) = \binom{n}{k}p^k(1-p)^{n-k}\)<br><br>
+      \(E(X) = np\) · \(V(X) = np(1-p)\)
+    </div>
+    <div class="fiche-formule" style="border-color:var(--bleu);">
+      <div class="titre-fiche" style="color:var(--bleu);">📘 MATHS — Géo &amp; fonctions</div>
+      \(\vec{u}\cdot\vec{v} = xx'+yy'+zz'\)<br><br>
+      \((\ln x)' = 1/x\)<br><br>
+      \(y' = ay+b \Rightarrow y = -b/a + ke^{at}\)
+    </div>
+    <div class="fiche-formule" style="border-color:var(--vert);">
+      <div class="titre-fiche" style="color:#1a7a4c;">🧪 PC — Chimie</div>
+      \(\mathrm{pH} = -\log[\mathrm{H_3O^+}]\)<br><br>
+      \(C_a V_a = C_b V_{eq}\)<br><br>
+      \(\eta = m_{obt}/m_{théo} \times 100\)
+    </div>
+    <div class="fiche-formule" style="border-color:var(--vert);">
+      <div class="titre-fiche" style="color:#1a7a4c;">🧪 PC — Physique</div>
+      \(\sum\vec{F} = m\vec{a}\)<br><br>
+      \(E_c = \frac{1}{2}mv^2\) · \(E_p = mgh\)<br><br>
+      \(\tau = RC\) · \(\theta = \lambda/a\)
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════ CHECKLIST ═══════════════════ -->
+<section id="checklist" class="page-break">
+  <h2>14. Checklist — Avant, pendant, après</h2>
+
+  <h3>La veille</h3>
+  <ul class="checklist">
+    <li>Convocation + pièce d'identité prêtes</li>
+    <li>Calculatrice chargée + <strong>mode examen activé</strong></li>
+    <li>Stylos, règle, compas (maths), eau</li>
+    <li>Relire les 4 fiches formules (10 min max, pas plus)</li>
+    <li>Coucher-tôt : la fatigue aggrave l'attention</li>
+  </ul>
+
+  <h3>Pendant l'épreuve</h3>
+  <ul class="checklist">
+    <li>Respirer. Tu as le droit d'être lent — sois précis.</li>
+    <li>Commencer par l'exercice le plus « recette » (probas en maths, chimie en PC)</li>
+    <li>Écrire les formules <strong>avant</strong> les calculs</li>
+    <li>Ne rien laisser vide</li>
+    <li>Encadrer chaque résultat avec son unité</li>
+    <li>En cas de bruit/distraction : poser le stylo, regarder sa feuille, reprendre</li>
+  </ul>
+
+  <h3>Après l'épreuve</h3>
+  <ul class="checklist">
+    <li>Les notes sont conservées — chaque point compte pour les prochaines sessions</li>
+    <li>Ne pas se juger — tu as fait de ton mieux avec le temps disponible</li>
+  </ul>
+
+  <div class="bloc bloc-force" style="margin-top:2em;">
+    <div class="bloc-titre">Message final</div>
+    <p>Ce guide ne remplace pas 6 ans de cours. Mais il est construit pour <strong>ton cerveau</strong> : visuel, structuré, par étapes, sans surcharge. Au bac, une copie partielle et soignée vaut mieux qu'une copie vide. <strong>Tu as des vraies capacités de raisonnement</strong> — utilise-les avec méthode, pas avec vitesse.</p>
+  </div>
+</section>
+
+<footer style="margin-top:3em; padding-top:1em; border-top:1px solid var(--bordure); font-size:9pt; color:var(--gris); text-align:center;">
+  Formation Bac — Spé Maths &amp; PC · Guide adapté au profil cognitif · Annales 2021–2025<br>
+  Imprimer en PDF : Ctrl+P → A4, marges par défaut, graphiques d'arrière-plan activés
+</footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    if (window.MathJax && MathJax.typesetPromise) {
+      MathJax.typesetPromise().catch(function(err) { console.log('MathJax:', err); });
+    }
+  });
+</script>
+</body>
+</html>
