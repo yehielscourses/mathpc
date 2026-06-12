@@ -13,7 +13,7 @@
       startup: { typeset: false }
     };
   </script>
-  <script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" defer></script>
+  <script id="MathJax-script" src="vendor/tex-chtml.js" defer></script>
   <style>
     :root {
       --bleu: #1a5fb4;
@@ -96,7 +96,26 @@
     .bloc-memoire { background: var(--violet-clair); border-left: 5px solid var(--violet); }
     .bloc-danger { background: var(--rouge-clair); border-left: 5px solid var(--rouge); }
     .bloc-methode { background: var(--bleu-clair); border-left: 5px solid var(--bleu); }
+    .bloc-comprendre { background: #f0f7ff; border-left: 5px solid #3584e4; }
+    .bloc-pourquoi { background: #fff8e6; border-left: 5px solid #f5a623; }
     .bloc-titre { font-weight: 700; margin-bottom: 0.4em; font-size: 10.5pt; text-transform: uppercase; letter-spacing: 0.03em; }
+
+    .idee-cle {
+      font-size: 11.5pt;
+      font-weight: 600;
+      color: var(--violet);
+      margin: 0.8em 0 0.4em;
+      padding: 0.5em 0.8em;
+      background: var(--violet-clair);
+      border-radius: 6px;
+      page-break-inside: avoid;
+    }
+    .fil-logique {
+      margin: 0.8em 0;
+      padding-left: 1em;
+      border-left: 3px solid var(--bordure);
+    }
+    .fil-logique p { margin: 0.35em 0; }
 
     .etapes { counter-reset: etape; list-style: none; padding: 0; margin: 0.8em 0; }
     .etapes li {
@@ -300,9 +319,9 @@
   <h1>Formation express Bac</h1>
   <p class="sous-titre">Spécialité Mathématiques &amp; Spécialité Physique-Chimie</p>
   <p class="sous-titre">Guide visuel adapté à ton profil cognitif</p>
-  <span class="badge">Mode survie — limiter les dégâts</span>
+  <span class="badge">Guide autonome — lis, comprends, imprime</span>
   <p style="margin-top:1.5em; font-size:10pt; color:var(--gris);">
-    Candidat libre · Programme ciblé · Annales 2021–2025
+    Candidat libre · Programme ciblé · Annales 2021–2025 · <strong>Fonctionne sans internet</strong> une fois ouvert
   </p>
 </header>
 
@@ -310,6 +329,7 @@
 <nav class="toc">
   <strong>Sommaire</strong>
   <ol>
+    <li><a href="#lire">Comment lire ce guide sans internet</a></li>
     <li><a href="#profil">Comment ce guide est fait pour toi</a></li>
     <li><a href="#plan">Plan sur 4 jours</a></li>
     <li><a href="#maths-probas">Maths — Probabilités &amp; loi binomiale</a></li>
@@ -326,6 +346,35 @@
     <li><a href="#checklist">Checklist examen</a></li>
   </ol>
 </nav>
+
+<!-- ═══════════════════ COMMENT LIRE ═══════════════════ -->
+<section id="lire">
+  <h2>0. Comment lire ce guide sans internet</h2>
+
+  <p class="idee-cle">Ce document n'est pas une liste de formules à mémoriser : c'est un <strong>cours condensé</strong>. Chaque chapitre explique <em>pourquoi</em> les formules existent, <em>quand</em> les utiliser, et <em>comment</em> raisonner étape par étape.</p>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Structure de chaque chapitre</div>
+    <ol class="etapes">
+      <li><strong>L'idée en une phrase</strong> — de quoi parle-t-on ? (ex. : « le pH mesure l'acidité »)</li>
+      <li><strong>Le schéma</strong> — une image mentale à refaire sur ta feuille</li>
+      <li><strong>La logique</strong> — pourquoi on multiplie, pourquoi on additionne, d'où vient la formule</li>
+      <li><strong>La recette</strong> — les étapes numérotées à suivre sur une copie d'examen</li>
+      <li><strong>Un exemple complet</strong> — chaque calcul est expliqué, pas seulement le résultat</li>
+      <li><strong>Les pièges</strong> — erreurs fréquentes et comment les éviter</li>
+    </ol>
+  </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Si tu ne comprends pas une phrase</div>
+    <p>Ne passe pas à la suite. Relis le paragraphe précédent, puis le schéma. Les encadrés bleus « Comprendre » et oranges « Pourquoi » répondent aux questions du type « mais pourquoi on fait ça ? ». Si tu imprimes le PDF, surligne ces encadrés : ce sont eux qui te serviront demain sans connexion.</p>
+  </div>
+
+  <div class="bloc bloc-methode">
+    <div class="bloc-titre">Ordre de lecture recommandé (4 jours)</div>
+    <p>Suis le plan §2. Pour chaque bloc de 25 minutes : (1) lis la partie « logique », (2) refais le schéma sur une feuille vierge, (3) refais l'exemple guidé sans regarder la correction, (4) vérifie. Tu n'as besoin d'aucun autre site ni livre si tu fais ces 4 étapes.</p>
+  </div>
+</section>
 
 <!-- ═══════════════════ PROFIL ADAPTÉ ═══════════════════ -->
 <section id="profil">
@@ -360,7 +409,7 @@
     <div class="bloc-titre">📐 Règles d'or de ce guide</div>
     <ol class="etapes">
       <li><strong>Une notion = un schéma + une formule + un exemple.</strong> Ne passe à la suivante que quand tu peux refaire le schéma de mémoire (sans le texte).</li>
-      <li><strong>Ne lis pas, fais.</strong> Recopie les arbres, trace les figures, calcule sur une feuille à côté.</li>
+      <li><strong>Lis la logique, puis fais.</strong> Après chaque encadré « Comprendre », recopie le schéma et refais l'exemple sur une feuille à côté.</li>
       <li><strong>25 minutes par bloc</strong>, puis pause. Mets un minuteur.</li>
       <li><strong>Au bac : rien ne reste vide.</strong> Même une formule seule rapporte des points.</li>
     </ol>
@@ -410,6 +459,8 @@
 
   <p>L'exercice 1 du bac tombe <strong>à chaque session</strong> depuis 2022. C'est ton meilleur investissement.</p>
 
+  <p class="idee-cle">Une probabilité, c'est un <strong>nombre entre 0 et 1</strong> qui mesure à quel point un événement est <em>vraisemblable</em>. 0 = impossible, 1 = certain, 0,5 = une chance sur deux.</p>
+
   <h3>3.1 Vocabulaire (schéma mental)</h3>
   <div class="svg-box">
     <svg viewBox="0 0 520 200" width="100%" style="max-width:520px" aria-label="Schéma expérience aléatoire">
@@ -435,6 +486,16 @@
     <div class="carte"><span class="numero">P</span><br>\(P(A)\) = chance que A arrive. Entre 0 et 1.</div>
     <div class="carte"><span class="numero">∩</span><br>\(A \cap B\) = A <strong>et</strong> B en même temps</div>
     <div class="carte"><span class="numero">∪</span><br>\(A \cup B\) = A <strong>ou</strong> B (l'un ou l'autre ou les deux)</div>
+  </div>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre — à quoi servent ces symboles ?</div>
+    <div class="fil-logique">
+      <p><strong>\(P(A)\)</strong> : sur toutes les issues possibles (l'univers \(\Omega\)), quelle fraction correspond à A ? Exemple : tirer un dé, \(A\) = « obtenir un 6 » → \(P(A) = 1/6\).</p>
+      <p><strong>\(A \cap B\)</strong> (« A et B ») : les deux événements arrivent <em>en même temps</em>. Exemple : « carte rouge » ET « as » = seulement l'as de cœur et l'as de carreau.</p>
+      <p><strong>\(A \cup B\)</strong> (« A ou B ») : au moins l'un des deux arrive. Exemple : « 5 ou 6 au dé » → 2 issues sur 6 → \(P = 2/6 = 1/3\).</p>
+      <p><strong>\(\bar{A}\)</strong> (« A barre ») : le contraire de A, « pas A ». Toujours : \(P(\bar{A}) = 1 - P(A)\). Si \(P(\text{pluie}) = 0{,}3\), alors \(P(\text{pas de pluie}) = 0{,}7\).</p>
+    </div>
   </div>
 
   <h3>3.2 L'arbre pondéré — ta recette visuelle</h3>
@@ -486,6 +547,13 @@
     <figcaption>Le long d'un chemin complet : on MULTIPLIE. Pour « A et Test+ » : \(0{,}4 \times 0{,}8 = 0{,}32\)</figcaption>
   </div>
 
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi multiplier sur un chemin ? Pourquoi additionner entre chemins ?</div>
+    <p><strong>Multiplier</strong> : un chemin de la racine à une feuille, c'est une suite d'étapes qui doivent <em>toutes</em> réussir l'une après l'autre. « Groupe A (40 %) <strong>et</strong> test positif (80 % parmi les A) » → on prend 80 % <em>de</em> 40 % → \(0{,}4 \times 0{,}8\). C'est comme deux filtres successifs.</p>
+    <p><strong>Additionner</strong> : des chemins <em>différents</em> mènent à des issues <em>incompatibles</em> (on ne peut pas être à la fois « A et Test+ » et « B et Test+ »). Pour « Test positif » tout court, on additionne tous les chemins qui y mènent : \(0{,}32 + 0{,}3 = 0{,}62\) (en complétant l'arbre).</p>
+    <p><strong>Vérifier que les branches d'un niveau font 1</strong> : à chaque étape, <em>quelque chose</em> doit arriver. Si tu as « A » et « B » au 1er niveau, \(P(A)+P(B)\) doit valoir 1. Sinon, ton arbre est faux.</p>
+  </div>
+
   <h3>3.3 Formules indispensables</h3>
 
   <div class="fiche-formule">
@@ -494,9 +562,21 @@
     <p style="font-size:10pt; color:var(--gris);">« Probabilité de B <em>sachant que</em> A est arrivé »</p>
   </div>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre la probabilité conditionnelle</div>
+    <p>La notation \(P(B|A)\) se lit « probabilité de B <strong>sachant</strong> A ». On ne regarde plus tout l'univers : on se place <em>dans le cas où A est déjà arrivé</em>, et on cherche quelle part de ce sous-ensemble correspond aussi à B.</p>
+    <p><strong>Exemple concret :</strong> Dans une classe, 60 % des élèves sont des filles (\(A\)), et 30 % de la classe portent des lunettes (\(B\)). Parmi les filles, 40 % portent des lunettes. Alors \(P(B|A) = 0{,}4\) (lunettes sachant fille), pas \(0{,}3\) (lunettes dans toute la classe). La formule \(P(A \cap B) = P(A) \times P(B|A)\) dit : « fille ET lunettes » = « filles » × « proportion de lunettes parmi les filles ».</p>
+    <p><strong>Attention :</strong> \(P(B|A) \neq P(A|B)\) en général. « Lunettes sachant fille » n'est pas « fille sachant lunettes ».</p>
+  </div>
+
   <div class="fiche-formule">
     <div class="titre-fiche">Formule des probabilités totales (2 chemins)</div>
     \[ P(B) = P(A)\cdot P(B|A) + P(\bar{A})\cdot P(B|\bar{A}) \]
+  </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi cette formule ?</div>
+    <p>Pour obtenir B, il n'y a que <strong>deux chemins disjoints</strong> : passer par A (et alors B avec probabilité \(P(B|A)\)), ou passer par \(\bar{A}\) (pas A). On additionne les deux probabilités de chemins : \(P(A) \cdot P(B|A) + P(\bar{A}) \cdot P(B|\bar{A})\). C'est exactement ce que fait un arbre à deux branches au premier niveau.</p>
   </div>
 
   <div class="fiche-formule">
@@ -506,10 +586,23 @@
     <p style="font-size:10pt; color:var(--gris);">\(n\) = nombre de répétitions · \(p\) = probabilité de succès à chaque épreuve · \(k\) = nombre de succès cherché</p>
   </div>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre la loi binomiale</div>
+    <p><strong>Situation :</strong> on répète \(n\) fois la <em>même</em> expérience à deux issues (succès / échec), avec la <em>même</em> probabilité \(p\) de succès à chaque fois, et les épreuves sont <em>indépendantes</em> (le résultat d'une n'influence pas la suivante). \(X\) = nombre total de succès.</p>
+    <p><strong>D'où vient la formule ?</strong> Pour obtenir exactement \(k\) succès en \(n\) épreuves : choisir <em>quelles</em> \(k\) épreuves seront des succès → \(\binom{n}{k}\) façons ; chaque succès a probabilité \(p\), chaque échec \(1-p\) → on multiplie \(p^k (1-p)^{n-k}\).</p>
+    <p><strong>\(E(X) = np\)</strong> : en moyenne, sur \(n\) épreuves avec \(p\) de chance à chaque fois, on s'attend à \(np\) succès. 10 tests avec \(p=0{,}3\) → en moyenne 3 positifs.</p>
+    <p><strong>\(V(X) = np(1-p)\)</strong> : mesure la « dispersion ». Plus \(p\) est proche de 0 ou 1, moins ça varie ; plus \(p \approx 0{,}5\), plus ça varie.</p>
+  </div>
+
   <div class="fiche-formule">
     <div class="titre-fiche">Bienaymé-Tchebychev (depuis 2024)</div>
     \[ P(|X - E(X)| \geq a) \leq \frac{V(X)}{a^2} \]
     <p style="font-size:10pt; color:var(--gris);">Souvent en dernière question : encadrer une probabilité sans calcul exact</p>
+  </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi Tchebychev ?</div>
+    <p>Parfois on ne peut pas calculer \(P(X = k)\) exactement, mais on veut dire : « \(X\) est <em>probablement</em> proche de sa moyenne \(E(X)\) ». L'inégalité dit : la probabilité d'être à plus de \(a\) de la moyenne est <strong>au plus</strong> \(\frac{V(X)}{a^2}\). Plus la variance est petite, plus \(X\) est concentré autour de \(E(X)\). Sur la copie : identifier \(E(X)\), \(V(X)\), choisir \(a\), appliquer l'inégalité, conclure « donc \(P(\ldots) \leq \ldots\) ».</p>
   </div>
 
   <h3>3.4 Comment reconnaître une binomiale ?</h3>
@@ -524,13 +617,26 @@
   </div>
 
   <div class="exemple">
-    <div class="exemple-titre">Exemple guidé — type bac 2025</div>
+    <div class="exemple-titre">Exemple guidé complet — type bac 2025</div>
     <p><strong>Énoncé :</strong> On teste 10 personnes. Chaque test est positif avec probabilité \(p = 0{,}3\), indépendamment. Soit \(X\) le nombre de tests positifs.</p>
     <ol class="etapes">
-      <li>Identifier : \(n = 10\), \(p = 0{,}3\) → \(X \sim \mathcal{B}(10;\, 0{,}3)\)</li>
-      <li>\(E(X) = 10 \times 0{,}3 = 3\)</li>
-      <li>\(V(X) = 10 \times 0{,}3 \times 0{,}7 = 2{,}1\)</li>
-      <li>\(P(X = 4) = \binom{10}{4}(0{,}3)^4(0{,}7)^6\) → utiliser la calculatrice (menu Proba / nCr)</li>
+      <li><strong>Reconnaître le modèle :</strong> 10 épreuves identiques, 2 issues (positif/négatif), même \(p=0{,}3\), indépendance → binomiale. Écrire : \(X \sim \mathcal{B}(10;\, 0{,}3)\).</li>
+      <li><strong>Espérance :</strong> \(E(X) = np = 10 \times 0{,}3 = 3\). Interprétation : en moyenne 3 tests positifs sur 10.</li>
+      <li><strong>Variance :</strong> \(V(X) = np(1-p) = 10 \times 0{,}3 \times 0{,}7 = 2{,}1\).</li>
+      <li><strong>\(P(X = 4)\) :</strong> exactement 4 succès → \(P(X=4) = \binom{10}{4}(0{,}3)^4(0{,}7)^6\). Calculatrice : \(\binom{10}{4} = 210\), puis \(210 \times 0{,}0081 \times 0{,}117649 \approx 0{,}20\).</li>
+      <li><strong>\(P(X \geq 1)\) :</strong> plus rapide par le complémentaire : \(P(X \geq 1) = 1 - P(X=0) = 1 - (0{,}7)^{10} \approx 1 - 0{,}028 = 0{,}972\).</li>
+    </ol>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — arbre à 2 étapes (probabilités totales)</div>
+    <p><strong>Énoncé :</strong> 40 % de la population est du groupe A. Si A, le test est positif dans 80 % des cas ; si B, dans 50 % des cas. Quelle est la probabilité d'un test positif ?</p>
+    <ol class="etapes">
+      <li>Étape 1 : \(P(A)=0{,}4\), \(P(B)=0{,}6\) (car \(0{,}4+0{,}6=1\)).</li>
+      <li>Étape 2 : \(P(T^+|A)=0{,}8\), \(P(T^+|B)=0{,}5\).</li>
+      <li>Chemin « A et T+ » : \(0{,}4 \times 0{,}8 = 0{,}32\).</li>
+      <li>Chemin « B et T+ » : \(0{,}6 \times 0{,}5 = 0{,}30\).</li>
+      <li>\(P(T^+) = 0{,}32 + 0{,}30 = 0{,}62\) (probabilités totales = somme des chemins).</li>
     </ol>
   </div>
 
@@ -549,6 +655,8 @@
   <h2>4. Maths — Géométrie dans l'espace <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 2</span></h2>
 
   <p>Depuis 2024, cet exercice est souvent en <strong>Vrai / Faux</strong>. Ton profil visuel est un atout : trace toujours un petit schéma 3D, même grossier.</p>
+
+  <p class="idee-cle">On place des points dans l'espace avec trois coordonnées \((x,y,z)\). Un <strong>vecteur</strong> indique un déplacement (une flèche), pas une position. La géométrie du bac consiste surtout à tester si des droites/plans sont parallèles, perpendiculaires, ou si un point appartient à un plan.</p>
 
   <h3>4.1 Repère et vecteurs</h3>
 
@@ -595,6 +703,29 @@
     <p style="font-size:10pt;">\((x_A, y_A, z_A)\) = un point de la droite · \((\alpha,\beta,\gamma)\) = vecteur directeur</p>
   </div>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre le produit scalaire</div>
+    <p>Le produit scalaire \(\vec{u} \cdot \vec{v} = xx' + yy' + zz'\) est un <strong>nombre</strong> (pas un vecteur). Il mesure à quel point deux vecteurs « vont dans la même direction ».</p>
+    <p><strong>Règle d'or au bac :</strong> \(\vec{u} \cdot \vec{v} = 0 \iff \vec{u} \perp \vec{v}\) (orthogonaux = perpendiculaires). C'est l'outil n°1 pour les questions « les droites sont-elles perpendiculaires ? ».</p>
+    <p><strong>Exemple :</strong> \(\vec{u}(1,0,0)\) et \(\vec{v}(0,1,0)\) → produit scalaire \(= 1\times0 + 0\times1 + 0\times0 = 0\) → perpendiculaires (comme les axes x et y).</p>
+  </div>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre plans et droites</div>
+    <p><strong>Plan</strong> \(ax+by+cz+d=0\) : le vecteur \(\vec{n}(a,b,c)\) est <em>normal</em> au plan (il « pointe perpendiculairement » au plan). Pour vérifier si un point \(M(x_M,y_M,z_M)\) est dans le plan : remplacer \(x,y,z\) par les coordonnées de \(M\) dans l'équation. Si tu obtiens 0 → le point est dans le plan.</p>
+    <p><strong>Droite paramétrique</strong> : quand \(t\) varie, le point \((x,y,z)\) se déplace le long d'une droite. Le vecteur directeur \((\alpha,\beta,\gamma)\) indique la direction. Deux droites sont <strong>parallèles</strong> si leurs vecteurs directeurs sont <em>colinéaires</em> (l'un est un multiple de l'autre) : \((\alpha,\beta,\gamma) = k(\alpha',\beta',\gamma')\).</p>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — Vrai ou Faux ?</div>
+    <p><strong>Proposition :</strong> « Les droites de vecteurs directeurs \(\vec{u}(2,4,6)\) et \(\vec{v}(1,2,3)\) sont parallèles. »</p>
+    <ol class="etapes">
+      <li>Comparer : \(\vec{u} = 2 \times \vec{v}\) → les vecteurs sont colinéaires.</li>
+      <li>Donc les droites ont la même direction → <strong>VRAI</strong> (si elles ne sont pas confondues, elles sont parallèles strictes).</li>
+      <li>Sur la copie, écrire : « \(\vec{u} = 2\vec{v}\), vecteurs colinéaires, donc droites parallèles. »</li>
+    </ol>
+  </div>
+
   <h3>4.2 Stratégie Vrai / Faux</h3>
   <div class="bloc bloc-methode">
     <div class="bloc-titre">Méthode anti-impulsivité (adaptée à ton profil)</div>
@@ -622,6 +753,8 @@
   <h2>5. Maths — Fonctions (ln, IPP, équations différentielles) <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 3</span></h2>
 
   <p>Tu n'as pas besoin de tout maîtriser. Vise les <strong>premières questions</strong> : limites, dérivée, formule de l'aire.</p>
+
+  <p class="idee-cle">Le logarithme népérien \(\ln\) est l'<strong>inverse</strong> de l'exponentielle : \(\ln(x) = y\) signifie \(e^y = x\). Il sert à résoudre des équations avec des exponentielles et à intégrer \(\frac{1}{x}\).</p>
 
   <h3>5.1 La fonction ln — fiches visuelles</h3>
 
@@ -657,6 +790,14 @@
     \[ \ln(ab) = \ln a + \ln b \qquad \ln\left(\frac{a}{b}\right) = \ln a - \ln b \qquad \ln(a^n) = n\ln a \]
   </div>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre le ln — limites et propriétés</div>
+    <p><strong>Domaine :</strong> \(\ln(x)\) n'existe que pour \(x > 0\). Pas de \(\ln(-3)\) ni \(\ln(0)\).</p>
+    <p><strong>Limites à connaître :</strong> \(\lim_{x \to 0^+} \ln(x) = -\infty\) (la courbe descend très bas près de 0) ; \(\lim_{x \to +\infty} \ln(x) = +\infty\) (mais lentement — le ln croît moins vite que \(x\)).</p>
+    <p><strong>Propriétés :</strong> le ln <em>transforme les produits en sommes</em> : \(\ln(ab) = \ln a + \ln b\). C'est très utile pour simplifier avant de dériver ou intégrer. Exemple : \(\ln(3x) = \ln 3 + \ln x\).</p>
+    <p><strong>Dérivée :</strong> \((\ln x)' = \frac{1}{x}\). Mémo : « la dérivée de ln, c'est 1 sur x ».</p>
+  </div>
+
   <h3>5.2 Intégration par parties (IPP)</h3>
 
   <div class="bloc bloc-methode">
@@ -665,6 +806,23 @@
       \[ \int_a^b u(t)\, v'(t)\, dt = \Big[ u(t)\, v(t) \Big]_a^b - \int_a^b u'(t)\, v(t)\, dt \]
     </div>
     <p><strong>Choix classique au bac :</strong> \(u(t) = t\) ou \(\ln(t)\) · \(v'(t) = e^t\) ou \(1\) ou un polynôme</p>
+  </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi l'IPP fonctionne ?</div>
+    <p>Intégrer, c'est l'<strong>opération inverse</strong> de dériver. L'IPP vient de la règle de dérivation d'un produit : \((uv)' = u'v + uv'\). En réarrangeant, on transforme une intégrale « difficile » \(\int u \cdot v'\) en une autre parfois plus simple \(\int u' \cdot v\), plus un terme « aux bornes » \([uv]_a^b\).</p>
+    <p><strong>Stratégie :</strong> choisir \(u\) qui se simplifie en dérivant (souvent \(u = t\) ou \(\ln t\)), et \(v'\) facile à intégrer (souvent \(v' = e^t\) ou \(1\)).</p>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — \(\int_1^e t \ln(t)\, dt\)</div>
+    <ol class="etapes">
+      <li>Poser \(u(t) = \ln(t)\) → \(u'(t) = \frac{1}{t}\) ; et \(v'(t) = t\) → \(v(t) = \frac{t^2}{2}\).</li>
+      <li>IPP : \(\int_1^e u v' = [uv]_1^e - \int_1^e u' v = \left[\frac{t^2}{2}\ln t\right]_1^e - \int_1^e \frac{t}{2}\, dt\).</li>
+      <li>Aux bornes : \(\frac{e^2}{2}\ln e - \frac{1}{2}\ln 1 = \frac{e^2}{2}\) (car \(\ln e = 1\), \(\ln 1 = 0\)).</li>
+      <li>Reste : \(\int_1^e \frac{t}{2}\, dt = \left[\frac{t^2}{4}\right]_1^e = \frac{e^2}{4} - \frac{1}{4}\).</li>
+      <li>Résultat : \(\frac{e^2}{2} - \frac{e^2}{4} + \frac{1}{4} = \frac{e^2}{4} + \frac{1}{4}\).</li>
+    </ol>
   </div>
 
   <h3>5.3 Équations différentielles du 1er ordre</h3>
@@ -680,6 +838,22 @@
     <p style="font-size:10pt;">Étapes : (1) solution générale (2) si condition initiale \(y(0) = y_0\), trouver \(k\)</p>
   </div>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre les équations différentielles</div>
+    <p>Une équation différentielle lie une fonction \(y(t)\) et sa <strong>dérivée</strong> \(y'(t)\). Elle modélise souvent une évolution dans le temps (population, charge d'un condensateur, refroidissement…).</p>
+    <p><strong>\(y' = ay\)</strong> : la vitesse de variation est proportionnelle à la valeur actuelle → croissance ou décroissance exponentielle \(y = ke^{at}\). Si \(a > 0\), ça explose ; si \(a < 0\), ça décroît vers 0.</p>
+    <p><strong>\(y' = ay + b\)</strong> : il y a une « cible » \(-b/a\). La solution générale est \(y = -b/a + ke^{at}\). La constante \(k\) dépend de la condition initiale : si on donne \(y(0) = y_0\), remplacer \(t=0\) pour trouver \(k\).</p>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — \(y' = -2y + 4\), \(y(0) = 1\)</div>
+    <ol class="etapes">
+      <li>Forme \(y' = ay + b\) avec \(a = -2\), \(b = 4\). Solution générale : \(y(t) = -\frac{4}{-2} + ke^{-2t} = 2 + ke^{-2t}\).</li>
+      <li>Condition initiale : \(y(0) = 2 + k = 1\) → \(k = -1\).</li>
+      <li>Solution : \(y(t) = 2 - e^{-2t}\). Vérification : quand \(t \to +\infty\), \(e^{-2t} \to 0\) donc \(y \to 2\) (la valeur d'équilibre \(-b/a\)).</li>
+    </ol>
+  </div>
+
   <div class="bloc bloc-attention">
     <div class="bloc-titre">Si tu bloques sur l'exo fonctions</div>
     <p>Écris quand même : la dérivée, les limites « \(\lim_{x\to0^+} \ln x = -\infty\) », la formule IPP. Même sans finir le calcul, tu grattes 1 à 2 points.</p>
@@ -689,6 +863,8 @@
 <!-- ═══════════════════ MATHS SUITES ═══════════════════ -->
 <section id="maths-suites">
   <h2>6. Maths — Suites &amp; Python <span class="tag tag-maths">MATHS</span></h2>
+
+  <p class="idee-cle">Une suite \((u_n)\) est une liste de nombres indexée par \(n = 0, 1, 2, \ldots\). Au bac, on étudie comment passer de \(u_n\) à \(u_{n+1}\), ou comment prouver une propriété pour tout \(n\) par récurrence.</p>
 
   <h3>6.1 Suites essentielles</h3>
 
@@ -700,6 +876,13 @@
       <tr><td>Récurrence</td><td>\(u_{n+1} = f(u_n)\)</td><td>Raisonner par récurrence en 3 temps (init, hérédité, conc.)</td></tr>
     </tbody>
   </table>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre arithmétique vs géométrique</div>
+    <p><strong>Arithmétique</strong> : on <em>ajoute</em> toujours la même chose \(r\). Exemple : 3, 7, 11, 15… (\(r=4\)). C'est une progression linéaire : \(u_n = u_0 + nr\).</p>
+    <p><strong>Géométrique</strong> : on <em>multiplie</em> toujours par la même chose \(q\). Exemple : 3, 6, 12, 24… (\(q=2\)). C'est une progression exponentielle : \(u_n = u_0 \cdot q^n\). Si \(|q| < 1\), la suite tend vers 0 ; si \(q > 1\), elle explose.</p>
+    <p><strong>Au bac :</strong> lire l'énoncé — « on ajoute 5 à chaque fois » → arithmétique ; « on multiplie par 0,9 à chaque fois » → géométrique.</p>
+  </div>
 
   <h3>6.2 Raisonnement par récurrence — schéma</h3>
   <div class="grille-3">
@@ -718,6 +901,26 @@ for n in range(5):
     u = 2*u + 1  # formule de récurrence
     </pre>
     <p>Lis ligne par ligne : « au tour 0, u vaut 1, on affiche 1, puis u devient 3… »</p>
+  </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi la récurrence fonctionne ?</div>
+    <p>C'est le principe des dominos : si (1) le premier domino tombe (initialisation) et (2) chaque domino fait tomber le suivant (hérédité), alors <em>tous</em> tombent. En maths : si la propriété est vraie pour \(n\), et qu'on peut la transmettre à \(n+1\), elle est vraie pour tout \(n\).</p>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — lire un programme Python</div>
+    <p><code>u = 1</code> puis <code>u = 2*u + 1</code> à chaque tour :</p>
+    <table>
+      <thead><tr><th>Tour \(n\)</th><th>\(u\) avant affichage</th><th>Après mise à jour</th></tr></thead>
+      <tbody>
+        <tr><td>0</td><td>1</td><td>3</td></tr>
+        <tr><td>1</td><td>3</td><td>7</td></tr>
+        <tr><td>2</td><td>7</td><td>15</td></tr>
+        <tr><td>3</td><td>15</td><td>31</td></tr>
+      </tbody>
+    </table>
+    <p>La suite affichée est 1, 3, 7, 15… On reconnaît \(u_{n+1} = 2u_n + 1\) (suite définie par récurrence, pas arithmétique ni géométrique simple).</p>
   </div>
 </section>
 
@@ -748,6 +951,8 @@ for n in range(5):
 
   <p>Le chapitre le plus fréquent du bac PC (≈ 95 % des sessions). Beaucoup de questions sont <strong>mécaniques</strong> : appliquer une formule.</p>
 
+  <p class="idee-cle">Le pH mesure l'<strong>acidité</strong> d'une solution : plus il y a d'ions \(\mathrm{H_3O^+}\) (protons dans l'eau), plus c'est acide. Le pH utilise un logarithme en base 10 pour compresser des concentrations qui varient sur des facteurs énormes (de \(10^{-1}\) à \(10^{-14}\) mol/L).</p>
+
   <h3>8.1 Échelle de pH — visuel</h3>
   <div class="svg-box">
     <svg viewBox="0 0 500 95" width="100%" style="max-width:500px" aria-label="Échelle de pH">
@@ -773,10 +978,22 @@ for n in range(5):
     <p style="font-size:10pt;">Attention : \(\log\) en base 10, pas le ln ! Sur la calculatrice : bouton <code>log</code></p>
   </div>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre la formule du pH</div>
+    <p><strong>Pourquoi le signe « − » ?</strong> Plus la concentration en \(\mathrm{H_3O^+}\) est grande, plus le pH est <em>petit</em>. Le log compresse cette relation : \([\mathrm{H_3O^+}] = 10^{-2}\) mol/L → \(\mathrm{pH} = 2\) ; \([\mathrm{H_3O^+}] = 10^{-7}\) → \(\mathrm{pH} = 7\) (neutre).</p>
+    <p><strong>Calcul inverse :</strong> si \(\mathrm{pH} = 3\), alors \([\mathrm{H_3O^+}] = 10^{-3}\) mol/L. Règle : l'exposant est l'opposé du pH.</p>
+    <p><strong>Relation fondamentale :</strong> à 25 °C, \([\mathrm{H_3O^+}] \times [\mathrm{OH^-}] = 10^{-14}\). Si on connaît le pH, on peut trouver la basicité via les ions hydroxyde \(\mathrm{OH^-}\).</p>
+  </div>
+
   <div class="fiche-formule">
     <div class="titre-fiche">Acide faible — relation de Henderson-Hasselbalch</div>
     \[ \mathrm{pH} = \mathrm{p}K_a + \log\frac{[\mathrm{A^-}]}{[\mathrm{AH}]} \]
     <p style="font-size:10pt;">À la <strong>demi-équivalence</strong> : \(\mathrm{pH} = \mathrm{p}K_a\) (lecture directe sur la courbe)</p>
+  </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi la demi-équivalence donne le pKa ?</div>
+    <p>À la demi-équivalence, on a versé <em>la moitié</em> du titrant nécessaire : \([\mathrm{A^-}] = [\mathrm{AH}]\) (autant de base conjuguée que d'acide). Dans la formule de Henderson-Hasselbalch, le rapport vaut 1, donc \(\log(1) = 0\), et \(\mathrm{pH} = \mathrm{p}K_a\). Sur la courbe, c'est le point à mi-hauteur de la montée avant l'équivalence.</p>
   </div>
 
   <h3>8.2 Titrage pH-métrique</h3>
@@ -808,6 +1025,18 @@ for n in range(5):
     </ol>
   </div>
 
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — titrage acide-base</div>
+    <p><strong>Énoncé :</strong> On titre \(V_a = 20\) mL d'acide de concentration \(C_a = ?\) avec une base \(C_b = 0{,}1\) mol/L. L'équivalence est atteinte pour \(V_{eq} = 15\) mL. Trouver \(C_a\).</p>
+    <ol class="etapes">
+      <li>Équation : \(\mathrm{AH + HO^- \rightarrow A^- + H_2O}\) (1 mol d'acide réagit avec 1 mol de base).</li>
+      <li>À l'équivalence : \(n_{acid} = n_{base}\) → \(C_a V_a = C_b V_{eq}\).</li>
+      <li>Attention aux unités : \(V_a = 20\) mL \(= 0{,}020\) L, \(V_{eq} = 15\) mL \(= 0{,}015\) L.</li>
+      <li>\(C_a = \frac{C_b V_{eq}}{V_a} = \frac{0{,}1 \times 0{,}015}{0{,}020} = 0{,}075\) mol/L.</li>
+      <li>Vérification d'ordre de grandeur : moins d'acide que de base en volume, donc l'acide est un peu plus concentré → cohérent.</li>
+    </ol>
+  </div>
+
   <h3>8.3 Titrage conductimétrique</h3>
   <div class="fiche-formule">
     <div class="titre-fiche">Loi de Kohlrausch</div>
@@ -815,11 +1044,18 @@ for n in range(5):
     <p style="font-size:10pt;">\(\sigma\) = conductivité · \(\lambda_i\) = conductivité ionique molaire · \([X_i]\) = concentration ionique</p>
   </div>
   <p>Sur la courbe \(\sigma = f(V)\) : chercher un <strong>cassure / changement de pente</strong> → équivalence.</p>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre le titrage conductimétrique</div>
+    <p>La conductivité \(\sigma\) mesure la capacité de la solution à conduire le courant, grâce aux <strong>ions</strong> présents. Quand on ajoute du titrant, les ions changent : la pente de \(\sigma(V)\) peut augmenter ou diminuer. À l'équivalence, la nature dominante des ions change → <strong>cassure</strong> visible sur le graphique (deux segments de droite différents). L'équivalence se lit à l'abscisse de ce point, pas au pH.</p>
+  </div>
 </section>
 
 <!-- ═══════════════════ PC MÉCA ═══════════════════ -->
 <section id="pc-meca" class="page-break">
   <h2>9. PC — Mécanique (Newton &amp; énergie) <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 2</span></h2>
+
+  <p class="idee-cle">La mécanique au bac, c'est : (1) identifier toutes les forces sur l'objet, (2) appliquer \(\sum \vec{F} = m\vec{a}\) (Newton), ou (3) utiliser la conservation de l'énergie si pas de frottements. Toujours commencer par un <strong>schéma</strong>.</p>
 
   <h3>9.1 Bilan des forces — schéma systématique</h3>
 
@@ -848,6 +1084,14 @@ for n in range(5):
     <p style="font-size:10pt;">Projeter sur chaque axe (x horizontal, z vertical) · Résoudre le système</p>
   </div>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre Newton et les forces usuelles</div>
+    <p><strong>Poids \(\vec{P} = m\vec{g}\)</strong> : toujours vertical, vers le bas, intensité \(mg\) (ex. : 2 kg → \(P \approx 19{,}6\) N).</p>
+    <p><strong>Réaction \(\vec{R}\)</strong> : force du support (sol, table, plan incliné) sur l'objet. Perpendiculaire à la surface de contact, du support vers l'objet.</p>
+    <p><strong>Frottement \(\vec{f}\)</strong> : s'oppose au mouvement (ou à la tendance au mouvement). Souvent \(\vec{f} = -f \vec{u}\) où \(\vec{u}\) est la direction du mouvement.</p>
+    <p><strong>Méthode :</strong> choisir un repère (x horizontal, z vertical), projeter chaque force, écrire \(\sum F_x = ma_x\) et \(\sum F_z = ma_z\). Si le mouvement est horizontal, souvent \(a_z = 0\).</p>
+  </div>
+
   <div class="grille-2">
     <div class="fiche-formule">
       <div class="titre-fiche">Énergie cinétique</div>
@@ -865,9 +1109,34 @@ for n in range(5):
     \[ \frac{1}{2}mv_A^2 + mgh_A = \frac{1}{2}mv_B^2 + mgh_B \]
   </div>
 
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi l'énergie se conserve ?</div>
+    <p>Sans frottements, les forces de contact (réaction) ne travaillent pas, et le poids est une force « conservative » : l'énergie potentielle \(mgh\) se transforme en énergie cinétique \(\frac{1}{2}mv^2\) et inversement. La somme \(E_m = E_c + E_p\) reste constante. <strong>Avantage au bac :</strong> pas besoin de détailler toutes les forces si l'énoncé dit « négliger les frottements » et demande une vitesse en fonction de la hauteur.</p>
+  </div>
+
   <h3>9.2 Projectile — équations horaires</h3>
   <div class="fiche-formule">
     \[ x(t) = v_0 \cos\alpha \cdot t \qquad z(t) = -\frac{1}{2}gt^2 + v_0\sin\alpha \cdot t + z_0 \]
+  </div>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre le projectile</div>
+    <p>On décompose le mouvement en deux directions indépendantes :</p>
+    <p><strong>Horizontal (\(x\)) :</strong> pas d'accélération (si on néglige le frottement de l'air) → vitesse constante \(v_0\cos\alpha\) → \(x(t) = v_0\cos\alpha \cdot t\).</p>
+    <p><strong>Vertical (\(z\)) :</strong> accélération constante \(-g\) vers le bas → c'est un mouvement uniformément accéléré (comme une balle lancée en l'air).</p>
+    <p><strong>Portée, durée de vol :</strong> souvent on pose \(z(t) = 0\) pour trouver quand l'objet retombe, puis on injecte \(t\) dans \(x(t)\).</p>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — énergie</div>
+    <p><strong>Énoncé :</strong> Objet de masse 2 kg lâché sans vitesse initiale de \(h_A = 10\) m. Quelle vitesse à \(h_B = 0\) m ? (\(g = 9{,}81\) m/s², sans frottements)</p>
+    <ol class="etapes">
+      <li>Conservation : \(\frac{1}{2}mv_A^2 + mgh_A = \frac{1}{2}mv_B^2 + mgh_B\).</li>
+      <li>On simplifie par \(m\) : \(\frac{1}{2}v_A^2 + gh_A = \frac{1}{2}v_B^2 + gh_B\).</li>
+      <li>Au départ : \(v_A = 0\), \(h_A = 10\) → \(0 + 9{,}81 \times 10 = \frac{1}{2}v_B^2 + 0\).</li>
+      <li>\(v_B^2 = 2 \times 98{,}1 = 196{,}2\) → \(v_B \approx 14\) m/s.</li>
+      <li>Interprétation : l'énergie potentielle (masse en hauteur) s'est transformée en énergie cinétique (vitesse au sol).</li>
+    </ol>
   </div>
 
   <div class="bloc bloc-attention">
@@ -885,6 +1154,8 @@ for n in range(5):
 <section id="pc-orga" class="page-break">
   <h2>10. PC — Synthèse organique <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 3</span></h2>
 
+  <p class="idee-cle">La chimie organique étudie les molécules à base de carbone. Au bac, on te demande surtout d'<strong>identifier</strong> un groupe fonctionnel, de <strong>lire</strong> un spectre IR, et de <strong>calculer un rendement</strong> de synthèse.</p>
+
   <h3>10.1 Groupes fonctionnels — tableau visuel</h3>
 
   <table>
@@ -898,6 +1169,11 @@ for n in range(5):
     </tbody>
   </table>
 
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre les noms en -ol, -al, -one</div>
+    <p>Le <strong>suffixe</strong> indique le groupe fonctionnel principal : <strong>-ol</strong> = alcool (\(\mathrm{-OH}\)), <strong>-al</strong> = aldéhyde (\(\mathrm{-CHO}\)), <strong>-one</strong> = cétone (\(\mathrm{C=O}\) au milieu d'une chaîne). Le <strong>préfixe</strong> donne le nombre de carbones : méth- (1), éth- (2), prop- (3), but- (4)… Exemple : propan<strong>ol</strong> = chaîne de 3 carbones avec un groupe alcool.</p>
+  </div>
+
   <h3>10.2 Rendement</h3>
   <div class="fiche-formule">
     \[ \eta = \frac{m_{\text{obtenue}}}{m_{\text{théorique}}} \times 100 \quad \text{en %} \]
@@ -909,6 +1185,18 @@ for n in range(5):
       <li>Identifier le <strong>réactif limitant</strong> (celui qui s'épuise en premier)</li>
       <li>Calculer \(n = \frac{m}{M}\) du réactif limitant</li>
       <li>Utiliser les coefficients stœchiométriques pour trouver \(m_{\text{théorique}}\) du produit</li>
+    </ol>
+  </div>
+
+  <div class="exemple">
+    <div class="exemple-titre">Exemple guidé — rendement</div>
+    <p><strong>Énoncé :</strong> On fait réagir 5,0 g d'éthanol (\(M = 46\) g/mol) avec un excès d'acide. La réaction \(\mathrm{C_2H_5OH + CH_3COOH \rightarrow CH_3COOC_2H_5 + H_2O}\) donne 6,2 g d'ester (\(M = 88\) g/mol). Rendement ?</p>
+    <ol class="etapes">
+      <li>\(n_{\text{éthanol}} = \frac{5{,}0}{46} \approx 0{,}109\) mol. L'acide est en excès → l'éthanol est le <strong>réactif limitant</strong>.</li>
+      <li>Stœchiométrie 1:1 → on pourrait obtenir au maximum 0,109 mol d'ester.</li>
+      <li>\(m_{\text{théorique}} = 0{,}109 \times 88 \approx 9{,}6\) g.</li>
+      <li>\(\eta = \frac{6{,}2}{9{,}6} \times 100 \approx 65\) %.</li>
+      <li>Interprétation : 65 % de la quantité maximale possible a été réellement obtenue (pertes, réaction incomplète, purification…).</li>
     </ol>
   </div>
 
@@ -929,11 +1217,18 @@ for n in range(5):
     \[ \mathrm{RCOOH + R'OH \rightleftharpoons RCOOR' + H_2O} \]
     <p style="font-size:10pt;">Acide + alcool → ester + eau · Réaction lente, souvent catalysée (H⁺), chauffage à reflux</p>
   </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi l'IR permet d'identifier une molécule ?</div>
+    <p>Chaque liaison chimique absorbe une fréquence infrarouge caractéristique. La bande large vers 3300 cm⁻¹ signale une liaison O−H (alcool ou acide). Le pic net vers 1700 cm⁻¹ signale C=O (aldéhyde, cétone, acide, ester). En combinant ces indices avec la formule brute de l'énoncé, on peut éliminer des possibilités.</p>
+  </div>
 </section>
 
 <!-- ═══════════════════ PC ONDES ═══════════════════ -->
 <section id="pc-ondes" class="page-break">
   <h2>11. PC — Ondes, optique &amp; circuit RC <span class="tag tag-pc">PC</span></h2>
+
+  <p class="idee-cle">Les ondes se propagent avec une longueur d'onde \(\lambda\). Quand elles passent par une fente étroite, elles <strong>diffractent</strong> (s'étalent). Avec deux fentes, elles <strong>interfèrent</strong> (franges claires et sombres). Le circuit RC modélise la charge d'un condensateur dans le temps.</p>
 
   <h3>11.1 Diffraction &amp; interférences</h3>
 
@@ -953,6 +1248,12 @@ for n in range(5):
   <div class="bloc bloc-attention">
     <div class="bloc-titre">Ne pas mélanger</div>
     <p><strong>1 fente</strong> → diffraction · <strong>2 fentes ou 2 sources</strong> → interférences. Lis bien l'énoncé.</p>
+  </div>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre diffraction et interférences</div>
+    <p><strong>Diffraction (1 fente de largeur \(a\)) :</strong> l'onde « contourne » la fente. Plus la fente est étroite, plus l'étalement est grand → \(\theta = \lambda/a\) relie l'angle d'étalement \(\theta\), la longueur d'onde \(\lambda\) et la largeur \(a\). Attention aux unités : tout en mètres (nm → \(\times 10^{-9}\)).</p>
+    <p><strong>Interférences (2 fentes espacées de \(b\)) :</strong> les ondes des deux fentes se superposent. Si elles arrivent « en phase », amplitude maximale (frange brillante) ; « en opposition de phase », amplitude nulle (frange sombre). L'interfrange \(i\) sur un écran à distance \(D\) : \(i = \lambda D / b\).</p>
   </div>
 
   <h3>11.2 Circuit RC</h3>
@@ -988,10 +1289,20 @@ for n in range(5):
     <p style="font-size:10pt;">À \(t = \tau\) : \(u_C\) atteint 63 % de \(E\) · À \(t = 3\tau\) : ≈ 95 % de \(E\)</p>
   </div>
 
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Pourquoi \(u_C(t) = E(1 - e^{-t/\tau})\) ?</div>
+    <p>Quand on ferme l'interrupteur, le condensateur se charge progressivement via la résistance. Au début, la tension est 0 ; elle tend vers la tension du générateur \(E\). La constante \(\tau = RC\) (en secondes si \(R\) en ohms et \(C\) en farads) mesure la <strong>vitesse</strong> de charge : grand \(\tau\) = charge lente. À \(t = \tau\), on a environ 63 % de la valeur finale — c'est une propriété mathématique de l'exponentielle, à connaître pour lire un graphique expérimental.</p>
+  </div>
+
   <h3>11.3 Radioactivité (montée en 2025)</h3>
   <div class="fiche-formule">
     \[ N(t) = N_0 \cdot e^{-\lambda t} \qquad t_{1/2} = \frac{\ln 2}{\lambda} \]
     <p style="font-size:10pt;">La formule est souvent <strong>donnée dans le sujet</strong> — lis bien l'énoncé</p>
+  </div>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre la radioactivité</div>
+    <p>\(N(t) = N_0 e^{-\lambda t}\) : le nombre de noyaux radioactifs <strong>décroît</strong> exponentiellement. \(\lambda\) est la constante de désintégration. La <strong>demi-vie</strong> \(t_{1/2}\) est le temps pour que la moitié des noyaux se désintègrent : \(t_{1/2} = \ln(2)/\lambda\). Après 2 demi-vies, il reste 25 % ; après 3, 12,5 %.</p>
   </div>
 
   <h3>11.4 Cinétique chimique</h3>
@@ -1013,6 +1324,11 @@ for n in range(5):
   <div class="bloc bloc-attention">
     <div class="bloc-titre">Effet Venturi (schéma mental)</div>
     <p>Rétrécissement de section → vitesse <strong>augmente</strong> → pression <strong>diminue</strong>. Trace une canalisation qui se rétrécit au milieu.</p>
+  </div>
+
+  <div class="bloc bloc-comprendre">
+    <div class="bloc-titre">Comprendre Bernoulli et la conservation du débit</div>
+    <p>\(S_1 v_1 = S_2 v_2\) : dans un tuyau, si la section diminue (\(S_2 < S_1\)), la vitesse du fluide augmente pour « faire passer » le même débit volumique. L'équation de Bernoulli ajoute l'énergie de pression et l'énergie de hauteur : là où le fluide va plus vite, la pression statique baisse (effet Venturi — ce qui aspire le liquide dans un vaporisateur).</p>
   </div>
 </section>
 
@@ -1106,7 +1422,7 @@ for n in range(5):
 
   <div class="bloc bloc-force" style="margin-top:2em;">
     <div class="bloc-titre">Message final</div>
-    <p>Ce guide ne remplace pas 6 ans de cours. Mais il est construit pour <strong>ton cerveau</strong> : visuel, structuré, par étapes, sans surcharge. Au bac, une copie partielle et soignée vaut mieux qu'une copie vide. <strong>Tu as des vraies capacités de raisonnement</strong> — utilise-les avec méthode, pas avec vitesse.</p>
+    <p>Ce guide ne remplace pas 6 ans de cours, mais il contient la <strong>logique</strong> derrière chaque formule : pourquoi on multiplie, pourquoi on conserve l'énergie, comment lire une courbe de titrage. Imprime-le, surligne les encadrés « Comprendre » et « Pourquoi », refais les exemples guidés sur une feuille. Au bac, une copie partielle et soignée vaut mieux qu'une copie vide. <strong>Tu as des vraies capacités de raisonnement</strong> — utilise-les avec méthode, pas avec vitesse.</p>
   </div>
 </section>
 
