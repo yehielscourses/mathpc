@@ -308,14 +308,50 @@
     }
 
     @media print {
-      body { padding: 0; max-width: none; font-size: 10.5pt; }
+      body { padding: 0; max-width: none; font-size: 10.5pt; line-height: 1.45; }
       .no-print { display: none !important; }
       a { color: inherit; text-decoration: none; }
-      h2 { page-break-before: always; }
-      #profil > h2 { page-break-before: avoid; }
-      section.page-break > h2 { page-break-before: avoid; }
-      .cover { page-break-after: always; }
-      @page { size: A4; margin: 15mm; }
+
+      /* Saut de page seulement pour les grands chapitres (classe .page-break) */
+      h2 { page-break-before: auto; margin: 0.9em 0 0.45em; }
+      h3 { margin: 0.65em 0 0.35em; }
+      section.page-break { page-break-before: always; break-before: page; }
+      .cover { page-break-after: always; break-after: page; }
+
+      /* Réduire les marges verticales pour remplir la page */
+      .bloc, .exemple, .svg-box, .fiche-formule, .progression, .session-box, .toc {
+        margin-top: 0.55em;
+        margin-bottom: 0.55em;
+      }
+      .progression-etape { margin: 0.35em 0; padding: 0.65em 0.85em; }
+      .etapes li { margin: 0.3em 0; padding: 0.45em 0.45em 0.45em 2.8em; }
+
+      /* Autoriser la coupure des blocs texte (évite les grandes zones vides) */
+      .bloc, .exemple, .progression, .progression-etape, .idee-cle,
+      .carte, .fiche-formule, .session-box, .fil-logique, .etapes li,
+      .grille-2, .grille-3, table {
+        page-break-inside: auto;
+        break-inside: auto;
+      }
+
+      /* Garder les titres collés au texte qui suit */
+      h2, h3, h4, .exemple-titre, .bloc-titre, .progression-titre {
+        page-break-after: avoid;
+        break-after: avoid;
+      }
+
+      /* Ne couper que les visuels (schémas, arbres, courbes) */
+      .svg-box {
+        page-break-inside: avoid;
+        break-inside: avoid;
+      }
+
+      p { orphans: 2; widows: 2; }
+
+      thead { display: table-header-group; }
+      tr { page-break-inside: avoid; break-inside: avoid; }
+
+      @page { size: A4; margin: 12mm; }
     }
 
     @media screen {
@@ -957,7 +993,7 @@
 </section>
 
 <!-- ═══════════════════ MATHS SUITES ═══════════════════ -->
-<section id="maths-suites" class="page-break">
+<section id="maths-suites">
   <h2>6. Maths — Suites &amp; Python <span class="tag tag-maths">MATHS</span></h2>
 
   <p class="idee-cle">Une suite \((u_n)\) est une liste de nombres indexée par \(n = 0, 1, 2, \ldots\). Au bac, on étudie comment passer de \(u_n\) à \(u_{n+1}\), ou comment prouver une propriété pour tout \(n\) par récurrence.</p>
@@ -1021,7 +1057,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ MATHS JOUR J ═══════════════════ -->
-<section id="maths-jourj" class="page-break">
+<section id="maths-jourj">
   <h2>7. Maths — Stratégie jour J <span class="tag tag-maths">MATHS</span></h2>
 
   <table>
@@ -1488,7 +1524,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ PC JOUR J ═══════════════════ -->
-<section id="pc-jourj" class="page-break">
+<section id="pc-jourj">
   <h2>12. PC — Stratégie jour J <span class="tag tag-pc">PC</span></h2>
 
   <table>
@@ -1547,7 +1583,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ CHECKLIST ═══════════════════ -->
-<section id="checklist" class="page-break">
+<section id="checklist">
   <h2>14. Checklist — Avant, pendant, après</h2>
 
   <h3>La veille</h3>
