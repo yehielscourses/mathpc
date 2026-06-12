@@ -268,12 +268,9 @@
 
     code, .mono { font-family: 'Consolas', 'Courier New', monospace; font-size: 9.5pt; background: #eee; padding: 0.1em 0.35em; border-radius: 3px; }
 
-    .page-break { page-break-before: always; }
-
     mjx-container {
       max-width: 100%;
       overflow-x: auto;
-      overflow-y: hidden;
       -webkit-overflow-scrolling: touch;
     }
 
@@ -312,46 +309,69 @@
       .no-print { display: none !important; }
       a { color: inherit; text-decoration: none; }
 
-      /* Saut de page seulement pour les grands chapitres (classe .page-break) */
-      h2 { page-break-before: auto; margin: 0.9em 0 0.45em; }
-      h3 { margin: 0.65em 0 0.35em; }
-      section.page-break { page-break-before: always; break-before: page; }
-      .cover { page-break-after: always; break-after: page; }
+      /* Flux continu : aucun saut de page forcé entre chapitres */
+      h2 { page-break-before: avoid; break-before: avoid; margin: 0.75em 0 0.4em; }
+      h3 { margin: 0.55em 0 0.3em; page-break-after: avoid; break-after: avoid; }
+      section { page-break-before: auto; break-before: auto; }
+      .cover {
+        page-break-after: always;
+        break-after: page;
+        padding: 1.2em 1em 1.5em;
+        margin-bottom: 0.5em;
+      }
 
       /* Réduire les marges verticales pour remplir la page */
       .bloc, .exemple, .svg-box, .fiche-formule, .progression, .session-box, .toc {
-        margin-top: 0.55em;
-        margin-bottom: 0.55em;
+        margin-top: 0.45em;
+        margin-bottom: 0.45em;
       }
-      .progression-etape { margin: 0.35em 0; padding: 0.65em 0.85em; }
-      .etapes li { margin: 0.3em 0; padding: 0.45em 0.45em 0.45em 2.8em; }
+      .progression-etape { margin: 0.3em 0; padding: 0.55em 0.75em; }
+      .etapes li { margin: 0.25em 0; padding: 0.4em 0.4em 0.4em 2.6em; }
 
-      /* Autoriser la coupure des blocs texte (évite les grandes zones vides) */
+      /* Texte : coupure autorisée pour ne pas laisser de grands vides */
       .bloc, .exemple, .progression, .progression-etape, .idee-cle,
-      .carte, .fiche-formule, .session-box, .fil-logique, .etapes li,
+      .carte, .session-box, .fil-logique, .etapes li,
       .grille-2, .grille-3, table {
         page-break-inside: auto;
         break-inside: auto;
       }
 
-      /* Garder les titres collés au texte qui suit */
-      h2, h3, h4, .exemple-titre, .bloc-titre, .progression-titre {
+      /* Formules : ne jamais couper (évite le clipping en bas de page) */
+      mjx-container {
+        overflow: visible !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+      }
+      .fiche-formule {
+        page-break-inside: avoid;
+        break-inside: avoid;
+        padding: 0.65em 0.75em;
+      }
+
+      /* Schémas : bloc entier, mais réduit pour tenir sur la page */
+      .svg-box {
+        page-break-inside: avoid;
+        break-inside: avoid;
+        padding: 0.5em;
+      }
+      .svg-box svg {
+        max-height: 62mm;
+        width: 100%;
+        height: auto;
+      }
+
+      /* Titres collés au contenu suivant */
+      h2, h3, h4, .exemple-titre, .bloc-titre, .progression-titre, .titre-fiche {
         page-break-after: avoid;
         break-after: avoid;
       }
 
-      /* Ne couper que les visuels (schémas, arbres, courbes) */
-      .svg-box {
-        page-break-inside: avoid;
-        break-inside: avoid;
-      }
-
-      p { orphans: 2; widows: 2; }
+      p, li { orphans: 2; widows: 2; }
 
       thead { display: table-header-group; }
       tr { page-break-inside: avoid; break-inside: avoid; }
 
-      @page { size: A4; margin: 12mm; }
+      @page { size: A4; margin: 10mm; }
     }
 
     @media screen {
@@ -517,7 +537,7 @@
 </section>
 
 <!-- ═══════════════════ MATHS PROBAS ═══════════════════ -->
-<section id="maths-probas" class="page-break">
+<section id="maths-probas">
   <h2>3. Maths — Probabilités &amp; loi binomiale <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 1</span></h2>
 
   <p>L'exercice 1 du bac tombe <strong>à chaque session</strong> depuis 2022. C'est ton meilleur investissement.</p>
@@ -741,7 +761,7 @@
 </section>
 
 <!-- ═══════════════════ MATHS GÉO ═══════════════════ -->
-<section id="maths-geo" class="page-break">
+<section id="maths-geo">
   <h2>4. Maths — Géométrie dans l'espace <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 2</span></h2>
 
   <p>Depuis 2024, cet exercice est souvent en <strong>Vrai / Faux</strong>. Ton profil visuel est un atout : trace toujours un petit schéma 3D, même grossier.</p>
@@ -852,7 +872,7 @@
 </section>
 
 <!-- ═══════════════════ MATHS FONCTIONS ═══════════════════ -->
-<section id="maths-fonctions" class="page-break">
+<section id="maths-fonctions">
   <h2>5. Maths — Fonctions (ln, IPP, équations différentielles) <span class="tag tag-maths">MATHS</span><span class="tag tag-prio">PRIORITÉ 3</span></h2>
 
   <p>Tu n'as pas besoin de tout maîtriser. Vise les <strong>premières questions</strong> : limites, dérivée, formule de l'aire.</p>
@@ -1078,7 +1098,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ PC pH ═══════════════════ -->
-<section id="pc-ph" class="page-break">
+<section id="pc-ph">
   <h2>8. PC — pH, acide-base &amp; titrages <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 1</span></h2>
 
   <p>Le chapitre le plus fréquent du bac PC (≈ 95 % des sessions). Beaucoup de questions sont <strong>mécaniques</strong> : appliquer une formule.</p>
@@ -1213,7 +1233,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ PC MÉCA ═══════════════════ -->
-<section id="pc-meca" class="page-break">
+<section id="pc-meca">
   <h2>9. PC — Mécanique (Newton &amp; énergie) <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 2</span></h2>
 
   <p class="idee-cle">La mécanique au bac, c'est : (1) identifier toutes les forces sur l'objet, (2) appliquer \(\sum \vec{F} = m\vec{a}\) (Newton), ou (3) utiliser la conservation de l'énergie si pas de frottements. Toujours commencer par un <strong>schéma</strong>.</p>
@@ -1312,7 +1332,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ PC ORGA ═══════════════════ -->
-<section id="pc-orga" class="page-break">
+<section id="pc-orga">
   <h2>10. PC — Synthèse organique <span class="tag tag-pc">PC</span><span class="tag tag-prio">PRIORITÉ 3</span></h2>
 
   <p class="idee-cle">La chimie organique étudie les molécules à base de carbone. Au bac, on te demande surtout d'<strong>identifier</strong> un groupe fonctionnel, de <strong>lire</strong> un spectre IR, et de <strong>calculer un rendement</strong> de synthèse.</p>
@@ -1386,7 +1406,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ PC ONDES ═══════════════════ -->
-<section id="pc-ondes" class="page-break">
+<section id="pc-ondes">
   <h2>11. PC — Ondes, optique &amp; circuit RC <span class="tag tag-pc">PC</span></h2>
 
   <p class="idee-cle">Les ondes se propagent avec une longueur d'onde \(\lambda\). Quand elles passent par une fente étroite, elles <strong>diffractent</strong> (s'étalent). Avec deux fentes, elles <strong>interfèrent</strong> (franges claires et sombres). Le circuit RC modélise la charge d'un condensateur dans le temps.</p>
@@ -1549,7 +1569,7 @@ for n in range(5):
 </section>
 
 <!-- ═══════════════════ FICHES DÉCOUPABLES ═══════════════════ -->
-<section id="fiches" class="page-break">
+<section id="fiches">
   <h2>13. Fiches formules à découper</h2>
 
   <p style="font-size:10pt; color:var(--gris);">Découpe ces fiches et colle-les au mur. Une fiche = une catégorie (comme ta stratégie de fluences verbales). Regarde-les 2 min matin et soir.</p>
