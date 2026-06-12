@@ -270,13 +270,34 @@
 
     .page-break { page-break-before: always; }
 
-    .fiche-formule mjx-container,
-    .carte mjx-container,
-    table mjx-container {
+    mjx-container {
       max-width: 100%;
       overflow-x: auto;
       overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
     }
+
+    .progression { margin: 1.2em 0; }
+    .progression-etape {
+      border-radius: 8px;
+      padding: 0.85em 1em;
+      margin: 0.6em 0;
+      page-break-inside: avoid;
+      border: 1px solid var(--bordure);
+    }
+    .progression-etape.niveau-1 { background: #f0fdf4; border-left: 5px solid var(--vert); }
+    .progression-etape.niveau-2 { background: #fffbeb; border-left: 5px solid var(--orange); }
+    .progression-etape.niveau-3 { background: #fef2f2; border-left: 5px solid var(--rouge); }
+    .progression-titre {
+      font-weight: 700;
+      font-size: 10pt;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      margin-bottom: 0.35em;
+    }
+    .niveau-1 .progression-titre { color: #1a7a4c; }
+    .niveau-2 .progression-titre { color: #9a6f00; }
+    .niveau-3 .progression-titre { color: var(--rouge); }
 
     @media (max-width: 720px) {
       body { padding: 10mm 5mm 4em; }
@@ -360,9 +381,15 @@
       <li><strong>Le schéma</strong> — une image mentale à refaire sur ta feuille</li>
       <li><strong>La logique</strong> — pourquoi on multiplie, pourquoi on additionne, d'où vient la formule</li>
       <li><strong>La recette</strong> — les étapes numérotées à suivre sur une copie d'examen</li>
+      <li><strong>Progression en 3 niveaux</strong> — exemple simple, puis intermédiaire, puis type bac (encadrés vert → orange → rouge)</li>
       <li><strong>Un exemple complet</strong> — chaque calcul est expliqué, pas seulement le résultat</li>
       <li><strong>Les pièges</strong> — erreurs fréquentes et comment les éviter</li>
     </ol>
+  </div>
+
+  <div class="bloc bloc-pourquoi">
+    <div class="bloc-titre">Comment lire une notion difficile</div>
+    <p>Ne commence pas par la formule du bac. Lis d'abord l'<strong>étape 1 (vert)</strong> : un cas concret que tu connais déjà (pièce, dé, pH d'une solution simple…). Quand c'est clair, passe à l'<strong>étape 2 (orange)</strong> : une variante un peu plus riche. Enfin l'<strong>étape 3 (rouge)</strong> : le format exact de l'examen. Si tu bloques, reviens à l'étape précédente — c'est normal.</p>
   </div>
 
   <div class="bloc bloc-pourquoi">
@@ -471,13 +498,10 @@
       <circle cx="260" cy="120" r="35" fill="#e5a50a" opacity="0.7"/>
       <text x="260" y="125" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">B</text>
       <circle cx="420" cy="120" r="35" fill="#c01c28" opacity="0.7"/>
-      <g transform="translate(420,120)">
-        <text text-anchor="middle" y="5" font-size="13" fill="#fff" font-weight="bold">A</text>
-        <line x1="-11" y1="-10" x2="11" y2="-10" stroke="#fff" stroke-width="1.5"/>
-      </g>
+      <text x="420" y="125" text-anchor="middle" font-size="11" fill="#fff" font-weight="bold">non A</text>
       <text x="100" y="170" text-anchor="middle" font-size="11" fill="#5e5c64">&#233;v&#233;nement A</text>
       <text x="260" y="170" text-anchor="middle" font-size="11" fill="#5e5c64">&#233;v&#233;nement B</text>
-      <text x="420" y="170" text-anchor="middle" font-size="11" fill="#5e5c64">&#171; pas A &#187;</text>
+      <text x="420" y="170" text-anchor="middle" font-size="11" fill="#5e5c64">A barre = pas A</text>
     </svg>
     <figcaption>Chaque événement est une « zone » de l'univers. Les probabilités sont des nombres entre 0 et 1.</figcaption>
   </div>
@@ -562,11 +586,27 @@
     <p style="font-size:10pt; color:var(--gris);">« Probabilité de B <em>sachant que</em> A est arrivé »</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Exemple simple (dé à 6 faces)</div>
+      <p>On lance un dé. \(A\) = « obtenir un nombre pair » (2, 4 ou 6). \(B\) = « obtenir un nombre &gt; 4 » (5 ou 6).</p>
+      <p>\(P(A) = 3/6 = 1/2\). Parmi les issues paires, une seule est &gt; 4 : le 6. Donc \(P(B|A) = 1/3\) — on ne regarde que les 3 issues paires, pas les 6 du dé.</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — Exemple intermédiaire (cartes)</div>
+      <p>On tire une carte. \(A\) = « cœur ». \(B\) = « as ». Il n'y a qu'un as de cœur parmi 13 cœurs → \(P(B|A) = 1/13\).</p>
+      <p>Formule utile : \(P(A \cap B) = P(A) \times P(B|A)\). Ici : \(P(\text{cœur et as}) = \frac{13}{52} \times \frac{1}{13} = \frac{1}{52}\).</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Type bac (classe)</div>
+      <p>60 % des élèves sont des filles (\(A\)), 40 % des filles portent des lunettes. Alors \(P(B|A) = 0{,}4\) (lunettes <em>sachant</em> fille), pas 30 % (lunettes dans toute la classe).</p>
+      <p><strong>Attention :</strong> \(P(B|A) \neq P(A|B)\) en général. « Lunettes sachant fille » n'est pas « fille sachant lunettes ».</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-comprendre">
     <div class="bloc-titre">Comprendre la probabilité conditionnelle</div>
-    <p>La notation \(P(B|A)\) se lit « probabilité de B <strong>sachant</strong> A ». On ne regarde plus tout l'univers : on se place <em>dans le cas où A est déjà arrivé</em>, et on cherche quelle part de ce sous-ensemble correspond aussi à B.</p>
-    <p><strong>Exemple concret :</strong> Dans une classe, 60 % des élèves sont des filles (\(A\)), et 30 % de la classe portent des lunettes (\(B\)). Parmi les filles, 40 % portent des lunettes. Alors \(P(B|A) = 0{,}4\) (lunettes sachant fille), pas \(0{,}3\) (lunettes dans toute la classe). La formule \(P(A \cap B) = P(A) \times P(B|A)\) dit : « fille ET lunettes » = « filles » × « proportion de lunettes parmi les filles ».</p>
-    <p><strong>Attention :</strong> \(P(B|A) \neq P(A|B)\) en général. « Lunettes sachant fille » n'est pas « fille sachant lunettes ».</p>
+    <p>La notation \(P(B|A)\) se lit « probabilité de B <strong>sachant</strong> A ». On ne regarde plus tout l'univers : on se place <em>dans le cas où A est déjà arrivé</em>, et on cherche quelle part de ce sous-ensemble correspond aussi à B. La formule \(P(B|A) = \frac{P(A \cap B)}{P(A)}\) résume cette idée.</p>
   </div>
 
   <div class="fiche-formule">
@@ -586,12 +626,26 @@
     <p style="font-size:10pt; color:var(--gris);">\(n\) = nombre de répétitions · \(p\) = probabilité de succès à chaque épreuve · \(k\) = nombre de succès cherché</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Une seule épreuve (pièce)</div>
+      <p>On lance une pièce : Pile = succès, probabilité \(p = 0{,}5\). \(X\) vaut 1 (pile) ou 0 (face). C'est la base : une épreuve, deux issues.</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — Trois lancers indépendants</div>
+      <p>3 lancers avec \(p = 0{,}5\). Obtenir exactement 2 piles : 3 chemins possibles (PPI, PIP, IPP) → \(\binom{3}{2} = 3\) façons. Chaque chemin a probabilité \(0{,}5^2 \times 0{,}5 = 0{,}125\). Donc \(P(X=2) = 3 \times 0{,}125 = 0{,}375\).</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Formule générale (bac)</div>
+      <p>On répète \(n\) fois la même épreuve (succès / échec), même \(p\), indépendance. \(X\) = nombre de succès.</p>
+      <p>\(P(X=k) = \binom{n}{k} p^k (1-p)^{n-k}\) · \(E(X) = np\) · \(V(X) = np(1-p)\).</p>
+      <p>Exemple : 10 tests avec \(p=0{,}3\) → en moyenne \(E(X) = 3\) positifs.</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-comprendre">
     <div class="bloc-titre">Comprendre la loi binomiale</div>
-    <p><strong>Situation :</strong> on répète \(n\) fois la <em>même</em> expérience à deux issues (succès / échec), avec la <em>même</em> probabilité \(p\) de succès à chaque fois, et les épreuves sont <em>indépendantes</em> (le résultat d'une n'influence pas la suivante). \(X\) = nombre total de succès.</p>
-    <p><strong>D'où vient la formule ?</strong> Pour obtenir exactement \(k\) succès en \(n\) épreuves : choisir <em>quelles</em> \(k\) épreuves seront des succès → \(\binom{n}{k}\) façons ; chaque succès a probabilité \(p\), chaque échec \(1-p\) → on multiplie \(p^k (1-p)^{n-k}\).</p>
-    <p><strong>\(E(X) = np\)</strong> : en moyenne, sur \(n\) épreuves avec \(p\) de chance à chaque fois, on s'attend à \(np\) succès. 10 tests avec \(p=0{,}3\) → en moyenne 3 positifs.</p>
-    <p><strong>\(V(X) = np(1-p)\)</strong> : mesure la « dispersion ». Plus \(p\) est proche de 0 ou 1, moins ça varie ; plus \(p \approx 0{,}5\), plus ça varie.</p>
+    <p><strong>Reconnaître le modèle :</strong> même épreuve répétée \(n\) fois, 2 issues, même \(p\), indépendance → écrire \(X \sim \mathcal{B}(n, p)\) avant tout calcul.</p>
   </div>
 
   <div class="fiche-formule">
@@ -703,11 +757,24 @@
     <p style="font-size:10pt;">\((x_A, y_A, z_A)\) = un point de la droite · \((\alpha,\beta,\gamma)\) = vecteur directeur</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — En 2D (sur une feuille)</div>
+      <p>\(\vec{u}(3, 0)\) va vers la droite, \(\vec{v}(0, 2)\) va vers le haut. Produit scalaire : \(3 \times 0 + 0 \times 2 = 0\). Les vecteurs sont perpendiculaires — comme les axes d'un repère.</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — Même direction ou opposée</div>
+      <p>\(\vec{u}(1, 2)\) et \(\vec{v}(2, 4)\). Produit : \(1 \times 2 + 2 \times 4 = 10 &gt; 0\) → même sens. Si \(\vec{v}(-2, -4)\) : produit \(= -10\) → sens opposé. Si produit \(= 0\) → perpendiculaires.</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — En 3D (bac)</div>
+      <p>\(\vec{u} \cdot \vec{v} = xx' + yy' + zz'\). <strong>Règle d'or :</strong> \(\vec{u} \cdot \vec{v} = 0 \iff \vec{u} \perp \vec{v}\). Exemple : \(\vec{u}(1,0,0)\) et \(\vec{v}(0,1,0)\) → produit \(= 0\) → droites perpendiculaires.</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-comprendre">
     <div class="bloc-titre">Comprendre le produit scalaire</div>
-    <p>Le produit scalaire \(\vec{u} \cdot \vec{v} = xx' + yy' + zz'\) est un <strong>nombre</strong> (pas un vecteur). Il mesure à quel point deux vecteurs « vont dans la même direction ».</p>
-    <p><strong>Règle d'or au bac :</strong> \(\vec{u} \cdot \vec{v} = 0 \iff \vec{u} \perp \vec{v}\) (orthogonaux = perpendiculaires). C'est l'outil n°1 pour les questions « les droites sont-elles perpendiculaires ? ».</p>
-    <p><strong>Exemple :</strong> \(\vec{u}(1,0,0)\) et \(\vec{v}(0,1,0)\) → produit scalaire \(= 1\times0 + 0\times1 + 0\times0 = 0\) → perpendiculaires (comme les axes x et y).</p>
+    <p>Le produit scalaire est un <strong>nombre</strong> (pas un vecteur). Au bac, l'usage principal est de tester l'orthogonalité : calcule le produit, s'il vaut 0 → perpendiculaires.</p>
   </div>
 
   <div class="bloc bloc-comprendre">
@@ -814,8 +881,24 @@
     <p><strong>Stratégie :</strong> choisir \(u\) qui se simplifie en dérivant (souvent \(u = t\) ou \(\ln t\)), et \(v'\) facile à intégrer (souvent \(v' = e^t\) ou \(1\)).</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Produit simple : \(\int_0^1 x\, dx\)</div>
+      <p>Pas besoin d'IPP ici : primitive de \(x\) = \(\frac{x^2}{2}\). Résultat : \(\left[\frac{x^2}{2}\right]_0^1 = \frac{1}{2}\). L'idée : intégrer un produit \(u \cdot v'\), c'est chercher une primitive du produit.</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — IPP classique : \(\int_0^1 x\, e^x\, dx\)</div>
+      <p>\(u = x\) → \(u' = 1\) · \(v' = e^x\) → \(v = e^x\).</p>
+      <p>IPP : \(\left[x e^x\right]_0^1 - \int_0^1 e^x\, dx = e - \left[e^x\right]_0^1 = e - (e - 1) = 1\).</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Type bac : \(\int_1^e t \ln(t)\, dt\)</div>
+      <p>\(u = \ln(t)\) → \(u' = \frac{1}{t}\) · \(v' = t\) → \(v = \frac{t^2}{2}\). Même mécanisme qu'à l'étape 2, mais avec \(\ln\) — voir l'exemple guidé ci-dessous.</p>
+    </div>
+  </div>
+
   <div class="exemple">
-    <div class="exemple-titre">Exemple guidé — \(\int_1^e t \ln(t)\, dt\)</div>
+    <div class="exemple-titre">Exemple guidé — \(\int_1^e t \ln(t)\, dt\) (étape 3)</div>
     <ol class="etapes">
       <li>Poser \(u(t) = \ln(t)\) → \(u'(t) = \frac{1}{t}\) ; et \(v'(t) = t\) → \(v(t) = \frac{t^2}{2}\).</li>
       <li>IPP : \(\int_1^e u v' = [uv]_1^e - \int_1^e u' v = \left[\frac{t^2}{2}\ln t\right]_1^e - \int_1^e \frac{t}{2}\, dt\).</li>
@@ -838,15 +921,28 @@
     <p style="font-size:10pt;">Étapes : (1) solution générale (2) si condition initiale \(y(0) = y_0\), trouver \(k\)</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Croissance simple : \(y' = 2y\)</div>
+      <p>La fonction et sa dérivée sont proportionnelles → exponentielle. Solution : \(y(t) = k e^{2t}\). Si \(y(0) = 3\) → \(k = 3\) → \(y(t) = 3e^{2t}\).</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — Décroissance : \(y' = -3y\)</div>
+      <p>Même forme : \(y(t) = k e^{-3t}\). Quand \(t\) augmente, \(y\) tend vers 0 (refroidissement, désintégration…). Si \(y(0) = 10\) → \(y(t) = 10 e^{-3t}\).</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Avec second membre : \(y' = ay + b\)</div>
+      <p>Il y a une valeur d'équilibre \(-b/a\). Solution : \(y(t) = -\frac{b}{a} + k e^{at}\). Trouver \(k\) avec la condition initiale \(y(0)\). Voir l'exemple guidé ci-dessous.</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-comprendre">
     <div class="bloc-titre">Comprendre les équations différentielles</div>
-    <p>Une équation différentielle lie une fonction \(y(t)\) et sa <strong>dérivée</strong> \(y'(t)\). Elle modélise souvent une évolution dans le temps (population, charge d'un condensateur, refroidissement…).</p>
-    <p><strong>\(y' = ay\)</strong> : la vitesse de variation est proportionnelle à la valeur actuelle → croissance ou décroissance exponentielle \(y = ke^{at}\). Si \(a > 0\), ça explose ; si \(a < 0\), ça décroît vers 0.</p>
-    <p><strong>\(y' = ay + b\)</strong> : il y a une « cible » \(-b/a\). La solution générale est \(y = -b/a + ke^{at}\). La constante \(k\) dépend de la condition initiale : si on donne \(y(0) = y_0\), remplacer \(t=0\) pour trouver \(k\).</p>
+    <p>Une équation différentielle lie \(y(t)\) et \(y'(t)\). Elle modélise une évolution dans le temps. Commence toujours par identifier le type : \(y' = ay\) (sans \(b\)) ou \(y' = ay + b\) (avec second membre).</p>
   </div>
 
   <div class="exemple">
-    <div class="exemple-titre">Exemple guidé — \(y' = -2y + 4\), \(y(0) = 1\)</div>
+    <div class="exemple-titre">Exemple guidé — \(y' = -2y + 4\), \(y(0) = 1\) (étape 3)</div>
     <ol class="etapes">
       <li>Forme \(y' = ay + b\) avec \(a = -2\), \(b = 4\). Solution générale : \(y(t) = -\frac{4}{-2} + ke^{-2t} = 2 + ke^{-2t}\).</li>
       <li>Condition initiale : \(y(0) = 2 + k = 1\) → \(k = -1\).</li>
@@ -861,7 +957,7 @@
 </section>
 
 <!-- ═══════════════════ MATHS SUITES ═══════════════════ -->
-<section id="maths-suites">
+<section id="maths-suites" class="page-break">
   <h2>6. Maths — Suites &amp; Python <span class="tag tag-maths">MATHS</span></h2>
 
   <p class="idee-cle">Une suite \((u_n)\) est une liste de nombres indexée par \(n = 0, 1, 2, \ldots\). Au bac, on étudie comment passer de \(u_n\) à \(u_{n+1}\), ou comment prouver une propriété pour tout \(n\) par récurrence.</p>
@@ -978,11 +1074,25 @@ for n in range(5):
     <p style="font-size:10pt;">Attention : \(\log\) en base 10, pas le ln ! Sur la calculatrice : bouton <code>log</code></p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Concentration « ronde »</div>
+      <p>\([\mathrm{H_3O^+}] = 10^{-2}\) mol/L → \(\mathrm{pH} = -\log(10^{-2}) = 2\). Solution acide (pH &lt; 7). Règle : l'exposant de 10 donne directement le pH (avec un signe moins devant le log).</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — Calcul inverse</div>
+      <p>Si \(\mathrm{pH} = 3\), alors \([\mathrm{H_3O^+}] = 10^{-3}\) mol/L. Si \(\mathrm{pH} = 11\) (basique), \([\mathrm{H_3O^+}] = 10^{-11}\) mol/L — très peu d'ions acides.</p>
+      <p>À 25 °C : \([\mathrm{H_3O^+}] \times [\mathrm{OH^-}] = 10^{-14}\).</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Acide faible et titrage (bac)</div>
+      <p>Henderson-Hasselbalch, demi-équivalence (\(\mathrm{pH} = \mathrm{p}K_a\)), \(C_a V_a = C_b V_{eq}\) — voir les sections titrage ci-dessous.</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-comprendre">
     <div class="bloc-titre">Comprendre la formule du pH</div>
-    <p><strong>Pourquoi le signe « − » ?</strong> Plus la concentration en \(\mathrm{H_3O^+}\) est grande, plus le pH est <em>petit</em>. Le log compresse cette relation : \([\mathrm{H_3O^+}] = 10^{-2}\) mol/L → \(\mathrm{pH} = 2\) ; \([\mathrm{H_3O^+}] = 10^{-7}\) → \(\mathrm{pH} = 7\) (neutre).</p>
-    <p><strong>Calcul inverse :</strong> si \(\mathrm{pH} = 3\), alors \([\mathrm{H_3O^+}] = 10^{-3}\) mol/L. Règle : l'exposant est l'opposé du pH.</p>
-    <p><strong>Relation fondamentale :</strong> à 25 °C, \([\mathrm{H_3O^+}] \times [\mathrm{OH^-}] = 10^{-14}\). Si on connaît le pH, on peut trouver la basicité via les ions hydroxyde \(\mathrm{OH^-}\).</p>
+    <p><strong>Pourquoi le signe « − » ?</strong> Plus la concentration en \(\mathrm{H_3O^+}\) est grande, plus le pH est <em>petit</em>. Le log en base 10 compresse des valeurs qui varient sur 14 ordres de grandeur.</p>
   </div>
 
   <div class="fiche-formule">
@@ -991,9 +1101,24 @@ for n in range(5):
     <p style="font-size:10pt;">À la <strong>demi-équivalence</strong> : \(\mathrm{pH} = \mathrm{p}K_a\) (lecture directe sur la courbe)</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Rapport égal à 1</div>
+      <p>Si \([\mathrm{A^-}] = [\mathrm{AH}]\), alors \(\frac{[\mathrm{A^-}]}{[\mathrm{AH}]} = 1\). Or \(\log(1) = 0\). Donc \(\mathrm{pH} = \mathrm{p}K_a + 0 = \mathrm{p}K_a\).</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — Demi-équivalence sur la courbe</div>
+      <p>À la demi-équivalence, on a versé la moitié du titrant nécessaire : autant d'acide que de base conjuguée. Sur la courbe, c'est le point à mi-hauteur de la montée — on lit directement le pKa sur l'axe des pH.</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Utiliser la formule complète</div>
+      <p>\(\mathrm{pH} = \mathrm{p}K_a + \log\frac{[\mathrm{A^-}]}{[\mathrm{AH}]}\). Si le rapport vaut 10, \(\mathrm{pH} = \mathrm{p}K_a + 1\). Si le rapport vaut 0,1, \(\mathrm{pH} = \mathrm{p}K_a - 1\).</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-pourquoi">
     <div class="bloc-titre">Pourquoi la demi-équivalence donne le pKa ?</div>
-    <p>À la demi-équivalence, on a versé <em>la moitié</em> du titrant nécessaire : \([\mathrm{A^-}] = [\mathrm{AH}]\) (autant de base conjuguée que d'acide). Dans la formule de Henderson-Hasselbalch, le rapport vaut 1, donc \(\log(1) = 0\), et \(\mathrm{pH} = \mathrm{p}K_a\). Sur la courbe, c'est le point à mi-hauteur de la montée avant l'équivalence.</p>
+    <p>C'est le cas particulier de l'étape 1 : rapport = 1 → \(\log(1) = 0\) → \(\mathrm{pH} = \mathrm{p}K_a\).</p>
   </div>
 
   <h3>8.2 Titrage pH-métrique</h3>
@@ -1145,7 +1270,7 @@ for n in range(5):
       <tr><td>km/h → m/s</td><td>diviser par 3,6</td></tr>
       <tr><td>g = 9,81 m/s²</td><td>toujours en SI</td></tr>
       <tr><td>km → m</td><td>× 1000</td></tr>
-      <tr><td>cm² → m²</td><td>× 10⁻⁴</td></tr>
+      <tr><td>cm<sup>2</sup> → m<sup>2</sup></td><td>× 10<sup>−4</sup></td></tr>
     </table>
   </div>
 </section>
@@ -1203,11 +1328,11 @@ for n in range(5):
   <h3>10.3 Spectroscopie IR — repères visuels</h3>
   <div class="grille-2">
     <div class="carte">
-      <strong>Bande large ~3300 cm⁻¹</strong><br>
+      <strong>Bande large ~3300 cm<sup>−1</sup></strong><br>
       Liaison O−H (alcool, acide carboxylique)
     </div>
     <div class="carte">
-      <strong>Pic fin intense ~1700 cm⁻¹</strong><br>
+      <strong>Pic fin intense ~1700 cm<sup>−1</sup></strong><br>
       C=O (aldéhyde, cétone, acide, ester)
     </div>
   </div>
@@ -1220,7 +1345,7 @@ for n in range(5):
 
   <div class="bloc bloc-pourquoi">
     <div class="bloc-titre">Pourquoi l'IR permet d'identifier une molécule ?</div>
-    <p>Chaque liaison chimique absorbe une fréquence infrarouge caractéristique. La bande large vers 3300 cm⁻¹ signale une liaison O−H (alcool ou acide). Le pic net vers 1700 cm⁻¹ signale C=O (aldéhyde, cétone, acide, ester). En combinant ces indices avec la formule brute de l'énoncé, on peut éliminer des possibilités.</p>
+    <p>Chaque liaison chimique absorbe une fréquence infrarouge caractéristique. La bande large vers 3300 cm<sup>−1</sup> signale une liaison O−H (alcool ou acide). Le pic net vers 1700 cm<sup>−1</sup> signale C=O (aldéhyde, cétone, acide, ester). En combinant ces indices avec la formule brute de l'énoncé, on peut éliminer des possibilités.</p>
   </div>
 </section>
 
@@ -1289,9 +1414,24 @@ for n in range(5):
     <p style="font-size:10pt;">À \(t = \tau\) : \(u_C\) atteint 63 % de \(E\) · À \(t = 3\tau\) : ≈ 95 % de \(E\)</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Lecture d'un graphique</div>
+      <p>Au début (\(t = 0\)) : \(u_C = 0\). À long terme : \(u_C\) tend vers \(E\) (tension du générateur). La courbe monte en « S » et ne dépasse jamais \(E\).</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — La constante \(\tau = RC\)</div>
+      <p>\(\tau\) mesure la vitesse de charge (en secondes). Exemple : \(R = 1000\,\Omega\), \(C = 2 \times 10^{-3}\,\mathrm{F}\) → \(\tau = 2\) s. À \(t = \tau\), \(u_C\) atteint environ 63 % de \(E\).</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Formule complète</div>
+      <p>\(u_C(t) = E\left(1 - e^{-t/\tau}\right)\). À \(t = 3\tau\) : environ 95 % de \(E\). Même structure que les équations différentielles §5.3 (exponentielle qui tend vers une valeur d'équilibre).</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-pourquoi">
     <div class="bloc-titre">Pourquoi \(u_C(t) = E(1 - e^{-t/\tau})\) ?</div>
-    <p>Quand on ferme l'interrupteur, le condensateur se charge progressivement via la résistance. Au début, la tension est 0 ; elle tend vers la tension du générateur \(E\). La constante \(\tau = RC\) (en secondes si \(R\) en ohms et \(C\) en farads) mesure la <strong>vitesse</strong> de charge : grand \(\tau\) = charge lente. À \(t = \tau\), on a environ 63 % de la valeur finale — c'est une propriété mathématique de l'exponentielle, à connaître pour lire un graphique expérimental.</p>
+    <p>Le condensateur se charge via la résistance. La constante \(\tau = RC\) mesure la vitesse : grand \(\tau\) = charge lente. À \(t = \tau\), environ 63 % de la valeur finale — propriété de l'exponentielle à connaître pour lire un graphique expérimental.</p>
   </div>
 
   <h3>11.3 Radioactivité (montée en 2025)</h3>
@@ -1300,9 +1440,24 @@ for n in range(5):
     <p style="font-size:10pt;">La formule est souvent <strong>donnée dans le sujet</strong> — lis bien l'énoncé</p>
   </div>
 
+  <div class="progression">
+    <div class="progression-etape niveau-1">
+      <div class="progression-titre">Étape 1 — Demi-vie en mots</div>
+      <p>On part de 1000 noyaux. Après une demi-vie : 500 restants. Après 2 demi-vies : 250. Après 3 : 125. Chaque demi-vie divise par 2.</p>
+    </div>
+    <div class="progression-etape niveau-2">
+      <div class="progression-titre">Étape 2 — Lire un graphique</div>
+      <p>Sur un graphique \(N(t)\), repère le temps pour passer de \(N_0\) à \(N_0/2\) : c'est \(t_{1/2}\). La courbe décroît de plus en plus lentement sans jamais atteindre 0.</p>
+    </div>
+    <div class="progression-etape niveau-3">
+      <div class="progression-titre">Étape 3 — Formules du sujet</div>
+      <p>\(N(t) = N_0 e^{-\lambda t}\) · \(t_{1/2} = \frac{\ln 2}{\lambda}\). La formule est souvent <strong>donnée dans l'énoncé</strong> — identifie \(\lambda\) ou \(t_{1/2}\), puis applique.</p>
+    </div>
+  </div>
+
   <div class="bloc bloc-comprendre">
     <div class="bloc-titre">Comprendre la radioactivité</div>
-    <p>\(N(t) = N_0 e^{-\lambda t}\) : le nombre de noyaux radioactifs <strong>décroît</strong> exponentiellement. \(\lambda\) est la constante de désintégration. La <strong>demi-vie</strong> \(t_{1/2}\) est le temps pour que la moitié des noyaux se désintègrent : \(t_{1/2} = \ln(2)/\lambda\). Après 2 demi-vies, il reste 25 % ; après 3, 12,5 %.</p>
+    <p>Même logique que \(y' = -ay\) en maths : décroissance exponentielle. La demi-vie est le temps pour perdre la moitié des noyaux.</p>
   </div>
 
   <h3>11.4 Cinétique chimique</h3>
@@ -1433,16 +1588,29 @@ for n in range(5):
 
 <script>
   function typesetMath() {
-    if (!window.MathJax || !MathJax.typesetPromise) return;
-    MathJax.typesetPromise().catch(function(err) { console.warn('MathJax:', err); });
+    if (!window.MathJax || !MathJax.typesetPromise) return Promise.resolve();
+    return MathJax.typesetPromise().catch(function(err) { console.warn('MathJax:', err); });
   }
 
-  document.getElementById('MathJax-script').addEventListener('load', function() {
+  function initMathJax() {
     if (MathJax.startup && MathJax.startup.promise) {
-      MathJax.startup.promise.then(typesetMath);
-    } else {
-      typesetMath();
+      return MathJax.startup.promise.then(typesetMath);
     }
+    return typesetMath();
+  }
+
+  var mathJaxScript = document.getElementById('MathJax-script');
+  if (mathJaxScript) {
+    mathJaxScript.addEventListener('load', initMathJax);
+    if (mathJaxScript.readyState === 'complete' || (window.MathJax && MathJax.typesetPromise)) {
+      initMathJax();
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
+      if (document.querySelector('mjx-container') === null) initMathJax();
+    }, 500);
   });
 </script>
 </body>
